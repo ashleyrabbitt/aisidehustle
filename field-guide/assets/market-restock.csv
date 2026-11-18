@@ -1,0 +1,4 @@
+Item,Units packed,Units sold,Next event target,Remaining,Restock needed
+Olive tea towel,12,9,12,"=IF(COUNT(B2:C2)<2,"""",IF(OR(MIN(B2:C2)<0,C2>B2),""Check counts"",B2-C2))","=IF(OR(COUNT(B2:D2)<3,NOT(ISNUMBER(E2))),"""",IF(D2<0,""Check target"",MAX(0,D2-E2)))"
+Blank item,,,,"=IF(COUNT(B3:C3)<2,"""",IF(OR(MIN(B3:C3)<0,C3>B3),""Check counts"",B3-C3))","=IF(OR(COUNT(B3:D3)<3,NOT(ISNUMBER(E3))),"""",IF(D3<0,""Check target"",MAX(0,D3-E3)))"
+Copy the blank row downward in your spreadsheet to add items.,,,,,
