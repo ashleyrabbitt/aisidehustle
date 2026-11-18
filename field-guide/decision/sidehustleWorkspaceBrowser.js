@@ -1,7 +1,10 @@
-// Private work stays local; track only accepts predefined action metadata.
-export function workspaceBrowser(createDraft = () => null, track = () => {}) {
+// Analytics accepts predefined actions only. Plan content stays inside its selected workspace.
+export function workspaceBrowser(createDraft = () => null, track = () => {}, owner = null) {
   const data = JSON.parse(document.getElementById('hustle-data').textContent);
-  const key = 'aisidehustle-workspace-v1';
+  const guestKey = 'aisidehustle-workspace-v1';
+  const key = owner ? 'ash-account-plans-v1:' + owner : guestKey;
+  let notifyChange = () => {}, updateOpenForm = () => {};
+  const storage = () => owner ? sessionStorage : localStorage;
   const status = document.getElementById('workspace-status');
   const say = text => { if (status) status.textContent = text; };
   const clean = raw => {
@@ -26,10 +29,10 @@ export function workspaceBrowser(createDraft = () => null, track = () => {}) {
     return result;
   };
   let plans = {};
-  try { plans = clean(JSON.parse(localStorage.getItem(key) || '{}')); }
+  try { plans = clean(JSON.parse(storage().getItem(key) || '{}')); }
   catch { say('Saved plans could not be read. You can still work and download a backup.'); }
   const save = () => {
-    try { localStorage.setItem(key, JSON.stringify(plans)); say('Saved on this browser. Download a backup to keep a copy.'); return true; }
+    try { storage().setItem(key, JSON.stringify(plans)); notifyChange(); say(owner ? 'Saved in this tab.' : 'Saved on this browser. Download a backup to keep a copy.'); return true; }
     catch { say('Browser storage is unavailable or full. Download a backup before leaving.'); return false; }
   };
   const download = (name, text, type = 'text/plain') => {
@@ -173,6 +176,18 @@ export function workspaceBrowser(createDraft = () => null, track = () => {}) {
       if(prospects.length>=50){message.textContent='This plan has 50 prospects. Remove an old entry before adding another.';return;}
       prospects.push({name:name.slice(0,100),stage:'identified',channel:'Undecided',followup:'',note:''});input.value='';persist();renderProspects();track('prospect_added',id);message.textContent='Prospect added. Choose a channel and a next action.';input.focus();
     });
+    updateOpenForm = changed => {
+      if (changed !== id) return;
+      const plan = plans[id];
+      fields.forEach(el => { el.value = plan.fields[el.name] || ''; });
+      checks.forEach(el => { el.checked = plan.done.includes(Number(el.dataset.step)); });
+      prospects = plan.prospects;
+      pendingDraft = null;
+      const preview = document.getElementById('draft-preview');
+      if (preview) preview.hidden = true;
+      renderProspects();
+      progress();
+    };
     renderProspects();
     progress();
     document.getElementById('starter-fields').disabled = false;
@@ -217,4 +232,28 @@ export function workspaceBrowser(createDraft = () => null, track = () => {}) {
       restore.value='';
     });
   }
+
+  document.documentElement.dataset.workspaceReady = '1';
+  return {
+    ids: () => Object.keys(plans),
+    get: id => clean({[id]:plans[id]})[id],
+    title: id => data.catalog.find(item => item.id === id)?.title || id,
+    cleanPlan: (id,value) => clean({[id]:value})[id],
+    onChange: callback => { notifyChange = callback; },
+    apply: (id,value) => {
+      const cleaned = clean({[id]:value})[id];
+      if (!cleaned) return;
+      plans[id] = cleaned;
+      storage().setItem(key, JSON.stringify(plans));
+      renderSaved(); updateOpenForm(id);
+    },
+    importGuest: () => {
+      const guest = clean(JSON.parse(localStorage.getItem(guestKey) || '{}'));
+      const missing = Object.keys(guest).filter(id => !plans[id]);
+      for (const id of missing) plans[id] = guest[id];
+      save(); renderSaved();
+      for (const id of missing) updateOpenForm(id);
+      return missing.length;
+    }
+  };
 }
