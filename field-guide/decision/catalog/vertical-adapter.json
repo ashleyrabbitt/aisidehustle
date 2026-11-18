@@ -1,0 +1,4785 @@
+[
+  {
+    "id": "medspa-growth",
+    "title": "Med Spa AI Growth Platform",
+    "description": "AI-powered marketing, booking optimization, and client retention system built specifically for med spas, aesthetics practices, and wellness clinics",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Client Retention",
+      "Social Media",
+      "Local SEO"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "Instagram",
+      "Google Business Profile"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your practice, services, and goals",
+      "AI builds your website, email sequences, and social calendar",
+      "Review and customize with your photos, branding, and pricing",
+      "Connect your booking system and CRM",
+      "Launch and start attracting new clients"
+    ],
+    "audience": {
+      "role": "Med Spa Owner / Medical Director",
+      "companySize": "3-15 employees",
+      "industry": "Aesthetics / Medical Spa",
+      "painPoints": [
+        "Instagram feels like a full-time job on top of running a practice",
+        "Clients come once for Botox and never return",
+        "Competing with new med spas opening every month",
+        "Website looks dated but doesn't have time or budget for a redesign",
+        "No system for collecting and leveraging reviews",
+        "Staff turnover makes consistent marketing impossible"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Offer free website audit + competitor analysis to 20 med spas in target market. Show them exactly where they're losing clients to competitors. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Partner with med spa consultants and aesthetic device reps (they visit every practice)",
+        "Attend aesthetic medicine conferences (AmSpa, SCALE)",
+        "Run \"before/after\" case study of a transformed med spa marketing presence",
+        "Cold email med spas with <50 Google reviews (they need help)",
+        "Offer free Google Business Profile audit — most have unclaimed or unoptimized listings"
+      ],
+      "contentIdeas": [
+        "Med spa email sequences that actually get opened (with templates)"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$497/mo",
+        "features": [
+          "AI-built website with booking integration",
+          "Google Business Profile optimization",
+          "Monthly SEO report",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (new client welcome, post-treatment)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$997/mo",
+        "features": [
+          "Everything in Starter",
+          "Full social media management (30 posts/month)",
+          "Automated email sequences (nurture, reactivation, birthday)",
+          "Review generation system (auto-request after appointments)",
+          "Competitor monitoring dashboard",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,997/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Meta + Google)",
+          "Before/after content creation",
+          "Membership program setup and automation",
+          "AI chatbot for website (appointment booking + FAQs)",
+          "Quarterly video content shoot coordination",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete practice intake",
+            "description": "AI-led conversation captures services offered, target demographics, competitive landscape, booking system, and brand preferences",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete practice profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates website",
+            "description": "Builder creates mobile-first website with treatment pages, booking integration, before/after gallery, and membership signup",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: welcome, post-treatment care, reactivation (90-day no-visit), birthday/anniversary, and membership nurture",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "SEO foundation",
+            "description": "Keyword research for treatment + location terms, Google Business Profile optimization checklist, and meta tag generation for all pages",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "SEO keyword map + GBP checklist",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all marketing channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Practice owner reviews AI-generated website, adjusts copy, uploads photos, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link booking system (Vagaro, Zenoti, Boulevard), connect Google Business Profile, set up review request automation",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of social content (30 posts), set up posting schedule, create highlight templates for Instagram stories",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social",
+              "Canva"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "Review generation active",
+            "description": "Activate automated review requests after appointments, set up review response templates",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Review system live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Membership program launch",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Builder",
+              "Stripe"
+            ],
+            "deliverable": "Membership program live",
+            "aiAssisted": true,
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Meta and Google Ads campaigns targeting treatment-specific keywords and lookalike audiences from existing client list",
+            "estimatedHours": 8,
+            "tools": [
+              "Meta Ads",
+              "Google Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Competitor intelligence active",
+            "description": "Set up ongoing monitoring of competitor pricing, promotions, new services, and review sentiment",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Signal Pipeline"
+            ],
+            "deliverable": "Monthly competitor report",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing new clients, revenue attributed to marketing, cost per acquisition, and membership conversion rate",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your med spa AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your med spa AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your med spa AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (website + booking integration)",
+            "why": "Named directly as the core deliverable across every tier — the AI-built website with booking is what clients are paying for first"
+          },
+          {
+            "item": "Social scheduling tool (Buffer, Later, or similar)",
+            "why": "Both tiers promise 10-30 social posts/month — manual posting does not scale past one client"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie helps build the client-retention and reactivation campaigns the Growth tier promises",
+          "firstTask": "Draft a birthday and reactivation email sequence for this med spa client"
+        },
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie handles the local SEO work for treatment-specific keywords named in the Starter tier",
+          "firstTask": "Research local SEO keywords for this med spa's top 3 treatments"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built website with booking integration",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built website with booking integration",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (new client welcome, post-treatment)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full social media management (30 posts/month)",
+                "Automated email sequences",
+                "Review generation system"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full social media management (30 posts/month)",
+                "Automated email sequences (nurture, reactivation, birthday)",
+                "Review generation system (auto-request after appointments)",
+                "Competitor monitoring dashboard",
+                "Monthly strategy call"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect practice branding, treatment menu, and pricing",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm photo/testimonial consent workflow before using any client content",
+              "owner": "client"
+            },
+            {
+              "step": "Connect booking system and Google Business Profile access",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + social calendar for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm treatment menu and pricing to reflect on the site",
+            "Walk through the photo/testimonial consent process",
+            "Set expectations on review-generation cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "insurance-growth",
+    "title": "Insurance Agent AI Growth Platform",
+    "description": "AI-powered lead generation, client retention, and cross-sell system for independent insurance agents and small agencies",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Lead Nurturing",
+      "Client Retention",
+      "Local SEO"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "Google Business Profile",
+      "Email"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your agency, lines of business, and target market",
+      "AI builds your website, quote funnel, and email sequences",
+      "Review and customize with your branding and carrier information",
+      "Connect your CRM and quoting tools",
+      "Launch and start generating leads"
+    ],
+    "audience": {
+      "role": "Independent Insurance Agent / Agency Owner",
+      "companySize": "1-10 employees",
+      "industry": "Insurance (P&C, Life, Benefits)",
+      "painPoints": [
+        "Losing clients to online direct-to-consumer carriers (GEICO, Lemonade)",
+        "No systematic way to cross-sell existing book of business",
+        "Website is a template from 2018 that doesn't generate leads",
+        "Spending hours on manual renewal reminders",
+        "Carrier marketing co-op funds go unused because no one manages campaigns",
+        "Can't compete with big agencies on marketing spend"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Offer free website audit + cross-sell gap analysis to 20 independent agents. Show them how many existing clients only have one policy and the revenue they're leaving on the table.",
+      "firstCustomerTactics": [
+        "Partner with independent agent clusters and agency networks (IIABA chapters)",
+        "Attend insurance industry conferences (ITC, PIA)",
+        "Cold email agents with <30 Google reviews",
+        "Partner with insurance technology vendors (comparative raters, agency management systems)"
+      ],
+      "contentIdeas": [
+        "Why your insurance clients are getting poached (and how to stop it)",
+        "Insurance SEO: how to rank #1 for \"insurance agent near me\" in 90 days",
+        "Email sequences that actually get insurance clients to bundle",
+        "How to compete with GEICO and Progressive on Google without their budget"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$397/mo",
+        "features": [
+          "AI-built agency website with quote request forms",
+          "Google Business Profile optimization",
+          "Monthly SEO report",
+          "Basic email templates (welcome, renewal reminder, referral ask)",
+          "10 social media posts/month"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$797/mo",
+        "features": [
+          "Everything in Starter",
+          "Automated cross-sell sequences (auto → home, home → umbrella, life → disability)",
+          "Review generation system",
+          "Full social media management (30 posts/month)",
+          "Renewal retention campaigns",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,497/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Google + Facebook)",
+          "AI chatbot for instant quote requests",
+          "Client portal with policy overview",
+          "Referral program automation",
+          "Quarterly content video coordination",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete agency intake",
+            "description": "AI-led conversation captures lines of business, carriers, target market, current book size, and growth goals",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete agency profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates website",
+            "description": "Builder creates mobile-first website with quote request forms, carrier logos, coverage pages, and about section",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates cross-sell sequences (auto→home, home→umbrella, life→disability), renewal reminders, and referral campaigns",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "6 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "SEO foundation",
+            "description": "Keyword research for \"insurance agent [city]\" terms, Google Business Profile optimization, and local citation building plan",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "SEO keyword map + GBP checklist",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate lead generation",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Agent reviews AI-generated website, adjusts copy, uploads headshots and carrier logos, approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect CRM and tools",
+            "description": "Link agency management system (HawkSoft, Applied, QQ), connect Google Business Profile, set up quote request notifications",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Cross-sell campaign launch",
+            "description": "Analyze existing book, identify single-policy households, launch automated cross-sell sequences",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Cross-sell campaigns active",
+            "aiAssisted": true
+          },
+          {
+            "title": "Review generation active",
+            "description": "Activate post-bind review requests, set up review response templates",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Review system live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Expand lead sources and prove ROI",
+        "tasks": [
+          {
+            "title": "Paid advertising",
+            "description": "Launch Google Ads for high-intent keywords (\"car insurance [city]\", \"homeowners insurance quote\"), set up remarketing",
+            "estimatedHours": 8,
+            "tools": [
+              "Google Ads",
+              "Meta Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Referral program",
+            "description": "Build automated referral program — clients earn gift cards for sending friends, triggered by NPS score",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation",
+              "Stripe"
+            ],
+            "deliverable": "Referral program live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Carrier co-op integration",
+            "description": "Document marketing spend for carrier co-op reimbursement claims, create templates for common carrier programs",
+            "estimatedHours": 3,
+            "tools": [
+              "Google Docs"
+            ],
+            "deliverable": "Co-op claim templates"
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build dashboard showing leads generated, policies written, cross-sell conversions, and cost per acquisition",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your insurance agent AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your insurance agent AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your insurance agent AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (agency website + quote forms)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie designs the cross-sell sequences (auto → home, life → disability) named in the Growth tier",
+          "firstTask": "Draft a cross-sell email sequence from auto to home insurance"
+        },
+        {
+          "personaId": "customer-success",
+          "why": "Carmen handles renewal-retention campaigns, the highest-leverage recurring-revenue lever in this vertical",
+          "firstTask": "Draft a renewal-retention campaign for policies expiring in 60 days"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built agency website with quote request forms",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built agency website with quote request forms",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "Basic email templates (welcome, renewal reminder, referral ask)",
+                "10 social media posts/month"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Automated cross-sell sequences",
+                "Review generation system",
+                "Renewal retention campaigns"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Automated cross-sell sequences (auto → home, home → umbrella, life → disability)",
+                "Review generation system",
+                "Full social media management (30 posts/month)",
+                "Renewal retention campaigns",
+                "Monthly strategy call"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect agency branding, carriers represented, and product lines",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm which content needs carrier pre-approval before publishing",
+              "owner": "client"
+            },
+            {
+              "step": "Connect quote-form backend and CRM",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + cross-sell sequence for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm carriers and product lines to reflect on the site",
+            "Walk through the carrier pre-approval process for content",
+            "Set expectations on renewal-campaign cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "financial-advisor-growth",
+    "title": "Financial Advisor AI Growth Platform",
+    "description": "AI-assisted marketing and client follow-up workflows for financial advisors, subject to firm review and applicable compliance requirements",
+    "difficulty": "intermediate",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Content Marketing",
+      "Compliance Awareness",
+      "Client Retention"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "LinkedIn",
+      "Email"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your practice, AUM, niche, and compliance requirements",
+      "AI builds your compliant website, content calendar, and email sequences",
+      "Compliance review — all content flagged for FINRA/SEC review before publish",
+      "Connect your CRM and financial planning tools",
+      "Launch and start attracting HNW prospects"
+    ],
+    "audience": {
+      "role": "Independent Financial Advisor / RIA Owner",
+      "companySize": "1-5 advisors",
+      "industry": "Financial Services (Wealth Management, Financial Planning)",
+      "painPoints": [
+        "Terrified of compliance violations — so publishes nothing",
+        "Losing prospects to younger advisors with strong digital presence",
+        "Referral-dependent with no systematic marketing",
+        "FMG Suite / Snappy Kraken content feels generic and canned",
+        "No time to write blog posts or manage social media",
+        "Aging client base — needs to attract next-gen wealth holders"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Partnerships",
+        "Content Marketing",
+        "Referrals"
+      ],
+      "launchStrategy": "Partner with compliance consultants and broker-dealer marketing departments. Offer free compliance-checked marketing audit to 20 advisors. Show them what content they could be producing safely.",
+      "firstCustomerTactics": [
+        "Partner with RIA compliance consultants (they work with hundreds of advisors)",
+        "Sponsor FPA, NAPFA, or local financial planning association events",
+        "Cold outreach to solo RIAs with no blog or social presence",
+        "Partner with custodians (Schwab, Fidelity, Pershing) for advisor marketing programs"
+      ],
+      "contentIdeas": [
+        "The compliance-safe content calendar: 52 weeks of approved topics",
+        "LinkedIn for financial advisors: what you can (and can't) say",
+        "Seminar marketing in 2026: digital-first strategies that fill seats"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$597/mo",
+        "features": [
+          "Website draft with lead capture for firm compliance review",
+          "Monthly market commentary (AI-drafted, advisor-approved)",
+          "Google Business Profile optimization",
+          "Basic email templates (welcome, quarterly review reminder)",
+          "10 LinkedIn posts/month (pre-screened for compliance)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$1,197/mo",
+        "features": [
+          "Everything in Starter",
+          "Full content marketing (blog + newsletter + social)",
+          "Automated nurture sequences for prospects",
+          "Client appreciation campaigns (birthdays, milestones)",
+          "Seminar/webinar landing pages + registration",
+          "COI referral tracking system",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$2,497/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid advertising (Google + LinkedIn)",
+          "AI chatbot with compliance guardrails",
+          "Client portal with branded experience",
+          "Custom compliance workflow integration",
+          "Multi-advisor firm support",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "2 weeks",
+        "description": "AI helps draft a marketing workflow for qualified compliance review",
+        "tasks": [
+          {
+            "title": "Complete practice intake",
+            "description": "AI-led conversation captures AUM, niche focus, compliance requirements (BD vs RIA), custodian, and growth goals",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete advisor profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates compliant website",
+            "description": "Builder creates website with required disclosures, ADV links, compliant testimonial handling, and lead capture",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website with compliance elements",
+            "aiAssisted": true
+          },
+          {
+            "title": "Content calendar created",
+            "description": "AI generates 3 months of blog topics, LinkedIn posts, and newsletter content — all pre-screened for common compliance issues",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "90-day content calendar",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "Prospect nurture, client onboarding, quarterly review reminders, and COI referral sequences",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Compliance review and go-live",
+        "tasks": [
+          {
+            "title": "Compliance review",
+            "description": "Advisor and/or compliance officer reviews all generated content, website copy, and email templates for regulatory approval",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Compliance-approved content"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link CRM (Redtail, Wealthbox, Salesforce), financial planning tools, and calendar for appointment booking",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "LinkedIn strategy launch",
+            "description": "Optimize LinkedIn profile, begin posting schedule, connect with COIs and centers of influence",
+            "estimatedHours": 4,
+            "tools": [
+              "LinkedIn",
+              "Waymaker Social"
+            ],
+            "deliverable": "LinkedIn presence active",
+            "aiAssisted": true
+          },
+          {
+            "title": "Seminar landing page",
+            "description": "Create first seminar/webinar registration page and email invitation sequence",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Seminar funnel ready",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "Build authority and systematic client acquisition",
+        "tasks": [
+          {
+            "title": "Thought leadership content",
+            "description": "Publish weekly blog + newsletter, monthly market commentary, and LinkedIn articles building authority in advisor's niche",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Content",
+              "LinkedIn"
+            ],
+            "deliverable": "Content engine running",
+            "aiAssisted": true
+          },
+          {
+            "title": "COI referral system",
+            "description": "Build systematic referral program with CPAs, estate attorneys, and insurance agents — automated tracking and thank-you sequences",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Referral system active",
+            "aiAssisted": true
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Google Ads for \"financial advisor [city]\" and LinkedIn ads targeting business owners and executives",
+            "estimatedHours": 8,
+            "tools": [
+              "Google Ads",
+              "LinkedIn Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build dashboard showing leads, consultations booked, new AUM, and marketing cost per acquired dollar of AUM",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your financial advisor AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your financial advisor AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your financial advisor AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (compliance-ready website + lead capture)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts the monthly market commentary named in the Starter tier — advisor review and approval is still required before anything publishes",
+          "firstTask": "Draft this month's market commentary outline for advisor review"
+        },
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie designs the seminar/webinar funnels and client-appreciation campaigns in the Growth tier",
+          "firstTask": "Draft a webinar registration landing page outline for this advisor's next event"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "Compliance-ready website with lead capture",
+                "Monthly market commentary (AI-drafted, advisor-approved)",
+                "Google Business Profile optimization",
+                "10 LinkedIn posts/month (pre-screened for compliance)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "Compliance-ready website with lead capture",
+                "Monthly market commentary (AI-drafted, advisor-approved)",
+                "Google Business Profile optimization",
+                "Basic email templates (welcome, quarterly review reminder)",
+                "10 LinkedIn posts/month (pre-screened for compliance)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full content marketing",
+                "Automated nurture sequences",
+                "Seminar/webinar landing pages"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full content marketing (blog + newsletter + social)",
+                "Automated nurture sequences for prospects",
+                "Client appreciation campaigns (birthdays, milestones)",
+                "Seminar/webinar landing pages + registration"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect advisor branding, services, and compliance content guidelines",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm the compliance-review workflow — who approves content before it publishes",
+              "owner": "client"
+            },
+            {
+              "step": "Connect lead-capture forms and CRM",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + commentary template for compliance review",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm services and compliance guidelines to reflect on the site",
+            "Walk through the content-approval workflow end to end",
+            "Set expectations on commentary and newsletter cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "law-firm-growth",
+    "title": "Law Firm AI Growth Platform",
+    "description": "AI-powered client acquisition, intake automation, and reputation management for solo attorneys and small law firms",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Lead Generation",
+      "Content Marketing",
+      "Local SEO"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "Google Business Profile",
+      "Email"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your practice areas, target clients, and goals",
+      "AI builds your website, intake forms, and email sequences",
+      "Review and customize with your firm branding and attorney bios",
+      "Connect your case management and intake systems",
+      "Launch and start generating qualified consultations"
+    ],
+    "audience": {
+      "role": "Solo Attorney / Small Firm Partner",
+      "companySize": "1-5 attorneys",
+      "industry": "Legal Services",
+      "painPoints": [
+        "Website is a template that doesn't differentiate from 100 other firms",
+        "Intake process is manual — leads go cold before callback",
+        "No systematic follow-up for consultations that don't convert immediately",
+        "Referral network is informal — no tracking, no nurturing",
+        "Bar advertising rules create fear of marketing mistakes"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Partnerships",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Offer free website audit + competitive analysis to 20 solo/small firm attorneys. Focus on one practice area first (PI or family law have highest marketing spend).",
+      "firstCustomerTactics": [
+        "Partner with legal tech consultants and practice management vendors (Clio, MyCase)",
+        "Attend state bar association and local bar events",
+        "Run case study: \"How this PI firm added 15 cases/month with AI marketing\"",
+        "Cold email firms with no blog, outdated website, or <20 Google reviews",
+        "Partner with legal answering services (they talk to attorneys daily)"
+      ],
+      "contentIdeas": [
+        "Why your law firm website isn't generating leads (and how to fix it)",
+        "Google Local Service Ads for lawyers: the complete 2026 guide",
+        "Law firm SEO: ranking for \"[practice area] lawyer [city]\"",
+        "How to get more Google reviews without violating bar ethics rules"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$497/mo",
+        "features": [
+          "AI-built law firm website with intake forms",
+          "Google Business Profile optimization",
+          "Monthly SEO report for practice area keywords",
+          "Basic email templates (new client welcome, case status updates)",
+          "10 social media posts/month"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$997/mo",
+        "features": [
+          "Everything in Starter",
+          "Full content marketing (blog + newsletter + social)",
+          "Automated intake follow-up sequences",
+          "Review generation system",
+          "Practice area landing pages",
+          "Referral source tracking",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,997/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Google LSAs + Search)",
+          "AI chatbot for 24/7 intake qualification",
+          "Client portal with case status updates",
+          "Multi-practice-area SEO campaigns",
+          "Video content coordination",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds practice-specific marketing system",
+        "tasks": [
+          {
+            "title": "Complete firm intake",
+            "description": "AI-led conversation captures practice areas, target client types, geographic market, case management system, and growth goals",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete firm profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates website",
+            "description": "Builder creates website with practice area pages, attorney bios, intake forms, testimonials section, and required disclaimers",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "Consultation follow-up, new client onboarding, case status update templates, and referral source nurture sequences",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "SEO foundation",
+            "description": "Keyword research for \"[practice area] lawyer [city]\" terms, Google Business Profile optimization, and local citation plan",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "SEO keyword map + GBP checklist",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate intake automation",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Attorney reviews website, adjusts copy, uploads headshots and firm photos, approves email sequences and disclaimers",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect intake systems",
+            "description": "Link case management (Clio, MyCase, PracticePanther), set up intake form routing, configure auto-response for after-hours",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "Intake automation live"
+          },
+          {
+            "title": "Review generation active",
+            "description": "Activate post-case review requests (filtered by case outcome), set up review response templates",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Review system live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Content launch",
+            "description": "Publish first 4 blog posts targeting practice area keywords, begin LinkedIn posting schedule",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Content",
+              "LinkedIn"
+            ],
+            "deliverable": "Content engine running",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Expand lead sources and build authority",
+        "tasks": [
+          {
+            "title": "Google LSA setup",
+            "description": "Set up Google Local Service Ads with background check, manage reviews and disputes, optimize for target practice areas",
+            "estimatedHours": 6,
+            "tools": [
+              "Google LSAs"
+            ],
+            "deliverable": "LSA campaigns running"
+          },
+          {
+            "title": "Referral system",
+            "description": "Build tracking system for attorney-to-attorney and professional referrals, automated thank-you and status updates to referral sources",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Referral tracking active",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI intake chatbot",
+            "description": "Deploy 24/7 website chatbot that qualifies leads, collects case details, and schedules consultations",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker AI Chat"
+            ],
+            "deliverable": "Chatbot live",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build dashboard showing consultations booked, cases signed, revenue per marketing channel, and cost per case",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your law firm AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your law firm AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your law firm AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (website + intake forms)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie handles the practice-area keyword research and landing pages named in both tiers",
+          "firstTask": "Research SEO keywords for this firm's top practice area"
+        },
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia designs the automated intake follow-up sequences and referral-source tracking in the Growth tier",
+          "firstTask": "Design an intake follow-up sequence for new case inquiries"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built law firm website with intake forms",
+                "Google Business Profile optimization",
+                "Monthly SEO report for practice area keywords",
+                "10 social media posts/month"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built law firm website with intake forms",
+                "Google Business Profile optimization",
+                "Monthly SEO report for practice area keywords",
+                "Basic email templates (new client welcome, case status updates)",
+                "10 social media posts/month"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full content marketing",
+                "Automated intake follow-up sequences",
+                "Practice area landing pages"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full content marketing (blog + newsletter + social)",
+                "Automated intake follow-up sequences",
+                "Review generation system",
+                "Practice area landing pages",
+                "Referral source tracking",
+                "Monthly strategy call"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect firm branding, practice areas, and attorney bios",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm required state bar disclaimers for the firm's jurisdiction",
+              "owner": "client"
+            },
+            {
+              "step": "Connect intake forms and CRM",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + practice-area pages for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm practice areas and attorney bios to reflect on the site",
+            "Walk through required bar-compliant disclaimers",
+            "Set expectations on intake follow-up cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "agency-growth",
+    "title": "Marketing Agency Launch Platform",
+    "description": "White-label AI growth platform for coaches, freelancers, and consultants launching their own marketing or tech agency",
+    "difficulty": "intermediate",
+    "startupCost": "$0",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Client Management",
+      "Sales",
+      "Project Management"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "White-Label Portal",
+      "HubSpot",
+      "Stripe"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Complete intake — define your agency niche, services, and positioning",
+      "AI builds your agency website, service packages, and sales materials",
+      "Set up white-label portal for your clients",
+      "Land first 3 clients using pre-built outreach sequences",
+      "Scale with Waymaker's AI agents doing the delivery work"
+    ],
+    "audience": {
+      "role": "Freelance Marketer / Consultant / Coach",
+      "companySize": "Solo or 1-2 contractors",
+      "industry": "Marketing / Consulting / Coaching",
+      "painPoints": [
+        "Trading time for money — income caps at billable hours",
+        "Can't hire because margins are too thin",
+        "Delivering inconsistent results because everything is manual",
+        "No systems — every client project starts from scratch",
+        "Imposter syndrome about calling themselves an \"agency\"",
+        "Spending more time on delivery than sales and strategy"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Cold Email",
+        "Communities",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Pick a niche vertical (med spas, insurance, lawyers, etc). Position as \"the [vertical] marketing expert.\" Use Waymaker's vertical templates to deliver results faster than any generalist agency.",
+      "firstCustomerTactics": [
+        "Offer free marketing audits using Waymaker's website pre-scan tool",
+        "Post daily on LinkedIn about your niche vertical",
+        "Join niche communities (Facebook groups, Slack channels, subreddits)",
+        "Partner with complementary service providers in your niche",
+        "Leverage AI Side Hustle and CodeTeachers communities for first clients"
+      ],
+      "contentIdeas": [
+        "The end of the generalist agency: why niching down 10x'd my revenue",
+        "Client results breakdown: real ROI from AI-powered marketing",
+        "My agency tech stack: how I serve 10 clients without a team",
+        "From freelancer to agency: the exact steps I took"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter Agency",
+        "price": "$97/mo (Waymaker fee)",
+        "features": [
+          "White-label Waymaker portal (your brand, your domain)",
+          "Up to 5 client seats",
+          "AI website builder for client projects",
+          "Email campaign builder",
+          "Basic reporting dashboard",
+          "Pre-built service package templates"
+        ]
+      },
+      {
+        "name": "Growth Agency",
+        "price": "$297/mo (Waymaker fee)",
+        "features": [
+          "Everything in Starter",
+          "Up to 25 client seats",
+          "Full AI agent suite (content, SEO, social, ads)",
+          "Client-facing reports with your branding",
+          "Automated onboarding flows",
+          "Proposal and contract templates",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Scale Agency",
+        "price": "$597/mo (Waymaker fee)",
+        "features": [
+          "Everything in Growth",
+          "Unlimited client seats",
+          "Custom domain + full brand removal",
+          "API access for custom integrations",
+          "Team member management",
+          "Revenue analytics + MRR tracking",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Define your agency and set up infrastructure",
+        "tasks": [
+          {
+            "title": "Choose niche and positioning",
+            "description": "Pick your vertical (med spa, insurance, legal, etc), define your unique angle, and craft your agency positioning statement",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Brain"
+            ],
+            "deliverable": "Agency positioning document",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build agency website",
+            "description": "AI generates your agency website with service pages, case studies template, about section, and consultation booking",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Agency website live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up white-label portal",
+            "description": "Configure your branded client portal: custom domain, colors, logo, and default dashboard views",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker White-Label"
+            ],
+            "deliverable": "Client portal ready"
+          },
+          {
+            "title": "Create service packages",
+            "description": "Define 3 service tiers with pricing, deliverables, and SLAs. Generate proposals and contracts using AI",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder",
+              "ChatGPT"
+            ],
+            "deliverable": "Service packages + proposal templates",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "3 weeks",
+        "description": "Land first 3 paying clients",
+        "tasks": [
+          {
+            "title": "Outreach campaign",
+            "description": "Build prospect list of 100 businesses in your niche. Launch cold email + LinkedIn outreach sequence offering free marketing audit",
+            "estimatedHours": 8,
+            "tools": [
+              "Waymaker Email",
+              "LinkedIn",
+              "Apollo"
+            ],
+            "deliverable": "100 prospects contacted",
+            "aiAssisted": true
+          },
+          {
+            "title": "Deliver free audits",
+            "description": "Use Waymaker pre-scan to audit prospect websites. Present findings with specific, actionable recommendations",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Pre-Scan",
+              "Zoom"
+            ],
+            "deliverable": "10-15 audits delivered",
+            "aiAssisted": true
+          },
+          {
+            "title": "Close first clients",
+            "description": "Convert audit prospects to paid clients. Use AI-generated proposals customized to their audit findings",
+            "estimatedHours": 6,
+            "tools": [
+              "Zoom",
+              "Stripe"
+            ],
+            "deliverable": "3 paying clients"
+          },
+          {
+            "title": "Deliver first month",
+            "description": "Onboard clients through white-label portal. Deliver website, email sequences, and social content using AI agents",
+            "estimatedHours": 12,
+            "tools": [
+              "Waymaker Portal",
+              "AI Agents"
+            ],
+            "deliverable": "First month deliverables complete",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Grow to 10+ clients and systematize",
+        "tasks": [
+          {
+            "title": "Build case studies",
+            "description": "Document results from first 3 clients with specific metrics. Create case study pages on agency website",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Builder",
+              "Canva"
+            ],
+            "deliverable": "3 published case studies",
+            "aiAssisted": true
+          },
+          {
+            "title": "Systematize delivery",
+            "description": "Create SOPs for onboarding, monthly deliverables, and reporting. Train AI agents on your specific delivery processes",
+            "estimatedHours": 8,
+            "tools": [
+              "Notion",
+              "Waymaker Agents"
+            ],
+            "deliverable": "Delivery playbook complete"
+          },
+          {
+            "title": "Scale outreach",
+            "description": "Increase prospect volume to 200/month. Add content marketing channel (LinkedIn posts, blog, newsletter)",
+            "estimatedHours": 8,
+            "tools": [
+              "Waymaker Email",
+              "LinkedIn",
+              "Waymaker Content"
+            ],
+            "deliverable": "Consistent pipeline",
+            "aiAssisted": true
+          },
+          {
+            "title": "Add team or contractors",
+            "description": "As client count grows past 10, bring on contractors for client communication while AI handles delivery",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Portal"
+            ],
+            "deliverable": "Team structure defined"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your marketing agency for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your marketing agency — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your marketing agency and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "White-label Waymaker portal",
+            "why": "Named directly as the core product — your brand, your domain, client seats managed underneath"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "product-manager",
+          "why": "Priya helps prioritize which pre-built service packages to launch with first, based on real demand from your first client seats",
+          "firstTask": "Help me pick 3 service packages to launch with based on this target client profile"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps close the first client seats using the proposal and contract templates the Growth tier includes",
+          "firstTask": "Draft a proposal for this prospective client seat"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "software-product",
+        "softwareProduct": {
+          "coreWorkflow": "A white-labeled agency portal where you resell AI-powered marketing services (websites, content, SEO, ads) to your own clients under your own brand — Waymaker's infrastructure runs underneath, invisible to your clients.",
+          "pricingTiers": [
+            {
+              "name": "Starter Agency",
+              "features": [
+                "White-label Waymaker portal (your brand, your domain)",
+                "Up to 5 client seats",
+                "AI website builder for client projects",
+                "Email campaign builder",
+                "Basic reporting dashboard",
+                "Pre-built service package templates"
+              ]
+            },
+            {
+              "name": "Growth Agency",
+              "features": [
+                "Everything in Starter",
+                "Up to 25 client seats",
+                "Full AI agent suite (content, SEO, social, ads)",
+                "Client-facing reports with your branding",
+                "Automated onboarding flows",
+                "Proposal and contract templates"
+              ]
+            }
+          ],
+          "onboardingFlow": [
+            "Set up your white-label portal — brand colors, logo, custom domain",
+            "Pick 2-3 pre-built service packages to launch with, not the full catalog on day one",
+            "Onboard your first client seat and run the full workflow end to end before scaling",
+            "Use client results from that first seat as case-study proof for the next 4"
+          ],
+          "churnAndSupportPlan": [
+            {
+              "risk": "A client seat churns because deliverables slipped",
+              "mitigation": "Cap how many client seats you take per Waymaker-fee tier until delivery is consistently on time"
+            }
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "dental-growth",
+    "title": "Dental Practice AI Growth Platform",
+    "description": "AI-powered patient acquisition, recall automation, and case acceptance system built specifically for general and cosmetic dental practices",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Patient Retention",
+      "Local SEO",
+      "Social Media"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "Google Business Profile",
+      "Email"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your practice, services, and goals",
+      "AI builds your website, recall sequences, and social calendar",
+      "Review and customize with your photos, branding, and insurance info",
+      "Connect your PMS and booking system",
+      "Launch and start attracting new patients"
+    ],
+    "audience": {
+      "role": "General Dentist / Practice Owner",
+      "companySize": "2-8 employees",
+      "industry": "Dental / Oral Healthcare",
+      "painPoints": [
+        "Competing with corporate dentistry chains (Aspen Dental, Heartland) on marketing budget",
+        "Patient no-shows and last-minute cancellations crushing production",
+        "Low case acceptance for cosmetic and elective procedures",
+        "Over-reliance on insurance patients with shrinking reimbursements",
+        "No automated recall system — patients fall through the cracks",
+        "Website is outdated but no time or budget for a redesign",
+        "Front desk too busy to follow up with unscheduled treatment"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Offer free online presence audit + competitor analysis to 20 dental practices in target market. Show them exactly how many patients they're losing to corporate dentistry. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Partner with dental supply reps (Henry Schein, Patterson — they visit every practice)",
+        "Attend dental conferences (CDA, ADA Annual Meeting, local dental societies)",
+        "Cold email practices with <30 Google reviews (they need help)",
+        "Run a case study showing patient volume increase from optimized online presence",
+        "Offer free Google Business Profile audit — most practices have unclaimed or unoptimized listings"
+      ],
+      "contentIdeas": [
+        "The dental recall system that reduces no-shows by 40%",
+        "Case acceptance emails that actually convert (with templates)"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$497/mo",
+        "features": [
+          "AI-built website with online booking integration",
+          "Google Business Profile optimization",
+          "Monthly SEO report",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (new patient welcome, appointment reminders)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$997/mo",
+        "features": [
+          "Everything in Starter",
+          "Full social media management (30 posts/month)",
+          "Automated recall system (6-month cleanings, overdue patients)",
+          "Review generation system (auto-request after appointments)",
+          "Case acceptance follow-up sequences",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,997/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Meta + Google)",
+          "Cosmetic dentistry content creation (smile galleries, testimonials)",
+          "Membership/savings plan setup and automation",
+          "AI chatbot for website (appointment booking + insurance FAQs)",
+          "Quarterly video content coordination",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete practice intake",
+            "description": "AI-led conversation captures services offered, target demographics, competitive landscape, PMS system, and brand preferences",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete practice profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates website",
+            "description": "Builder creates mobile-first website with service pages, online booking, smile gallery, and membership signup",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: new patient welcome, appointment reminders, recall (6-month), case acceptance follow-up, and membership nurture",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "SEO foundation",
+            "description": "Keyword research for treatment + location terms, Google Business Profile optimization checklist, and meta tag generation for all pages",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "SEO keyword map + GBP checklist",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all marketing channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Practice owner reviews AI-generated website, adjusts copy, uploads photos, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link PMS system (Dentrix, Eaglesoft, Open Dental), connect Google Business Profile, set up review request automation",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of social content (30 posts), set up posting schedule, create educational dental content templates",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social",
+              "Canva"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "Recall system active",
+            "description": "Activate automated recall sequences for overdue patients, set up no-show follow-up and reactivation campaigns",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Recall system live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Membership plan launch",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Builder",
+              "Stripe"
+            ],
+            "deliverable": "Membership program live",
+            "aiAssisted": true,
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Meta and Google Ads campaigns targeting treatment-specific keywords (implants, Invisalign, cosmetic) and local audiences",
+            "estimatedHours": 8,
+            "tools": [
+              "Meta Ads",
+              "Google Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Case acceptance optimization",
+            "description": "Implement automated follow-up for unscheduled treatment plans, track acceptance rates, and A/B test presentation approaches",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Case acceptance system active",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing new patients, revenue attributed to marketing, cost per acquisition, and recall effectiveness",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your dental practice AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your dental practice AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your dental practice AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (website + booking integration)",
+            "why": "Core deliverable across every tier"
+          },
+          {
+            "item": "Social scheduling tool",
+            "why": "10-30 posts/month across tiers needs a scheduler, not manual posting"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia helps design the automated recall system (6-month cleanings, overdue patients) named in the Growth tier",
+          "firstTask": "Design a 6-month recall reminder sequence for overdue patients"
+        },
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie handles case-acceptance follow-up sequences and review generation",
+          "firstTask": "Draft a case-acceptance follow-up sequence for treatment plans"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built website with online booking integration",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built website with online booking integration",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (new patient welcome, appointment reminders)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full social media management (30 posts/month)",
+                "Automated recall system",
+                "Review generation system"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full social media management (30 posts/month)",
+                "Automated recall system (6-month cleanings, overdue patients)",
+                "Review generation system (auto-request after appointments)",
+                "Case acceptance follow-up sequences",
+                "Monthly strategy call"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect practice branding, services, and pricing",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm patient-photo consent workflow",
+              "owner": "client"
+            },
+            {
+              "step": "Connect booking system and Google Business Profile access",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + recall sequence for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm services and pricing to reflect on the site",
+            "Walk through the recall/reminder cadence the practice wants",
+            "Set expectations on review-generation cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "home-services-growth",
+    "title": "Home Services AI Growth Platform",
+    "description": "AI-powered lead generation, reputation management, and seasonal marketing system built specifically for HVAC, plumbing, roofing, and electrical contractors",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Lead Generation",
+      "Local SEO",
+      "Reputation Management"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "Google Business Profile",
+      "Email"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your trade, service area, and goals",
+      "AI builds your website, lead funnels, and seasonal campaigns",
+      "Review and customize with your photos, branding, and service info",
+      "Connect your CRM and scheduling tools",
+      "Launch and start generating leads year-round"
+    ],
+    "audience": {
+      "role": "HVAC Company Owner",
+      "companySize": "3-15 employees",
+      "industry": "Home Services / Contracting",
+      "painPoints": [
+        "Seasonal revenue swings — slammed in summer/winter, dead in spring/fall",
+        "No online reviews strategy — competitors have 300+ reviews, he has 40",
+        "Truck wraps and yard signs are the only marketing — no digital presence",
+        "Can't track which marketing actually generates phone calls and jobs",
+        "Website was built 5 years ago and doesn't show up on Google",
+        "No system for following up on estimates that didn't close"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Offer free online presence audit + lead source analysis to 20 contractors in target market. Show them exactly how many leads they're losing to HomeAdvisor and competitors. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Partner with supply houses (Johnstone Supply, Ferguson, local distributors — contractors visit weekly)",
+        "Attend trade shows (AHR Expo, PHCC, local contractor associations)",
+        "Cold email contractors with <20 Google reviews in growing suburbs",
+        "Run a case study showing lead volume increase from optimized online presence",
+        "Offer free Google Business Profile audit — most contractors have incomplete listings"
+      ],
+      "contentIdeas": [
+        "Seasonal marketing calendar: how to stay booked in shoulder seasons",
+        "The review strategy that turned a 3-truck HVAC company into a 12-truck operation",
+        "Service agreements: the recurring revenue model most contractors ignore"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$397/mo",
+        "features": [
+          "AI-built website with service pages and online booking",
+          "Google Business Profile optimization",
+          "Monthly SEO report",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (follow-up, seasonal reminders)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$797/mo",
+        "features": [
+          "Everything in Starter",
+          "Full social media management (30 posts/month)",
+          "Automated review generation after every completed job",
+          "Seasonal marketing campaigns (pre-built and auto-scheduled)",
+          "Lead tracking dashboard — know which marketing drives calls",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,497/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Google Local Services Ads + Meta)",
+          "Service agreement/membership program setup",
+          "AI chatbot for website (emergency scheduling + quotes)",
+          "Competitor monitoring and pricing intelligence",
+          "Quarterly video content coordination (job site footage)",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete business intake",
+            "description": "AI-led conversation captures services offered, service area, competitive landscape, current marketing spend, and brand preferences",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete business profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates website",
+            "description": "Builder creates mobile-first website with service pages, online booking, financing options, and service agreement signup",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: new customer welcome, estimate follow-up, seasonal maintenance reminders, review request, and service agreement renewal",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "SEO foundation",
+            "description": "Keyword research for service + location terms, Google Business Profile optimization, and meta tag generation for all service pages",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "SEO keyword map + GBP checklist",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all marketing channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Business owner reviews AI-generated website, adjusts copy, uploads job photos, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link CRM/field service tool, connect Google Business Profile, set up call tracking numbers for marketing attribution",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of social content (30 posts), set up posting schedule, create job completion photo templates",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social",
+              "Canva"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "Review generation active",
+            "description": "Activate automated review requests after completed jobs via text and email, set up review response templates",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Review system live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Service agreement program",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Builder",
+              "Stripe"
+            ],
+            "deliverable": "Service agreement program live",
+            "aiAssisted": true,
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Google Local Services Ads and Meta campaigns targeting homeowners in service area with seasonal and emergency messaging",
+            "estimatedHours": 8,
+            "tools": [
+              "Google LSA",
+              "Meta Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Seasonal campaign automation",
+            "description": "Build and schedule full year of seasonal campaigns (AC tune-ups in spring, furnace checks in fall, etc.) with automated email + social",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Year-round campaigns scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing leads by source, cost per lead, job close rate, revenue attributed to marketing, and review growth",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your home services AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your home services AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your home services AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (website + service pages + booking)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie handles the service-area landing pages named in both tiers — critical for local trades where \"near me\" search dominates",
+          "firstTask": "Build service-area landing pages for this contractor's top 5 service cities"
+        },
+        {
+          "personaId": "growth-hacker",
+          "why": "Gigi helps build the lead-tracking dashboard so the client can see which marketing channel actually drives calls",
+          "firstTask": "Set up call-tracking so this client can see which marketing source drove each lead"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built website with service pages and online booking",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built website with service pages and online booking",
+                "Google Business Profile optimization",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (follow-up, seasonal reminders)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full social media management (30 posts/month)",
+                "Automated review generation",
+                "Lead tracking dashboard"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full social media management (30 posts/month)",
+                "Automated review generation after every completed job",
+                "Seasonal marketing campaigns (pre-built and auto-scheduled)",
+                "Lead tracking dashboard — know which marketing drives calls"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect business branding, services offered, and service area",
+              "owner": "client"
+            },
+            {
+              "step": "Connect booking system and call-tracking number",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + service-area pages for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm services and service area to reflect on the site",
+            "Walk through the review-generation cadence after completed jobs",
+            "Set expectations on seasonal campaign scheduling"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "saas-growth",
+    "title": "SaaS Startup AI Growth Platform",
+    "description": "AI-powered user acquisition, content marketing, and growth system built specifically for bootstrapped SaaS founders and indie hackers",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Growth Marketing",
+      "Content Strategy",
+      "SEO",
+      "Product-Led Growth"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "HubSpot",
+      "Twitter/X",
+      "Email"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your SaaS product, ICP, and growth goals",
+      "AI builds your landing pages, email sequences, and content calendar",
+      "Review and customize with your branding and product screenshots",
+      "Connect your analytics and email tools",
+      "Launch and start acquiring users"
+    ],
+    "audience": {
+      "role": "Solo SaaS Founder",
+      "companySize": "1-3 employees",
+      "industry": "Software / SaaS",
+      "painPoints": [
+        "Built a great product but can't get users — \"if you build it, they will come\" doesn't work",
+        "Zero marketing budget — bootstrapped and every dollar counts",
+        "Doing everything alone — coding, support, marketing, sales, admin",
+        "No content strategy — knows content matters but doesn't know where to start",
+        "Doesn't know which channel to focus on — Twitter, SEO, Product Hunt, ads?",
+        "Tried posting on social media but got zero traction",
+        "Free trial users sign up but never activate or convert to paid"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Twitter/X",
+        "Communities",
+        "Content Marketing",
+        "Product Hunt"
+      ],
+      "launchStrategy": "Offer free growth audit + competitor teardown to 20 SaaS founders building in public. Show them exactly where they're leaving users on the table. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Build in public on Twitter/X — share growth wins from your own clients",
+        "Post detailed teardowns in Indie Hackers, r/SaaS, and r/startups communities",
+        "Cold DM founders with launched products but <100 Twitter followers (they need distribution)",
+        "Offer free landing page audit — most indie SaaS landing pages have obvious conversion issues",
+        "Partner with SaaS boilerplate/template creators (ShipFast, Supabase templates) for co-marketing"
+      ],
+      "contentIdeas": [
+        "I audited 50 indie SaaS landing pages — here are the 5 most common conversion killers",
+        "Why most SaaS founders waste 6 months on the wrong marketing channel",
+        "Content-led SEO for SaaS: the compound growth strategy nobody talks about",
+        "Product Hunt launch playbook: how to hit #1 Product of the Day (step by step)"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$297/mo",
+        "features": [
+          "AI-built landing page with conversion optimization",
+          "SEO keyword strategy and content briefs",
+          "Monthly SEO report",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (welcome, onboarding, churn prevention)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$597/mo",
+        "features": [
+          "Everything in Starter",
+          "Full content marketing (4 SEO blog posts/month, AI-written)",
+          "Social media management (Twitter/X, LinkedIn — 30 posts/month)",
+          "Automated email sequences (trial nurture, activation, win-back)",
+          "Competitor monitoring dashboard",
+          "Monthly growth strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,197/mo",
+        "features": [
+          "Everything in Growth",
+          "Product Hunt and community launch coordination",
+          "Paid ad management (Google + Twitter/X)",
+          "AI chatbot for website (product demos + onboarding)",
+          "Conversion rate optimization (A/B testing landing pages)",
+          "Quarterly growth audit and strategy pivot",
+          "Dedicated growth advisor"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete growth system from intake data",
+        "tasks": [
+          {
+            "title": "Complete product intake",
+            "description": "AI-led conversation captures product details, ICP, current metrics, competitive landscape, and growth goals",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete product growth profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates landing page",
+            "description": "Builder creates high-converting landing page with hero, social proof, feature breakdown, pricing, and CTA optimization",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft landing page ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: trial welcome + activation, feature education drip, conversion nudge, win-back for churned trials, and customer onboarding",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "Content strategy",
+            "description": "SEO keyword research for product category, content calendar with 12 blog post briefs, and social media content pillars",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "Content strategy + editorial calendar",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all growth channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Founder reviews AI-generated landing page, adjusts copy, adds product screenshots, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved landing page + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link analytics (Plausible/Posthog), email tool (ConvertKit/Resend), and set up conversion tracking",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of social content (30 posts for Twitter/X + LinkedIn), set up posting schedule, create thread templates",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "First 4 blog posts published",
+            "description": "AI writes and optimizes 4 SEO-targeted blog posts from the content strategy, covering high-intent keywords",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "4 blog posts live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Community launch campaign",
+            "description": "Coordinate Product Hunt launch, Hacker News Show HN post, and simultaneous posts in r/SaaS, Indie Hackers, and relevant subreddits",
+            "estimatedHours": 8,
+            "tools": [
+              "Waymaker Launch"
+            ],
+            "deliverable": "Multi-platform launch executed",
+            "aiAssisted": true
+          },
+          {
+            "title": "Paid acquisition test",
+            "description": "Launch small-budget Google and Twitter/X ad campaigns to validate paid channels, targeting competitor keywords and ICP interests",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Ads",
+              "Twitter Ads"
+            ],
+            "deliverable": "Paid channel data collected"
+          },
+          {
+            "title": "Conversion optimization",
+            "description": "Analyze trial-to-paid funnel, implement A/B tests on landing page, optimize onboarding email sequence based on activation data",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Optimized conversion funnel",
+            "aiAssisted": true
+          },
+          {
+            "title": "Growth dashboard",
+            "description": "Build custom dashboard showing MRR, trial signups, activation rate, conversion rate, traffic sources, and content performance",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live growth dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your SaaS startup AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your SaaS startup AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your SaaS startup AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (landing page + conversion optimization)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe writes the 4 SEO blog posts/month named in the Growth tier",
+          "firstTask": "Draft this month's SEO blog post targeting a high-intent keyword for this SaaS product"
+        },
+        {
+          "personaId": "customer-success",
+          "why": "Carmen designs the trial-nurture and churn-prevention email sequences both tiers promise",
+          "firstTask": "Draft a trial-nurture sequence for new signups on this SaaS product"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built landing page with conversion optimization",
+                "SEO keyword strategy and content briefs",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built landing page with conversion optimization",
+                "SEO keyword strategy and content briefs",
+                "Monthly SEO report",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (welcome, onboarding, churn prevention)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full content marketing (4 SEO blog posts/month)",
+                "Social media management (Twitter/X, LinkedIn)",
+                "Automated email sequences"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full content marketing (4 SEO blog posts/month, AI-written)",
+                "Social media management (Twitter/X, LinkedIn — 30 posts/month)",
+                "Automated email sequences (trial nurture, activation, win-back)",
+                "Competitor monitoring dashboard"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect product positioning, target customer, and pricing",
+              "owner": "client"
+            },
+            {
+              "step": "Connect analytics and email platform for sequence automation",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first landing-page draft + content calendar for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm product positioning and target customer to reflect on the landing page",
+            "Walk through the content calendar and blog topics for month one",
+            "Set expectations on trial-nurture sequence cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "analytical",
+      "social"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "realestate-growth",
+    "title": "Real Estate Agent AI Growth Platform",
+    "description": "AI-powered lead generation, SOI nurture, and neighborhood marketing system built specifically for solo and small-team real estate agents",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Local SEO",
+      "Social Media",
+      "Email Marketing"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "Google Business Profile",
+      "Instagram",
+      "Mailchimp"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your market, farm area, and goals",
+      "AI builds your website, neighborhood pages, and email sequences",
+      "Review and customize with your headshot, listings, and branding",
+      "Connect your CRM and lead sources",
+      "Launch and start attracting new clients and nurturing your SOI"
+    ],
+    "audience": {
+      "role": "Solo Real Estate Agent",
+      "companySize": "1-3 (agent + maybe an assistant)",
+      "industry": "Residential Real Estate",
+      "painPoints": [
+        "Zillow and Realtor.com are eating all the online leads",
+        "No system for staying in touch with past clients and SOI",
+        "Inconsistent marketing — posts when she remembers, ghosts for weeks",
+        "Website is either nonexistent, a bad IDX template, or a brokerage page she doesn't control",
+        "Knows she should do neighborhood content but has no time to write it",
+        "Competitors with bigger teams are dominating Google in her farm area"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Offer free digital presence audit to 20 agents showing their online visibility vs. top agents in their market. Show exactly where Zillow and Realtor.com are eating their leads. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Partner with real estate coaches and trainers (they reach hundreds of agents)",
+        "Attend local REALTOR association meetings and broker opens",
+        "Run case study showing how an agent went from 0 to 20 leads/month with neighborhood content",
+        "Cold email agents with no website or outdated IDX site (easy to find on Zillow agent directory)",
+        "Offer free neighborhood page as a lead magnet — show them ranking potential"
+      ],
+      "contentIdeas": [
+        "How to rank #1 for \"[Your Neighborhood] homes for sale\" in 90 days",
+        "the industry 1.5%)",
+        "Stop paying for leads: the AI-powered neighborhood marketing playbook"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$397/mo",
+        "features": [
+          "AI-built IDX-ready agent website",
+          "Google Business Profile optimization",
+          "5 neighborhood landing pages",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (new listing, open house, just sold)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$797/mo",
+        "features": [
+          "Everything in Starter",
+          "Full SOI nurture system (automated touchpoints for 500+ contacts)",
+          "30 social media posts/month with neighborhood content",
+          "Automated email sequences (buyer drip, seller drip, past client reactivation)",
+          "Monthly market report generation for farm area",
+          "Review generation system"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,497/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Meta + Google)",
+          "AI-generated video neighborhood tours",
+          "Listing marketing packages (single-property sites, flyers, social)",
+          "CMA presentation automation",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete agent intake",
+            "description": "AI-led conversation captures farm area, target buyer/seller demographics, brokerage info, current lead sources, and brand preferences",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete agent profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates agent website",
+            "description": "Builder creates mobile-first website with neighborhood pages, listing integration, testimonials section, and lead capture forms",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: new lead nurture, buyer drip, seller drip, past client check-in, and SOI monthly newsletter",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "SEO foundation",
+            "description": "Keyword research for neighborhood + city real estate terms, Google Business Profile optimization checklist, and meta tag generation for all pages",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "SEO keyword map + GBP checklist",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all marketing channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Agent reviews AI-generated website, adds headshot, uploads listing photos, adjusts copy, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link CRM (Follow Up Boss, KVCore, etc.), connect IDX feed, set up Google Business Profile, activate review request automation",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of social content (30 posts) featuring neighborhood highlights, market stats, and listing promotions",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social",
+              "Canva"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "SOI import and activate",
+            "description": "Import sphere-of-influence contacts, segment by relationship type, and activate automated touchpoint sequences",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "SOI nurture system live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Neighborhood content expansion",
+            "description": "AI generates in-depth pages for 10+ neighborhoods in farm area, each targeting \"[neighborhood] homes for sale\" and related keywords",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "10+ neighborhood pages live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Meta and Google Ads campaigns targeting home buyers/sellers in farm area with retargeting for website visitors",
+            "estimatedHours": 8,
+            "tools": [
+              "Meta Ads",
+              "Google Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Listing marketing automation",
+            "description": "Set up automated single-property pages, social graphics, and email blasts that trigger when a new listing is added",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Listing marketing system active",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing leads generated, lead sources, SOI engagement, website traffic, and estimated commission pipeline",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your real estate agent AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your real estate agent AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your real estate agent AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (IDX-ready agent website)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts the neighborhood content and market reports named in both tiers",
+          "firstTask": "Draft a monthly market report for this agent's farm area"
+        },
+        {
+          "personaId": "customer-success",
+          "why": "Carmen handles the sphere-of-influence nurture system for past clients and referral sources",
+          "firstTask": "Draft a past-client reactivation email for this agent's SOI list"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built IDX-ready agent website",
+                "Google Business Profile optimization",
+                "5 neighborhood landing pages",
+                "10 social media posts/month (AI-generated)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built IDX-ready agent website",
+                "Google Business Profile optimization",
+                "5 neighborhood landing pages",
+                "Basic email templates (new listing, open house, just sold)",
+                "10 social media posts/month (AI-generated)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full SOI nurture system",
+                "30 social media posts/month with neighborhood content",
+                "Automated buyer/seller drip sequences"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full SOI nurture system (automated touchpoints for 500+ contacts)",
+                "30 social media posts/month with neighborhood content",
+                "Automated email sequences (buyer drip, seller drip, past client reactivation)",
+                "Monthly market report generation for farm area"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect agent branding, farm area, and active listings",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm MLS/brokerage compliance guidelines for content",
+              "owner": "client"
+            },
+            {
+              "step": "Connect IDX feed and CRM/SOI contact list",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + neighborhood pages for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm farm area and active listings to reflect on the site",
+            "Walk through MLS/brokerage content compliance requirements",
+            "Set expectations on SOI-nurture cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "coaches-growth",
+    "title": "Coaching Business AI Growth Platform",
+    "description": "AI-powered authority building, webinar funnels, and client acquisition system built specifically for life, business, and executive coaches",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Marketing Strategy",
+      "Content Marketing",
+      "Webinar Funnels",
+      "Email Marketing"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "ConvertKit",
+      "LinkedIn",
+      "Zoom"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your coaching niche, methodology, and goals",
+      "AI builds your website, webinar funnel, and email sequences",
+      "Review and customize with your story, testimonials, and branding",
+      "Connect your scheduling and payment tools",
+      "Launch and start attracting coaching clients"
+    ],
+    "audience": {
+      "role": "Life / Business / Executive Coach",
+      "companySize": "1 (solo practitioner)",
+      "industry": "Coaching & Professional Development",
+      "painPoints": [
+        "Feast-or-famine client flow — great months followed by empty calendars",
+        "No client acquisition system beyond word-of-mouth and referrals",
+        "Imposter syndrome about putting herself out there with marketing",
+        "No webinar or course system to scale beyond 1-on-1 sessions",
+        "Website is either nonexistent or a generic Wix template",
+        "Knows she should post on LinkedIn but doesn't know what to say",
+        "Competing with thousands of other coaches who all sound the same"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Content Marketing",
+        "Podcast",
+        "Partnerships"
+      ],
+      "launchStrategy": "Offer free \"coaching business audit\" to 20 coaches showing their online presence gaps. Demonstrate how a webinar funnel would work for their niche. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Partner with coaching certification programs (ICF, iPEC, CTI) — they have thousands of newly certified coaches",
+        "Attend coaching conferences and masterminds (ICF Converge, Coach Con)",
+        "Run a free workshop: \"How to get 5 coaching clients in 30 days without cold DMs\"",
+        "Cold outreach to coaches on LinkedIn with <1,000 followers (they need help building authority)",
+        "Offer free LinkedIn profile optimization as a lead magnet"
+      ],
+      "contentIdeas": [
+        "The webinar funnel that books 10 discovery calls per week on autopilot",
+        "How to stop trading time for money: the coaching leverage playbook",
+        "LinkedIn for coaches: the 30-day authority building challenge",
+        "From imposter to expert: how AI helps coaches create authority content faster"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$297/mo",
+        "features": [
+          "AI-built coaching website with booking integration",
+          "LinkedIn profile optimization",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (welcome sequence, session follow-up)",
+          "Lead magnet creation (free guide or assessment)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$597/mo",
+        "features": [
+          "Everything in Starter",
+          "Webinar funnel setup (landing page, registration, replay)",
+          "30 social media posts/month with authority content",
+          "Automated email sequences (lead nurture, webinar follow-up, re-engagement)",
+          "Monthly content calendar with blog posts and LinkedIn articles",
+          "Testimonial collection system"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,197/mo",
+        "features": [
+          "Everything in Growth",
+          "Online course or group program setup",
+          "Paid ad management (Meta + LinkedIn)",
+          "Podcast launch kit (intro, outro, show notes automation)",
+          "AI-generated book outline and chapter drafts",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete coaching intake",
+            "description": "AI-led conversation captures coaching niche, methodology, target client, pricing, and brand preferences",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete coaching profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates coaching website",
+            "description": "Builder creates conversion-focused website with about page, services, testimonials section, booking integration, and lead magnet opt-in",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: lead magnet welcome, webinar registration, webinar follow-up, discovery call nurture, and past client re-engagement",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "Lead magnet created",
+            "description": "AI generates a high-value lead magnet (assessment, guide, or checklist) tailored to the coach's niche and ideal client",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "Lead magnet PDF ready",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all marketing channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Coach reviews AI-generated website, adds personal story, uploads headshot, adjusts copy, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link scheduling tool (Calendly/Acuity), payment processor (Stripe), email platform (ConvertKit), and set up webinar tool (Zoom)",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of LinkedIn and Instagram content (30 posts) featuring coaching insights, client transformation stories, and authority content",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "Webinar funnel live",
+            "description": "Set up webinar registration page, reminder emails, presentation template, and post-webinar follow-up sequence",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder",
+              "Zoom"
+            ],
+            "deliverable": "Webinar funnel active",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Group program launch",
+            "description": "Design and launch a group coaching program with curriculum, landing page, enrollment emails, and community setup",
+            "estimatedHours": 8,
+            "tools": [
+              "Waymaker Builder",
+              "Circle"
+            ],
+            "deliverable": "Group program live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Meta and LinkedIn Ads campaigns targeting ideal coaching clients with webinar registration as the conversion goal",
+            "estimatedHours": 6,
+            "tools": [
+              "Meta Ads",
+              "LinkedIn Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Podcast guesting system",
+            "description": "AI generates pitch templates, identifies 50 relevant podcasts, and creates a tracking system for outreach and bookings",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "Podcast pitch system active",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing discovery calls booked, client conversion rate, revenue, webinar registrations, and content performance",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your coaching business AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your coaching business AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your coaching business AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (coaching website + booking integration)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe helps create the lead magnet (free guide or assessment) named in the Starter tier",
+          "firstTask": "Draft a lead-magnet outline for this coach's ideal client"
+        },
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie designs the webinar funnel and authority-content calendar in the Growth tier",
+          "firstTask": "Draft a webinar funnel outline (landing page, registration, replay follow-up)"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built coaching website with booking integration",
+                "LinkedIn profile optimization",
+                "10 social media posts/month (AI-generated)",
+                "Lead magnet creation"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built coaching website with booking integration",
+                "LinkedIn profile optimization",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (welcome sequence, session follow-up)",
+                "Lead magnet creation (free guide or assessment)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Webinar funnel setup",
+                "30 social media posts/month with authority content",
+                "Automated nurture sequences"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Webinar funnel setup (landing page, registration, replay)",
+                "30 social media posts/month with authority content",
+                "Automated email sequences (lead nurture, webinar follow-up, re-engagement)",
+                "Monthly content calendar with authority-building topics"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect coaching niche, methodology, and pricing",
+              "owner": "client"
+            },
+            {
+              "step": "Connect booking system and email platform",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + lead magnet for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm coaching niche and methodology to reflect on the site",
+            "Walk through the lead-magnet topic and format",
+            "Set expectations on webinar-funnel timeline"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "servicebiz-growth",
+    "title": "Service Business AI Growth Platform",
+    "description": "AI-powered local SEO, review generation, and seasonal marketing system built specifically for cleaning, landscaping, pest control, and other home service businesses",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "Local SEO",
+      "Review Management",
+      "Social Media",
+      "Email Marketing"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "Google Business Profile",
+      "Nextdoor",
+      "Mailchimp"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your service area, services, and goals",
+      "AI builds your website, local pages, and email sequences",
+      "Review and customize with your photos, pricing, and branding",
+      "Connect your scheduling and CRM tools",
+      "Launch and start attracting new customers in your service area"
+    ],
+    "audience": {
+      "role": "Small Service Business Owner",
+      "companySize": "2-15 employees",
+      "industry": "Home Services (Cleaning, Landscaping, Pest Control, HVAC, Plumbing)",
+      "painPoints": [
+        "Growth relies entirely on word-of-mouth — no online lead generation system",
+        "No website or a terrible one-page site that doesn't rank for anything",
+        "Getting crushed by bigger competitors with hundreds of Google reviews",
+        "No strategy for collecting reviews — relies on customers remembering to post",
+        "Seasonal revenue swings — slammed in spring/summer, dead in winter",
+        "Tried Thumbtack/HomeAdvisor and hated paying for shared leads that don't convert",
+        "Knows he needs to be on Google Maps but doesn't know how to optimize for it"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "SEO",
+        "Communities",
+        "Cold Email"
+      ],
+      "launchStrategy": "Offer free \"local visibility audit\" to 20 service businesses showing their Google ranking, review count vs. competitors, and missing service area pages. Show the revenue they're losing. Convert audits to Growth tier.",
+      "firstCustomerTactics": [
+        "Partner with service business coaches and franchise consultants",
+        "Attend local Chamber of Commerce and BNI networking events",
+        "Run case study showing how a cleaning company went from 12 to 85 Google reviews in 90 days",
+        "Cold email service businesses with <20 Google reviews (easy to find via Google Maps)",
+        "Offer free Google Business Profile audit — most have incomplete or unoptimized listings"
+      ],
+      "contentIdeas": [
+        "The seasonal marketing calendar that eliminated revenue dips for a landscaping company",
+        "How to rank in the Google Map Pack without paying for ads",
+        "How one cleaning company got 47 new customers in 30 days with automated review requests"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$297/mo",
+        "features": [
+          "AI-built service business website",
+          "Google Business Profile optimization",
+          "5 service area landing pages",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (new customer welcome, review request)"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$597/mo",
+        "features": [
+          "Everything in Starter",
+          "Full review generation and response system",
+          "30 social media posts/month (seasonal, tips, before/after)",
+          "Automated email sequences (seasonal reminders, re-service, referral ask)",
+          "15 service area pages covering every city/neighborhood",
+          "Monthly local SEO report with ranking changes"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,197/mo",
+        "features": [
+          "Everything in Growth",
+          "Paid ad management (Google Local Services Ads + Meta)",
+          "Door hanger and direct mail design automation",
+          "Nextdoor marketing strategy and content",
+          "Seasonal campaign automation (spring cleanup, winterization, etc.)",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete marketing system from intake data",
+        "tasks": [
+          {
+            "title": "Complete service business intake",
+            "description": "AI-led conversation captures services offered, service area, pricing model, competitive landscape, and brand preferences",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete business profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates service website",
+            "description": "Builder creates mobile-first website with service pages, service area pages, before/after gallery, and quote request forms",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Email sequences created",
+            "description": "AI generates 5 automated sequences: new customer welcome, post-service review request, seasonal service reminders, referral ask, and re-service nurture",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Email Builder"
+            ],
+            "deliverable": "5 email sequences ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "Local SEO foundation",
+            "description": "Google Business Profile optimization, service area page keyword research, citation audit across 50+ directories, and meta tag generation",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker SEO"
+            ],
+            "deliverable": "Local SEO plan + GBP optimized",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and activate all marketing channels",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Owner reviews AI-generated website, adds truck/team photos, adjusts service descriptions and pricing, and approves email sequences",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + emails"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link scheduling tool (Jobber, Housecall Pro), connect Google Business Profile, set up review request automation via SMS and email",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "Social media launch",
+            "description": "Generate first month of social content (30 posts) featuring before/after jobs, seasonal tips, team spotlights, and customer reviews",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social",
+              "Canva"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "Review generation active",
+            "description": "Activate automated review requests after completed jobs, set up review response templates for both positive and negative reviews",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Review system live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Service area expansion",
+            "description": "AI generates landing pages for 15+ cities and neighborhoods in the service area, each targeting \"[service] in [city]\" keywords",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "15+ service area pages live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Paid advertising",
+            "description": "Launch Google Local Services Ads and Meta campaigns targeting homeowners in service area with seasonal offers",
+            "estimatedHours": 8,
+            "tools": [
+              "Google LSA",
+              "Meta Ads"
+            ],
+            "deliverable": "Ad campaigns running"
+          },
+          {
+            "title": "Seasonal campaign automation",
+            "description": "Set up automated campaigns for each season (spring cleanup, summer maintenance, fall prep, winterization) with email, social, and ad content",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Automation"
+            ],
+            "deliverable": "Year-round campaigns scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing new customers, review count growth, Google ranking positions, lead sources, and revenue per marketing channel",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your service business AI growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your service business AI growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your service business AI growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (service business website)",
+            "why": "Core deliverable across every tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie builds the service-area pages named in both tiers — up to 15 city/neighborhood pages in the Growth tier",
+          "firstTask": "Build service-area landing pages for this business's top 5 service cities"
+        },
+        {
+          "personaId": "customer-success",
+          "why": "Carmen designs the review-generation and referral-ask sequences both tiers promise",
+          "firstTask": "Draft a post-service review-request message for this business"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built service business website",
+                "Google Business Profile optimization",
+                "5 service area landing pages",
+                "10 social media posts/month (AI-generated)"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built service business website",
+                "Google Business Profile optimization",
+                "5 service area landing pages",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (new customer welcome, review request)"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full review generation and response system",
+                "30 social media posts/month",
+                "15 service area pages"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full review generation and response system",
+                "30 social media posts/month (seasonal, tips, before/after)",
+                "Automated email sequences (seasonal reminders, re-service, referral ask)",
+                "15 service area pages covering every city/neighborhood"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect business branding, services offered, and service area",
+              "owner": "client"
+            },
+            {
+              "step": "Connect booking/CRM system for follow-up automation",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + service-area pages for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm services and service area to reflect on the site",
+            "Walk through the review-generation and response workflow",
+            "Set expectations on seasonal campaign scheduling"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "aiautomation-growth",
+    "title": "AI Automation Agency Growth Platform",
+    "description": "AI-powered agency-in-a-box system for aspiring AI automation consultants — includes website, sales funnel, audit templates, and case study generation",
+    "difficulty": "beginner",
+    "startupCost": "$0",
+    "timeCommitment": "5-10 hours/week",
+    "skills": [
+      "AI Tools",
+      "Sales",
+      "Consulting",
+      "Automation"
+    ],
+    "tools": [
+      "Waymaker Builder",
+      "LinkedIn",
+      "Loom",
+      "Zapier"
+    ],
+    "category": "Industry services",
+    "categoryId": "vertical-adapter",
+    "budgetMin": 0,
+    "budgetMax": 0,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Complete intake — tell us about your AI skills, target industries, and goals",
+      "AI builds your agency website, audit funnel, and sales materials",
+      "Review and customize with your experience, case studies, and branding",
+      "Connect your CRM and scheduling tools",
+      "Launch and start booking AI automation audit calls"
+    ],
+    "audience": {
+      "role": "Aspiring AI Automation Consultant",
+      "companySize": "1 (solo)",
+      "industry": "AI Consulting / Automation Services",
+      "painPoints": [
+        "Knows AI tools inside and out but has no idea how to sell consulting services",
+        "No agency website — just a LinkedIn profile with \"AI Enthusiast\" in the headline",
+        "Zero case studies or client testimonials to build credibility",
+        "Doesn't know how to price AI automation projects (undercharges or scares clients away)",
+        "Spends hours on proposals that go nowhere because they lack a sales system",
+        "Sees others building AI agencies on Twitter/X but can't figure out the business side",
+        "Analysis paralysis — keeps learning new AI tools instead of getting clients"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Cold Email",
+        "Content Marketing",
+        "Local Networking"
+      ],
+      "launchStrategy": "Offer free \"AI automation audit\" to 20 local businesses. Use the pre-built audit template to identify 3-5 automation opportunities and estimate ROI. Convert audits to paid projects using Waymaker as the delivery engine.",
+      "firstCustomerTactics": [
+        "Post daily on LinkedIn about AI automation use cases and results",
+        "Record Loom videos auditing businesses' processes (with permission) and share as content",
+        "Attend local business networking events and position as \"the AI person\"",
+        "Cold email businesses still using manual processes (look for \"data entry\" job postings)",
+        "Offer a free \"AI readiness assessment\" as a lead magnet on your agency site"
+      ],
+      "contentIdeas": [
+        "I automated a 40-hour/week process down to 2 hours — here's how",
+        "The 5 AI automations every small business should implement today (with ROI estimates)",
+        "Why every freelancer should become an AI automation consultant in 2025"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$297/mo",
+        "features": [
+          "AI-built agency website with service pages",
+          "Pre-built AI audit funnel (landing page + questionnaire + report template)",
+          "10 social media posts/month (AI-generated)",
+          "Basic email templates (inquiry response, proposal follow-up)",
+          "Pricing calculator for common AI automation projects"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$597/mo",
+        "features": [
+          "Everything in Starter",
+          "Full LinkedIn content strategy (30 posts/month)",
+          "Automated email sequences (lead nurture, case study drip, onboarding)",
+          "Proposal and SOW templates (AI-customized per prospect)",
+          "Case study generator (turn project notes into polished case studies)",
+          "Monthly strategy call"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,197/mo",
+        "features": [
+          "Everything in Growth",
+          "White-label Waymaker delivery engine for client projects",
+          "Paid ad management (LinkedIn + Meta)",
+          "Webinar funnel for \"AI for Your Business\" workshops",
+          "Referral partnership system setup",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "AI builds the complete agency infrastructure from intake data",
+        "tasks": [
+          {
+            "title": "Complete agency intake",
+            "description": "AI-led conversation captures AI skills, target industries, pricing preferences, experience level, and brand vision",
+            "estimatedHours": 1,
+            "tools": [
+              "Waymaker Intake"
+            ],
+            "deliverable": "Complete agency profile",
+            "aiAssisted": true
+          },
+          {
+            "title": "AI generates agency website",
+            "description": "Builder creates professional agency site with service pages, audit funnel, case study section, about page, and booking integration",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Draft website ready for review",
+            "aiAssisted": true
+          },
+          {
+            "title": "Sales materials created",
+            "description": "AI generates audit questionnaire, proposal template, SOW template, and pricing calculator customized to target industries",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "Sales toolkit ready",
+            "aiAssisted": true
+          },
+          {
+            "title": "Audit funnel built",
+            "description": "Landing page with \"Free AI Automation Audit\" offer, intake questionnaire, automated report generation template, and follow-up email sequence",
+            "estimatedHours": 2,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Audit funnel live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Go live and start generating audit requests",
+        "tasks": [
+          {
+            "title": "Client review and customize",
+            "description": "Consultant reviews AI-generated website, adds personal bio and background, adjusts service descriptions and pricing, and approves sales materials",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Builder"
+            ],
+            "deliverable": "Approved website + sales toolkit"
+          },
+          {
+            "title": "Connect integrations",
+            "description": "Link CRM (HubSpot free), scheduling tool (Calendly), and set up Loom for async video audits",
+            "estimatedHours": 3,
+            "tools": [
+              "Waymaker Integrations"
+            ],
+            "deliverable": "All systems connected"
+          },
+          {
+            "title": "LinkedIn content launch",
+            "description": "Generate first month of LinkedIn content (30 posts) featuring AI automation tips, process breakdowns, and ROI calculations",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Social"
+            ],
+            "deliverable": "30 posts scheduled",
+            "aiAssisted": true
+          },
+          {
+            "title": "First 5 audit outreach",
+            "description": "Identify 5 target businesses, send personalized audit offers, and complete at least 2 free audits to build the pipeline",
+            "estimatedHours": 4,
+            "tools": [
+              "LinkedIn",
+              "Loom",
+              "Email"
+            ],
+            "deliverable": "5 audit offers sent, 2 completed"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize, expand, and prove ROI",
+        "tasks": [
+          {
+            "title": "Case study generation",
+            "description": "Turn first 3 client projects into polished case studies with problem, solution, results, and testimonial — publish on website and LinkedIn",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Content"
+            ],
+            "deliverable": "3 case studies published",
+            "aiAssisted": true
+          },
+          {
+            "title": "Webinar funnel launch",
+            "description": "Create \"AI for Your Business\" webinar with registration page, presentation template, and follow-up sequence to convert attendees to audit calls",
+            "estimatedHours": 6,
+            "tools": [
+              "Waymaker Builder",
+              "Zoom"
+            ],
+            "deliverable": "Webinar funnel active",
+            "aiAssisted": true
+          },
+          {
+            "title": "Referral partnership system",
+            "description": "Identify and reach out to complementary service providers (accountants, business coaches, IT firms) for mutual referral agreements",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker CRM"
+            ],
+            "deliverable": "5+ referral partnerships established"
+          },
+          {
+            "title": "ROI dashboard",
+            "description": "Build custom dashboard showing audit requests, proposal win rate, project revenue, average deal size, and content performance",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Analytics"
+            ],
+            "deliverable": "Live ROI dashboard",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI automation agency growth platform for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI automation agency growth platform — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI automation agency growth platform and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Waymaker Builder (agency website + audit funnel)",
+            "why": "Core deliverable across every tier, including the pre-built AI-audit funnel named in Starter"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "business-advisor",
+          "why": "Blake helps structure the AI-audit funnel (landing page + questionnaire + report template) named in the Starter tier",
+          "firstTask": "Draft the audit questionnaire for this AI-automation agency's intake funnel"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal handles the proposal and SOW templates the Growth tier promises, customized per prospect",
+          "firstTask": "Draft a proposal template for a typical AI-automation engagement"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "AI-built agency website with service pages",
+                "Pre-built AI audit funnel",
+                "10 social media posts/month (AI-generated)",
+                "Pricing calculator"
+              ],
+              "timeline": "1-2 weeks setup, then ongoing monthly",
+              "whatsIncluded": [
+                "AI-built agency website with service pages",
+                "Pre-built AI audit funnel (landing page + questionnaire + report template)",
+                "10 social media posts/month (AI-generated)",
+                "Basic email templates (inquiry response, proposal follow-up)",
+                "Pricing calculator for common AI automation projects"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "Everything in Starter",
+                "Full LinkedIn content strategy",
+                "Automated email sequences",
+                "Proposal and SOW templates"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Full LinkedIn content strategy (30 posts/month)",
+                "Automated email sequences (lead nurture, case study drip, onboarding)",
+                "Proposal and SOW templates (AI-customized per prospect)"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect agency positioning, service packages, and pricing model",
+              "owner": "client"
+            },
+            {
+              "step": "Connect the audit-funnel form to CRM for lead capture",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first website draft + audit funnel for approval",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm service packages and pricing model to reflect on the site",
+            "Walk through the audit-funnel questions and report template",
+            "Set expectations on proposal turnaround time per prospect"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  }
+]

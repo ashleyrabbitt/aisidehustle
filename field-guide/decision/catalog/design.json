@@ -1,0 +1,1096 @@
+[
+  {
+    "id": "graphic-design",
+    "title": "Graphic Design",
+    "description": "Create visual content for businesses and individuals",
+    "difficulty": "intermediate",
+    "startupCost": "$50-$300",
+    "timeCommitment": "10-25 hours/week",
+    "skills": [
+      "Design Principles",
+      "Adobe Creative Suite",
+      "Branding"
+    ],
+    "tools": [
+      "Adobe Illustrator",
+      "Figma",
+      "Canva Pro"
+    ],
+    "category": "Design",
+    "categoryId": "design",
+    "budgetMin": 50,
+    "budgetMax": 300,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Master design tools",
+      "Build portfolio",
+      "Set up profiles",
+      "Land first clients",
+      "Specialize and grow"
+    ],
+    "audience": {
+      "role": "Founder or Marketing Lead",
+      "painPoints": [
+        "Need professional visuals on budget",
+        "Dont have in-house designer",
+        "Previous designers slow/unresponsive",
+        "Need consistency across materials"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Upwork",
+        "Fiverr",
+        "Referrals",
+        "Communities"
+      ],
+      "launchStrategy": "Build portfolio on freelance platforms, transition to direct clients",
+      "firstCustomerTactics": [
+        "Create standout Fiverr/Upwork profiles",
+        "Offer competitive starter rates",
+        "Over-deliver on early projects",
+        "Share work on Dribbble/Behance"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Single Asset",
+        "price": "$75-$200",
+        "features": [
+          "Social graphic",
+          "Flyer",
+          "Business card",
+          "2 revisions"
+        ]
+      },
+      {
+        "name": "Brand Package",
+        "price": "$500-$1,500",
+        "features": [
+          "Logo design",
+          "Color palette",
+          "Typography",
+          "Brand guidelines"
+        ]
+      },
+      {
+        "name": "Retainer",
+        "price": "$1,000-$3,000/mo",
+        "features": [
+          "Unlimited requests",
+          "48hr turnaround",
+          "Priority support",
+          "Source files"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Portfolio Building",
+        "duration": "7 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Create 10 portfolio pieces",
+            "description": "Design spec work for imaginary brands in target niches",
+            "estimatedHours": 20,
+            "tools": [
+              "Figma",
+              "Adobe Illustrator",
+              "Canva"
+            ]
+          },
+          {
+            "title": "Set up Dribbble/Behance",
+            "description": "Showcase work on design platforms",
+            "estimatedHours": 3,
+            "tools": [
+              "Dribbble",
+              "Behance"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Client Acquisition",
+        "duration": "14 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Create Fiverr gigs",
+            "description": "Set up 3-5 gigs for different design services",
+            "estimatedHours": 5,
+            "tools": [
+              "Fiverr"
+            ]
+          },
+          {
+            "title": "Complete first projects",
+            "description": "Deliver excellent work to build reviews",
+            "estimatedHours": 20,
+            "tools": [
+              "Figma",
+              "Adobe Creative Suite"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your graphic design business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your graphic design business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your graphic design business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You need a genuine eye for visual communication, not just the ability to make things look pretty. Clients hire graphic designers to solve problems — a logo that reads at 16px, a social post that stops the scroll, a pitch deck that doesn't embarrass the founder. Adobe Creative Suite or Figma fluency is table stakes. Beyond tools, you need the patience to sit through vague briefs, translate 'make it pop' into actual design decisions, and revise without ego. The first three months are mostly unpaid portfolio work and low-rate projects while you prove you can deliver on deadline.",
+      "whereTheyFail": "Most people build a portfolio of work they like, not work clients actually buy. They spend weeks perfecting a passion project nobody asked for, then wonder why inquiries don't convert. The second failure point is pricing: designers chronically undercharge, take on too many small jobs to compensate, burn out, and quit before they ever reach a sustainable rate.",
+      "theDip": "Weeks six through twelve are where most people quietly stop. This is the dip. The designers who get through it are the ones who treat client acquisition like a second job during this window — outreach every day, not just when they feel inspired. Your design skills are probably fine. Your willingness to keep pitching when nothing is responding is what's actually being tested.",
+      "routine": [
+        {
+          "what": "Client outreach — 3 cold pitches or 1 warm follow-up via email or LinkedIn",
+          "when": "Mon–Fri · 30 min"
+        },
+        {
+          "what": "Active project work — design, revisions, file delivery",
+          "when": "Tue & Thu · 3–4 hrs each"
+        },
+        {
+          "what": "Portfolio and skills update — add one finished piece or complete one tutorial",
+          "when": "Sat · 1–2 hrs"
+        },
+        {
+          "what": "Chief of Staff check-in — review what shipped, what's stuck, and one thing to improve next week",
+          "when": "Daily · 10 min"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Write a cold outreach email to a small business owner who needs a brand refresh",
+          "prompt": "You are a freelance graphic designer writing a cold outreach email to a small business owner. Here is the context:\n\n- Business type: [INSERT BUSINESS TYPE, e.g. 'local coffee shop']\n- What you noticed about their current branding: [INSERT SPECIFIC OBSERVATION, e.g. 'their logo looks pixelated on mobile and their social posts use 5+ different fonts']\n- Your relevant experience: [INSERT 1-2 sentences about your background]\n- One specific result you've delivered: [INSERT RESULT, e.g. 'redesigned a restaurant menu that helped them upsell by 20%']\n\nWrite a short, warm, non-salesy cold email (under 150 words) that:\n1. Opens with a genuine, specific compliment about their business (not their design)\n2. Names one concrete visual problem you noticed\n3. Offers one specific fix you could do\n4. Ends with a low-pressure CTA like 'worth a 15-minute call?'\n\nDo NOT use phrases like 'I hope this email finds you well', 'synergy', or 'take your brand to the next level'. Sound like a real person."
+        },
+        {
+          "task": "Generate a project brief questionnaire for a new logo design client",
+          "prompt": "I am a freelance graphic designer onboarding a new client who needs a logo. Create a client questionnaire I can send via email or embed in a form. The questionnaire should:\n\n1. Cover business basics: company name, industry, target audience (age, gender, values), and geographic market\n2. Uncover brand personality: ask them to choose 3 adjectives from a list AND describe a brand they admire (and why)\n3. Clarify deliverables: file formats needed, where the logo will be used (print, web, signage, embroidery, etc.), color preferences or restrictions\n4. Surface constraints: budget range, deadline, decision-maker count (who has final approval?)\n5. Gather reference material: ask for 3 competitor logos and whether they love or hate each one\n\nFormat as a numbered list of questions. Keep each question under 20 words. Add a brief one-sentence explanation of WHY you're asking for any question that might feel intrusive (like budget)."
+        },
+        {
+          "task": "Write project scope and deliverables for a social media graphics package proposal",
+          "prompt": "I am a freelance graphic designer writing a proposal for a social media graphics retainer package. The client is [INSERT CLIENT TYPE, e.g. 'a life coach with 8,000 Instagram followers'].\n\nWrite a clear, professional Scope of Work section for a monthly retainer that includes:\n- Exactly what is included (number of posts, formats, sizes, file types)\n- Exactly what is NOT included (video editing, copywriting, scheduling, paid ad creative)\n- Revision policy (how many rounds, what counts as a revision vs. a new direction)\n- Turnaround time expectations\n- What the client must provide (brand assets, copy, content calendar) and by when\n\nUse plain English. No jargon. Format with clear headers. The goal is to prevent scope creep and protect my time while still sounding collaborative and professional.\n\nPackage details to include: [INSERT YOUR PACKAGE DETAILS, e.g. '12 feed posts, 4 story templates, delivered in PNG and Canva-editable format, 2 revision rounds, 5-day turnaround after content calendar received']"
+        },
+        {
+          "task": "Critique your portfolio and identify gaps before client outreach",
+          "prompt": "I am a freelance graphic designer preparing to pitch clients in the [INSERT NICHE, e.g. 'restaurant and food service'] industry. Here are the pieces currently in my portfolio:\n\n[LIST YOUR CURRENT PORTFOLIO PIECES, e.g.:\n- Logo for a tech startup (personal project)\n- Poster for a college event\n- Instagram templates for a fitness brand (spec work)\n- Business card design for a friend's photography business]\n\nPlease do the following:\n1. Identify which pieces are relevant to my target niche and which are not\n2. List 3-5 specific portfolio gaps that would make a restaurant owner hesitant to hire me\n3. Suggest 3 realistic spec projects I could create in the next 2 weeks to fill those gaps (be specific — give me the exact concept, not just 'create a menu')\n4. Tell me which 2-3 pieces to lead with if I had to pitch tomorrow with what I have\n5. Flag any pieces that could actually hurt my credibility and should be removed\n\nBe direct. I'd rather hear hard feedback now than lose clients later."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Quoting a flat price before understanding the full scope",
+          "why": "Clients often say 'I just need a logo' and mean 'I need a logo, business card, letterhead, social media kit, and three revisions over six weeks.' Without a discovery call and written brief, you've agreed to an open-ended project for a closed-ended price.",
+          "prevention": "Never quote on the first contact. Always do a 15-minute discovery call first, send a written brief questionnaire, and build your quote from the confirmed deliverables list. Add a line item for revisions beyond round 2."
+        },
+        {
+          "mistake": "Building a portfolio of spec work in the wrong niche",
+          "why": "Spending 20 hours creating a beautiful tech startup brand when your target clients are local restaurants means your portfolio doesn't speak to them. Prospects hire designers whose portfolio looks like their industry — even if the quality is identical.",
+          "prevention": "Pick one or two niches before building spec work. Create 3-5 pieces that look exactly like the clients you want to attract. A mediocre portfolio in the right niche outperforms a stunning portfolio in the wrong one."
+        },
+        {
+          "mistake": "Skipping a contract on 'small' or 'quick' jobs",
+          "why": "No contract means no defined endpoint, no IP transfer terms, and no recourse if they don't pay.",
+          "prevention": "Use a one-page contract on every paid project, no exceptions."
+        },
+        {
+          "mistake": "Delivering editable source files (AI, PSD, Figma) as part of the standard package",
+          "why": "Source files are intellectual property and a premium deliverable. When you hand them over by default, you eliminate your client's reason to ever hire you again — they'll just 'tweak it themselves' or hand your files to a cheaper designer. You've also given away significant value for free.",
+          "prevention": "Deliver flattened, print-ready files (PDF, PNG, JPG, SVG) as standard. State this clearly in your contract."
+        },
+        {
+          "mistake": "Underpricing to compete with Fiverr and Canva templates",
+          "why": "Low prices also signal low confidence, which repels the clients you actually want.",
+          "prevention": "Charge for your process, expertise, and strategic thinking — not just the pixels. Explain what you're charging for. Target clients who have a business problem, not clients who just want a file."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Design Software",
+          "recommendation": "Adobe Creative Suite is the industry standard and required for serious client work — clients expect AI and PSD files. Figma is essential if you do any UI/web work. Use both. Canva is fine for your own marketing but never deliver Canva files to paying clients as your primary tool — it signals junior-level work.",
+          "options": [
+            {
+              "name": "Adobe Creative Cloud (All Apps)",
+              "bestFor": "Professional logo, print, and brand work where clients expect industry-standard file formats"
+            },
+            {
+              "name": "Figma",
+              "bestFor": "UI design, web mockups, and collaborative client reviews — clients can comment directly in the file"
+            },
+            {
+              "name": "Affinity Designer + Photo",
+              "bestFor": "Budget-conscious designers who need professional vector and photo tools without a subscription — not industry standard but fully capable"
+            }
+          ]
+        },
+        {
+          "category": "Client Management & Contracts",
+          "recommendation": "Don't manage clients over email threads and Google Docs forever. Once you have 2+ active clients, a proper CRM/contract tool pays for itself in time saved and late payment reduction. HoneyBook is the most popular all-in-one for freelance creatives.",
+          "options": [
+            {
+              "name": "HoneyBook"
+            },
+            {
+              "name": "Bonsai",
+              "bestFor": "Freelancers who want strong contract templates, time tracking, and invoicing in one place without a steep learning curve"
+            },
+            {
+              "name": "Wave",
+              "bestFor": "Early-stage designers who just need free invoicing and basic bookkeeping before committing to a paid platform"
+            }
+          ]
+        },
+        {
+          "category": "Portfolio Hosting",
+          "recommendation": "Your portfolio is your #1 sales asset. It needs to load fast, look professional on mobile, and be easy to update without a developer. Behance is fine for visibility but you need your own domain-based portfolio for serious client pitches.",
+          "options": [
+            {
+              "name": "Squarespace",
+              "bestFor": "Designers who want a beautiful, easy-to-maintain portfolio site with built-in blogging and contact forms — most popular choice in this niche"
+            },
+            {
+              "name": "Adobe Portfolio",
+              "bestFor": "Designers already paying for Adobe CC who want a fast, clean portfolio without an extra subscription"
+            },
+            {
+              "name": "Behance",
+              "bestFor": "Building discoverability and getting found by other creatives and agencies — use alongside, not instead of, a personal portfolio site"
+            }
+          ]
+        }
+      ],
+      "recommendedAiTeam": [
+        {
+          "personaId": "ui-designer",
+          "why": "Diana helps you explore concept directions fast — useful for the first-round concepts every design brief needs before you commit real hours",
+          "firstTask": "Generate 3 different visual directions for this brand based on the client brief"
+        },
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie helps you market your own design services — a strong portfolio alone rarely fills a calendar",
+          "firstTask": "Help me write a short case study post for my latest client project"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps with pricing conversations and scope negotiation — the part of freelance design most designers are worst at",
+          "firstTask": "Help me respond to a client asking for a discount on this project"
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Adobe Creative Cloud or Figma",
+            "why": "Client-ready source files (AI, SVG) require real design software, not a free web tool"
+          },
+          {
+            "item": "A signed-contract + invoicing flow (Bonsai or HoneyBook)",
+            "why": "File-ownership and revision-limit disputes are the top complaint in freelance design — a real contract prevents them"
+          },
+          {
+            "item": "A basic portfolio site (Behance is free, or a simple personal site)",
+            "why": "Clients want to see finished work before hiring — this is the single highest-leverage thing to have before your first outreach"
+          }
+        ]
+      },
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Single Project",
+              "deliverables": [
+                "Logo or single asset",
+                "2 initial concepts",
+                "2 rounds of revisions"
+              ],
+              "timeline": "1-2 weeks",
+              "whatsIncluded": [
+                "Source files (AI/SVG)",
+                "PNG/JPG exports",
+                "Basic usage guide"
+              ],
+              "whatsNotIncluded": [
+                "Full brand guidelines",
+                "Print production files",
+                "Ongoing edits"
+              ]
+            },
+            {
+              "name": "Brand Package",
+              "deliverables": [
+                "Logo suite",
+                "Color palette + typography system",
+                "Brand guidelines doc"
+              ],
+              "timeline": "3-4 weeks",
+              "whatsIncluded": [
+                "3 initial concepts",
+                "3 rounds of revisions",
+                "Business card + letterhead templates",
+                "All source + export files"
+              ]
+            },
+            {
+              "name": "Retainer",
+              "deliverables": [
+                "Ongoing design support — social graphics, ads, one-off assets"
+              ],
+              "timeline": "Monthly, request-based turnaround (typically 48-72hr per asset)",
+              "whatsIncluded": [
+                "Priority queue",
+                "Unlimited minor revisions",
+                "Shared asset library"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Send a design brief questionnaire: brand personality, competitors they admire, colors/styles to avoid",
+              "owner": "client"
+            },
+            {
+              "step": "Client shares any existing brand assets, even rough ones, before concepting begins",
+              "owner": "client"
+            },
+            {
+              "step": "Build a mood board / inspiration collection and get sign-off BEFORE first concepts — cuts revision cycles dramatically",
+              "owner": "you"
+            },
+            {
+              "step": "Confirm final file formats needed (print vs. web vs. both) before final delivery",
+              "owner": "you"
+            },
+            {
+              "step": "Set the revision-round count in writing before concepting starts, not after",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Walk through the brief together — clarify anything vague in writing before it becomes a revision cycle",
+            "Show 5-8 reference designs (not necessarily competitors) and get specific \"yes/no and why\" reactions",
+            "Confirm brand adjectives — 3 words they want people to feel when they see this",
+            "Set the concept-presentation format (how many concepts, how they'll be shown)",
+            "Confirm timeline and revision-round expectations explicitly"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I take a low-budget project to build my portfolio?",
+          "options": [
+            {
+              "choice": "Yes, take it at a reduced rate",
+              "pickIf": "You have fewer than 5 portfolio pieces in your target niche AND the client is in an industry you want to work in AND you can set a clear scope with a written contract",
+              "nextStep": "Treat it like a real client engagement with a contract and brief. Add the finished work to your portfolio immediately."
+            },
+            {
+              "choice": "Do it as a spec project instead",
+              "pickIf": "",
+              "nextStep": "Create a fictional version of the same type of project on your own terms, on your own timeline, with no revision rounds. You get the portfolio piece without the difficult client dynamic."
+            },
+            {
+              "choice": "Decline and hold your rate",
+              "pickIf": "You already have 5+ relevant portfolio pieces OR the project type doesn't align with where you want to go OR you're already at capacity",
+              "nextStep": "Politely decline and refer them to a more junior designer. Protecting your rate now prevents you from being stuck in the low-budget client pool long-term."
+            }
+          ]
+        },
+        {
+          "question": "Should I specialize in a niche or stay a generalist?",
+          "options": [
+            {
+              "choice": "Specialize in one niche",
+              "pickIf": "You have experience in or genuine interest in a specific industry (restaurants, fitness, real estate, etc.) AND you want to charge premium rates AND you're willing to turn away off-niche work",
+              "nextStep": "Rebuild your portfolio around that niche. Update your outreach messaging to speak directly to that industry's pain points."
+            },
+            {
+              "choice": "Stay a generalist for now",
+              "pickIf": "You're in your first 6 months and still figuring out what you enjoy AND you need volume to pay bills AND you haven't found a niche that excites you yet",
+              "nextStep": "Track which project types you enjoy most and which clients pay fastest. Let your niche emerge from data, not guessing. Revisit this decision in 90 days."
+            },
+            {
+              "choice": "Specialize by deliverable type, not industry",
+              "pickIf": "You're exceptionally good at one type of work (e.g., logo design, pitch decks, packaging) and enjoy it across multiple industries",
+              "nextStep": "Position yourself as 'the logo designer' or 'the pitch deck designer' rather than 'the restaurant designer.' Build your portfolio and messaging around the deliverable. This is a valid middle path."
+            }
+          ]
+        },
+        {
+          "question": "A client wants unlimited revisions — how do I handle it?",
+          "options": [
+            {
+              "choice": "Decline the unlimited revisions request",
+              "pickIf": "This is a new client you don't have a relationship with yet — unlimited revisions is a red flag that signals they don't trust your judgment or have an internal decision-making problem",
+              "nextStep": "If we need more, I charge $X/hour for additional rounds. This keeps the project moving and protects your budget.' Most reasonable clients accept this."
+            },
+            {
+              "choice": "Accept but define 'revision' clearly in writing",
+              "pickIf": "It's a long-term retainer client you trust OR the project budget is high enough to absorb extra rounds",
+              "nextStep": "Define in your contract what a revision is: changes within the agreed direction. A new direction (changing the concept, not just tweaking colors/fonts) is a new project phase billed separately. Get this in writing before starting."
+            },
+            {
+              "choice": "Walk away from the project",
+              "pickIf": "The client insists on unlimited revisions AND won't budge on price AND has already shown signs of being difficult (slow to respond, vague brief, multiple decision-makers)",
+              "nextStep": "Trust your gut. A client who demands unlimited revisions before the project starts is showing you exactly how the project will go. The revenue is not worth the hours."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Upwork",
+          "url": "https://www.upwork.com/nx/find-work/fixed-price?category_uid=531770282580668418"
+        },
+        {
+          "name": "Google Trends",
+          "url": "https://trends.google.com/trends/explore?q=freelance+graphic+designer"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/jobs"
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "independent"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "ux-product-designer",
+    "title": "UX/Product Designer",
+    "description": "Design beautiful, user-friendly products for startups and SaaS companies",
+    "difficulty": "intermediate",
+    "startupCost": "$200-$800",
+    "timeCommitment": "20-35 hours/week",
+    "skills": [
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems",
+      "Usability Testing"
+    ],
+    "tools": [
+      "Figma",
+      "FigJam",
+      "Maze",
+      "Hotjar"
+    ],
+    "category": "Design",
+    "categoryId": "design",
+    "budgetMin": 200,
+    "budgetMax": 800,
+    "weeklyMin": 20.0,
+    "steps": [
+      "Master UX fundamentals",
+      "Build strong portfolio",
+      "Specialize in SaaS/startup design",
+      "Land first clients",
+      "Scale to agency or full retainers"
+    ],
+    "audience": {
+      "role": "Founder/CEO",
+      "companySize": "3-20 people",
+      "industry": "SaaS",
+      "painPoints": [
+        "Product looks unprofessional",
+        "Users say interface is confusing",
+        "High churn from bad UX",
+        "Developer-designed UI (no offense to devs!)"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Cold Email",
+        "Communities",
+        "Partnerships"
+      ],
+      "launchStrategy": "Create 3 spec projects for portfolio, offer free UX audit to 5 startups",
+      "firstCustomerTactics": [
+        "Post daily design work on Dribbble",
+        "Offer free UX audit to YC companies",
+        "Join design communities (Designer Hangout, ADPList)",
+        "Cold email startups with terrible UX",
+        "Partner with dev agencies who need design"
+      ],
+      "contentIdeas": [
+        "UX mistakes killing your startup",
+        "Building a design system from scratch",
+        "Mobile-first design best practices"
+      ]
+    },
+    "offers": [
+      {
+        "name": "UX Audit",
+        "price": "$2,000",
+        "features": [
+          "Heuristic evaluation",
+          "User flow analysis",
+          "Recommendations deck",
+          "1-week turnaround"
+        ]
+      },
+      {
+        "name": "Product Design",
+        "price": "$6,000",
+        "features": [
+          "User research",
+          "Wireframes + prototypes",
+          "High-fidelity designs",
+          "Usability testing",
+          "Design system",
+          "3-4 week project"
+        ]
+      },
+      {
+        "name": "Retainer",
+        "price": "$4,000/mo",
+        "features": [
+          "Ongoing design partner",
+          "2-3 projects/month",
+          "Fast turnaround",
+          "Priority support",
+          "Product strategy input"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Skill Building",
+        "duration": "3 weeks",
+        "description": "Master UX fundamentals and build portfolio",
+        "tasks": [
+          {
+            "title": "Master Figma",
+            "description": "Complete Figma course, build 3 practice projects",
+            "estimatedHours": 20,
+            "tools": [
+              "Figma",
+              "YouTube tutorials"
+            ],
+            "deliverable": "3 practice designs"
+          },
+          {
+            "title": "Learn UX research",
+            "description": "Study user interviews, usability testing, personas",
+            "estimatedHours": 15,
+            "tools": [
+              "Coursera",
+              "NNGroup articles"
+            ],
+            "deliverable": "UX research toolkit"
+          },
+          {
+            "title": "Build portfolio",
+            "description": "Create 3 spec projects with full case studies",
+            "estimatedHours": 40,
+            "tools": [
+              "Figma",
+              "Webflow/Framer"
+            ],
+            "deliverable": "Portfolio website",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Land first 1-2 design clients",
+        "tasks": [
+          {
+            "title": "Offer free UX audits",
+            "description": "Reach out to 20 startups, offer free analysis",
+            "estimatedHours": 12,
+            "tools": [
+              "LinkedIn",
+              "Email",
+              "Loom"
+            ],
+            "deliverable": "5 audits delivered"
+          },
+          {
+            "title": "Join design platforms",
+            "description": "Set up profiles on Dribbble, Behance, Contra",
+            "estimatedHours": 6,
+            "tools": [
+              "Dribbble",
+              "Behance",
+              "Contra"
+            ],
+            "deliverable": "Active profiles"
+          },
+          {
+            "title": "Cold outreach campaign",
+            "description": "Email 50 startups with portfolio + specific UX feedback",
+            "estimatedHours": 10,
+            "tools": [
+              "Email",
+              "Instantly.ai"
+            ],
+            "deliverable": "2-3 paid projects",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Grow to 5+ projects or 2-3 retainer clients",
+        "tasks": [
+          {
+            "title": "Specialize",
+            "description": "Choose niche (e.g., B2B SaaS, fintech, healthcare)",
+            "estimatedHours": 8,
+            "tools": [
+              "Research",
+              "Competitor analysis"
+            ],
+            "deliverable": "Positioning statement"
+          },
+          {
+            "title": "Build design system",
+            "description": "Create reusable components to speed up work",
+            "estimatedHours": 20,
+            "tools": [
+              "Figma"
+            ],
+            "deliverable": "Component library",
+            "aiAssisted": true
+          },
+          {
+            "title": "Content marketing",
+            "description": "Post design breakdowns 3x/week, grow to 2,000 followers",
+            "estimatedHours": 15,
+            "tools": [
+              "Twitter/X",
+              "LinkedIn",
+              "Dribbble"
+            ],
+            "deliverable": "Personal brand",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your UX/product design business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your UX/product design business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your UX/product design business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You need more than an eye for clean interfaces. Freelance UX/product design means running discovery calls, writing scopes, defending your decisions to founders who want it 'more modern,' and delivering work that actually moves metrics — not just looks good in a Dribbble post. The designers who earn consistently aren't always the most talented; they're the ones who can translate business problems into design decisions and communicate that clearly to non-designers. Figma fluency is table stakes.",
+      "whereTheyFail": "Most designers underprice early, take every project that comes in, and end up doing brand identity work, social graphics, and pitch decks alongside product design — which means they never build a portfolio that attracts the clients who pay well. The other failure mode is being purely execution-focused: waiting to be handed specs instead of leading discovery, asking 'what do you want it to look like' instead of 'what problem are we solving.' Clients who feel like they're directing you will always pay less than clients who feel like they hired an expert.",
+      "theDip": "Months two through four are the hardest. The excitement of going solo has worn off, your first project is done, and you're staring at a quiet inbox wondering if that one client was a fluke. This is where most people either panic-lower their rates or drift back toward employment. The work you do during this dip — case studies, outreach, showing up in communities where your clients already are — feels invisible for weeks before it compounds. Almost no one quits because they lacked skill. They quit because they stopped doing the unsexy work when results weren't immediate.",
+      "routine": [
+        {
+          "what": "Chief of Staff check-in — review active projects, blockers, and one outreach action for the day",
+          "when": "Daily · 15min"
+        },
+        {
+          "what": "Client design sessions or async Loom walkthroughs of work in progress",
+          "when": "Tue & Thu · 2–3h blocks"
+        },
+        {
+          "what": "Portfolio and case study updates — add metrics, screenshots, or a new project write-up",
+          "when": "Fri · 1h"
+        },
+        {
+          "what": "Community engagement and warm outreach — reply to posts in Slack groups, LinkedIn, or direct follow-ups with past contacts",
+          "when": "Mon & Wed · 30min"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Write a cold outreach email to a SaaS founder for UX design work",
+          "prompt": "You are a freelance UX/product designer reaching out to a SaaS startup founder. Write a cold outreach email that:\n- Opens with a specific observation about their product (I'll fill in [PRODUCT_NAME] and [SPECIFIC_OBSERVATION])\n- Identifies one concrete UX problem visible from their public-facing product or app store reviews\n- Proposes a specific, low-risk first engagement (e.g., a free 30-minute UX audit call or a paid 3-day sprint)\n- Keeps the entire email under 150 words\n- Ends with a single, frictionless CTA (a Calendly link or a yes/no question)\n- Sounds like a real human, not a marketing template\n\nProduct name: [PRODUCT_NAME]\nSpecific observation: [SPECIFIC_OBSERVATION]\nMy specialty: [YOUR_SPECIALTY, e.g., onboarding flows, dashboard design, mobile UX]\nMy portfolio link: [PORTFOLIO_URL]\n\nDo not use phrases like 'I hope this email finds you well' or 'I wanted to reach out.' Be direct and specific."
+        },
+        {
+          "task": "Create a UX audit report for a client's onboarding flow",
+          "prompt": "Act as a senior UX designer conducting a professional audit. I will describe a SaaS product's onboarding flow, and you will produce a structured UX audit report.\n\nProduct type: [e.g., project management SaaS, B2B invoicing tool]\nOnboarding steps I observed: [paste the steps the user goes through, e.g., signup → email verify → profile setup → dashboard]\nKey friction points I noticed: [list what felt slow, confusing, or unnecessary]\nTarget user: [e.g., non-technical small business owners]\n\nProduce a report with these sections:\n1. Executive Summary (3 sentences, business impact framing — not design jargon)\n2. Friction Point Analysis (each issue: what it is, why it hurts conversion, severity rating Low/Medium/High)\n3. Quick Wins (fixes achievable in under 1 week)\n4. Strategic Recommendations (bigger redesign opportunities)\n5. Suggested Success Metrics (what to measure after fixes)\n\nUse plain English. Avoid jargon like 'affordance' or 'gestalt.' The founder reading this is not a designer."
+        },
+        {
+          "task": "Generate a design system component naming convention and token structure",
+          "prompt": "I am building a design system for a [COMPANY_TYPE, e.g., B2B SaaS startup] in Figma. Help me create a professional, scalable naming convention and token structure.\n\nBrand colors provided: [list hex codes or describe the palette, e.g., primary blue #2563EB, neutral grays, one accent color]\nProduct type: [web app / mobile app / both]\nTeam size: [just me as the designer / me + 1 developer / larger team]\n\nDeliver:\n1. Color token naming structure (primitive tokens → semantic tokens → component tokens)\n2. Typography scale with names (not just sizes — actual token names like 'text-body-md')\n3. Spacing scale naming\n4. Component naming convention rules (e.g., how to name variants, states, sizes)\n5. A short style guide (one paragraph) I can paste into Figma's team library description so developers understand the system\n\nFollow the approach used by Radix UI and Tailwind CSS for token naming. Keep it simple enough for a 2-person startup to actually maintain."
+        },
+        {
+          "task": "Write a project proposal and scope of work for a UX redesign project",
+          "prompt": "Write a professional freelance project proposal for a UX/product design engagement. Use the details below to produce a complete scope of work document.\n\nClient type: [e.g., early-stage SaaS startup, 8-person team]\nProject goal: [e.g., redesign the user onboarding flow to reduce drop-off]\nTimeline requested by client: [e.g., 6 weeks]\nMy hourly rate: [$X] OR My preferred project rate: [$X]\nDeliverables I plan to provide: [e.g., user research summary, wireframes, high-fidelity Figma mockups, prototype, design handoff doc]\n\nProduce:\n1. Project Overview (2–3 sentences summarizing the problem and goal)\n2. Scope of Work (bulleted list of exactly what is included)\n3. What is NOT included (out-of-scope items to prevent scope creep)\n4. Timeline with phases and milestone dates\n5. Investment (pricing, payment schedule — suggest 50% upfront, 50% on delivery)\n6. Revision Policy (suggest 2 rounds of revisions per phase)\n7. A short 'Why This Approach' paragraph that builds confidence without overselling\n\nTone: professional but warm. Not corporate. Not salesy."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Taking on fixed-price projects without a written scope of work",
+          "why": "Clients naturally expand what they want as the project progresses. Without a documented scope, every new request feels reasonable to them and you have no contractual ground to push back. A 6-week project becomes 12 weeks at the same pay.",
+          "prevention": "Always send a written proposal with an explicit 'Out of Scope' section before starting any work. Use a simple contract (Hello Sign or Bonsai) with a change order clause. Charge for revisions beyond two rounds per phase."
+        },
+        {
+          "mistake": "Building a portfolio of spec work or personal projects instead of real client outcomes",
+          "why": "Startup founders and product managers hiring freelance UX designers are buying evidence that you can solve real business problems. Dribbble-pretty mockups with no context don't answer 'can this person improve my conversion rate or reduce my support tickets?'",
+          "prevention": "Frame every portfolio case study around a business problem and a measurable outcome. Structure each case study as: Problem → Research → Decision → Design → Result. Even if you can't share metrics, describe the qualitative outcome. If you have no client work yet, do a paid or free audit for a real product and document the process."
+        },
+        {
+          "mistake": "Underpricing to win first clients, then staying underpriced",
+          "why": "Low rates also attract difficult clients.",
+          "prevention": "Set a floor rate before you talk to any client. Quote project rates rather than hourly when possible — it decouples your income from your hours."
+        },
+        {
+          "mistake": "Skipping user research and jumping straight to wireframes",
+          "why": "Clients often push for 'just show me some screens' quickly, and designers comply to seem responsive. But designing without research means you're guessing at user needs. When the design doesn't solve the real problem, you get endless revision cycles and a client who loses confidence in you.",
+          "prevention": "Build a lightweight research phase into every engagement, even if it's just 3 user interviews and a competitive analysis. Make it a non-negotiable line item in your proposal. Frame it to clients as 'this phase saves us 3 weeks of wrong-direction design work.'"
+        },
+        {
+          "mistake": "Delivering Figma files without a proper design handoff",
+          "why": "Developers who receive unorganized Figma files with inconsistent naming, missing specs, or unexplained interaction states will implement the design incorrectly. You then get blamed for the broken product even though the design was correct. This kills referrals.",
+          "prevention": "Include a handoff document with every project: annotated screens explaining interactions, a component inventory, spacing and color specs, and a short Loom video walkthrough. Use Figma's Dev Mode or a tool like Zeplin to make specs developer-friendly. Budget 4–6 hours for handoff in every project estimate."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Design and Prototyping",
+          "recommendation": "Figma is the industry standard for freelance UX/product designers working with startups and SaaS companies. Nearly every client expects Figma files. Use it unless a client specifically requires something else.",
+          "options": [
+            {
+              "name": "Figma",
+              "bestFor": "Primary design tool — UI design, prototyping, design systems, and developer handoff."
+            },
+            {
+              "name": "Framer",
+              "bestFor": "High-fidelity interactive prototypes and landing page design where you need more animation control than Figma provides. Good secondary skill to offer."
+            },
+            {
+              "name": "Sketch",
+              "bestFor": "Mac-only clients in established companies who already have Sketch-based design systems. Declining market share — only use if a client requires it."
+            }
+          ]
+        },
+        {
+          "category": "Client and Project Management",
+          "recommendation": "Bonsai handles contracts, invoicing, time tracking, and project management in one place built specifically for freelancers. It saves 3–4 hours per month on admin and makes you look professional from day one.",
+          "options": [
+            {
+              "name": "Bonsai",
+              "bestFor": "All-in-one freelance business management — contracts, proposals, invoices, time tracking. Best single tool for a solo UX designer."
+            },
+            {
+              "name": "Notion",
+              "bestFor": "Project documentation, client portals, and research notes. Pair with a separate invoicing tool if you use Notion as your PM hub."
+            },
+            {
+              "name": "HoneyBook",
+              "bestFor": "Client relationship management with workflow automation. Better fit if you're handling 5+ active clients simultaneously."
+            }
+          ]
+        },
+        {
+          "category": "User Research and Testing",
+          "recommendation": "Maze for unmoderated usability testing is the most practical choice for freelancers — you can run tests quickly without scheduling sessions and share results in a client-ready report format.",
+          "options": [
+            {
+              "name": "Maze",
+              "bestFor": "Unmoderated usability testing linked directly to Figma prototypes. Fast turnaround, client-friendly reports. Best for testing specific flows."
+            },
+            {
+              "name": "Loom",
+              "bestFor": "Recording moderated user interviews, delivering design walkthroughs to clients, and creating design handoff videos for developers."
+            },
+            {
+              "name": "Dovetail",
+              "bestFor": "Organizing and analyzing qualitative research data from interviews. Worth it when a client engagement includes 5+ user interviews that need synthesized insights."
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Figma",
+            "why": "Industry-standard for UX/product design deliverables — clients expect Figma file handoff"
+          },
+          {
+            "item": "A portfolio site (Behance or a personal site)",
+            "why": "Clients need to see finished product work before hiring for a design sprint"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ui-designer",
+          "why": "Diana helps explore layout/interaction directions fast during the design-sprint phase",
+          "firstTask": "Generate 3 wireframe directions for this user flow"
+        },
+        {
+          "personaId": "ux-optimizer",
+          "why": "Uma helps you validate design decisions against real usability heuristics before client review",
+          "firstTask": "Review this flow for usability issues before I present it to the client"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Design Sprint",
+              "deliverables": [
+                "1 flow or feature, fully designed",
+                "Interactive prototype"
+              ],
+              "timeline": "1-2 weeks",
+              "whatsIncluded": [
+                "User research review (if available)",
+                "Wireframes + high-fidelity designs",
+                "Figma file handoff"
+              ]
+            },
+            {
+              "name": "Product Design Retainer",
+              "deliverables": [
+                "Ongoing design work across the product"
+              ],
+              "timeline": "Monthly, hours-based",
+              "whatsIncluded": [
+                "Design system maintenance",
+                "New feature designs",
+                "Dev handoff + QA review"
+              ]
+            },
+            {
+              "name": "Design System Build",
+              "deliverables": [
+                "Complete component library + design tokens"
+              ],
+              "timeline": "3-4 weeks",
+              "whatsIncluded": [
+                "Figma component library",
+                "Usage documentation",
+                "Dev-ready specs"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Get access to existing product (staging/prod) and any current Figma files",
+              "owner": "client"
+            },
+            {
+              "step": "Review existing user research or interview the founder for user pain points if none exists",
+              "owner": "you"
+            },
+            {
+              "step": "Confirm the dev team's frontend stack — affects what's realistic to design",
+              "owner": "client"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Walk through the current product and identify the specific pain point being solved",
+            "Confirm target users and any existing personas/research",
+            "Set up the Figma file structure and confirm handoff process with engineering"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I charge hourly or project-based rates?",
+          "options": [
+            {
+              "choice": "Hourly",
+              "pickIf": "The scope is genuinely unclear at the start, the client expects ongoing work with variable weekly hours, or this is your first engagement with a client and you haven't established trust yet.",
+              "nextStep": "Set a minimum weekly hour commitment (e.g., 10 hours/week minimum) so you're not holding time for a client who only uses 2 hours. Track time with Toggl or Bonsai and send weekly time reports."
+            },
+            {
+              "choice": "Project-based (fixed price)",
+              "pickIf": "The scope is clearly defined, you have enough experience to estimate time accurately, and the deliverables are specific (e.g., redesign 5 core screens, build a component library with 20 components).",
+              "nextStep": "Write a detailed scope of work with an explicit out-of-scope section. Include a change order clause for anything outside scope."
+            },
+            {
+              "choice": "Monthly retainer",
+              "pickIf": "The client needs ongoing design support (not a one-time project), you've already worked together and trust is established, and the client has predictable monthly design needs.",
+              "nextStep": "Define a clear monthly deliverable set (e.g., up to 40 hours of design work, weekly syncs, end-of-month report). Retainers are your most stable income — prioritize converting project clients to retainers."
+            }
+          ]
+        },
+        {
+          "question": "A potential client wants to see your portfolio but you don't have relevant case studies yet. What do you do?",
+          "options": [
+            {
+              "choice": "Do a paid mini-audit for a real product",
+              "pickIf": "This produces a real case study fast.",
+              "nextStep": "Pick a SaaS product in the client's industry. Conduct a 2-hour UX audit, document findings in a structured report, and publish it as a case study on your portfolio site. This is real work, not spec work."
+            },
+            {
+              "choice": "Redesign a real product's specific flow as a concept project",
+              "pickIf": "You need portfolio work immediately and can't find a paid audit opportunity. Be transparent that it's a concept redesign, not a client project.",
+              "nextStep": "Choose a well-known product in a relevant category. Identify a real problem (use App Store reviews or Reddit complaints). Document your research, process, and design decisions thoroughly. Label it clearly as 'Concept Redesign' in your portfolio."
+            },
+            {
+              "choice": "Offer the prospect a free 30-minute UX audit of their own product",
+              "pickIf": "You're already in conversation with this specific client and need to demonstrate value immediately rather than pointing to past work.",
+              "nextStep": "Spend 2 hours reviewing their product before the call. Come prepared with 3 specific observations and 2 quick-win recommendations. The audit IS the portfolio proof — it shows your thinking in real time."
+            }
+          ]
+        },
+        {
+          "question": "A client asks you to also build (code) the designs you create. How do you respond?",
+          "options": [
+            {
+              "choice": "Decline and refer a developer",
+              "pickIf": "You don't have strong front-end development skills or you're already at capacity. Trying to learn to code while delivering client work is a recipe for missed deadlines.",
+              "nextStep": "Build a referral relationship with 1–2 freelance developers you trust. Offer to introduce the client and potentially coordinate the project as the design lead. Some designers charge a coordination fee (10–15%) for this."
+            },
+            {
+              "choice": "Accept and use a no-code tool",
+              "pickIf": "The client needs a landing page, simple marketing site, or basic web app that can be built in Webflow, Framer, or similar. This is a genuine upsell opportunity if you have these skills.",
+              "nextStep": "Quote the design and build as separate line items. Be explicit about what no-code tools can and cannot do. Charge a premium for the combined service — this is a differentiated offering most pure designers can't match."
+            },
+            {
+              "choice": "Scope only the design and explicitly exclude development",
+              "pickIf": "The client conflated 'design' with 'build' without realizing they're separate skills. This is common with non-technical founders.",
+              "nextStep": "Clarify the distinction kindly in your proposal: 'My scope covers all UX and UI design deliverables in Figma, ready for developer handoff. Development is a separate engagement.' Then refer them to a developer or suggest they post on Toptal or Upwork for dev talent."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Upwork",
+          "url": "https://www.upwork.com/freelance-jobs/ux-design/"
+        },
+        {
+          "name": "LinkedIn Jobs",
+          "url": "https://www.linkedin.com/jobs/search/?keywords=freelance+ux+designer"
+        },
+        {
+          "name": "Glassdoor",
+          "url": "https://www.glassdoor.com/Salaries/ux-designer-salary-SRCH_KO0,11.htm"
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "analytical"
+    ],
+    "timeToStart": "3 weeks"
+  }
+]

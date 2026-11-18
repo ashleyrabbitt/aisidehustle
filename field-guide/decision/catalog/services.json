@@ -1,0 +1,3220 @@
+[
+  {
+    "id": "virtual-assistant",
+    "title": "AI Executive Assistant",
+    "description": "Use AI to handle research, meeting prep, email drafting, scheduling, and SOP creation for busy founders and executives — a higher-value evolution of the traditional VA role",
+    "difficulty": "beginner",
+    "startupCost": "$0-$200",
+    "timeCommitment": "10-30 hours/week",
+    "skills": [
+      "Organization",
+      "Communication",
+      "Tech Savvy"
+    ],
+    "tools": [
+      "Slack",
+      "Asana",
+      "Google Workspace"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 0,
+    "budgetMax": 200,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Define your services",
+      "Set up tools",
+      "Create profiles",
+      "Land first client",
+      "Specialize and raise rates"
+    ],
+    "audience": {
+      "role": "Solopreneur or Small Business Owner",
+      "painPoints": [
+        "Overwhelmed with admin tasks",
+        "Not enough time for high-value work",
+        "Need reliable help without full hire",
+        "Tried and failed with VAs before"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Upwork",
+        "Referrals",
+        "LinkedIn",
+        "Communities"
+      ],
+      "launchStrategy": "Start with general VA, then specialize in high-paying niche",
+      "firstCustomerTactics": [
+        "Create detailed Upwork profile",
+        "Offer competitive intro rates",
+        "Join VA communities",
+        "Partner with coaches/consultants"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Basic",
+        "price": "$500-$1,000/mo",
+        "features": [
+          "10-20 hours/month",
+          "Admin tasks",
+          "Email management",
+          "Scheduling"
+        ]
+      },
+      {
+        "name": "Professional",
+        "price": "$1,500-$2,500/mo",
+        "features": [
+          "30-40 hours/month",
+          "Project management",
+          "Social media",
+          "Research"
+        ]
+      },
+      {
+        "name": "Executive",
+        "price": "$3,000-$5,000/mo",
+        "features": [
+          "Full-time support",
+          "Strategic assistance",
+          "Team coordination",
+          "Client relations"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Setup",
+        "duration": "3 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Define services",
+            "description": "List all tasks you can help with",
+            "estimatedHours": 2,
+            "tools": [
+              "Notion"
+            ]
+          },
+          {
+            "title": "Set up tools",
+            "description": "Get familiar with common client tools",
+            "estimatedHours": 5,
+            "tools": [
+              "Asana",
+              "Slack",
+              "Calendly",
+              "Google Workspace"
+            ]
+          },
+          {
+            "title": "Create Upwork profile",
+            "description": "Build compelling profile with services",
+            "estimatedHours": 3,
+            "tools": [
+              "Upwork"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "First Clients",
+        "duration": "14 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Apply to 30 jobs",
+            "description": "Send personalized proposals",
+            "estimatedHours": 10,
+            "tools": [
+              "Upwork"
+            ]
+          },
+          {
+            "title": "Onboard first client",
+            "description": "Set up systems and communication",
+            "estimatedHours": 5,
+            "tools": [
+              "Slack",
+              "Notion",
+              "Zoom"
+            ]
+          },
+          {
+            "title": "Deliver excellent work",
+            "description": "Build trust and get testimonial",
+            "estimatedHours": 40,
+            "tools": [
+              "Various"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your virtual assistant business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your virtual assistant business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your virtual assistant business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You need to be genuinely organized, responsive, and comfortable learning new tools quickly. Most VA work is inbox management, calendar coordination, data entry, research, and light project tracking — unglamorous but real. Clients are trusting you with access to their business, so reliability matters more than any single skill. If you disappear for a day without warning or let tasks pile up, you lose the client. This works best for people who like ticking things off a list and quietly making someone else's life easier.",
+      "whereTheyFail": "Most people undercharge from the start and never raise their rates because they're afraid of losing the client. The other failure mode is vague onboarding — no documented process, no boundaries on scope, no defined communication window — so clients start texting at 10pm and expecting same-hour turnarounds. Without a simple contract and a clear scope, the work expands until it stops being worth it.",
+      "theDip": "Weeks three through six are the quiet danger zone. You've done the setup, maybe landed one small client, and the novelty has worn off. The pay is low, the tasks feel repetitive, and you're not sure if this is actually going somewhere. Most people quietly stop here. The ones who push through use that slow period to get sharper — they pick one niche (real estate VAs, e-commerce VAs, executive assistants), raise their positioning, and start asking their first client for a referral. The dip is real, but it's also short if you treat it like a signal to focus rather than quit.",
+      "routine": [
+        {
+          "what": "Task inbox review and daily client priorities",
+          "when": "Mon–Fri · 8am · 20min"
+        },
+        {
+          "what": "Client deliverables and active task work",
+          "when": "Mon–Fri · 9am–12pm"
+        },
+        {
+          "what": "Outreach to one potential client or referral follow-up",
+          "when": "Tue & Thu · 30min"
+        },
+        {
+          "what": "Chief of Staff check-in",
+          "when": "Daily · 5min"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Write a cold outreach email to a potential VA client",
+          "prompt": "You are helping me land my first virtual assistant client. I am a VA who specializes in [your niche, e.g. email management, calendar scheduling, social media scheduling, data entry]. My target client is [describe: e.g. a solo real estate agent, a small e-commerce store owner, a busy life coach].\n\nWrite a short, warm cold outreach email (under 150 words) that:\n1. Opens with a specific observation about their business (leave a placeholder like [OBSERVATION] for me to fill in)\n2. Names one specific pain point they likely have\n3. States clearly what I do and one concrete result I can deliver\n4. Ends with a low-friction CTA like a 15-minute call\n\nDo NOT use hype words like 'passionate' or 'guru'. Sound like a real human who did their homework. Give me 2 versions: one formal, one conversational."
+        },
+        {
+          "task": "Build a service menu and pricing sheet",
+          "prompt": "I am starting a virtual assistant business and need to define my service offerings and pricing. Here is my situation:\n- Hours I can work per week: [e.g. 15]\n- Skills I have: [list them, e.g. Google Workspace, Canva, Asana, email inbox management, scheduling, basic bookkeeping in Wave]\n- Type of clients I want: [e.g. small business owners, coaches, real estate agents]\n- My target hourly rate: [$XX/hr]\n\nCreate a clean service menu with:\n1. Three tiered packages (Starter, Growth, Premium) with specific deliverables listed for each, not vague descriptions\n2. A retainer price for each tier based on my hourly rate and realistic hours per month\n3. Three à la carte add-on services with flat-rate prices\n4. A short one-paragraph 'What I do NOT do' section to set scope boundaries\n\nMake everything specific and copy-paste ready for a simple one-page PDF or website page."
+        },
+        {
+          "task": "Create an onboarding checklist for a new VA client",
+          "prompt": "I just signed my first virtual assistant client. Help me build a thorough onboarding checklist so nothing falls through the cracks in the first two weeks.\n\nClient details:\n- What they hired me for: [e.g. inbox management, calendar scheduling, weekly newsletter drafts]\n- Tools they use: [e.g. Gmail, Calendly, Notion, Slack]\n- Their working hours and timezone: [fill in]\n- Communication preference: [e.g. Slack daily, weekly Zoom check-in]\n\nCreate a numbered onboarding checklist in two sections:\n1. Week 1 — Access, setup, and learning their preferences (include specific things to ask them like email response tone, how to handle urgent vs. non-urgent, who NOT to reschedule)\n2. Week 2 — First deliverables, feedback loop, and confirming the workflow is working\n\nAlso write a short welcome message I can send them on Day 1 that sets a professional, warm tone."
+        },
+        {
+          "task": "Handle a client who wants to expand scope without paying more",
+          "prompt": "I am a virtual assistant and my client is asking me to take on tasks outside what we agreed on in our contract — specifically [describe the new task, e.g. they want me to manage their social media in addition to inbox management, but we only agreed on inbox]. They have not offered to pay more.\n\nHelp me draft a professional, warm, non-confrontational message that:\n1. Acknowledges their request positively\n2. Gently clarifies what our current agreement covers\n3. Offers to add the new service as a paid add-on with a specific price\n4. Keeps the relationship intact and does not sound defensive or passive-aggressive\n\nAlso give me one sentence I can use verbally if they bring it up on a call instead of in writing."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Offering every possible service to every possible client",
+          "why": "When you say you do 'everything', clients do not know why to hire you over the next VA. Generalists are harder to refer, harder to price, and harder to market.",
+          "prevention": "Pick one niche (industry) or one skill cluster (e.g. 'operations support for online course creators') before you send your first outreach. You can expand later once you have testimonials and cash flow."
+        },
+        {
+          "mistake": "Working without a written contract or scope of work",
+          "why": "Verbal agreements fall apart the moment a client's expectations differ from yours. Without a contract, you have no legal footing when they ask for unlimited revisions, extra tasks, or refuse to pay.",
+          "prevention": "Use a simple one-page service agreement for every client, even friends. Include: scope of work, monthly hours included, revision policy, payment terms, and a 30-day termination clause. HelloSign or DocuSign free tiers work fine to start."
+        },
+        {
+          "mistake": "Underpricing to land the first client and never raising rates",
+          "why": "Clients who pay low rates often have the highest demands. Raising rates later feels awkward and many operators just never do it.",
+          "prevention": "Frame it as a limited-time introductory rate if you need the psychological crutch. Build a rate-raise clause into your contract (e.g. rates reviewed every 6 months)."
+        },
+        {
+          "mistake": "Treating every client task as equally urgent",
+          "why": "Without a clear communication protocol, clients text, email, Slack, and call at all hours expecting instant responses. This burns you out fast and trains clients to expect 24/7 availability, which is not sustainable for a part-time side hustle.",
+          "prevention": "Set response time expectations in writing during onboarding (e.g. 'I respond to messages within 4 business hours, Monday-Friday 9am-5pm'). Put your working hours in your email signature and Slack status."
+        },
+        {
+          "mistake": "Relying on one client for all your income",
+          "why": "A single client can cancel with 30 days notice and your income drops to zero overnight. This is the most common reason VA side hustles fail to become stable income streams.",
+          "prevention": "Aim for at least 2-3 clients before you consider your income stable. Always be doing light outreach even when full."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Client contracts and invoicing",
+          "recommendation": "Bonsai is the best all-in-one for VAs starting out — it handles proposals, contracts, time tracking, and invoicing in one place without needing to stitch together multiple tools. Wave is the best free option if you only need invoicing and basic bookkeeping.",
+          "options": [
+            {
+              "name": "Bonsai",
+              "bestFor": "VAs who want contracts, invoices, and time tracking in one tool without a learning curve"
+            },
+            {
+              "name": "Wave",
+              "bestFor": "Beginners who want free invoicing and basic income tracking before committing to paid tools"
+            },
+            {
+              "name": "HoneyBook",
+              "bestFor": "VAs who also manage client communication and want a more polished client portal experience"
+            }
+          ]
+        },
+        {
+          "category": "Project and task management",
+          "recommendation": "Learn Asana and Notion — these are the two tools your clients are most likely already using. Being fluent in both makes you more hireable and reduces onboarding friction. Trello is worth knowing as a backup since it is common among small business owners.",
+          "options": [
+            {
+              "name": "Asana",
+              "bestFor": "Clients running team projects with deadlines and dependencies — very common in agencies and growing small businesses"
+            },
+            {
+              "name": "Notion",
+              "bestFor": "Clients who use it as an all-in-one workspace — popular with solopreneurs, coaches, and content creators"
+            },
+            {
+              "name": "Trello",
+              "bestFor": "Clients who prefer a simple Kanban board — low learning curve for both you and the client"
+            }
+          ]
+        },
+        {
+          "category": "Communication and scheduling",
+          "recommendation": "Get comfortable with Slack and Calendly regardless of what else you use — they are the two most common tools clients will expect you to already know. Calendly free tier is enough to start.",
+          "options": [
+            {
+              "name": "Slack",
+              "bestFor": "Day-to-day client communication — almost every business client uses Slack or expects you to adapt to it"
+            },
+            {
+              "name": "Calendly",
+              "bestFor": "Scheduling client check-ins and managing your own availability without back-and-forth emails"
+            },
+            {
+              "name": "Loom",
+              "bestFor": "Sending async video updates to clients instead of scheduling a call — saves time and impresses clients"
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Time-tracking tool (Toggl or Clockify)",
+            "why": "Hourly-billed VA work needs an accurate, client-visible time log — disputes over hours are the #1 source of friction"
+          },
+          {
+            "item": "A shared task/project tool (Notion, Asana, or Trello)",
+            "why": "Client work needs a visible system they can check without emailing you for status"
+          },
+          {
+            "item": "A signed scope-of-work template",
+            "why": "\"Growth\" and \"Executive\" tier scope creep is the top complaint in VA work — a written scope prevents \"just one more thing\" drift"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "personal-assistant",
+          "why": "Aria helps you organize and triage your own client workload — useful once you have 2+ clients and need your own system for staying on top of theirs",
+          "firstTask": "Help me build a daily checklist to manage tasks across 3 different clients"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps you find and pitch your first clients — most VA businesses start on referrals or cold outreach, not inbound",
+          "firstTask": "Draft a cold outreach message pitching VA services to a busy solo founder"
+        },
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia helps you standardize how you deliver so the same quality holds across every client, not just your first one",
+          "firstTask": "Help me build a repeatable onboarding checklist for new VA clients"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "10 hours/month",
+                "Inbox + calendar management"
+              ],
+              "timeline": "Async, 24-48hr turnaround on requests",
+              "whatsIncluded": [
+                "Email triage",
+                "Meeting scheduling",
+                "Basic data entry"
+              ],
+              "whatsNotIncluded": [
+                "Project management",
+                "Client-facing communication",
+                "Content creation"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "20 hours/month",
+                "Dedicated Slack channel",
+                "Weekly check-in call"
+              ],
+              "timeline": "Same-day turnaround on urgent items",
+              "whatsIncluded": [
+                "Everything in Starter",
+                "Light project coordination",
+                "Basic bookkeeping data entry",
+                "Travel booking"
+              ]
+            },
+            {
+              "name": "Executive",
+              "deliverables": [
+                "40 hours/month",
+                "Priority availability",
+                "Direct phone line"
+              ],
+              "timeline": "Real-time during business hours",
+              "whatsIncluded": [
+                "Everything in Growth",
+                "Client/vendor communication on your behalf",
+                "Light project management",
+                "Personal + business task blending"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Client completes an access checklist (calendar, email, tools) — never request blanket access before this exists in writing",
+              "owner": "client"
+            },
+            {
+              "step": "Set up shared task tracker (Notion, Asana, or even a shared doc) before work begins",
+              "owner": "you"
+            },
+            {
+              "step": "Run a 45-min \"how I work\" call — get their communication style, urgency signals, and pet peeves",
+              "owner": "you"
+            },
+            {
+              "step": "Shadow week: client CCs you on 5-10 real emails so you calibrate their tone before writing on their behalf",
+              "owner": "client"
+            },
+            {
+              "step": "Set a weekly recurring check-in for the first month, tapering to biweekly once rhythm is established",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "What does a \"great week\" look like from the client's side — what should be off their plate by Friday?",
+            "Access walkthrough: exactly which accounts/tools, and what NOT to touch",
+            "Communication protocol: what's urgent-ping-me vs. can-wait-for-weekly-summary",
+            "Time tracking method and how hours get reported/approved",
+            "Confirm any tasks that are explicitly off-limits (financial decisions, hiring, etc.)"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I charge hourly or offer monthly retainers?",
+          "options": [
+            {
+              "choice": "Hourly",
+              "pickIf": "You are just starting out, the client's needs vary week to week, or you have not yet worked with this type of client before and cannot predict how long tasks take",
+              "nextStep": "Track every minute with a tool like Toggl (free). Send weekly or bi-weekly invoices. After 60 days with a client, you will have enough data to propose a retainer."
+            },
+            {
+              "choice": "Monthly retainer",
+              "pickIf": "You have worked with this client for at least 30 days and know roughly how many hours their tasks take, OR the client explicitly wants predictable monthly billing",
+              "nextStep": "Define clearly what is included and what triggers an overage charge."
+            },
+            {
+              "choice": "Project-based flat fee",
+              "pickIf": "The work is a one-time task with a clear deliverable and defined endpoint (e.g. clean up a contact database, set up a project management system)",
+              "nextStep": ""
+            }
+          ]
+        },
+        {
+          "question": "A potential client wants to pay me less than my stated rate. What do I do?",
+          "options": [
+            {
+              "choice": "Reduce scope, not rate",
+              "pickIf": "You want the client for the experience, testimonial, or niche fit — but you cannot afford to undervalue your time",
+              "nextStep": "Offer a smaller package at your full rate. Never drop your hourly rate."
+            },
+            {
+              "choice": "Walk away",
+              "pickIf": "The client is pushing hard on price before the work even starts — this is a red flag for future scope creep, late payments, and disrespect of your time",
+              "nextStep": "Politely decline and redirect your energy to outreach. One bad client at a low rate costs you more in stress and lost opportunity than a gap in income."
+            },
+            {
+              "choice": "Offer a short trial at a slight discount",
+              "pickIf": "The client is genuinely budget-constrained but seems like a great fit and you have capacity to fill",
+              "nextStep": "Put in writing that the rate returns to standard after 30 days. Do not extend the trial."
+            }
+          ]
+        },
+        {
+          "question": "How should I find my first 1-2 clients?",
+          "options": [
+            {
+              "choice": "Warm outreach to your existing network",
+              "pickIf": "You know small business owners, freelancers, or entrepreneurs personally — even loosely — who might need admin help",
+              "nextStep": "Send 10-15 personalized messages to people you already know. Tell them specifically what you are offering and ask if they know anyone who might need help. Referrals from people who know you convert far better than cold outreach."
+            },
+            {
+              "choice": "Freelance marketplaces (Upwork, Fiverr)",
+              "pickIf": "You have zero network in the business world and need to build proof of work and early reviews quickly",
+              "nextStep": "Create a highly specific profile (not 'I do everything') and apply to 5-10 jobs per day for the first two weeks. Expect to price slightly lower initially to get your first reviews, then raise rates once you have 3-5 positive ones."
+            },
+            {
+              "choice": "Targeted cold outreach on LinkedIn or Instagram",
+              "pickIf": "You have a clear niche and can identify your ideal client on social media — for example, solo coaches on Instagram or consultants on LinkedIn",
+              "nextStep": "Send 5-10 personalized DMs or connection requests per day. Engage with their content for a few days before pitching. Focus on one platform only to avoid spreading yourself thin."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Upwork",
+          "url": "https://www.upwork.com"
+        },
+        {
+          "name": "Google Trends",
+          "url": "https://trends.google.com"
+        },
+        {
+          "name": "Facebook Groups Search",
+          "url": "https://www.facebook.com/groups"
+        }
+      ]
+    },
+    "personalityTags": [
+      "social",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "ai-real-estate",
+    "title": "AI Real Estate Services",
+    "description": "Virtual staging, property descriptions, market analysis, and listing optimization using AI for real estate agents",
+    "difficulty": "beginner",
+    "startupCost": "$50-$200",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Real Estate Knowledge",
+      "AI Image Generation",
+      "Copywriting",
+      "Marketing"
+    ],
+    "tools": [
+      "Midjourney",
+      "ChatGPT",
+      "Canva",
+      "Virtual Staging AI"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 50,
+    "budgetMax": 200,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Master AI staging and listing tools",
+      "Build portfolio with demo listings",
+      "Partner with local agents",
+      "Scale to multiple markets",
+      "Add market analysis services"
+    ],
+    "audience": {
+      "role": "Real Estate Agent",
+      "companySize": "Solo or small team",
+      "industry": "Real Estate",
+      "painPoints": [
+        "Empty homes don't photograph well",
+        "Writing compelling listings is time-consuming",
+        "Need to turn around listings quickly",
+        "Competing with agents who have bigger budgets"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Local Networking",
+        "LinkedIn",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Stage 5 listings for free as portfolio, then pitch to real estate offices and brokerages",
+      "firstCustomerTactics": [
+        "Offer free virtual staging of 1 room to 20 agents",
+        "Attend local real estate networking events",
+        "Partner with real estate photographers",
+        "Join local Realtor associations",
+        "Create before/after comparison posts on Instagram"
+      ],
+      "contentIdeas": [
+        "Virtual staging vs physical staging: cost comparison",
+        "Writing property descriptions that sell",
+        "5 listing photos mistakes that kill sales"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Virtual Staging",
+        "price": "$75-$150/room",
+        "features": [
+          "AI-generated staged photos",
+          "3 style options",
+          "24-hour turnaround",
+          "MLS-ready resolution"
+        ]
+      },
+      {
+        "name": "Full Listing Package",
+        "price": "$500",
+        "features": [
+          "Virtual staging (up to 5 rooms)",
+          "Property description copy",
+          "Social media graphics",
+          "Neighborhood highlights",
+          "48-hour delivery"
+        ]
+      },
+      {
+        "name": "Agent Retainer",
+        "price": "$1,500/mo",
+        "features": [
+          "Unlimited virtual staging",
+          "All listing copy",
+          "Social media content calendar",
+          "Market analysis reports",
+          "Priority turnaround"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "3 days",
+        "description": "Master AI staging tools and build portfolio",
+        "tasks": [
+          {
+            "title": "Master staging tools",
+            "description": "Learn Midjourney, REimagineHome, and Virtual Staging AI for different room types and styles",
+            "estimatedHours": 6,
+            "tools": [
+              "Midjourney",
+              "REimagineHome"
+            ],
+            "deliverable": "Tool proficiency",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create demo portfolio",
+            "description": "Stage 10 rooms across different styles (modern, farmhouse, luxury) using stock photos",
+            "estimatedHours": 5,
+            "tools": [
+              "Midjourney",
+              "Canva"
+            ],
+            "deliverable": "Before/after portfolio",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build service packages",
+            "description": "Create pricing, turnaround times, and order form for agents",
+            "estimatedHours": 3,
+            "tools": [
+              "Google Docs",
+              "Canva"
+            ],
+            "deliverable": "Service menu PDF"
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Land first 5-10 agent clients",
+        "tasks": [
+          {
+            "title": "Free staging campaign",
+            "description": "Offer free 1-room staging to 20 local agents as demo",
+            "estimatedHours": 10,
+            "tools": [
+              "Email",
+              "Instagram"
+            ],
+            "deliverable": "20 free stagings delivered",
+            "aiAssisted": true
+          },
+          {
+            "title": "Visit real estate offices",
+            "description": "Present portfolio to 5 brokerages, leave behind materials",
+            "estimatedHours": 8,
+            "tools": [
+              "Canva",
+              "Google Slides"
+            ],
+            "deliverable": "5 brokerage presentations"
+          },
+          {
+            "title": "Launch social media",
+            "description": "Post daily before/after transformations on Instagram and LinkedIn",
+            "estimatedHours": 6,
+            "tools": [
+              "Instagram",
+              "LinkedIn",
+              "Canva"
+            ],
+            "deliverable": "Active social presence"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Grow to 20+ regular agent clients",
+        "tasks": [
+          {
+            "title": "Add listing copy service",
+            "description": "Bundle property descriptions with staging for full listing packages",
+            "estimatedHours": 8,
+            "tools": [
+              "ChatGPT",
+              "Google Docs"
+            ],
+            "deliverable": "Full listing package live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Partner with photographers",
+            "description": "Create referral deals with 5 real estate photographers",
+            "estimatedHours": 6,
+            "tools": [
+              "Email",
+              "LinkedIn"
+            ],
+            "deliverable": "Photographer partnerships"
+          },
+          {
+            "title": "Launch agent retainers",
+            "description": "Convert top clients to monthly retainers for unlimited staging",
+            "estimatedHours": 4,
+            "tools": [
+              "Stripe",
+              "Email"
+            ],
+            "deliverable": "3-5 retainer clients"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI real estate services business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI real estate services business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI real estate services business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "AI virtual staging tool (Midjourney or a staging-specific tool)",
+            "why": "This is the core deliverable — you need real staging capability, not just AI-written descriptions"
+          },
+          {
+            "item": "ChatGPT/Claude paid tier",
+            "why": "MLS-ready descriptions at real turnaround speed need a paid tier"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ui-designer",
+          "why": "Diana helps with the visual staging work — turning empty rooms into styled spaces",
+          "firstTask": "Suggest 3 staging styles for this empty living room photo"
+        },
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts MLS-ready property descriptions fast, within the 48-hour turnaround window",
+          "firstTask": "Write a property description for this listing based on these details"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Listing Package",
+              "deliverables": [
+                "Virtual staging for up to 10 photos",
+                "AI-written property description",
+                "5 social captions for the listing"
+              ],
+              "timeline": "48 hours",
+              "whatsIncluded": [
+                "Before/after staged images",
+                "MLS-ready description copy"
+              ],
+              "whatsNotIncluded": [
+                "Professional photography (agent supplies raw photos)"
+              ]
+            },
+            {
+              "name": "Agent Monthly Retainer",
+              "deliverables": [
+                "Staging + descriptions for up to 8 listings/month",
+                "Monthly market snapshot for their farm area"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Priority 24-hour turnaround",
+                "Consistent branded template across listings"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect raw listing photos and property details",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm staging style preferences (modern, traditional, etc.)",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver staged images + description for approval before MLS submission",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm branding/template preferences for descriptions",
+            "Review MLS disclosure requirements for the agent's state/board",
+            "Set the turnaround SLA and rush-order pricing if any"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "ai-career-services",
+    "title": "AI Career Strategist",
+    "description": "Full career positioning, not just resume writing — resume, LinkedIn, interview prep, target-company research, networking strategy, and salary negotiation, with an optional monthly job-search concierge add-on",
+    "difficulty": "beginner",
+    "startupCost": "$50-$100",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Resume Writing",
+      "Career Coaching",
+      "LinkedIn Optimization",
+      "AI Prompt Engineering"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Canva",
+      "LinkedIn"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 50,
+    "budgetMax": 100,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Master AI resume optimization",
+      "Create service packages",
+      "Build portfolio and testimonials",
+      "Launch marketing",
+      "Scale with group coaching"
+    ],
+    "audience": {
+      "role": "Mid-career professional",
+      "industry": "Various (tech, finance, marketing)",
+      "painPoints": [
+        "Resume isn't getting interviews",
+        "Don't know how to position career change",
+        "LinkedIn profile is outdated",
+        "Nervous about interviews",
+        "Applied to 100+ jobs with no response"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "SEO",
+        "Communities",
+        "Referrals"
+      ],
+      "launchStrategy": "Offer free resume reviews on LinkedIn, convert to paid rewrites. Build SEO content around job search keywords.",
+      "firstCustomerTactics": [
+        "Post \"free resume review\" offers on LinkedIn weekly",
+        "Join job search communities on Reddit and Discord",
+        "Create TikTok/Reels with resume tips",
+        "Partner with career coaches and recruiters",
+        "SEO blog posts for \"resume tips for [industry]\""
+      ],
+      "contentIdeas": [
+        "This resume got 10 interviews in 2 weeks (before/after)",
+        "ATS resume mistakes that get you auto-rejected",
+        "LinkedIn headline formulas that attract recruiters",
+        "How to answer \"Tell me about yourself\" perfectly"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Resume Rewrite",
+        "price": "$250",
+        "features": [
+          "ATS-optimized resume",
+          "Keyword optimization",
+          "2 revisions",
+          "48-hour turnaround"
+        ]
+      },
+      {
+        "name": "Career Package",
+        "price": "$500",
+        "features": [
+          "Resume rewrite",
+          "LinkedIn profile optimization",
+          "Cover letter template",
+          "Interview prep guide",
+          "1-week turnaround"
+        ]
+      },
+      {
+        "name": "Executive Package",
+        "price": "$1,200",
+        "features": [
+          "Executive resume + bio",
+          "LinkedIn overhaul + content strategy",
+          "3 cover letter variants",
+          "2 mock interview sessions",
+          "Networking strategy",
+          "30-day support"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "3 days",
+        "description": "Build resume optimization system and packages",
+        "tasks": [
+          {
+            "title": "Create AI resume workflow",
+            "description": "Build prompt templates for different industries and career levels that produce ATS-optimized resumes",
+            "estimatedHours": 5,
+            "tools": [
+              "ChatGPT",
+              "Claude"
+            ],
+            "deliverable": "Resume prompt library",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build portfolio",
+            "description": "Rewrite 5 resumes (friends/family) as portfolio pieces with before/after results",
+            "estimatedHours": 5,
+            "tools": [
+              "ChatGPT",
+              "Canva"
+            ],
+            "deliverable": "5 sample transformations",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up service delivery",
+            "description": "Create intake form, delivery process, and payment system",
+            "estimatedHours": 3,
+            "tools": [
+              "Typeform",
+              "Stripe",
+              "Google Drive"
+            ],
+            "deliverable": "Client workflow ready"
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Get first 10 paying clients",
+        "tasks": [
+          {
+            "title": "LinkedIn free review campaign",
+            "description": "Post \"Send me your resume for a free review\" — do 20 free reviews, convert 10 to paid",
+            "estimatedHours": 12,
+            "tools": [
+              "LinkedIn",
+              "ChatGPT"
+            ],
+            "deliverable": "10 paying clients",
+            "aiAssisted": true
+          },
+          {
+            "title": "Join job search communities",
+            "description": "Provide value in 5 Reddit/Discord job search communities, offer services",
+            "estimatedHours": 6,
+            "tools": [
+              "Reddit",
+              "Discord"
+            ],
+            "deliverable": "Community presence"
+          },
+          {
+            "title": "Collect testimonials",
+            "description": "Follow up with first clients for results and testimonials",
+            "estimatedHours": 3,
+            "tools": [
+              "Email",
+              "LinkedIn"
+            ],
+            "deliverable": "5+ testimonials"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "",
+        "tasks": [
+          {
+            "title": "SEO content engine",
+            "description": "Write 15 blog posts targeting \"resume tips for [industry]\" keywords",
+            "estimatedHours": 15,
+            "tools": [
+              "WordPress",
+              "ChatGPT",
+              "Ahrefs"
+            ],
+            "deliverable": "Organic traffic growing",
+            "aiAssisted": true
+          },
+          {
+            "title": "Launch group coaching",
+            "estimatedHours": 8,
+            "tools": [
+              "Zoom",
+              "Notion"
+            ],
+            "deliverable": "Group program with 10+ students",
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          },
+          {
+            "title": "Partner with recruiters",
+            "description": "Build referral relationships with 10 recruiters who encounter candidates needing help",
+            "estimatedHours": 6,
+            "tools": [
+              "LinkedIn",
+              "Email"
+            ],
+            "deliverable": "Recruiter referral pipeline"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI resume and career services business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI resume and career services business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI resume and career services business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "ChatGPT/Claude paid tier",
+            "why": "Real resume/LinkedIn drafting speed needs a paid tier"
+          },
+          {
+            "item": "A resume design template (Canva or a resume-specific tool)",
+            "why": "Clients expect a polished, ATS-compatible visual format, not a plain document"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe helps draft resume bullet points and LinkedIn copy that read as achievement-focused, not task-focused",
+          "firstTask": "Turn this job history into 3 achievement-focused resume bullet points"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps you find and pitch your first clients through networking and referrals",
+          "firstTask": "Help me write a LinkedIn post offering a free resume review to build my first clients"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Resume + LinkedIn Package",
+              "deliverables": [
+                "ATS-optimized resume rewrite",
+                "LinkedIn profile rewrite",
+                "1 cover letter template"
+              ],
+              "timeline": "5-7 business days",
+              "whatsIncluded": [
+                "Intake questionnaire + 30-min call",
+                "2 revision rounds"
+              ]
+            },
+            {
+              "name": "Full Career Sprint",
+              "deliverables": [
+                "Resume + LinkedIn package",
+                "2 mock interview sessions",
+                "Personalized job-search strategy doc"
+              ],
+              "timeline": "2-3 weeks",
+              "whatsIncluded": [
+                "Industry-specific interview question bank",
+                "Salary negotiation talking points"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Client completes intake questionnaire (roles, achievements, target titles)",
+              "owner": "client"
+            },
+            {
+              "step": "Collect current resume + job postings they're targeting",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first draft for review",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Review target roles and industries",
+            "Identify 3-5 achievements to lead with on the resume",
+            "Set the revision and delivery timeline"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "3 days"
+  },
+  {
+    "id": "ai-proposal-specialist",
+    "title": "AI Proposal & RFP Specialist",
+    "description": "Help agencies, consultants, and contractors respond to opportunities faster — proposals, RFP responses, SOWs, and pitch decks — using AI to compress hours of writing into a fast, polished turnaround.",
+    "difficulty": "intermediate",
+    "startupCost": "$0-$100",
+    "timeCommitment": "10-25 hours/week",
+    "skills": [
+      "Business Writing",
+      "Persuasion",
+      "AI Prompting",
+      "Formatting/Compliance"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Google Docs",
+      "Proposify"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 0,
+    "budgetMax": 100,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Choose a target niche and proposal type",
+      "Build a proposal template and AI-assisted workflow",
+      "Write 2-3 sample proposals",
+      "Offer a free proposal rewrite to 2-3 prospects",
+      "Set pricing and turnaround SLAs"
+    ],
+    "audience": {
+      "role": "Agency owner, consultant, or business development lead",
+      "industry": "Agencies, consulting, B2B contracting",
+      "painPoints": [
+        "Loses deals to slower competitors because proposals take too long to turn around",
+        "Writing proposals eats time that could go to billable client work",
+        "RFP responses have strict formatting/compliance requirements that are tedious to manage"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Referrals",
+        "Cold Email",
+        "Partnerships"
+      ],
+      "launchStrategy": "Target agencies, consultants, and contractors first — they write proposals constantly and feel the time cost directly. Build 2-3 real sample proposals (using public RFPs or your own network's real opportunities) before pitching anyone.",
+      "firstCustomerTactics": [
+        "Offer to rewrite/improve one existing proposal for free to prove the quality difference",
+        "Reach out directly to agency owners and consultants — this is a role that saves them hours they can bill elsewhere",
+        "Partner with a business development consultant who can refer proposal-writing overflow to you"
+      ],
+      "contentIdeas": [
+        "A before/after of a rushed proposal vs. a polished one (anonymized)",
+        "\"5 things that make a proposal get rejected before anyone reads the pricing\"",
+        "A template teardown post showing your proposal structure"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Single Proposal",
+        "price": "$300-$1,500",
+        "features": [
+          "One proposal or RFP response, tailored to the opportunity",
+          "1 revision round",
+          "3-5 business day turnaround"
+        ]
+      },
+      {
+        "name": "Rush Response",
+        "price": "$800-$2,500",
+        "features": [
+          "Same scope as Single Proposal",
+          "48-72 hour turnaround for time-sensitive RFPs"
+        ]
+      },
+      {
+        "name": "Monthly Retainer",
+        "price": "$1,500-$5,000/mo",
+        "features": [
+          "Multiple proposals/RFPs per month",
+          "Template library maintenance",
+          "Priority turnaround"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Build your proposal system and a portfolio of samples",
+        "tasks": [
+          {
+            "title": "Choose a target niche and proposal type",
+            "description": "Pick a specific buyer (agencies, consultants, government contractors) and proposal type (project proposals, formal RFP responses, SOWs). Narrower positioning wins over generalist.",
+            "estimatedHours": 2,
+            "tools": [
+              "Notion"
+            ],
+            "deliverable": "A one-line positioning statement",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build a proposal template and AI-assisted workflow",
+            "description": "Create a reusable proposal structure (problem, approach, scope, timeline, pricing, why-us) and a documented AI-assisted drafting process that still requires your own editing pass for voice and accuracy.",
+            "estimatedHours": 5,
+            "tools": [
+              "ChatGPT",
+              "Claude",
+              "Google Docs"
+            ],
+            "deliverable": "A reusable proposal template + drafting workflow",
+            "aiAssisted": true
+          },
+          {
+            "title": "Write 2-3 sample proposals",
+            "description": "Use real (or realistic, anonymized) opportunities to write full sample proposals that demonstrate quality and persuasive structure.",
+            "estimatedHours": 8,
+            "tools": [
+              "ChatGPT",
+              "Claude"
+            ],
+            "deliverable": "2-3 portfolio-ready sample proposals"
+          }
+        ]
+      },
+      {
+        "name": "First Clients",
+        "duration": "2-3 weeks",
+        "description": "Land the first paying clients and set real turnaround expectations",
+        "tasks": [
+          {
+            "title": "Offer a free proposal rewrite to 2-3 prospects",
+            "description": "Find agency owners or consultants in your network with a real upcoming proposal and offer to rewrite it for free as proof of your quality and speed.",
+            "estimatedHours": 6,
+            "tools": [
+              "LinkedIn",
+              "Email"
+            ],
+            "deliverable": "2-3 completed rewrites with feedback/testimonials"
+          },
+          {
+            "title": "Set pricing and turnaround SLAs",
+            "description": "Finalize your 3-tier pricing and commit to realistic turnaround times you can actually hit under real deadline pressure.",
+            "estimatedHours": 2,
+            "tools": [
+              "Notion"
+            ],
+            "deliverable": "Published pricing and SLA commitments"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI proposal specialist business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI proposal specialist business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI proposal specialist business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Single Proposal",
+              "deliverables": [
+                "One tailored proposal or RFP response",
+                "1 revision round"
+              ],
+              "timeline": "3-5 business days",
+              "whatsIncluded": [
+                "Persuasive structure (problem, approach, scope, pricing, why-us)",
+                "Formatting to match RFP requirements if applicable"
+              ]
+            },
+            {
+              "name": "Monthly Retainer",
+              "deliverables": [
+                "Multiple proposals/RFPs per month",
+                "Template library maintenance"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Priority turnaround",
+                "A growing, reusable template library specific to the client's business"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Collect past winning proposals and brand voice examples",
+              "owner": "client"
+            },
+            {
+              "step": "Understand the client's core offer and typical objections well enough to write persuasively",
+              "owner": "you"
+            },
+            {
+              "step": "Confirm any RFP-specific formatting/compliance requirements before drafting",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Review the specific opportunity and what makes the client a strong fit",
+            "Confirm deadline and any formatting/compliance requirements",
+            "Align on tone and key differentiators to emphasize"
+          ]
+        }
+      },
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "ChatGPT/Claude paid tier",
+            "why": "Real drafting speed requires a paid tier, not the free rate-limited version"
+          },
+          {
+            "item": "A proposal design tool (Proposify, PandaDoc, or Google Docs)",
+            "why": "Clients expect a polished, professional-looking final document, not a plain text file"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe helps draft persuasive proposal copy fast, freeing you to focus on strategy and client-specific customization",
+          "firstTask": "Draft the \"why us\" section for this proposal based on these 3 differentiators"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps you find and pitch your first clients — agency owners are the fastest, most receptive audience",
+          "firstTask": "Help me write an outreach message offering a free proposal rewrite to a busy agency owner"
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "ai-sop-builder",
+    "title": "AI SOP & Knowledge Base Builder",
+    "description": "Turn a small business's scattered knowledge — Slack, docs, people's heads — into organized SOPs and a real knowledge base, using AI-assisted interviews and documentation. Most urgent the moment a founder tries to hire or scale.",
+    "difficulty": "beginner",
+    "startupCost": "$0-$50",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Interviewing",
+      "Writing",
+      "Process Documentation",
+      "AI Prompting"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Notion",
+      "Otter.ai"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 0,
+    "budgetMax": 50,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Design your interview and documentation process",
+      "Create a knowledge base template",
+      "Document one process end-to-end as a sample",
+      "Offer a free single-process SOP to 2-3 prospects",
+      "Set pricing and publish your offer"
+    ],
+    "audience": {
+      "role": "Small business owner about to hire or already managing a small team",
+      "industry": "Any small business scaling past solo-founder stage",
+      "painPoints": [
+        "All critical process knowledge lives in their own head — nothing is written down",
+        "New hires take too long to ramp up because there is nothing to train from",
+        "Fears what happens if they get sick or take time off — the business has no documented backup"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Referrals",
+        "Local Networking",
+        "Partnerships"
+      ],
+      "launchStrategy": "Target small businesses about to hire their first employee or scale past the founder-does-everything stage — that's the exact moment undocumented knowledge becomes an urgent, felt problem.",
+      "firstCustomerTactics": [
+        "Offer to document one core process for free as a proof of concept",
+        "Partner with a bookkeeper, HR consultant, or fractional COO who sees this gap in their clients constantly",
+        "Reach out directly to founders who just posted about hiring their first employee"
+      ],
+      "contentIdeas": [
+        "A before/after: messy scattered docs turned into an organized knowledge base",
+        "\"The 5 SOPs every small business needs before hiring employee #1\"",
+        "A walkthrough of your interview-based documentation process"
+      ]
+    },
+    "offers": [
+      {
+        "name": "SOP Sprint",
+        "price": "$500-$1,500",
+        "features": [
+          "Document 3-5 core processes into clear SOPs",
+          "Interview-based capture + AI-assisted writing",
+          "1-2 week turnaround"
+        ]
+      },
+      {
+        "name": "Business Knowledge Base",
+        "price": "$1,500-$5,000",
+        "features": [
+          "Full onboarding manual + FAQ + process library",
+          "Organized in a real tool (Notion, Confluence, or similar)",
+          "3-4 week turnaround"
+        ]
+      },
+      {
+        "name": "Maintenance Retainer",
+        "price": "$500-$1,500/mo",
+        "features": [
+          "Keep the knowledge base current as processes change",
+          "Add new SOPs as needed"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Build your documentation methodology and interview process",
+        "tasks": [
+          {
+            "title": "Design your interview and documentation process",
+            "description": "Build a repeatable process: interview the business owner/team about a process, record or transcribe it, and use AI to turn the transcript into a clear, structured SOP.",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Claude",
+              "Otter.ai"
+            ],
+            "deliverable": "A documented interview + SOP-writing workflow",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create a knowledge base template",
+            "description": "Set up a real, organized structure (in Notion, Confluence, or similar) that a small business can actually use day-to-day — not just a folder of documents.",
+            "estimatedHours": 4,
+            "tools": [
+              "Notion",
+              "Confluence"
+            ],
+            "deliverable": "A reusable knowledge base template/structure"
+          },
+          {
+            "title": "Document one process end-to-end as a sample",
+            "description": "Interview someone (yourself, a friend's business) about a real process and produce a finished SOP to show as a portfolio piece.",
+            "estimatedHours": 6,
+            "tools": [
+              "ChatGPT",
+              "Claude"
+            ],
+            "deliverable": "1 polished sample SOP"
+          }
+        ]
+      },
+      {
+        "name": "First Clients",
+        "duration": "2-3 weeks",
+        "description": "Land the first paying clients",
+        "tasks": [
+          {
+            "title": "Offer a free single-process SOP to 2-3 prospects",
+            "description": "Find small business owners about to hire and offer to document one process for free as proof of concept.",
+            "estimatedHours": 6,
+            "tools": [
+              "LinkedIn",
+              "Local Networking"
+            ],
+            "deliverable": "2-3 completed free SOPs with feedback"
+          },
+          {
+            "title": "Set pricing and publish your offer",
+            "description": "Finalize the 3-tier pricing structure and get a simple page live describing your service.",
+            "estimatedHours": 3,
+            "tools": [
+              "Notion",
+              "Carrd"
+            ],
+            "deliverable": "Published pricing and service description"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI SOP builder business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI SOP builder business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI SOP builder business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "SOP Sprint",
+              "deliverables": [
+                "3-5 core processes documented as clear SOPs",
+                "Interview-based capture"
+              ],
+              "timeline": "1-2 weeks",
+              "whatsIncluded": [
+                "One interview session per process",
+                "AI-assisted writing + your own editing pass"
+              ]
+            },
+            {
+              "name": "Business Knowledge Base",
+              "deliverables": [
+                "Full onboarding manual + FAQ + process library",
+                "Organized in a real tool (Notion or similar)"
+              ],
+              "timeline": "3-4 weeks",
+              "whatsIncluded": [
+                "Multiple interview sessions",
+                "A structured, searchable knowledge base, not just a folder of docs"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Identify the 3-5 highest-priority processes to document first",
+              "owner": "client"
+            },
+            {
+              "step": "Schedule interview sessions with the people who actually do each process",
+              "owner": "you"
+            },
+            {
+              "step": "Deliver the first SOP for review before producing the rest",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm which processes are most urgent to document first",
+            "Identify who on the team to interview for each process",
+            "Set the delivery format and review process"
+          ]
+        }
+      },
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "A transcription tool (Otter.ai)",
+            "why": "Interviews are the core input — accurate transcription saves significant editing time"
+          },
+          {
+            "item": "A knowledge base tool (Notion or Confluence)",
+            "why": "The deliverable needs to live somewhere organized and searchable, not scattered documents"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia helps you think through what actually belongs in a well-organized knowledge base structure",
+          "firstTask": "Help me design a knowledge base structure for a 10-person service business"
+        },
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps you find and pitch small businesses at exactly the right moment — right before they hire their first employee",
+          "firstTask": "Draft outreach to a small business owner who recently posted about hiring their first employee"
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "productized-service-builder",
+    "title": "Productized Service Builder",
+    "description": "Turn a repeatable service into a fixed-scope, fixed-price product. Same deliverable every time, AI-assisted delivery, clients buy from a menu instead of negotiating custom proposals.",
+    "difficulty": "intermediate",
+    "startupCost": "$0-$200",
+    "timeCommitment": "15-20 hours/week",
+    "skills": [
+      "Service Delivery",
+      "Process Design",
+      "AI Workflow Building",
+      "Sales"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Notion",
+      "Stripe",
+      "Zapier"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 0,
+    "budgetMax": 200,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Identify your most repeatable service deliverable",
+      "Define fixed scope, timeline, and price for 3 tiers",
+      "Build AI-assisted delivery workflow for speed",
+      "Launch with a simple landing page and Stripe checkout",
+      "Scale by reducing delivery time and adding new productized offers"
+    ],
+    "audience": {
+      "role": "Founder / Marketing Lead at startup or SMB",
+      "companySize": "1-20 employees",
+      "industry": "SaaS / E-commerce / Professional Services",
+      "painPoints": [
+        "Agencies are too expensive and too slow",
+        "Freelancers are inconsistent in quality",
+        "Hates the back-and-forth of custom proposals",
+        "Needs predictable cost and timeline",
+        "Wants to just buy and get the result"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Twitter/X",
+        "Communities",
+        "Referrals",
+        "SEO"
+      ],
+      "launchStrategy": "Post before/after results publicly.",
+      "firstCustomerTactics": [
+        "Post your productized offer on LinkedIn with clear scope and price",
+        "Share in relevant Slack/Discord communities",
+        "DM 20 people who have complained about overpriced custom services",
+        "Create a comparison post: custom agency vs. your productized alternative",
+        "Offer money-back guarantee to reduce buyer risk"
+      ],
+      "contentIdeas": [
+        "Why I stopped doing custom proposals (and what I do instead)",
+        "Client result: before vs. after my productized [service]",
+        "How I deliver a [deliverable] in 5 hours using AI"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$497",
+        "features": [
+          "Single deliverable (e.g., 1 landing page, 1 audit)",
+          "5-day turnaround",
+          "1 round of revisions",
+          "Email delivery"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "$997",
+        "features": [
+          "Expanded deliverable (e.g., landing page + copy + SEO)",
+          "7-day turnaround",
+          "2 rounds of revisions",
+          "Async project brief + Loom walkthrough (no call needed)",
+          "Source files included"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$1,997",
+        "features": [
+          "Full package (e.g., landing page + copy + SEO + ads)",
+          "10-day turnaround",
+          "3 rounds of revisions",
+          "Async project brief + Loom walkthrough + 30-day check-in note (no call needed)",
+          "Performance tracking for 30 days",
+          "Priority queue"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "3 days",
+        "description": "Define your productized offer, build AI delivery workflow, and set up shop",
+        "tasks": [
+          {
+            "title": "Choose and scope your productized service",
+            "description": "Pick the service you deliver most often with the most consistent scope. Define exactly what is included, what is excluded, turnaround time, and revision policy. Write it down as a one-page scope doc. Examples: landing page design, SEO audit, email sequence, brand identity.",
+            "estimatedHours": 3,
+            "tools": [
+              "Notion",
+              "ChatGPT"
+            ],
+            "deliverable": "Productized service scope document",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build your AI-assisted delivery workflow",
+            "description": "Map out every step of delivering the service. For each step, identify where AI can assist: research, first drafts, copy, design variations, QA. Build prompt templates and Zapier automations for each AI-assisted step.",
+            "estimatedHours": 5,
+            "tools": [
+              "ChatGPT",
+              "Claude",
+              "Zapier",
+              "Notion"
+            ],
+            "deliverable": "AI delivery workflow with prompt templates",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create landing page and checkout",
+            "description": "Build a simple landing page that explains exactly what the client gets, shows the 3 pricing tiers, and links to Stripe Checkout. Include FAQ section addressing common objections. You do not need a full website — one page is enough.",
+            "estimatedHours": 4,
+            "tools": [
+              "Carrd",
+              "Stripe",
+              "Canva"
+            ],
+            "deliverable": "Landing page live with payment links"
+          },
+          {
+            "title": "Build client intake and delivery system",
+            "description": "Create a Google Form or Typeform for client intake (what they need, brand guidelines, examples they like). Set up a delivery workflow in Notion: intake → production → review → delivery. Add email templates for each stage.",
+            "estimatedHours": 3,
+            "tools": [
+              "Google Forms",
+              "Notion",
+              "Gmail"
+            ],
+            "deliverable": "Client intake form + delivery workflow"
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "7 days",
+        "description": "Get your first 5 paying clients with a founding offer",
+        "tasks": [
+          {
+            "title": "Launch founding client campaign",
+            "description": "Announce your productized service on LinkedIn and Twitter/X. This creates urgency and gets you social proof fast.",
+            "estimatedHours": 3,
+            "tools": [
+              "LinkedIn",
+              "Twitter/X",
+              "Email"
+            ],
+            "deliverable": "Launch announcement published",
+            "aiAssisted": true
+          },
+          {
+            "title": "DM 20 potential clients directly",
+            "description": "Identify 20 people who recently complained about agency costs, asked for freelancer recs, or showed need for your deliverable. Send a personalized DM with your offer and founding client discount.",
+            "estimatedHours": 4,
+            "tools": [
+              "LinkedIn",
+              "Twitter/X"
+            ],
+            "deliverable": "20 DMs sent, 3-5 sales calls booked"
+          },
+          {
+            "title": "Deliver first 3 orders using your AI workflow",
+            "description": "Execute your AI-assisted delivery workflow for each client order. Time yourself. Document any bottlenecks. Your goal is to deliver each project in under 5 hours of active work.",
+            "estimatedHours": 12,
+            "tools": [
+              "ChatGPT",
+              "Claude",
+              "Canva",
+              "Notion"
+            ],
+            "deliverable": "3 client projects delivered",
+            "aiAssisted": true
+          },
+          {
+            "title": "Collect testimonials and refine process",
+            "description": "Ask each founding client for a written or video testimonial. Add to your landing page. Note any delivery improvements — update your SOP and prompt templates based on real experience.",
+            "estimatedHours": 2,
+            "tools": [
+              "Email",
+              "Loom",
+              "Notion"
+            ],
+            "deliverable": "3 testimonials + updated delivery SOP"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Optimize delivery time, add new offers, and build recurring revenue",
+        "tasks": [
+          {
+            "title": "Optimize delivery to under 3 hours per project",
+            "description": "Review your delivery data. Identify the slowest steps and find ways to automate or template them.",
+            "estimatedHours": 5,
+            "tools": [
+              "Notion",
+              "ChatGPT",
+              "Zapier"
+            ],
+            "deliverable": "Optimized delivery workflow under 3 hours",
+            "aiAssisted": true
+          },
+          {
+            "title": "Launch a second productized offer",
+            "description": "Based on what clients ask for after buying your first offer, create a complementary productized service. Cross-sell to existing clients and add to your landing page.",
+            "estimatedHours": 6,
+            "tools": [
+              "Notion",
+              "Stripe",
+              "ChatGPT"
+            ],
+            "deliverable": "Second productized service live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create a subscription option",
+            "description": "Offer a monthly subscription: 2-4 deliverables per month at a slight discount. This converts one-time buyers into recurring revenue. Set up Stripe subscriptions.",
+            "estimatedHours": 3,
+            "tools": [
+              "Stripe",
+              "Notion"
+            ],
+            "deliverable": "Subscription plan live"
+          },
+          {
+            "title": "Hire a delivery assistant",
+            "description": "Once you have a fully documented SOP, hire a part-time assistant (Upwork or local) to handle delivery using your templates and AI workflow. You focus on sales and quality review.",
+            "estimatedHours": 5,
+            "tools": [
+              "Upwork",
+              "Notion",
+              "Loom"
+            ],
+            "deliverable": "Assistant onboarded and delivering independently"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your productized service business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your productized service business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your productized service business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Standardized intake form tool (Typeform, Tally, or similar)",
+            "why": "The whole model depends on skipping discovery calls — a real intake form is what makes fixed-price, no-call service delivery work"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia helps template the production workflow so delivery is repeatable, not custom-built each time",
+          "firstTask": "Draft a repeatable production checklist for this fixed-scope deliverable"
+        },
+        {
+          "personaId": "business-advisor",
+          "why": "Blake helps define the escape hatch for out-of-scope requests, which the scaffold flags as the clause that protects the whole model",
+          "firstTask": "Draft the out-of-scope escalation clause for this service agreement"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Fixed-Scope Package",
+              "deliverables": [
+                "One clearly-defined deliverable (e.g. \"5-page website,\" \"brand kit,\" \"SEO audit\")",
+                "Fixed price, fixed timeline"
+              ],
+              "timeline": "Defined per service (e.g. 1 week)",
+              "whatsIncluded": [
+                "Standardized intake form",
+                "AI-assisted production workflow",
+                "One revision round"
+              ],
+              "whatsNotIncluded": [
+                "Custom scope changes (routed to a separate quote)"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Client fills out standardized intake form (no discovery call needed)",
+              "owner": "client"
+            },
+            {
+              "step": "Auto-confirm scope matches the fixed-price package",
+              "owner": "you"
+            },
+            {
+              "step": "Deliver via the templated production workflow",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "No call needed for standard orders — intake form triggers the workflow",
+            "For edge cases: confirm whether the request fits the fixed package or needs a custom quote"
+          ],
+          "deliverableTemplate": {
+            "title": "Fixed-Scope Deliverable Checklist",
+            "sections": [
+              "Intake form summary",
+              "Production checklist",
+              "QA pass",
+              "Delivery + off-boarding note"
+            ]
+          }
+        }
+      }
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "fiverr-ai-pro-stack",
+    "title": "Fiverr AI Pro Stack",
+    "description": "Sell premium AI services on Fiverr — voice cloning, AI avatars, video editing, custom GPT building, n8n automations, content production. Each gig leverages cutting-edge AI tools to deliver in hours what agencies charge thousands for. Build to Fiverr Pro status for top-of-search placement.",
+    "difficulty": "intermediate",
+    "startupCost": "$50-$300",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "AI Tool Mastery",
+      "Gig Optimization (Fiverr SEO)",
+      "Client Communication",
+      "Project Delivery",
+      "Upsell Strategy"
+    ],
+    "tools": [
+      "Fiverr",
+      "ChatGPT",
+      "ElevenLabs",
+      "HeyGen",
+      "RunwayML",
+      "n8n",
+      "Make"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 50,
+    "budgetMax": 300,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Pick 1-3 AI service niches (voice clones, AI avatars, custom GPTs, video edits, automations)",
+      "Master the AI tool stack for each niche to a delivery-ready level",
+      "Create 3-5 Fiverr gigs with portfolio + tiered pricing",
+      "Drive first 10 orders aggressively (Buyer Requests, Fiverr Promoted Gigs)",
+      "Build to Fiverr Pro status; layer upsells; expand to off-platform retainers"
+    ],
+    "audience": {
+      "role": "Aspiring AI freelancer",
+      "industry": "Freelance / AI services",
+      "painPoints": [
+        "Knows AI tools exist but does not know which to monetize",
+        "Fiverr feels saturated — does not know how to stand out",
+        "Pricing anxiety — undercharging or scaring clients away"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "SEO",
+        "Paid Ads",
+        "Content Marketing",
+        "Communities"
+      ],
+      "launchStrategy": "Fiverr is the channel. Win gig SEO + reviews. First 10 orders matter most — discount aggressively, over-deliver, get 5-star reviews. Use Buyer Requests and Promoted Gigs to accelerate. After 30 days, focus on Fiverr Pro application.",
+      "firstCustomerTactics": [
+        "Send Buyer Requests aggressively (10-20 per day) for first 2 weeks",
+        "Build a portfolio site that links from your Fiverr profile",
+        "Cross-post sample work on TikTok / Twitter for organic discovery"
+      ],
+      "contentIdeas": [
+        "Before/after AI service walkthroughs",
+        "Behind-the-scenes of voice cloning / video generation",
+        "Time-lapse of building a custom GPT",
+        "Client wins (with permission)",
+        "AI tool tutorials that drive freelance leads"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter Gigs",
+        "price": "$25-75",
+        "features": [
+          "Voice clones (short scripts)",
+          "Single-scene AI avatar videos",
+          "Simple custom GPTs",
+          "Quick automations"
+        ]
+      },
+      {
+        "name": "Standard Gigs",
+        "price": "$100-350",
+        "features": [
+          "Multi-scene AI videos",
+          "Trained custom GPTs with knowledge bases",
+          "Multi-step n8n workflows",
+          "Voice + video bundles"
+        ]
+      },
+      {
+        "name": "Premium / Pro Gigs",
+        "price": "$500-2,500",
+        "features": [
+          "Full AI ad campaigns",
+          "Voice + avatar branded asset packs",
+          "Enterprise GPT + automation systems",
+          "Monthly retainer extensions"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Pick AI niches, master tools, set up Fiverr profile",
+        "tasks": [
+          {
+            "title": "Pick 1-3 AI service niches",
+            "description": "Score candidate niches: voice cloning, AI avatars, custom GPTs, video editing, automations. Use AI to research demand on Fiverr (look at top-rated sellers in each). Pick ONE primary + 1-2 adjacent for variation.",
+            "estimatedHours": 3,
+            "tools": [
+              "Fiverr",
+              "ChatGPT",
+              "Google Sheets"
+            ],
+            "deliverable": "Niche selection with rationale",
+            "aiAssisted": true
+          },
+          {
+            "title": "Master your AI tool stack",
+            "description": "Get hands-on with the tools your niche requires. Voice = ElevenLabs. Avatars = HeyGen. Custom GPTs = OpenAI Builder. Automations = n8n + Make + Zapier. Produce 5 portfolio pieces in each — these become gig samples.",
+            "estimatedHours": 12,
+            "tools": [
+              "ElevenLabs",
+              "HeyGen",
+              "OpenAI",
+              "n8n",
+              "Make"
+            ],
+            "deliverable": "5 portfolio pieces per niche"
+          },
+          {
+            "title": "Set up Fiverr profile + first 3 gigs",
+            "description": "Profile: pro photo, 3-paragraph bio with keywords, skills tagged. Each gig: AI-optimized title (keyword + value prop), 3 packages (Basic/Standard/Premium), gallery (5 portfolio pieces), 7 tags, FAQ. Price aggressively to seed reviews.",
+            "estimatedHours": 6,
+            "tools": [
+              "Fiverr",
+              "Canva",
+              "ChatGPT"
+            ],
+            "deliverable": "Profile + 3 gigs live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "3 weeks",
+        "description": "First 10 orders + 5-star reviews + Fiverr promotion",
+        "tasks": [
+          {
+            "title": "Send 10-20 Buyer Requests per day",
+            "description": "Fiverr Buyer Requests = leads. Filter for buyers in your niche, response within 5 min. Goal: 3-5 orders/week from Buyer Requests.",
+            "estimatedHours": 10,
+            "tools": [
+              "Fiverr",
+              "ChatGPT"
+            ],
+            "deliverable": "5+ orders from Buyer Requests",
+            "aiAssisted": true
+          },
+          {
+            "title": "Run Promoted Gigs",
+            "description": "Track conversion (impressions → clicks → orders). Pause losers; double-down on winners.",
+            "estimatedHours": 3,
+            "tools": [
+              "Fiverr Promoted Gigs"
+            ],
+            "deliverable": "Promoted Gigs running with positive ROAS"
+          },
+          {
+            "title": "Over-deliver on first 10 orders",
+            "description": "Goal: 5-star reviews. Deliver 24-48h faster than promised. Add a small bonus (extra revision, additional asset). Follow up after delivery for review request. First 10 reviews are existential.",
+            "estimatedHours": 12,
+            "tools": [
+              "Fiverr",
+              "AI tool stack",
+              "Loom"
+            ],
+            "deliverable": "10+ orders with 5-star reviews"
+          },
+          {
+            "title": "Set up off-platform funnel",
+            "description": "After first delivery (Fiverr policy allows), invite repeat clients to a portfolio site / email list. Build an off-platform pipeline that compounds beyond Fiverr fees.",
+            "estimatedHours": 4,
+            "tools": [
+              "Carrd",
+              "ConvertKit",
+              "Calendly"
+            ],
+            "deliverable": "Portfolio site + email list capturing leads"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "Apply for Fiverr Pro, expand catalog, raise prices, build retainers",
+        "tasks": [
+          {
+            "title": "Apply for Fiverr Pro",
+            "description": "Once you have 30+ 5-star reviews + Level 2 status, apply for Fiverr Pro. Submit portfolio + credentials + identity verification.",
+            "estimatedHours": 4,
+            "tools": [
+              "Fiverr Pro"
+            ],
+            "deliverable": "Fiverr Pro application submitted"
+          },
+          {
+            "title": "Expand to 5-7 gigs total",
+            "description": "Add adjacent gigs that attach to existing buyers (e.g., a consent-based voice project adds an approved AI avatar bundle).",
+            "estimatedHours": 10,
+            "tools": [
+              "Fiverr",
+              "AI tool stack",
+              "ChatGPT"
+            ],
+            "deliverable": "5-7 gigs live with stable orders",
+            "aiAssisted": true
+          },
+          {
+            "title": "Raise prices 25-50%",
+            "description": "Once Fiverr Pro or Level 2 + 4.9+ rating, raise prices. Test on premium tier first. Higher prices filter for better clients.",
+            "estimatedHours": 2,
+            "tools": [
+              "Fiverr"
+            ],
+            "deliverable": "Pricing raised across all gigs"
+          },
+          {
+            "title": "Convert top buyers to monthly retainers",
+            "description": "Identify 5-10 repeat buyers. Bypasses Fiverr fees and locks in revenue.",
+            "estimatedHours": 6,
+            "tools": [
+              "Email",
+              "Calendly",
+              "Stripe"
+            ],
+            "deliverable": "3+ retainer clients signed"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI service freelance business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI service freelance business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI service freelance business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "ElevenLabs, HeyGen, or the specific AI tool for your chosen gig types",
+            "why": "Each gig type needs its own tool subscription — pick 1-2 gig types to start, not all of them at once"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie helps you optimize your Fiverr gig listings and descriptions for search/conversion",
+          "firstTask": "Help me write a gig title and description optimized for Fiverr search"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Standard Gig",
+              "deliverables": [
+                "1 finished AI-produced asset (voice clone, avatar video, custom GPT, or automation) per gig type",
+                "1 revision"
+              ],
+              "timeline": "24-72 hours per Fiverr gig terms",
+              "whatsIncluded": [
+                "Gig-specific delivery per the listed package tier (Basic/Standard/Premium)"
+              ]
+            },
+            {
+              "name": "Premium Package",
+              "deliverables": [
+                "Expanded scope (e.g. multi-video set, full n8n workflow, custom GPT + docs)",
+                "2 revisions",
+                "Priority delivery"
+              ],
+              "timeline": "3-5 days",
+              "whatsIncluded": [
+                "Extended support during delivery window"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Buyer submits Fiverr order requirements form",
+              "owner": "client"
+            },
+            {
+              "step": "Confirm requirements are complete before starting the clock",
+              "owner": "you"
+            },
+            {
+              "step": "Deliver via Fiverr platform within the stated gig timeline",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "No live call for most gigs — confirm requirements via Fiverr order form messaging",
+            "For custom/Premium orders: clarify scope via Fiverr chat before accepting"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Gig title + tag generator (Fiverr SEO)",
+          "prompt": "Generate Fiverr-optimized gig title + tags for an AI service.\n\nService: [voice clone / AI avatar / custom GPT / video edit / automation]\nTarget buyer: [solopreneur / agency / SMB / B2B SaaS]\nDifferentiation: [what makes you better than the $5 race-to-bottom]\n\nOutput:\n\nGIG TITLE (max 80 chars, lead with action verb + niche):\n\"I will [action] [niche] [premium descriptor]\"\nTest 3 variants — Fiverr A/B tests them.\n\n5 TAGS (max 20 chars each):\n- Mix of broad + niche keywords\n- Match buyer search intent\n\nGIG GALLERY DESCRIPTIONS (5 slots):\n- Hero (the headline benefit shot)\n- Sample 1 (raw output)\n- Sample 2 (different style/use case)\n- Process (your workflow)\n- Pricing/packages overview\n\n3 PACKAGES (Basic / Standard / Premium):\n- Each with feature list, price, delivery time\n- Standard should be 40-50% of orders (sweet spot pricing)\n\n5 FAQ:\n- Most common buyer concerns answered up-front\n- Reduces refund + revision rate"
+        },
+        {
+          "task": "Buyer Request response (10-20/day at scale)",
+          "prompt": "Generate a personalized Fiverr Buyer Request response in under 100 words.\n\nBuyer Request:\n[paste their request]\n\nMy gig: [link / service]\nMy differentiation: [why pick me]\nPricing: [my standard package]\n\nTone: warm, fast, confident — not pushy.\n\nOutput:\n- Subject line (Fiverr cuts at 50 chars)\n- Response body (4-5 short paragraphs max)\n- Soft urgency (e.g., \"I have 2 slots open this week\")\n- Clear next step (link to gig or DM)\n\nNEVER copy-paste generic responses. Reference one specific detail from their request."
+        },
+        {
+          "task": "Custom GPT spec drafter",
+          "prompt": "Build a complete spec for a Custom GPT I will deliver to a Fiverr buyer.\n\nBuyer use case: [what they need]\nIndustry: [their niche]\nKnowledge they will provide: [docs, examples, brand voice]\nTone: [formal / casual / specific personality]\n\nOutput:\n\nNAME: [memorable, on-brand]\n\nDESCRIPTION (under 300 chars): [hook + capability + outcome]\n\nINSTRUCTIONS (the system prompt):\n- Role definition\n- Knowledge boundaries\n- Tone + style guidance\n- Output format expectations\n- 3-5 example interactions\n\nCONVERSATION STARTERS (4):\n- Common buyer flows\n\nKNOWLEDGE FILES (suggest):\n- Recommended uploads for grounding\n- File format guidance\n\nCAPABILITIES:\n- Web browsing yes/no\n- Code interpreter yes/no\n- Image generation yes/no\n\nDELIVERABLE PACKAGE:\n- 1-page README\n- Loom walkthrough\n- 5 example use cases"
+        },
+        {
+          "task": "Off-platform retainer pitch",
+          "prompt": "Convert a happy Fiverr buyer to an off-platform monthly retainer (allowed after first delivery).\n\nBuyer context:\n- They ordered: [service]\n- They responded: [feedback received]\n- Their business: [what they do]\n- Their volume needs: [hint at recurring need]\n\nOutput:\n\nPITCH MESSAGE (Fiverr DM, under 200 words):\n- Lead with appreciation for their order\n- Reference their specific need\n- Propose monthly retainer ($1-5K range)\n- Explain why off-platform helps THEM (faster turnaround, no Fiverr revisions)\n- Soft CTA — book a call or reply yes/no\n\nFOLLOW-UP IF NO REPLY (after 5 days):\nSingle-line nudge.\n\nOFF-PLATFORM ONBOARDING:\n- Calendly link\n- Stripe payment link\n- Slack or Notion workspace setup"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "why": "Low-priced gigs attract difficult buyers, demand more revisions, and generate worse reviews. Higher prices filter for serious clients."
+        },
+        {
+          "mistake": "No portfolio outside Fiverr",
+          "why": "Fiverr buyers Google your name + work. A standalone portfolio site = trust signal. Without one, you cap at lower tiers.",
+          "prevention": "Build a Carrd or Notion site. Link from Fiverr profile. Showcase 5-10 sample deliverables."
+        },
+        {
+          "mistake": "Late delivery breaks gig algorithm",
+          "why": "Fiverr ranks gigs by on-time delivery + completion rate. Even 1 late delivery tanks ranking for weeks.",
+          "prevention": "Set 3-5 day delivery times even if you can do 1 day. Buffer protects ranking + creates \"fast delivery\" surprise."
+        },
+        {
+          "mistake": "Single price (no package tiers)",
+          "prevention": "Always 3 packages."
+        },
+        {
+          "mistake": "Not converting buyers to off-platform retainers",
+          "prevention": "After first delivery (Fiverr policy allows), pitch retainer for ongoing work."
+        },
+        {
+          "mistake": "Generic gigs vs niched gigs",
+          "why": "\"Voice clone\" loses to \"ElevenLabs voice clone for podcast intros\" — niche wins SEO + trust.",
+          "prevention": "Niche each gig down to a specific buyer persona × specific use case."
+        },
+        {
+          "mistake": "Sharing contact info before first delivery",
+          "why": "Fiverr ToS prohibits this. Account suspension + lost balance.",
+          "prevention": "After first delivery, you can invite to off-platform. Before? Stay strictly on Fiverr."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Voice cloning",
+          "recommendation": "ElevenLabs is industry-standard. PlayHT for budget. Resemble for enterprise voices.",
+          "options": [
+            {
+              "name": "ElevenLabs",
+              "bestFor": "Highest quality, biggest voice library",
+              "url": "https://elevenlabs.io"
+            },
+            {
+              "name": "PlayHT",
+              "bestFor": "Budget option, decent quality"
+            },
+            {
+              "name": "Resemble AI",
+              "bestFor": "Enterprise voice cloning, more control"
+            }
+          ]
+        },
+        {
+          "category": "AI Avatars",
+          "recommendation": "HeyGen for ease. Synthesia for enterprise. D-ID for cheaper alternatives.",
+          "options": [
+            {
+              "name": "HeyGen",
+              "bestFor": "Studio-quality avatars, fast generation",
+              "url": "https://heygen.com"
+            },
+            {
+              "name": "Synthesia",
+              "bestFor": "Enterprise, multi-language"
+            },
+            {
+              "name": "D-ID",
+              "bestFor": "Budget option, smaller avatar library"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Stay on Fiverr vs migrate to Upwork?",
+          "options": [
+            {
+              "choice": "Stay on Fiverr",
+              "pickIf": "You sell productized AI services (voice, video, GPTs) with clear deliverables.",
+              "nextStep": "Optimize for Fiverr Pro path. Build to 5-7 gigs with strong upsells."
+            },
+            {
+              "choice": "Migrate to Upwork",
+              "pickIf": "You sell ongoing strategic work (consulting, automation builds, retainers).",
+              "nextStep": "Upwork is better for hourly + retainer-style work. Lower fees at higher tiers."
+            },
+            {
+              "choice": "Both",
+              "pickIf": "",
+              "nextStep": "Different gigs for each platform. Fiverr productized, Upwork relational."
+            }
+          ]
+        },
+        {
+          "question": "Apply for Fiverr Pro?",
+          "options": [
+            {
+              "choice": "Yes — apply ASAP",
+              "pickIf": "You have 30+ 5-star reviews + Level 2 + a portfolio site + verified credentials.",
+              "nextStep": "Submit application with strongest portfolio pieces."
+            },
+            {
+              "choice": "Wait",
+              "pickIf": "You are under Level 2 OR have under 30 reviews.",
+              "nextStep": "Focus on review count + delivery quality first. Re-apply at next milestone."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1-2 weeks"
+  },
+  {
+    "id": "daily-cashflow-stack",
+    "title": "Daily Cashflow Stack",
+    "description": "Compare cashback, surveys, receipt scanning and small paid tasks. Track cleared payouts, purchases and time to see whether a routine pays for itself.",
+    "difficulty": "beginner",
+    "startupCost": "$0-$50",
+    "timeCommitment": "30-60 minutes/day",
+    "skills": [
+      "Routine + Discipline",
+      "Mobile App Fluency",
+      "Receipt Tracking",
+      "Survey Eligibility Optimization"
+    ],
+    "tools": [
+      "Ibotta",
+      "Fetch Rewards",
+      "Rakuten",
+      "Prolific",
+      "UserTesting",
+      "Google Opinion Rewards"
+    ],
+    "category": "Freelance services",
+    "categoryId": "services",
+    "budgetMin": 0,
+    "budgetMax": 50,
+    "weeklyMin": 3.5,
+    "steps": [
+      "Sign up for the core cashback + survey + microtask stack (10-15 apps)",
+      "Build a daily routine: 30-60 min covering all platforms",
+      "Layer in receipt-scanning passive income for groceries you already buy",
+      "Add UserTesting / Prolific for higher-paying research studies",
+      "Compound: referral bonuses, signup bonuses, credit card cashback stacking"
+    ],
+    "audience": {
+      "role": "Anyone needing extra cash flow",
+      "industry": "Personal finance / side income",
+      "painPoints": [
+        "Cannot find time/energy for a real side hustle",
+        "Wants a daily income floor for emergencies or savings",
+        "Already busy with day job, family, school",
+        "Skeptical of make-money-online scams",
+        "Does not have capital to invest in a business"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Communities",
+        "Content Marketing",
+        "Referrals"
+      ],
+      "launchStrategy": "There is no audience to build — this is a personal cashflow stack. The only GTM is content if you want to monetize teaching others (referral commissions on signups).",
+      "firstCustomerTactics": [
+        "Sign up for top 15 apps in week 1 — capture all signup bonuses",
+        "Set a 60-minute daily block (e.g., morning coffee or evening wind-down)",
+        "Buffer with passive layer (scan every grocery receipt for 60 days)",
+        "Apply to UserTesting + Respondent.io for higher-paying research",
+        "Track earnings per platform weekly — drop low performers"
+      ],
+      "contentIdeas": [
+        "Daily earnings tracker / income reports",
+        "App-by-app breakdown (TikTok loves these)",
+        "Receipt-scanning hacks",
+        "Survey demographic optimization",
+        "Credit card + cashback stacking guides"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Passive Layer",
+        "price": "$50-200/mo",
+        "features": [
+          "Receipt scanning (Fetch, Ibotta) on groceries you already buy",
+          "Cashback browser extensions (Rakuten, Capital One Shopping)",
+          "Credit card cashback stacking",
+          "Almost zero ongoing effort"
+        ]
+      },
+      {
+        "name": "Active Daily",
+        "price": "$200-800/mo",
+        "features": [
+          "Daily 30-60 min survey routine (Prolific, Pinecone, Surveyeah)",
+          "Microtasks (Amazon MTurk, Clickworker)",
+          "Mobile-only earners (Google Opinion Rewards, Mistplay)",
+          "Where most stackers land"
+        ]
+      },
+      {
+        "name": "High-Paying Research",
+        "price": "$500-2,000/mo",
+        "features": [
+          "Focus group participation",
+          "Demographics matter — niche professionals earn most"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "3 days",
+        "description": "Sign up for the core stack and capture signup bonuses",
+        "tasks": [
+          {
+            "title": "Sign up for the 15-app starter stack",
+            "description": "Cashback: Ibotta, Fetch Rewards, Rakuten, Capital One Shopping, Upside (gas). Surveys: Prolific, Pinecone Research, Surveyeah, Google Opinion Rewards. Microtasks: Amazon MTurk, Clickworker. Research: UserTesting, Respondent.io. Mobile: Mistplay (gaming), Field Agent. Use referral codes for bonuses.",
+            "estimatedHours": 3,
+            "tools": [
+              "Mobile apps",
+              "Web browsers"
+            ],
+            "deliverable": "15 active accounts with verified payouts"
+          },
+          {
+            "title": "Optimize your survey demographics",
+            "description": "Most survey platforms ask demographic questions. Be honest but thorough — completeness boosts your survey eligibility.",
+            "estimatedHours": 2,
+            "tools": [
+              "Survey platform settings"
+            ],
+            "deliverable": "All demographic profiles complete"
+          },
+          {
+            "title": "Build your daily routine block",
+            "description": "Reserve 30-60 minutes per day at a consistent time (morning coffee, lunch break, evening wind-down). Order: receipts (5 min) → quick surveys (15 min) → research studies if available (30+ min) → mobile passive earners (5 min).",
+            "estimatedHours": 1,
+            "tools": [
+              "Calendar app",
+              "ChatGPT"
+            ],
+            "deliverable": "Daily routine documented and scheduled",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "4 weeks",
+        "description": "Run the daily routine, hit cashout thresholds, layer in referrals",
+        "tasks": [
+          {
+            "title": "Run daily routine for 30 days straight",
+            "description": "Discipline is the entire game. Track earnings per app daily. After 30 days you will know which platforms are worth the time. Most stackers find Prolific + UserTesting + Fetch as their core 3.",
+            "estimatedHours": 20,
+            "tools": [
+              "All app stack",
+              "Google Sheets"
+            ]
+          },
+          {
+            "title": "Apply to higher-paying research platforms",
+            "description": "UserTesting requires a screen test (sample video). Respondent.io requires applications per study. Userlytics, Userbrain, Loop11 — all niche but high-pay. Apply to all; demographics + demeanor wins approvals.",
+            "estimatedHours": 3,
+            "tools": [
+              "UserTesting",
+              "Respondent.io",
+              "Userlytics"
+            ],
+            "deliverable": "Approved on at least 2 high-pay research platforms"
+          },
+          {
+            "title": "Drop low performers, double down on winners",
+            "description": "After 30 days, calculate $/hour for each platform. Drop bottom 5. Allocate more time to top 3. AI-suggest optimization moves based on your earnings data.",
+            "estimatedHours": 2,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Optimized stack of 6-8 high-performing apps",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up referral pipeline",
+            "description": "Share your codes (ethically) with friends, family, social. Track referral earnings — for some heavy stackers, referrals exceed direct earnings.",
+            "estimatedHours": 3,
+            "tools": [
+              "Linktree",
+              "Social media"
+            ],
+            "deliverable": "Referral page live + first 10 referrals"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Compound earnings via referrals, content, and credit card stacking",
+        "tasks": [
+          {
+            "title": "Layer in credit card cashback stacking",
+            "description": "Cashback credit cards (Discover, Capital One, Chase Freedom) on TOP of cashback apps. Pay off monthly to avoid interest. Stack with Rakuten / Capital One Shopping for double-dip.",
+            "estimatedHours": 2,
+            "tools": [
+              "Credit card portals"
+            ],
+            "deliverable": "Cashback CC layer active"
+          },
+          {
+            "title": "Build content around your stack",
+            "description": "TikTok / Instagram Reels / blog about your earnings, app reviews, hacks. Income reports drive referral commissions.",
+            "estimatedHours": 12,
+            "tools": [
+              "TikTok",
+              "Instagram",
+              "ChatGPT",
+              "Canva"
+            ],
+            "deliverable": "20+ posts driving referral signups",
+            "aiAssisted": true
+          },
+          {
+            "title": "Track and optimize quarterly",
+            "description": "Every 90 days: re-evaluate the stack. Drop platforms with declining payouts, sign up for new options. AI helps research what is currently paying highest.",
+            "estimatedHours": 3,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Quarterly optimization cycle running",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your daily cashflow side income for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your daily cashflow side income — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your daily cashflow side income and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "aiPrompts": [
+        {
+          "task": "Survey eligibility / screening helper",
+          "prompt": "Act as a market research participant coach. I am applying to a screening for a paid study.\n\nStudy topic: [paste]\nScreener questions: [paste]\nMy honest profile: [age, location, profession, household, hobbies, interests]\nTarget study fits: [tech early adopters / parents / specific industries]\n\nOutput:\n1. Which honest answers maximize qualification odds (without lying)\n2. Which screener questions are likely \"trap\" questions (red herrings to filter cheaters)\n3. Which answers might disqualify and how to phrase honestly\n4. Estimated qualification probability based on the screener pattern\n\nDO NOT lie. The goal is presenting your real self in the best possible light, not gaming the system."
+        },
+        {
+          "task": "Daily routine optimizer (max $/min)",
+          "prompt": "Act as a productivity coach for a cashback / survey stacker. Optimize my daily 60-min routine.\n\nMy data:\n- Last 30 days: [paste platform earnings + time spent per platform]\n- My profile: [demographics that affect survey eligibility]\n- Tools I have: [list]\n\nOutput:\n\nOPTIMIZED ROUTINE (60 min):\n- Minute 0-5: [highest $/min task]\n- Minute 5-20: [next priority]\n- Minute 20-50: [main earner]\n- Minute 50-60: [passive layer / opportunistic]\n\nPLATFORMS TO DROP:\n- Below threshold: [list with reasoning]\n\nPLATFORMS TO ADD:\n- New options based on my profile\n\nWEEKLY COMPOUND MOVES:\n- Referral campaigns\n- Bonus stacking opportunities\n\nGoal: maximize $/hour while maintaining sustainability."
+        },
+        {
+          "task": "Receipt-to-deduction (tax categorization)",
+          "prompt": "I will paste a list of expenses from this month. For each, tell me:\n\n1. Tax-deductible? (yes/no/partial)\n2. Schedule C category if applicable\n3. Documentation to keep\n4. Audit risk (low/medium/high)\n\nExpenses:\n[paste line items]\n\nReminder: I am a self-employed side-hustler running [your hustles]. Common deductions: home office %, internet %, phone %, mileage, software subscriptions, supplies, education."
+        },
+        {
+          "task": "Referral promotion content (TikTok/Reels)",
+          "prompt": "Generate 3 short-form video scripts to promote my referral codes for cashback / income apps. Tone: honest, helpful, not sleazy.\n\nApps to feature: [list with referral bonus amounts]\nMy niche: [personal finance / Gen Z / parents / etc]\nFormat: TikTok / Reel (60s max)\n\nFor each video:\n- Hook (0-3s)\n- Core value reveal (3-30s)\n- Real earnings + receipts (30-50s)\n- CTA + referral mention (50-60s)\n- Caption + 5 hashtags\n- On-screen text cues\n\nHonest about pay rates. No \"get rich\" framing. Receipts only — no inflation."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Treating it as a real income replacement",
+          "prevention": "Position daily cashflow as a FLOOR, not a ceiling. Pair it with a real hustle (any of #61-70) that can scale."
+        },
+        {
+          "mistake": "Lying on survey demographics",
+          "why": "Platforms catch lies via inconsistencies. Disqualifications + bans = no recourse.",
+          "prevention": "Demographics are NOT what makes you valuable — your authentic profile + reliability is."
+        },
+        {
+          "mistake": "Skipping signup bonuses (leaving easy money)",
+          "prevention": "Hit ALL 15 apps in week 1. Use referral codes (yours or a friend's — both win)."
+        },
+        {
+          "mistake": "No cashout schedule (forgetting to redeem)",
+          "why": "Some platforms void unredeemed earnings after 6-12 months of inactivity.",
+          "prevention": "Set monthly cashout reminder. Track minimum thresholds per platform."
+        },
+        {
+          "mistake": "Ignoring the higher-pay platforms (UserTesting, Respondent)",
+          "prevention": "Apply to UserTesting + Respondent in week 1. Pass the screen test (record a sample). Set up Respondent profile fully."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Cashback apps",
+          "recommendation": "Run all of: Ibotta + Fetch + Rakuten + Capital One Shopping + Upside (gas). Each is free + serves different categories.",
+          "options": [
+            {
+              "name": "Ibotta",
+              "bestFor": "Grocery + drugstore receipts",
+              "url": "https://ibotta.com"
+            },
+            {
+              "name": "Fetch Rewards",
+              "bestFor": "Universal receipt scanner (all retailers)",
+              "url": "https://fetchrewards.com"
+            },
+            {
+              "name": "Rakuten",
+              "bestFor": "Online shopping cashback",
+              "url": "https://rakuten.com"
+            },
+            {
+              "name": "Capital One Shopping",
+              "bestFor": "Browser extension auto-applies coupons + cashback"
+            },
+            {
+              "name": "Upside",
+              "bestFor": "Gas + restaurant cashback (best gas app)"
+            }
+          ]
+        },
+        {
+          "category": "Surveys",
+          "recommendation": "Prolific + Pinecone are the most reliable. Skip Swagbucks/InboxDollars (poor $/hour).",
+          "options": [
+            {
+              "name": "Prolific",
+              "url": "https://prolific.com"
+            },
+            {
+              "name": "Pinecone Research"
+            },
+            {
+              "name": "Surveyeah",
+              "bestFor": "Quick surveys"
+            },
+            {
+              "name": "Google Opinion Rewards",
+              "bestFor": "Google Play credits, tiny but constant"
+            }
+          ]
+        },
+        {
+          "category": "High-pay research",
+          "recommendation": "UserTesting + Respondent.io. These are the actual money makers.",
+          "options": [
+            {
+              "name": "UserTesting",
+              "url": "https://usertesting.com"
+            },
+            {
+              "name": "Respondent.io",
+              "url": "https://respondent.io"
+            },
+            {
+              "name": "Userlytics",
+              "bestFor": "Similar to UserTesting, smaller pool"
+            },
+            {
+              "name": "Userbrain"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Should I focus on active stacking or passive cashback only?",
+          "options": [
+            {
+              "choice": "Passive only",
+              "pickIf": "You hate surveys + just want a small cashback layer.",
+              "nextStep": "Install Ibotta + Fetch + Rakuten + Capital One Shopping. Scan every grocery receipt."
+            },
+            {
+              "choice": "Full active stack",
+              "pickIf": "",
+              "nextStep": "Sign up for the 15-app stack. Apply to UserTesting + Respondent. Build the daily routine."
+            },
+            {
+              "choice": "Hybrid (passive + research only)",
+              "pickIf": "You hate surveys but high-pay research interviews work for you.",
+              "nextStep": "Cashback layer + UserTesting + Respondent. Skip survey grind entirely."
+            }
+          ]
+        },
+        {
+          "question": "Should I monetize this as content?",
+          "options": [
+            {
+              "choice": "Yes — referral content creator",
+              "pickIf": "You enjoy creating content + are willing to be public about your earnings.",
+              "nextStep": "Build a TikTok/Reels/blog around earnings."
+            },
+            {
+              "choice": "No — keep it private",
+              "pickIf": "You just want personal income.",
+              "nextStep": "Stack quietly. Do not share codes publicly. Optimize for personal $/hour."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1 day"
+  }
+]

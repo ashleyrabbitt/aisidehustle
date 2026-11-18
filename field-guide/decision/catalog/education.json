@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "online-courses",
+    "title": "Online Course Creation",
+    "description": "Teach your expertise through online video courses",
+    "difficulty": "intermediate",
+    "startupCost": "$100-$500",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Subject Expertise",
+      "Video Editing",
+      "Marketing"
+    ],
+    "tools": [
+      "Teachable",
+      "Canva",
+      "Zoom"
+    ],
+    "category": "Teaching & courses",
+    "categoryId": "education",
+    "budgetMin": 100,
+    "budgetMax": 500,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Choose your course topic",
+      "Validate the idea",
+      "Create course content",
+      "Launch and market",
+      "Build community"
+    ],
+    "audience": {
+      "role": "Professional seeking skills",
+      "painPoints": [
+        "Want to learn new skill but busy",
+        "Overwhelmed by free content",
+        "Need structured learning path",
+        "Want accountability"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "YouTube",
+        "Twitter/X",
+        "SEO",
+        "Podcast"
+      ],
+      "launchStrategy": "Build audience with free content, then launch course to warm audience",
+      "firstCustomerTactics": [
+        "Start YouTube channel teaching your topic",
+        "Grow email list with free mini-course",
+        "Collect testimonials during beta"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Mini Course",
+        "price": "$47-$97",
+        "features": [
+          "1-2 hours content",
+          "Self-paced",
+          "Basic community access"
+        ]
+      },
+      {
+        "name": "Flagship Course",
+        "price": "$297-$497",
+        "features": [
+          "5-10 hours content",
+          "Community access",
+          "Templates/resources",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Premium Program",
+        "price": "$997-$2,000",
+        "features": [
+          "Full curriculum",
+          "Live coaching calls",
+          "Private community",
+          "1:1 support",
+          "Certification"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Validation",
+        "duration": "7 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Define course topic",
+            "description": "Choose topic at intersection of expertise and demand",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Trends",
+              "Udemy"
+            ]
+          },
+          {
+            "title": "Validate with audience",
+            "description": "Survey potential students, pre-sell to validate demand",
+            "estimatedHours": 8,
+            "tools": [
+              "Typeform",
+              "Email"
+            ]
+          },
+          {
+            "title": "Create course outline",
+            "description": "Map out modules and lessons",
+            "estimatedHours": 5,
+            "tools": [
+              "Notion",
+              "Miro"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Production",
+        "duration": "21 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Record course content",
+            "description": "Film all video lessons with good audio/lighting",
+            "estimatedHours": 30,
+            "tools": [
+              "Loom",
+              "OBS",
+              "Zoom"
+            ]
+          },
+          {
+            "title": "Create resources",
+            "description": "Build templates, worksheets, and checklists",
+            "estimatedHours": 10,
+            "tools": [
+              "Canva",
+              "Notion"
+            ]
+          },
+          {
+            "title": "Set up course platform",
+            "description": "Upload content to Teachable/Kajabi",
+            "estimatedHours": 8,
+            "tools": [
+              "Teachable",
+              "Kajabi"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your online course business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your online course business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your online course business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You need a skill or knowledge gap you can close for a specific group of people — not expertise in everything, just enough to be ten steps ahead of your student. The real work is translating what you know into a logical sequence a beginner can follow, then filming it clearly enough that someone watching at midnight on a laptop actually learns. Video editing, a halfway-decent microphone, and a platform like Teachable or Gumroad handle the infrastructure.",
+      "whereTheyFail": "Most people spend three months perfecting a course nobody asked for. They record 40 lessons, obsess over slide design, then launch to silence because they skipped validation entirely. The third is abandoning the course after the launch week spike disappears and assuming the idea failed, when really the marketing just ran out.",
+      "theDip": "Weeks four through ten after launch. The initial burst of sales from your network dries up, organic traffic hasn't built yet, and you're staring at a sales dashboard that barely moves. This is where most creators either panic and discount heavily — which trains your audience to wait for sales — or simply stop promoting and let the course go dormant. The people who push through this period are the ones who treat marketing as a recurring weekly job, not a launch event.",
+      "routine": [
+        {
+          "what": "Chief of Staff check-in — review weekly sales, student questions, and one marketing action for the day",
+          "when": "Daily · 15 min"
+        },
+        {
+          "what": "Content marketing — write one short post, email, or video script that addresses a student pain point and links to your course",
+          "when": "Tue & Thu · 45 min"
+        },
+        {
+          "what": "Student support — respond to course questions, update FAQ, note any lesson that needs a re-record",
+          "when": "Wed · 30 min"
+        },
+        {
+          "what": "Course maintenance and analytics review — check completion rates, drop-off points, and update one lesson or resource",
+          "when": "Sat · 1h"
+        }
+      ],
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe turns your raw teaching knowledge into structured lesson scripts — the single biggest time sink in course creation",
+          "firstTask": "Turn these bullet points into a lesson script for module 1"
+        },
+        {
+          "personaId": "video-virtuoso",
+          "why": "Vince helps plan and structure video lessons so they land — not just record, but actually teach",
+          "firstTask": "Review this lesson outline and suggest where to add a demo or example"
+        },
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie builds the launch sequence — courses live or die on the pre-launch email list, not the content alone",
+          "firstTask": "Design a 5-email pre-launch sequence for this course"
+        },
+        {
+          "personaId": "community-manager",
+          "why": "Cora helps you set up and run student community/cohort spaces once the course has enough students to need one",
+          "firstTask": "Draft welcome messaging for a new student Discord/Circle community"
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Screen recording software (Loom or ScreenFlow)",
+            "why": "Video lessons are the core deliverable — you need clean recording before you script anything"
+          },
+          {
+            "why": "Bad audio kills course completion rates faster than mediocre slides — audio quality matters more than video quality here"
+          },
+          {
+            "item": "Slide/deck tool (Canva or Keynote)",
+            "why": "For any lesson that needs visual explanation, not just talking-head video"
+          }
+        ]
+      },
+      "productScaffold": {
+        "deliveryType": "course",
+        "course": {
+          "targetOutcome": "A student can complete the specific task or produce the specific outcome your course promises in the title — not \"understand the topic better,\" a concrete, demonstrable result.",
+          "totalEstimatedHours": 6,
+          "modules": [
+            {
+              "title": "Foundation — the one concept everything else builds on",
+              "lessons": [
+                {
+                  "title": "Welcome + what you'll be able to do by the end",
+                  "format": "video",
+                  "summary": "3-5 min orientation video setting expectations and the end-state outcome."
+                },
+                {
+                  "title": "The core concept",
+                  "format": "video",
+                  "summary": "The single foundational idea the rest of the course depends on — teach this thoroughly, everything else is faster if this lands."
+                },
+                {
+                  "title": "Quick-check exercise",
+                  "format": "exercise",
+                  "summary": "A low-stakes exercise that confirms the student actually absorbed the foundation before moving on."
+                }
+              ]
+            },
+            {
+              "title": "Core skill-building",
+              "lessons": [
+                {
+                  "title": "Step-by-step walkthrough",
+                  "format": "video",
+                  "summary": "Screen-recorded, real example, real speed — not a slide deck narration."
+                },
+                {
+                  "title": "Common mistakes and how to avoid them",
+                  "format": "text",
+                  "summary": "The specific errors you've seen beginners make, named directly — this is often the most-valued lesson in a course."
+                },
+                {
+                  "title": "Guided practice",
+                  "format": "exercise",
+                  "summary": "Student does a scaled-down version of the real task with a checklist to self-verify."
+                }
+              ]
+            },
+            {
+              "title": "Application — the capstone",
+              "lessons": [
+                {
+                  "title": "Full worked example, start to finish",
+                  "format": "video",
+                  "summary": "One complete, real-world example run start to finish at real speed, no cuts skipping the hard parts."
+                },
+                {
+                  "title": "Your turn: capstone project",
+                  "format": "exercise",
+                  "summary": "Student produces their own version of the real outcome — this IS the \"I can do this now\" proof point."
+                },
+                {
+                  "title": "What to do next",
+                  "format": "text",
+                  "summary": "Concrete next steps once they finish — keeps momentum and sets up any upsell path honestly."
+                }
+              ]
+            }
+          ],
+          "prerequisiteKnowledge": [
+            "State this explicitly on the sales page — \"no experience needed\" or the specific baseline required. Mismatched expectations are the #1 driver of refund requests."
+          ],
+          "assessmentApproach": "The capstone project IS the assessment — a student either produced the real output or they didn't. Avoid quiz-only assessment for skill-based courses; it confirms recall, not capability."
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Course outline generator (modular, conversion-optimized)",
+          "prompt": "Build a complete course outline for [topic] targeting [audience].\n\nCourse details:\n- Topic: [specific outcome the student gets]\n- Target student: [persona — current state]\n- Outcome: [transformation — desired state]\n- Length: [4-week / 8-week / self-paced 6-12 hours]\n- Price tier: [$97 starter / $297-497 mid / $997-2997 premium]\n\nOutput:\n\nPOSITIONING:\n- Hook (the promise — outcome-led, not feature-led)\n- Pain it solves (3 specific pains)\n- Who it's NOT for (sets expectations + filters)\n\nMODULE STRUCTURE (4-8 modules, 60-90 min each):\n\nModule 1: [foundation / mindset shift]\nModule 2-N: [skills/systems progression]\nFinal Module: [implementation + community / ongoing system]\n\nPER MODULE:\n- Module objective (1 sentence)\n- 3-6 lessons (each 8-15 min)\n- 1 worksheet / template / asset per module\n- 1 implementation checkpoint (what they have at end)\n\nBONUSES (3-5):\n- Templates / scripts / swipe files\n- 1 community access tier\n- 1 expert interview / case study\n\nPRICE JUSTIFICATION:\n- ROI math (if used: $X return for $Y invested)\n- Comparison anchor (vs $5K coaching, $200/hr consultant)\n\nREFUND POLICY:\n- 30-day satisfaction guarantee with implementation requirement (proves they actually tried)"
+        },
+        {
+          "task": "Sales page copy (high-converting course launch)",
+          "prompt": "Write a long-form sales page for [course].\n\nCourse: [name + outcome]\nTarget student: [persona]\nPrice: [$X]\nFounder credibility: [your story / wins / proof]\nExisting testimonials: [paste 3-5]\n\nStructure:\n\nABOVE-FOLD:\n- Headline (outcome-led, specific)\n- Sub-headline (who + how + when)\n- Hero image / video placeholder\n- 3-bullet \"you'll learn\" preview\n- Anchor CTA button\n\nPAINS SECTION:\n- 5-7 specific pains your student has TODAY\n- Sets up the gap\n\nPROMISE SECTION:\n- The transformation (their state in 30/60/90 days)\n- Proof of method (your case study + 2-3 student stories)\n\nCOURSE BREAKDOWN:\n- Each module with outcome bullet + 1 line of teaser\n- Total deliverables count (lessons, worksheets, etc)\n\nBONUSES:\n- 3-5 with $X value attached to each\n\nABOUT THE FOUNDER:\n- Story (why you teach this) — 200 words max\n- Credentials / wins\n- Why you're qualified\n\nTESTIMONIALS:\n- 5-8 with photo + name + result\n- Mix beginner + advanced wins\n\nGUARANTEE:\n- 30-day refund with implementation requirement\n\nPRICING SECTION:\n- Anchor (alternative cost: $5K coach / $50K mistake)\n- 1-pay vs 3-pay options\n- Final CTA\n\nFAQ:\n- Top 8 objections answered\n\nPOST-PURCHASE:\n- Welcome email subject line\n- Day 1 lesson teaser\n\nTone: confident, specific, no hype."
+        },
+        {
+          "task": "Cold launch email sequence (5 emails over 7 days)",
+          "prompt": "Build a 5-email cold launch sequence for [course] to a list that hasn't bought before.\n\nCourse: [name + outcome]\nList size: [X subscribers]\nDays running: [Mon-Fri or Mon-Sun]\nPrice: [$X]\nAnchor: [comparison to $5K coach / $50K bad decision]\n\nEmail 1 (Mon — story):\n- Subject: open-loop hook\n- Body: founder story, the moment that triggered building this\n- CTA: read this story → subtle link to sales page\n\nEmail 2 (Tue — pain agitation):\n- Subject: question-based\n- Body: 3 pains the audience knows + isn't fixing\n- Soft CTA: are these you?\n\nEmail 3 (Wed — proof):\n- Subject: case study tease\n- Body: 1 student case study, fully detailed\n- CTA: see the system → sales page\n\nEmail 4 (Thu — urgency / objections):\n- Subject: deadline mention\n- Body: top 3 objections + answers\n- CTA: enroll before [deadline]\n\nEmail 5 (Fri — final close):\n- Subject: doors close at midnight\n- Body: 1 final story + clear ask\n- CTA: enroll now (last call)\n\nFor each:\n- Subject line + 2 alts\n- Preheader\n- 250-350 word body\n- Single clear CTA\n\nTone: friend-to-friend, not marketer."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Building before validating",
+          "why": "Most failed courses are built in isolation. Founder writes 8 modules of content nobody asked for. Launch flops. 6 months wasted.",
+          "prevention": "Validates demand + funds production. AI helps draft pre-sale emails."
+        },
+        {
+          "mistake": "Pricing too low",
+          "why": "Students don't finish, don't implement, don't recommend.",
+          "prevention": "Higher prices filter for committed students who actually do the work."
+        },
+        {
+          "mistake": "No audience / no email list before launch",
+          "why": "Cold sales pages convert at 0.5-2%. Warm email lists convert at 5-10%. No list = no sales.",
+          "prevention": "6+ months of content + email list building BEFORE first launch. Free lead magnet → email sequence → soft pre-sale."
+        },
+        {
+          "mistake": "Dumping content vs structured journey",
+          "why": "A 47-video course with no clear path = student overwhelm = no completion = no testimonials = no future sales.",
+          "prevention": "Modular journey with clear outcomes per module + implementation checkpoints. 4-8 modules, not 12+."
+        },
+        {
+          "mistake": "No support / community tier",
+          "why": "Adding live calls or community drives completion to 50%+ AND charges premium."
+        },
+        {
+          "mistake": "No upsell / continuity offer",
+          "why": "One-time courses are top-of-funnel. Real revenue is in continuity (membership, mastermind, certification).",
+          "prevention": "Plan upsell from day 1: course → community → mastermind."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Course platform",
+          "recommendation": "Teachable for simplicity. Thinkific for community + advanced features. Kajabi for all-in-one (course + email + funnels). Mighty Networks for community-first.",
+          "options": [
+            {
+              "name": "Teachable",
+              "bestFor": "Simple, fast launch, good for first course",
+              "url": "https://teachable.com"
+            },
+            {
+              "name": "Thinkific",
+              "bestFor": "Community features + flexibility",
+              "url": "https://thinkific.com"
+            },
+            {
+              "name": "Kajabi",
+              "bestFor": "All-in-one (course + email + funnels)",
+              "url": "https://kajabi.com"
+            },
+            {
+              "name": "Mighty Networks",
+              "bestFor": "Community-first cohort courses"
+            }
+          ]
+        },
+        {
+          "category": "Recording / production",
+          "recommendation": "Loom for quick lesson videos. Riverside for podcast-style. Camtasia for screen-record + edit in one.",
+          "options": [
+            {
+              "name": "Loom",
+              "bestFor": "Quick lessons, screen + face cam",
+              "url": "https://loom.com"
+            },
+            {
+              "name": "Riverside",
+              "bestFor": "Podcast-quality remote recording"
+            },
+            {
+              "name": "Camtasia",
+              "bestFor": "Screen-record + simple editing"
+            }
+          ]
+        },
+        {
+          "category": "Email + launch",
+          "recommendation": "ConvertKit for automation depth. Beehiiv for newsletter + courses combo. Active Campaign for advanced funnels.",
+          "options": [
+            {
+              "name": "ConvertKit",
+              "bestFor": "Course creators, automation"
+            },
+            {
+              "name": "Beehiiv",
+              "bestFor": "Newsletter + course bundle"
+            },
+            {
+              "name": "ActiveCampaign",
+              "bestFor": "Advanced funnel logic"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Cohort or evergreen course?",
+          "options": [
+            {
+              "choice": "Cohort (live, time-bound)",
+              "pickIf": "",
+              "nextStep": "Run 4 cohorts/year. Live calls. Higher completion + premium positioning. Sellable as mastermind upgrade."
+            },
+            {
+              "choice": "Evergreen (self-paced)",
+              "pickIf": "",
+              "nextStep": "One-time recording. Automated sales funnels. Lower per-student revenue but compounds."
+            },
+            {
+              "choice": "Hybrid (evergreen + community)",
+              "pickIf": "You want passive base + recurring community revenue.",
+              "nextStep": "Best long-term economics."
+            }
+          ]
+        },
+        {
+          "question": "Build audience first or launch first?",
+          "options": [
+            {
+              "choice": "Audience first (recommended)",
+              "pickIf": "You don't have an existing audience or email list.",
+              "nextStep": "6+ months of content. Build to 1K email subscribers minimum. Then pre-sale."
+            },
+            {
+              "choice": "Launch first",
+              "pickIf": "You have an existing audience (newsletter, YouTube, podcast).",
+              "nextStep": "Pre-sale to your list. Build content based on what they buy. Faster path to revenue."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "social"
+    ],
+    "timeToStart": "4 weeks"
+  },
+  {
+    "id": "ai-tutor",
+    "title": "AI Tutor & Learning Coach",
+    "description": "Coach learners toward a specific goal — a test, a certification, a skill — using AI to personalize practice materials far beyond what a solo tutor could produce alone. Accountability and personalization are the moat versus free AI chatbots.",
+    "difficulty": "beginner",
+    "startupCost": "$0-$50",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Subject Expertise",
+      "Teaching",
+      "AI Prompting",
+      "Motivation/Accountability"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Zoom"
+    ],
+    "category": "Teaching & courses",
+    "categoryId": "education",
+    "budgetMin": 0,
+    "budgetMax": 50,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Choose your subject and learner type",
+      "Build an AI-assisted personalization workflow",
+      "Offer a free diagnostic session to 3-5 prospects",
+      "Set pricing and publish your offer"
+    ],
+    "audience": {
+      "role": "Adult learner, parent of a student, or professional pursuing a certification",
+      "industry": "Varies — education, professional development",
+      "painPoints": [
+        "Struggles to stay motivated and accountable learning alone",
+        "Generic online courses don't adapt to their specific gaps",
+        "Needs real, personalized feedback, not just more content to consume"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Referrals",
+        "Local Networking",
+        "Communities",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Pick one subject/skill you genuinely know well and one learner type (adult learners, test-prep students, professional certification). Word-of-mouth and parent/learner networks are the primary channel — build a few strong testimonials first.",
+      "firstCustomerTactics": [
+        "Offer a free diagnostic session to identify a learner's specific gaps and show them your approach",
+        "Ask your first few students for a referral once they see progress",
+        "Post in relevant communities (parenting groups, professional certification forums) where your target learner already is"
+      ],
+      "contentIdeas": [
+        "Before/after learning progress stories (with permission)",
+        "Quick tips related to your subject that demonstrate expertise",
+        "\"How I use AI to personalize a learning plan\" behind-the-scenes"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Single Session",
+        "price": "$40-$100/session",
+        "features": [
+          "One 45-60 min session",
+          "AI-generated practice materials between sessions"
+        ]
+      },
+      {
+        "name": "Weekly Coaching",
+        "price": "$200-$500/mo",
+        "features": [
+          "Weekly live sessions",
+          "Personalized AI-assisted practice plan",
+          "Progress tracking"
+        ]
+      },
+      {
+        "name": "Intensive Program",
+        "price": "$800-$2,000",
+        "features": [
+          "4-8 week structured program toward a specific goal (test, certification, skill)",
+          "Daily AI-assisted practice + weekly live check-ins"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Define your subject focus and build your teaching approach",
+        "tasks": [
+          {
+            "title": "Choose your subject and learner type",
+            "description": "Pick one subject/skill you know deeply and one learner type (adult learners, test-prep, professional certification). Specificity beats \"I tutor everything.\"",
+            "estimatedHours": 2,
+            "tools": [
+              "Notion"
+            ],
+            "deliverable": "A one-line positioning statement"
+          },
+          {
+            "title": "Build an AI-assisted personalization workflow",
+            "description": "Design a repeatable process: diagnose a learner's specific gaps, then use AI to generate a personalized practice plan and materials tailored to them.",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Claude"
+            ],
+            "deliverable": "A documented diagnostic + personalization process",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "First Students",
+        "duration": "2-3 weeks",
+        "description": "Land the first paying students through word-of-mouth",
+        "tasks": [
+          {
+            "title": "Offer a free diagnostic session to 3-5 prospects",
+            "description": "Reach out to your network and offer a free diagnostic session to identify gaps and demonstrate your approach.",
+            "estimatedHours": 6,
+            "tools": [
+              "Zoom",
+              "Email"
+            ],
+            "deliverable": "3-5 completed diagnostic sessions"
+          },
+          {
+            "title": "Set pricing and publish your offer",
+            "description": "Finalize pricing tiers and get a simple page or profile live describing your approach and subject focus.",
+            "estimatedHours": 3,
+            "tools": [
+              "Notion",
+              "Carrd"
+            ],
+            "deliverable": "Published pricing and service description"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI tutoring business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI tutoring business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI tutoring business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "productScaffold": {
+        "deliveryType": "course",
+        "course": {
+          "targetOutcome": "A student makes measurable, real progress toward a specific goal (a test score, a certification, a demonstrable skill) — not \"understands the topic better.\"",
+          "totalEstimatedHours": 4,
+          "modules": [
+            {
+              "title": "Diagnostic — find the real gaps",
+              "lessons": [
+                {
+                  "title": "Initial assessment session",
+                  "format": "live",
+                  "summary": "A live 30-45 min session to identify the student's specific strengths and gaps, not a generic placement test."
+                }
+              ]
+            },
+            {
+              "title": "Personalized practice plan",
+              "lessons": [
+                {
+                  "title": "AI-generated practice materials tailored to the student's gaps",
+                  "format": "exercise",
+                  "summary": "Practice materials generated specifically for what THIS student struggles with, refreshed as they progress."
+                },
+                {
+                  "title": "Weekly live check-in",
+                  "format": "live",
+                  "summary": "Accountability and course-correction — the human element that free AI chatbots cannot replicate alone."
+                }
+              ]
+            }
+          ],
+          "prerequisiteKnowledge": [
+            "Varies by subject — state the baseline explicitly on your service page to avoid mismatched-expectation refunds"
+          ],
+          "assessmentApproach": "Progress is measured against the specific goal (test score, certification pass, demonstrable skill), not generic session attendance."
+        }
+      },
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "ChatGPT/Claude paid tier",
+            "why": "Generating real personalized practice materials at volume needs a paid tier"
+          },
+          {
+            "item": "Zoom or similar video tool",
+            "why": "Live sessions are the accountability core of the offer"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe helps draft personalized practice materials and explanations tailored to a specific student's gaps",
+          "firstTask": "Generate 5 practice problems targeting this specific concept a student is struggling with"
+        }
+      ]
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "domain-expertise-courses",
+    "title": "Expert Course Creator",
+    "description": "Package the knowledge from your day job into online courses using AI to research, outline, script, and produce content 5x faster than doing it manually. Sell on your own platform or marketplaces.",
+    "difficulty": "intermediate",
+    "startupCost": "$0-$300",
+    "timeCommitment": "10-15 hours/week",
+    "skills": [
+      "Subject Matter Expertise",
+      "Teaching",
+      "AI Prompting",
+      "Video Production Basics"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Claude",
+      "Loom",
+      "Canva",
+      "Teachable",
+      "Gumroad"
+    ],
+    "category": "Teaching & courses",
+    "categoryId": "education",
+    "budgetMin": 0,
+    "budgetMax": 300,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Identify your most teachable expertise area",
+      "Validate demand with a free workshop or webinar",
+      "Use AI to outline, script, and produce course content",
+      "Launch with early-bird pricing to your network",
+      "Scale with evergreen marketing and new courses"
+    ],
+    "audience": {
+      "role": "Professional looking to upskill or career-change",
+      "companySize": "Individual",
+      "industry": "Varies by course topic",
+      "painPoints": [
+        "Information overload — too many free resources with no structure",
+        "Needs a proven framework, not random tips",
+        "Wants to learn from someone who actually does the work"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "YouTube",
+        "LinkedIn",
+        "SEO",
+        "Communities",
+        "Partnerships"
+      ],
+      "launchStrategy": "Collect emails. Launch with early-bird pricing to webinar attendees.",
+      "firstCustomerTactics": [
+        "Host a free workshop on Zoom and pitch the course at the end",
+        "Post course preview clips on YouTube and LinkedIn",
+        "Guest on 3-5 podcasts in your industry",
+        "Partner with complementary course creators for cross-promotion"
+      ],
+      "contentIdeas": [
+        "Free YouTube lessons that tease course content",
+        "LinkedIn posts sharing expertise nuggets from the course",
+        "Student success stories and testimonials",
+        "Behind-the-scenes of building the course with AI"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Mini Course",
+        "price": "$49",
+        "features": [
+          "2-3 hours of video content",
+          "Downloadable templates",
+          "Community access",
+          "Completion certificate"
+        ]
+      },
+      {
+        "name": "Flagship Course",
+        "price": "$197",
+        "features": [
+          "8-12 hours of video content",
+          "Workbooks and templates",
+          "Private community access",
+          "Monthly Q&A call",
+          "Lifetime updates"
+        ]
+      },
+      {
+        "name": "Course + Coaching",
+        "price": "$497",
+        "features": [
+          "Everything in Flagship",
+          "4 weeks of group coaching",
+          "Personal feedback on assignments",
+          "Direct message access",
+          "Implementation support"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "5 days",
+        "description": "Validate your topic, build the curriculum, and set up your platform",
+        "tasks": [
+          {
+            "title": "Identify and validate your course topic",
+            "description": "List 5 areas where you have deep expertise from your job. For each, research demand: search volume, existing courses, Reddit/Quora questions asked. Pick the topic with highest demand and lowest quality competition.",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Trends",
+              "Udemy",
+              "ChatGPT"
+            ],
+            "deliverable": "Course topic selected with validation data",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build the course outline with AI",
+            "description": "Use Claude/ChatGPT to draft a detailed course outline: 6-10 modules, 3-5 lessons per module, learning objectives for each lesson, and homework assignments. Review and refine with your expertise — AI gives structure, you give substance.",
+            "estimatedHours": 4,
+            "tools": [
+              "Claude",
+              "ChatGPT",
+              "Notion"
+            ],
+            "deliverable": "Complete course outline with modules and lessons",
+            "aiAssisted": true
+          },
+          {
+            "title": "Script first 3 lessons with AI",
+            "description": "Use AI to draft lesson scripts based on your outline. Feed it your talking points and style guide. Edit each script to add personal stories, real examples from your work, and your unique perspective.",
+            "estimatedHours": 5,
+            "tools": [
+              "ChatGPT",
+              "Google Docs"
+            ],
+            "deliverable": "3 lesson scripts ready to record",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up course platform and sales page",
+            "description": "Create your course on Teachable, Gumroad, or your own site. Write the sales page copy (use AI to draft), add your bio, and set up payment processing. Set up early-bird pricing.",
+            "estimatedHours": 4,
+            "tools": [
+              "Teachable",
+              "Canva",
+              "ChatGPT"
+            ],
+            "deliverable": "Course platform live with sales page",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "10 days",
+        "description": "Record, publish, and sell your first course",
+        "tasks": [
+          {
+            "title": "Record all course videos",
+            "description": "Batch-record all lessons over 2-3 sessions. Use Loom for screen recordings and talking-head videos. Do not aim for perfection — aim for valuable content. You can re-record later.",
+            "estimatedHours": 12,
+            "tools": [
+              "Loom",
+              "Canva"
+            ],
+            "deliverable": "All course videos recorded and uploaded"
+          },
+          {
+            "title": "Create supporting materials with AI",
+            "description": "Use AI to generate workbooks, templates, cheat sheets, and quiz questions for each module. Design them in Canva. These add perceived value and justify premium pricing.",
+            "estimatedHours": 5,
+            "tools": [
+              "ChatGPT",
+              "Canva",
+              "Google Docs"
+            ],
+            "deliverable": "Course materials for all modules",
+            "aiAssisted": true
+          },
+          {
+            "title": "Host a free webinar to build launch list",
+            "description": "Teach the first module for free on a live Zoom webinar. Collect emails of attendees. At the end, pitch the full course with early-bird pricing. This validates demand and creates urgency.",
+            "estimatedHours": 3,
+            "tools": [
+              "Zoom",
+              "Calendly",
+              "Email"
+            ],
+            "deliverable": "Webinar hosted with 50+ attendees"
+          },
+          {
+            "title": "Launch to your email list and network",
+            "description": "Send a 3-email launch sequence to webinar attendees and your personal network. Share on LinkedIn and Twitter/X.",
+            "estimatedHours": 3,
+            "tools": [
+              "Email",
+              "LinkedIn",
+              "Twitter/X"
+            ],
+            "deliverable": "First 10-20 course sales",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Build evergreen marketing and expand your course catalog",
+        "tasks": [
+          {
+            "title": "Build YouTube content funnel",
+            "description": "Create 8-12 YouTube videos that teach individual concepts from your course. Each video ends with a CTA to the full course. This is your evergreen lead generation engine.",
+            "estimatedHours": 12,
+            "tools": [
+              "Loom",
+              "YouTube",
+              "ChatGPT"
+            ],
+            "deliverable": "8-12 YouTube videos published",
+            "aiAssisted": true
+          },
+          {
+            "title": "Collect and promote student testimonials",
+            "description": "Ask your first 20 students for video testimonials. Offer a free bonus module in exchange. Add testimonials to your sales page, YouTube videos, and social posts.",
+            "estimatedHours": 3,
+            "tools": [
+              "Email",
+              "Loom"
+            ],
+            "deliverable": "5-10 student testimonials collected"
+          },
+          {
+            "title": "Launch affiliate program",
+            "description": "Recruit students, bloggers in your niche, and YouTubers to promote your course.",
+            "estimatedHours": 3,
+            "tools": [
+              "Teachable",
+              "Email"
+            ],
+            "deliverable": "Affiliate program live with 10+ affiliates"
+          },
+          {
+            "title": "Plan second course or premium tier",
+            "description": "Based on student feedback and questions, identify the logical \"next course\" or advanced tier. Use the same AI workflow to outline and produce it faster than the first one.",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Notion"
+            ],
+            "deliverable": "Second course outlined and validated",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your online course business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your online course business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your online course business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Screen/video recording + basic editing tool",
+            "why": "The modules are structured as video lessons — this is the core production tool"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe helps turn your professional framework into structured lesson scripts and summaries",
+          "firstTask": "Draft a lesson script from this module outline in a teaching (not just informing) tone"
+        },
+        {
+          "personaId": "ux-optimizer",
+          "why": "Uma helps sequence the modules so the course actually builds toward the target outcome, not just covers topics",
+          "firstTask": "Review this module sequence for gaps between where a student starts and the target outcome"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "course",
+        "course": {
+          "targetOutcome": "A student can apply your specific professional framework or process to their own situation and get a comparable result — the thing you've done for years at your day job, they can now do too.",
+          "totalEstimatedHours": 5,
+          "modules": [
+            {
+              "title": "The framework — how you actually think about this",
+              "lessons": [
+                {
+                  "title": "Why this is harder than it looks (setting real expectations)",
+                  "format": "video",
+                  "summary": "Name the misconceptions beginners have — this is the credibility-building lesson."
+                },
+                {
+                  "title": "Your core framework, end to end",
+                  "format": "video",
+                  "summary": "The mental model you use professionally, taught explicitly instead of assumed."
+                }
+              ]
+            },
+            {
+              "title": "Applying it — real scenarios",
+              "lessons": [
+                {
+                  "title": "Case study 1: a real (anonymized) situation from your work",
+                  "format": "video",
+                  "summary": "Walk through an actual example — specificity is what separates an expert course from a generic one."
+                },
+                {
+                  "title": "Case study 2: a harder edge case",
+                  "format": "video",
+                  "summary": "Show where the simple version of the framework breaks and how you adjust."
+                },
+                {
+                  "title": "Apply it to your own situation",
+                  "format": "exercise",
+                  "summary": "Student runs the framework against their own real scenario, not a hypothetical."
+                }
+              ]
+            },
+            {
+              "title": "Common mistakes and troubleshooting",
+              "lessons": [
+                {
+                  "title": "Where people get this wrong",
+                  "format": "text",
+                  "summary": "The specific errors you've seen colleagues/juniors make repeatedly."
+                },
+                {
+                  "title": "Office-hours style Q&A recording",
+                  "format": "video",
+                  "summary": "Real questions from early students, recorded — builds trust and fills gaps the outline missed."
+                }
+              ]
+            }
+          ],
+          "prerequisiteKnowledge": [
+            "State the real floor of prior knowledge needed — expert courses fail when they assume too much shared context with beginners."
+          ],
+          "assessmentApproach": "Have the student apply the framework to their own real situation and submit it for feedback — this is both the proof of learning and a natural upsell moment into 1:1 work if you offer it."
+        }
+      }
+    },
+    "personalityTags": [
+      "creative",
+      "social"
+    ],
+    "timeToStart": "2 weeks"
+  }
+]

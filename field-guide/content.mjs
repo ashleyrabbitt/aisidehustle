@@ -2,6 +2,7 @@ export const origin = 'https://aisidehustle.cc';
 export const newsletter = 'https://preview.mailerlite.io/forms/2626017/200636496666953394/share';
 export const guide = '/field-guide';
 export const routes = {
+  skills: '/workflow-library',
   find: guide + '/find-a-niche',
   build: guide + '/make-a-digital-product',
   agents: guide + '/agent-workflows',
@@ -69,6 +70,7 @@ export const workflows = [
 ];
 
 export const guideMeta = [
+  [routes.skills,'AI skills for a first client project','Download reusable skills to scope client work, deliver a sample and plan a niche product with a worked example.'],
   [routes.find,'Find a pocket opportunity','Identify one recurring task, find real buyer evidence and write a one-page product brief.'],
   [routes.build,'Make a digital product','Build a useful first edition with a blank template, a worked example and a buyer test.'],
   [routes.agents,'Put an AI work crew to work','Watch two agent workflows and copy the instructions for ChatGPT, Claude, Muse and a reminder bot.'],

@@ -1,0 +1,3553 @@
+[
+  {
+    "id": "dropshipping",
+    "title": "Dropshipping Store",
+    "description": "Sell products online without holding inventory",
+    "difficulty": "intermediate",
+    "startupCost": "$500-$2,000",
+    "timeCommitment": "20-40 hours/week",
+    "skills": [
+      "Marketing",
+      "Customer Service",
+      "Analytics"
+    ],
+    "tools": [
+      "Shopify",
+      "Oberlo",
+      "Facebook Ads"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 500,
+    "budgetMax": 2000,
+    "weeklyMin": 20.0,
+    "steps": [
+      "Research profitable niches",
+      "Set up Shopify store",
+      "Find winning products",
+      "Launch ad campaigns",
+      "Scale and optimize"
+    ],
+    "audience": {
+      "role": "Online Shopper",
+      "painPoints": [
+        "Looking for unique products",
+        "Wants good deals",
+        "Needs social proof",
+        "Worried about shipping times"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Paid Ads",
+        "Twitter/X",
+        "SEO",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Test products with small ad budget, scale winners",
+      "firstCustomerTactics": [
+        "Create TikTok content around products",
+        "Build email list with discount offer",
+        "Focus on one winning product first"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Entry Products",
+        "price": "$15-$30",
+        "features": [
+          "Impulse purchases",
+          "Low return rate",
+          "Easy to ship"
+        ]
+      },
+      {
+        "name": "Mid-Range",
+        "price": "$50-$100",
+        "features": [
+          "Higher margins",
+          "Quality perception",
+          "Repeat customers"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$150+",
+        "features": [
+          "Highest margins",
+          "Brand building",
+          "Customer loyalty"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Store Setup",
+        "duration": "5 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Set up Shopify store",
+            "description": "Create store with theme and essential pages",
+            "estimatedHours": 8,
+            "tools": [
+              "Shopify"
+            ]
+          },
+          {
+            "title": "Find winning products",
+            "description": "Research 20+ products, select top 5 to test",
+            "estimatedHours": 10,
+            "tools": [
+              "AliExpress",
+              "Spocket"
+            ]
+          },
+          {
+            "title": "Set up payment processing",
+            "description": "Configure Shopify Payments and PayPal",
+            "estimatedHours": 2,
+            "tools": [
+              "Shopify",
+              "PayPal"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Launch & Test",
+        "duration": "14 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Create ad creatives",
+            "description": "Make video ads and images for Facebook/TikTok",
+            "estimatedHours": 10,
+            "tools": [
+              "Canva",
+              "CapCut"
+            ]
+          },
+          {
+            "title": "Launch test campaigns",
+            "estimatedHours": 5,
+            "tools": [
+              "Facebook Ads",
+              "TikTok Ads"
+            ],
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          },
+          {
+            "title": "Analyze and scale",
+            "estimatedHours": 10,
+            "tools": [
+              "Facebook Ads Manager"
+            ],
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your dropshipping store for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your dropshipping store — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your dropshipping store and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You're building a real retail business — just without a warehouse. That means finding products people actually want, running paid ads that don't bleed money, and handling customer complaints when a supplier ships the wrong item. The store setup is the easy part. The hard part is learning to read ad data without panicking, staying patient through weeks of testing, and building enough trust with strangers that they hand you their credit card. You'll need to be comfortable spending money to make money — ad budgets are real costs before any revenue shows up. Marketing instincts, a thick skin for customer service, and genuine curiosity about analytics are what separate people who make this work from people who list it on their resume.",
+      "whereTheyFail": "Most people fail at the product-market fit stage and never know it. They pick a product they personally like, build a beautiful store, run ads for two weeks, get no sales, and conclude dropshipping doesn't work. The real failure is skipping the research — checking actual demand, competitor ad libraries, and supplier reliability before spending a dollar on ads. The second failure mode is quitting the ad testing phase too early. Profitable campaigns almost never appear in week one. A third common exit: they get their first few sales, get excited, scale too fast, and discover their supplier can't handle volume — leading to refund spirals and chargebacks that kill the account.",
+      "theDip": "Weeks four through ten are the graveyard. Your store is live, you're running ads, and the data looks like noise — some clicks, no sales, or a sale here and there that doesn't cover costs. You'll question every product choice and wonder if you're just bad at this. This is normal. It's the testing phase, and it costs money and time before it pays anything back. Most people quit here. The ones who push through treat it like tuition — they study what the data is actually saying, make one change at a time, and keep going. If you're still running experiments at week twelve with a clear hypothesis for each one, you're doing it right.",
+      "routine": [
+        {
+          "what": "Chief of Staff check-in — review yesterday's ad spend, revenue, and one open problem out loud",
+          "when": "Daily · 15 min"
+        },
+        {
+          "what": "Ad performance review — check CPM, CTR, ROAS by campaign and pause or adjust underperformers",
+          "when": "Mon & Thu · 45 min"
+        },
+        {
+          "what": "Customer service inbox — respond to all open tickets, flag supplier issues, process refunds",
+          "when": "Tue & Fri · 1h"
+        },
+        {
+          "what": "Product research and competitor audit — browse winning ads, check trending niches, evaluate one new product for testing",
+          "when": "Wed · 1.5h"
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Product research/supplier tool (Zendrop, AutoDS, or CJdropshipping)",
+            "why": "Finding a genuinely winning product before spending on ads is the single highest-leverage step in this business — most dropshipping failures come from skipping real validation"
+          },
+          {
+            "item": "Facebook/Meta Ads or TikTok Ads budget",
+            "why": "Named directly as a core tool — dropshipping is an ads-driven business model, organic traffic alone rarely reaches profitability"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ecommerce-specialist",
+          "why": "Ethan helps validate product-market fit and optimize your Shopify store for conversion",
+          "firstTask": "Score these 5 candidate products by realistic margin, demand, and ad-creative potential"
+        },
+        {
+          "personaId": "advertising-specialist",
+          "why": "Adam handles the ad-campaign structure and creative testing that determines whether a product actually sells profitably"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "physical-product",
+        "physicalProduct": {
+          "sourcingChecklist": [
+            "Pick ONE product category to start — spreading across many products with no inventory ownership makes quality control nearly impossible",
+            "Vet suppliers on delivery time first — the #1 dropshipping complaint is slow shipping; a supplier with 3-5 day US fulfillment beats a cheaper 3-week overseas one",
+            "Order the product yourself before listing it — you cannot honestly market or support a product you've never held",
+            "Confirm the supplier's return/defect policy in writing before committing — you're on the hook to the customer either way",
+            "Check for any required certifications for the product category (electronics, cosmetics, children's items all have real compliance requirements)"
+          ],
+          "listingTemplate": {
+            "titleFormula": "[Primary Keyword] [Key Benefit] — [Material/Feature], [Use Case]",
+            "bulletPointFormulas": [
+              "Lead bullet: the single biggest pain point this solves",
+              "Differentiator bullet: what makes this specific listing different from the 10 identical dropship listings a buyer has already seen",
+              "Trust bullet: shipping time and return policy stated plainly — dropship buyers are wary, address it directly"
+            ],
+            "requiredPhotos": [
+              "Clean product shot on white/neutral background",
+              "In-use lifestyle photo",
+              "Size/scale reference",
+              "Any packaging the customer will actually receive"
+            ]
+          },
+          "fulfillmentSteps": [
+            "Set up store on Shopify (or similar) with the supplier integration (e.g. DSers, Spocket, CJ Dropshipping) connected before your first sale",
+            "Test the full order flow yourself — place a real order and confirm what actually arrives and how long it takes",
+            "Set clear, honest shipping-time expectations on the product page before launch, not after complaints start",
+            "Monitor supplier stock daily for the first month — an out-of-stock item that still shows as purchasable is the fastest way to burn customer trust"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Product research filter (margin × demand × low saturation)",
+          "prompt": "Score this product for dropshipping viability.\n\nProduct: [name + AliExpress/CJ/Spocket link]\nSource cost: [$X with shipping]\nSuggested retail: [$Y]\nNiche: [target buyer]\n\nData points (paste from research):\n- Google Trends 90-day curve\n- TikTok hashtag search volume\n- Top 3 competing Shopify stores selling this\n- Customer reviews from supplier (read 20+, paste sentiment)\n- Estimated shipping time from supplier\n\nOutput:\n\nVERDICT (GO / WAIT / SKIP) with confidence:\n\nSCORE BREAKDOWN (1-10 each):\n- Margin (cost vs retail × ad-spend feasibility)\n- Demand signal (trending up, flat, or fading)\n- Saturation (count of similar Shopify stores)\n- Differentiation potential (can you brand this differently?)\n- Shipping time impact (under 7 days = good, 14+ = customer-service nightmare)\n\nRED FLAGS to investigate:\n- Trademark / IP issues\n- Quality issues from review sentiment\n- Counterfeit risk\n- Restricted by ad platforms (CBD, weapons, weight-loss claims)\n\nLAUNCH PLAN if GO:\n- Product page key elements\n- Recommended ad creative angle\n- Target CPA based on margin\n- Reorder timing if it sells\n\nBe ruthless — most products fail this filter."
+        },
+        {
+          "task": "Shopify product page copy + structure",
+          "prompt": "Write a high-converting Shopify product page.\n\nProduct: [name + key features]\nTarget buyer: [persona]\nDifferentiation: [why pick this over competitors]\nPrice: [$X]\nMargin allows ad spend up to: [$Y CPA]\n\nOutput:\n\nPRODUCT TITLE (60-80 chars):\n- Front-load benefit\n- Include 1-2 SEO keywords\n\nHERO IMAGE TEXT OVERLAY (4-7 words):\n- The single biggest benefit\n\nTRUST BAR (above-fold):\n4 mini-icons + labels (e.g., \"Free Shipping,\" \"30-Day Returns,\" \"10K+ Happy Customers,\" \"Money-Back Guarantee\")\n\n5-BULLET BENEFITS:\nEach starts with a verb, ends with an outcome.\n\nDESCRIPTION (300-500 words):\n- Story-led intro (problem → solution moment)\n- 3 use cases with mini-headlines\n- Honest objection handling (sizing, shipping, fit)\n- 2-paragraph \"Why we made this\" founder story angle\n\nFAQ (5 most-common pre-purchase questions):\n\nREVIEW SECTION COPY:\n- Encourage photos\n- Ask for purchase reason\n- 2-week post-purchase email template\n\nCTA BUTTON COPY:\n3 variants to A/B test."
+        },
+        {
+          "task": "Meta / TikTok ad creative variants (10 hooks)",
+          "prompt": "Generate 10 ad creative concepts for [product] on [Meta / TikTok].\n\nProduct: [name + benefit]\nTarget persona: [ICP]\nBrand voice: [casual / aspirational / educational / contrarian]\nMargin allows CPA up to: [$X]\n\nFor each variant:\n- Hook (first 3 seconds — text or VO)\n- Visual concept (UGC / native lifestyle / stop-motion / split-screen / before-after)\n- 2 caption variants (1 sentence each)\n- CTA button text\n- Estimated production cost (DIY iPhone / contracted UGC / studio)\n\nCover these patterns:\n1. Problem → solution\n2. Before/after\n3. Testimonial style\n4. POV first-person\n5. List format (\"3 reasons why...\")\n6. Curiosity gap\n7. Authority / expert\n8. Behind-the-scenes / founder\n9. Trend / meme tie-in\n10. Direct demo\n\nBias toward UGC + native — slick studio ads underperform on TikTok."
+        },
+        {
+          "task": "Customer service auto-responder (refunds, shipping, sizing)",
+          "prompt": "Draft customer service responses for the 8 most-common dropshipping support tickets. Tone: warm, fast, protects margin without alienating.\n\nFor each:\n- Ticket type\n- Response (under 100 words)\n- Resolution offer (refund / replacement / partial / no-action with explanation)\n- Internal note (what to flag for ops)\n\nCover:\n1. \"Where is my order?\" (most common)\n2. \"I want to cancel\"\n3. \"Wrong size / doesn't fit\"\n4. \"Damaged in shipping\"\n5. \"Defective on arrival\"\n6. \"Refund my full order\" (no defect)\n7. \"Tracking shows delivered but I didn't get it\"\n8. \"Demanding chargeback\"\n\nMargin protection: don't auto-refund full orders without trying replacement first. But never argue — preserve LTV."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Picking saturated products (kitchen gadgets, gimmick gifts)",
+          "why": "These products have been dropshipped 10,000 times. Ad CPMs are bid up. Margin compresses to nothing. Customers have seen it all.",
+          "prevention": "Filter for products with under 20 competing Shopify stores AND positive Google Trends 90-day curve. Niche communities > generic gadget audiences."
+        },
+        {
+          "why": "Dropshipping requires paid ads. Plus returns + chargebacks.",
+          "prevention": "Cheaper products only work with bundles."
+        },
+        {
+          "mistake": "Slow shipping (14+ days from China)",
+          "why": "Modern customers expect 5-7 days. 14+ day shipping triggers chargebacks, terrible reviews, support volume.",
+          "prevention": "Use US-warehoused suppliers (CJ Dropshipping, Spocket, Zendrop). Slightly higher cost but 3-5 day delivery."
+        },
+        {
+          "mistake": "No Meta Pixel / TikTok Pixel from day 1",
+          "why": "Without pixel data from launch, you cannot retarget, build lookalikes, or optimize ad campaigns. Months of audience data lost.",
+          "prevention": "Install Pixel before first visitor. Test events. Same for TikTok Pixel."
+        },
+        {
+          "mistake": "No branding — generic AliExpress aesthetic",
+          "why": "Customers can find the same product on Amazon for half the price. Without a brand reason, you lose every comparison.",
+          "prevention": "Custom packaging, branded product photography, story-led copy, niche-specific positioning. Look like a brand, not a reseller."
+        },
+        {
+          "mistake": "Single ad account / single supplier dependency",
+          "why": "Meta bans accounts without warning. Single suppliers run out of stock or change prices.",
+          "prevention": "Day 1: 2 backup ad accounts pre-warmed. Day 14: backup supplier vetted for top 3 SKUs."
+        },
+        {
+          "mistake": "No chargeback / dispute strategy",
+          "why": "Dropshipping attracts impulsive buyers + slow-shipping disputes.",
+          "prevention": "Clear shipping disclaimers. Tracking numbers always. Pre-emptive support emails."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Ecommerce platform",
+          "recommendation": "Shopify is the default — best ecosystem, best apps. WooCommerce only if you already run WordPress. Wix/Squarespace ecom = avoid.",
+          "options": [
+            {
+              "name": "Shopify",
+              "bestFor": "Default for dropshipping; biggest app ecosystem",
+              "url": "https://shopify.com"
+            },
+            {
+              "name": "WooCommerce",
+              "bestFor": "WordPress users, full control"
+            },
+            {
+              "name": "BigCommerce",
+              "bestFor": "Higher SKU counts, B2B features"
+            }
+          ]
+        },
+        {
+          "category": "Supplier (US-warehoused for fast shipping)",
+          "recommendation": "CJ Dropshipping for breadth + custom branding. Spocket for US/EU products. Zendrop for one-click integration.",
+          "options": [
+            {
+              "name": "CJ Dropshipping",
+              "bestFor": "Custom branding, broad catalog",
+              "url": "https://cjdropshipping.com"
+            },
+            {
+              "name": "Spocket",
+              "bestFor": "US/EU suppliers, fast shipping",
+              "url": "https://spocket.co"
+            },
+            {
+              "name": "Zendrop",
+              "bestFor": "One-click Shopify import"
+            }
+          ]
+        },
+        {
+          "category": "Ad creative",
+          "recommendation": "AdCreative.ai for batch variants. Canva for static. UGC contractors via Twirl or Insense for video.",
+          "options": [
+            {
+              "name": "AdCreative.ai",
+              "bestFor": "Batch ad variant generation"
+            },
+            {
+              "name": "Twirl",
+              "bestFor": "UGC creator marketplace"
+            },
+            {
+              "name": "Canva Pro",
+              "bestFor": "Static creative + templates"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Niche store or general / one-product store?",
+          "options": [
+            {
+              "choice": "Niche store (default)",
+              "pickIf": "You can identify a tight buyer persona + 5-15 complementary products.",
+              "nextStep": "Build store around the niche identity. Higher AOV + repeat purchases."
+            },
+            {
+              "choice": "One-product store",
+              "pickIf": "You have a single hero product with strong viral angle (TikTok-friendly).",
+              "nextStep": "All ad spend on hero product. Up-sells to bundle."
+            },
+            {
+              "choice": "General store (avoid)",
+              "pickIf": "Almost never the right call.",
+              "nextStep": "Skip. Generic AliExpress vibe = no brand = no margin."
+            }
+          ]
+        },
+        {
+          "question": "US suppliers or China suppliers?",
+          "options": [
+            {
+              "choice": "US-warehoused (recommended)",
+              "pickIf": "You want fast shipping + lower customer-service load.",
+              "nextStep": "Spocket / CJ US warehouse. 3-5 day delivery. Margin slightly lower but customer LTV higher."
+            },
+            {
+              "choice": "China direct",
+              "pickIf": "Margin matters more than speed (luxury items, custom branded).",
+              "nextStep": "AliExpress / Alibaba. 14+ day shipping. Set expectations clearly. Use ePacket where available."
+            },
+            {
+              "choice": "Both",
+              "pickIf": "You have proven product + scaling.",
+              "nextStep": "US-warehouse for top sellers, China for variants."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "niche-brand-ecommerce",
+    "title": "Passion Brand Builder",
+    "description": "Turn a niche interest, inside joke, or lifestyle identity into a branded product business. Unlike dropshipping, you build a real brand with loyal customers. AI handles design, copy, and ads so you focus on community and story.",
+    "difficulty": "intermediate",
+    "startupCost": "$200-$2,000",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Brand Strategy",
+      "Social Media Marketing",
+      "Product Design",
+      "Community Building",
+      "E-commerce Basics"
+    ],
+    "tools": [
+      "Shopify",
+      "Printful",
+      "Canva",
+      "Instagram",
+      "TikTok"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 200,
+    "budgetMax": 2000,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Identify your niche — what community, lifestyle, or inside joke are you part of?",
+      "Validate demand with a landing page and social media before investing in products",
+      "Design your first 3-5 products using AI design tools (apparel, accessories, merch)",
+      "Launch with print-on-demand (zero inventory risk) and organic social marketing",
+      "Build community, collect emails, and scale with direct outreach to engaged followers"
+    ],
+    "audience": {
+      "role": "Aspiring Niche Brand Founder",
+      "industry": "E-commerce / Lifestyle Brands",
+      "painPoints": [
+        "Has a great niche idea but doesn't know how to turn it into a business",
+        "Can't design products themselves and doesn't have money for a designer",
+        "Tried dropshipping generic products and it felt soulless — wants to build something real",
+        "Doesn't know how to market without a big ad budget",
+        "Overwhelmed by the Shopify/e-commerce tech stack"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Twitter/X",
+        "Communities",
+        "Referrals",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Build the community before the product. Post content about your niche daily for 2-3 weeks. Tease designs and get feedback. When you launch, your first 50 customers are already waiting. Use DMs to engaged followers — not paid ads.",
+      "firstCustomerTactics": [
+        "Post niche content daily on TikTok/Instagram — humor, memes, lifestyle around your niche",
+        "DM people who engage with your posts and offer early access or launch discounts",
+        "Partner with 5-10 micro-influencers in your niche (free product in exchange for posts)",
+        "Create a \"founding member\" email list with exclusive designs or pricing",
+        "Cross-post to Reddit, Facebook groups, and Discord communities where your niche hangs out"
+      ],
+      "contentIdeas": [
+        "The story behind why I started this brand (authentic origin story)",
+        "Design reveal / behind-the-scenes of product creation process",
+        "Customer spotlight — real people wearing/using your products",
+        "Day-in-the-life content that resonates with your niche community",
+        "Limited drop announcement — scarcity drives urgency"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Entry Products",
+        "price": "$15-30",
+        "features": [
+          "Stickers, pins, phone cases",
+          "Low risk impulse buys",
+          "Gateway to brand loyalty",
+          "Print-on-demand (no inventory)"
+        ]
+      },
+      {
+        "name": "Core Products",
+        "price": "$30-60",
+        "features": [
+          "T-shirts, hoodies, hats",
+          "Best margin sweet spot",
+          "Most brands' bread and butter",
+          "Print-on-demand or small batch"
+        ]
+      },
+      {
+        "name": "Premium Products",
+        "price": "$60-150+",
+        "features": [
+          "Limited edition drops",
+          "Curated bundles",
+          "Custom/collab pieces",
+          "Higher margin, lower volume"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Validate your niche and create your brand identity",
+        "tasks": [
+          {
+            "title": "Define your niche and brand story",
+            "description": "Identify the community, lifestyle, or inside joke you're building around. Write your brand origin story. Use AI to brainstorm brand names, taglines, and positioning. The brand should feel like it was made BY the community, FOR the community.",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Notion"
+            ],
+            "deliverable": "Brand brief: name, tagline, origin story, values",
+            "aiAssisted": true
+          },
+          {
+            "title": "Validate demand before spending a dollar",
+            "description": "Create a landing page with your brand concept and 3 product mockups (AI-generated). Share in relevant communities and DMs. Collect email signups. Target 50+ signups before proceeding.",
+            "estimatedHours": 4,
+            "tools": [
+              "Carrd",
+              "Canva AI",
+              "Midjourney"
+            ],
+            "deliverable": "Landing page live + tracking email signups",
+            "aiAssisted": true
+          },
+          {
+            "title": "Design first 5 products with AI",
+            "description": "Use AI design tools to create product graphics for your first collection. Start with apparel (t-shirts, hoodies) and accessories (stickers, hats). Get feedback from your niche community before finalizing.",
+            "estimatedHours": 6,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "Printful Mockup Generator"
+            ],
+            "deliverable": "5 product designs with mockups",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up Shopify store + print-on-demand",
+            "description": "Create your Shopify store, connect Printful for print-on-demand fulfillment, set up payment processing, and configure shipping. Use AI to write all product descriptions and page copy.",
+            "estimatedHours": 4,
+            "tools": [
+              "Shopify",
+              "Printful",
+              "ChatGPT"
+            ],
+            "deliverable": "Store live with 5 products listed",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Launch to your community and generate first sales",
+        "tasks": [
+          {
+            "title": "Build pre-launch hype on social media",
+            "description": "Post daily niche content for 1 week before launch. Tease product designs. Share behind-the-scenes of the brand creation process. Build anticipation with a countdown.",
+            "estimatedHours": 6,
+            "tools": [
+              "Instagram",
+              "TikTok",
+              "Canva"
+            ],
+            "deliverable": "10+ pre-launch posts, growing follower base"
+          },
+          {
+            "title": "Launch with founding member offer",
+            "description": "Email your waitlist with an exclusive launch discount. Post launch announcement across all social channels. DM your most engaged followers personally. Goal: 20+ orders in first week.",
+            "estimatedHours": 4,
+            "tools": [
+              "Shopify",
+              "Mailchimp",
+              "Instagram"
+            ],
+            "deliverable": "Launch executed, first orders flowing"
+          },
+          {
+            "title": "Direct outreach to micro-influencers",
+            "description": "Identify 20-30 micro-influencers (1K-50K followers) in your niche. DM them with free product offers in exchange for posts. Focus on authenticity — send to people who genuinely fit the brand.",
+            "estimatedHours": 6,
+            "tools": [
+              "Instagram",
+              "TikTok",
+              "ChatGPT"
+            ],
+            "deliverable": "10+ influencer packages sent",
+            "aiAssisted": true
+          },
+          {
+            "title": "Collect and showcase social proof",
+            "description": "Follow up with early customers for photos, reviews, and UGC. Repost customer content. Create a \"customer spotlight\" content series. Social proof drives the next wave of sales.",
+            "estimatedHours": 3,
+            "tools": [
+              "Instagram",
+              "Shopify Reviews",
+              "Canva"
+            ],
+            "deliverable": "10+ customer photos/reviews collected"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Grow revenue with new products, paid ads, and community",
+        "tasks": [
+          {
+            "title": "Launch second collection based on data",
+            "description": "Analyze what sold best from launch. Design a second collection that expands on winners. Use AI to create new designs faster. Introduce limited-edition drops to drive urgency.",
+            "estimatedHours": 10,
+            "tools": [
+              "Shopify Analytics",
+              "Midjourney",
+              "Canva"
+            ],
+            "deliverable": "Second collection launched (5-10 new products)",
+            "aiAssisted": true
+          },
+          {
+            "title": "Start paid ads with proven creatives",
+            "description": "Use your best-performing organic content as ad creative. Only scale what's proven — don't spend on unvalidated creatives.",
+            "estimatedHours": 8,
+            "tools": [
+              "Meta Ads",
+              "TikTok Ads",
+              "AdCreative.ai"
+            ],
+            "deliverable": "Paid ad campaigns running profitably",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build email marketing automation",
+            "description": "Set up welcome sequence, abandoned cart recovery, post-purchase follow-up, and new drop announcements.",
+            "estimatedHours": 6,
+            "tools": [
+              "Klaviyo",
+              "Mailchimp",
+              "ChatGPT"
+            ],
+            "deliverable": "Email automations live and converting",
+            "aiAssisted": true
+          },
+          {
+            "title": "Evaluate wholesale/small batch production",
+            "description": "Compare POD costs vs wholesale for your top 3 sellers. Consider a limited run to test.",
+            "estimatedHours": 4,
+            "tools": [
+              "Alibaba",
+              "Google Sheets"
+            ],
+            "deliverable": "Wholesale vs POD cost analysis for top products"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your niche lifestyle brand for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your niche lifestyle brand — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your niche lifestyle brand and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Print-on-demand integration (Printful or Printify)",
+            "why": "Lets you validate demand on 3-5 SKUs before committing to bulk inventory — the scaffold explicitly calls this out as the safer path"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ui-designer",
+          "why": "Diana helps design SKUs that clearly express the brand identity, not a generic catalog",
+          "firstTask": "Suggest 3 product design directions that express this brand's identity"
+        },
+        {
+          "personaId": "community-manager",
+          "why": "Cora helps build the identity/community connection your listing copy leans on — niche brands sell belonging, not just products",
+          "firstTask": "Draft social content that builds the community connection around this brand"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "physical-product",
+        "physicalProduct": {
+          "sourcingChecklist": [
+            "Define the specific identity/community this brand serves — narrower is stronger here than in generic ecommerce (this is the whole point vs. dropshipping)",
+            "Design 3-5 initial SKUs that clearly express that identity, not a broad generic catalog",
+            "Find a print-on-demand or small-batch manufacturing partner (Printful, Printify, or a local manufacturer for non-apparel) — validate demand before committing to bulk inventory",
+            "Order samples of every SKU and check them against the identity/vibe you're building — inconsistent quality breaks brand trust fast",
+            "Confirm your supplier can scale if a design goes viral — a stockout during a demand spike is a real, common failure mode for niche brands"
+          ],
+          "listingTemplate": {
+            "titleFormula": "[Brand Name] [Product Type] — \"[The identity/inside-joke phrase]\"",
+            "bulletPointFormulas": [
+              "Lead with the identity/community connection, not generic product specs — the buyer is purchasing belonging, not just an item",
+              "Material/quality bullet — niche brand buyers pay a premium and expect real quality to match",
+              "Story bullet — a line about why this design/brand exists"
+            ],
+            "requiredPhotos": [
+              "On-brand lifestyle photography that reflects the community/identity, not generic stock-style product shots",
+              "Detail/quality close-up",
+              "Sizing/scale reference"
+            ]
+          },
+          "fulfillmentSteps": [
+            "Set up storefront (Shopify recommended) with strong brand visual identity from day one — niche brands live or die on aesthetic consistency",
+            "Build a community presence (Instagram, TikTok, or a niche-specific platform) BEFORE the full catalog launches — the audience is the actual asset, the products are how you monetize it",
+            "Launch with a small, tight collection rather than a large generic catalog — resist the urge to add SKUs before the core identity has proven demand",
+            "Set up email capture from day one — niche-brand repeat-purchase rate is the main profit driver, and email is how you drive it"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "creative",
+      "independent"
+    ],
+    "timeToStart": "2-3 weeks"
+  },
+  {
+    "id": "ai-reseller-operator",
+    "title": "AI Reseller Operator",
+    "description": "Turn thrift finds, retail arbitrage, and live shows on Whatnot/Poshmark/eBay/Mercari into real income. AI handles the brutal parts — photo-to-listing in 60 seconds, real-time comping, per-platform SEO rewrites, and live-show prep — so you focus on sourcing and selling.",
+    "difficulty": "intermediate",
+    "startupCost": "$200-$1,500",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Niche Sourcing",
+      "Photography & Listing",
+      "Pricing & Comping",
+      "Customer Service",
+      "Live Show Hosting (optional)"
+    ],
+    "tools": [
+      "Whatnot",
+      "Poshmark",
+      "eBay",
+      "Mercari",
+      "Shippo",
+      "Google Sheets"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 200,
+    "budgetMax": 1500,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Pick a niche (vintage clothing, trading cards, sneakers, toys, kitchenware, books)",
+      "Build sourcing routes — thrift stores, estate sales, online retail arbitrage, returns lots",
+      "Set up a cross-platform listing system with AI photo-to-listing",
+      "Launch on 2-3 platforms simultaneously and run your first live show",
+      "Scale with content marketing, repeat buyers, and tighter sourcing intel"
+    ],
+    "audience": {
+      "role": "Aspiring full-time reseller",
+      "industry": "Resale / Live commerce",
+      "painPoints": [
+        "Spends hours photographing and listing — can't keep up with sourcing",
+        "Doesn't know what to source next — guessing instead of using demand data",
+        "Cross-posting to multiple platforms is tedious; current tools mirror listings instead of optimizing per platform",
+        "Wants to try Whatnot but doesn't know how to host a show that converts",
+        "Pricing is guesswork — scrolling sold listings eats time",
+        "Tax season is a nightmare — receipts in shoeboxes, no profit visibility"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Communities",
+        "Content Marketing",
+        "Twitter/X",
+        "Referrals",
+        "Partnerships"
+      ],
+      "launchStrategy": "Pick ONE niche and ONE primary platform first. Build 50+ listings before going live, then add platforms. For Whatnot, attend 10+ shows in your niche before hosting your own — pattern-match what works. Don't try to be on every platform on day one.",
+      "firstCustomerTactics": [
+        "Cross-list the same inventory on 2-3 platforms simultaneously to maximize sell-through",
+        "Attend 10+ live shows in your niche on Whatnot — follow and chat in 5+ to build presence before hosting",
+        "Post sourcing/listing TikToks daily — thrift hauls with profit math are evergreen content",
+        "Build a niche Instagram or Twitter — vintage Y2K finds, graded Pokemon, etc. — and DM engaged followers"
+      ],
+      "contentIdeas": [
+        "Thrift haul videos with cost-vs-resale numbers (TikTok loves these)",
+        "Pre-show product previews and live-show reminders",
+        "Behind-the-scenes of sourcing trips and listing batches",
+        "Educational content: how to spot fakes, authenticate, grade, value",
+        "Customer wins — feature buyers wearing or using items they bought"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Entry Inventory",
+        "price": "$10-30",
+        "features": [
+          "High-velocity items: clothing, books, kitchenware",
+          "Quick to list, quick to sell — builds platform momentum",
+          "Cheap to source from thrift stores and clearance",
+          "Use to test new niches before going deep"
+        ]
+      },
+      {
+        "name": "Core Inventory",
+        "price": "$30-100",
+        "features": [
+          "Bread-and-butter: vintage tees, mid-tier sneakers, toys, decor",
+          "Where most resellers spend their time",
+          "Strong on Poshmark/Mercari/Whatnot live shows"
+        ]
+      },
+      {
+        "name": "Premium / Collectible",
+        "price": "$100-500+",
+        "features": [
+          "Designer, graded cards, sneakers, watches, vintage rarities",
+          "Higher absolute profit per item, lower velocity",
+          "Authentication matters — eBay Authenticity Guarantee, StockX",
+          "Star-of-show pieces for live commerce"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Pick your niche, set up sourcing + tooling, prep your first 50 listings",
+        "tasks": [
+          {
+            "title": "Pick your niche and sourcing routes",
+            "description": "Score 5 candidate niches (vintage clothing, sneakers, trading cards, kitchenware, books, toys) on margin × velocity × competition × your personal fit. Use AI to pull market data on each. Pick ONE primary niche and 2-3 sourcing routes (Goodwill rotation, estate sale alerts, Amazon returns lots, retail arbitrage targets).",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Google Sheets",
+              "eBay Sold Listings"
+            ],
+            "deliverable": "Niche pick + 3 sourcing routes mapped",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up platform accounts and shipping infrastructure",
+            "description": "Create seller accounts on your top 2-3 platforms (start with Poshmark + eBay + Mercari; add Whatnot once you have inventory and have studied the format). Get a shipping scale, poly mailers, boxes, and a thermal label printer. Sign up for Pirate Ship or Shippo for cheap labels.",
+            "estimatedHours": 4,
+            "tools": [
+              "Poshmark",
+              "eBay",
+              "Mercari",
+              "Pirate Ship",
+              "Shippo"
+            ],
+            "deliverable": "All accounts live + shipping station set up"
+          },
+          {
+            "title": "Build your AI listing workflow",
+            "description": "Set up a workflow: photo → background clean → AI-generated listing (title, description, measurements, condition) tailored per platform. Save reusable Claude/ChatGPT prompts. Use Photoroom for one-tap background removal. Pick a cross-lister (Vendoo or List Perfectly) but use AI to REWRITE per platform — not just mirror.",
+            "estimatedHours": 4,
+            "tools": [
+              "Claude",
+              "ChatGPT",
+              "Photoroom",
+              "Vendoo",
+              "iPhone Camera"
+            ],
+            "deliverable": "Workflow takes a single item from photo to listed in under 3 min",
+            "aiAssisted": true
+          },
+          {
+            "title": "Source and list your first 50 items",
+            "description": "Hit your sourcing routes and bring back 50 items. For each: photograph (5-7 angles + measurements), run through the AI listing workflow, post to all active platforms. Use AI comping (search sold listings, get a price range with confidence) before pricing. Track every cost and listing in a Google Sheet or Reseller Genie.",
+            "estimatedHours": 12,
+            "tools": [
+              "iPhone",
+              "Google Sheets",
+              "AI listing workflow",
+              "eBay sold comps"
+            ],
+            "deliverable": "50 items sourced, photographed, priced, and listed across all platforms",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Drive first sales, run your first live show, lock in operations",
+        "tasks": [
+          {
+            "title": "Run your first 2 weeks of sales operations",
+            "description": "Daily: share Poshmark closet (the algo rewards it), respond to offers, ship same-day if possible. Weekly: send offers-to-likers, drop prices on stale listings, re-list slow movers. AI drafts customer messages for size and condition questions. Goal: 10-20 sales by end of week 2.",
+            "estimatedHours": 10,
+            "tools": [
+              "Poshmark",
+              "eBay",
+              "Mercari",
+              "ChatGPT"
+            ],
+            "deliverable": "15+ sales completed, shipped, and reviewed",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prep and run your first Whatnot show (or Poshmark Show)",
+            "description": "Watch 10+ shows in your niche before hosting. Plan a 90-min show: theme, product order (cheap warm-ups → premium centerpieces → bundle close), giveaway hook for follower count. Use AI to draft a run-of-show script and bid-pacing cues. Promote 3 days ahead on social. Goal: 50 viewers, 15+ items sold, 25 new followers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Whatnot",
+              "OBS or Phone",
+              "ChatGPT",
+              "Canva"
+            ],
+            "deliverable": "First show hosted with measurable conversion",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up auto-bookkeeping and tax tracking",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 4,
+            "tools": [
+              "Reseller Genie",
+              "Google Sheets",
+              "Google Drive",
+              "ChatGPT"
+            ],
+            "deliverable": "Live P&L per item + clean books for tax season",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build your social presence (1 channel, daily)",
+            "description": "Pick ONE — TikTok or Instagram Reels — and post daily. Best-performing content: thrift hauls with profit math, live show previews, niche education (spotting fakes, grading, authenticating). Repurpose every listing into a 15-second clip. AI generates captions, hashtags, and hooks. Goal: 500 followers in 2 weeks.",
+            "estimatedHours": 6,
+            "tools": [
+              "TikTok",
+              "Instagram",
+              "OpusClip",
+              "ChatGPT"
+            ],
+            "deliverable": "14+ posts published, 500+ followers",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Compound sourcing intelligence, content reach, and live-show velocity",
+        "tasks": [
+          {
+            "title": "Tighten sourcing with demand intelligence",
+            "description": "Stop guessing. Pull weekly demand data: top sold items in your niche on eBay/Poshmark, trending searches, TikTok hashtag momentum. Build a source-aggressively list and an avoid list. Add 1-2 new sourcing routes (online retail arbitrage, returns lots from B-Stock, estate sale apps).",
+            "estimatedHours": 6,
+            "tools": [
+              "eBay Terapeak",
+              "Google Trends",
+              "TikTok",
+              "ChatGPT",
+              "B-Stock"
+            ],
+            "deliverable": "Weekly demand report + 2 new sourcing routes producing inventory",
+            "aiAssisted": true
+          },
+          {
+            "title": "Run weekly live shows with a tight format",
+            "description": "Lock in a recurring show day and time so followers expect it. Track per-show metrics: viewers, sell-through, follower gain, dollars per minute. AI generates post-show recaps and DM follow-ups to bidders.",
+            "estimatedHours": 16,
+            "tools": [
+              "Whatnot",
+              "ChatGPT",
+              "Canva"
+            ],
+            "deliverable": "8 weekly shows hosted with consistent format and growth",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build a content engine that compounds",
+            "description": "Move from daily posting to a system: 1 thrift-haul video/week, 3 listing showcases/week, 1 educational piece/week. Use OpusClip or Captions to auto-clip live shows into Reels. Link bio drives to Whatnot follow + Poshmark closet.",
+            "estimatedHours": 12,
+            "tools": [
+              "TikTok",
+              "Instagram",
+              "OpusClip",
+              "Captions",
+              "Linktree"
+            ],
+            "deliverable": "Repeatable weekly content cadence + measurable attribution",
+            "aiAssisted": true
+          },
+          {
+            "title": "Decide your next move: deepen niche or go wider",
+            "description": "After 60 days, review the data. Two paths: (1) Go DEEPER — niche down further into your top sub-category, raise prices, pursue authentication. (2) Go WIDER — add a complementary niche or expand to wholesale or own-brand. Either way, document SOPs so you can hire a VA for listing or shipping.",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Sheets",
+              "Notion",
+              "ChatGPT"
+            ],
+            "deliverable": "Strategic decision documented + SOPs ready for a VA hire",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your reseller business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your reseller business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your reseller business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Thermal label printer",
+            "why": "Hand-writing labels doesn't scale past a handful of items a week — this pays for itself fast"
+          },
+          {
+            "item": "Comp-pricing tool or AI-assisted price lookup",
+            "why": "Confirming realistic resale value before you buy is what separates profitable resellers from people guessing"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ecommerce-specialist",
+          "why": "Ethan helps optimize listings and pricing strategy across whichever marketplace you pick",
+          "firstTask": "Write a comp-pricing check for this item against 5 recent sold listings"
+        },
+        {
+          "personaId": "data-scientist",
+          "why": "Dash can help you track cost-per-item against actual sold price so you learn which sourcing channels are actually profitable",
+          "firstTask": "Build a simple spreadsheet formula to track margin per item by sourcing channel"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "physical-product",
+        "physicalProduct": {
+          "sourcingChecklist": [
+            "Pick a starting category based on what you already know (thrifted clothing, sneakers, electronics, collectibles) — category knowledge is what separates profitable resellers from people guessing at value",
+            "Source from thrift stores, estate sales, liquidation pallets, or retail arbitrage depending on category — each has different margin/time tradeoffs, start with one",
+            "Use AI-assisted comp pricing (see AI prompts below) on every item before buying to confirm realistic resale value minus fees/shipping",
+            "Photograph and measure items immediately after sourcing while details are fresh — batching this later loses accuracy and speed",
+            "Track cost-per-item against actual sold price to learn which sourcing channels and categories are actually profitable for you specifically"
+          ],
+          "listingTemplate": {
+            "titleFormula": "[Brand] [Item Type] [Size] [Color/Style] [Era/Model if relevant] — [condition flag if notable]",
+            "bulletPointFormulas": [
+              "Condition stated precisely and honestly — vague condition descriptions drive returns and bad reviews",
+              "Exact measurements, not just size labels — sizing varies wildly across brands and eras",
+              "Any flaws disclosed upfront with photos — this reduces returns far more than it reduces sales"
+            ],
+            "requiredPhotos": [
+              "Full front/back on a consistent background",
+              "Close-up of any brand tags/labels",
+              "Close-up of any flaws or wear",
+              "Measurements laid flat with a tape measure visible"
+            ]
+          },
+          "fulfillmentSteps": [
+            "Cross-list the same item across Poshmark/eBay/Mercari using the platform-specific format from the AI prompt below — one generic listing copy-pasted everywhere underperforms",
+            "Ship within 1-2 business days of sale — platform algorithms and buyer reviews both reward fast shipping",
+            "Delist from other platforms immediately once an item sells anywhere — overselling the same item is the most common cross-listing failure",
+            "Track your sell-through rate by category monthly to refine what you source next"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Photo → multi-platform listing",
+          "prompt": "You are an expert reseller writing listings for the SAME item across Poshmark, eBay, and Mercari. Each platform has a different algorithm — write 3 versions, NOT one version copy-pasted.\n\nItem details:\n- Photos: [paste image links or descriptions]\n- Brand: [brand]\n- Category: [e.g., women's vintage tee]\n- Condition: [Like New / Good / Fair, with specifics]\n- Measurements: [pit-to-pit, length, sleeve, waist, etc]\n- Color/style notes: [details]\n\nFor each platform produce:\n\nPOSHMARK\n- Title (max 80 chars, brand + descriptor + style + size)\n- Description: lifestyle-first, 4-6 sentences, hashtags at bottom\n- 5 relevant Posh-style hashtags\n\nEBAY\n- Title (max 80 chars, keyword-stuffed: brand + item type + size + color + era + 2-3 search terms)\n- Item Specifics: brand, size, color, material, style, era, fit\n- Description: 3 short paragraphs — what it is, condition specifics, measurements\n\nMERCARI\n- Title (max 40 chars, simple + searchable)\n- Description: 3-4 sentences, condition + measurements + casual tone\n- 5 relevant tags\n\nAdd a \"🔥 RANKING NOTE\" at the end calling out one optimization tip per platform based on what would help this specific item."
+        },
+        {
+          "task": "Comp pricing analysis (sold listings → price)",
+          "prompt": "Act as a reselling pricing analyst. I will paste 5-10 sold-listing data points for a comparable item. Return:\n\n1. **Price range** (low/median/high) with confidence level\n2. **List price recommendation** for fast velocity (target: sells in 14-30 days)\n3. **List price recommendation** for max profit (target: sells in 60-90 days)\n4. **Offer-acceptance threshold** — minimum acceptable counter on offers\n5. **Red flags** — anything in the data that might mislead pricing\n\nItem: [item description]\nSold comps:\n[paste eBay sold listings, Poshmark sold, Mercari sold, etc]\n\nBe honest if comps are too thin or too varied for confident pricing."
+        },
+        {
+          "task": "Whatnot live show run-of-show generator",
+          "prompt": "You are a Whatnot live-show producer. I am hosting a 90-minute show. Build a run-of-show script.\n\nShow context:\n- Niche: [vintage clothing / Pokemon / sneakers / etc]\n- Inventory: [list 30-50 items by name + price]\n- Goal: [followers / sales / clearout]\n- Audience size estimate: [50 / 200 / 500]\n\nOutput:\n\nOPENING (0-10 min)\n- Hook script (the first 60 seconds — most important)\n- Giveaway announcement to drive follows\n- 2-3 cheap warm-up items to build bidding momentum\n\nCORE SET (10-70 min)\n- Ordered list of items in 4 segments of 15 min each\n- Per item: opening line, key selling point, starting bid, expected close\n- Pacing nudges every 15 min (\"if audience drops below X, do Y\")\n\nPEAK MOMENT (70-80 min)\n- Star item placement\n- Bundle offer scripting\n\nCLOSE (80-90 min)\n- Final bundle / mystery box\n- DM follow-up promise\n- Next-show preview\n\nEnd with 5 \"if X happens, do Y\" contingency plays."
+        },
+        {
+          "task": "Live show post-recap + DM follow-ups",
+          "prompt": "Act as a customer-retention specialist for live commerce. I just hosted a Whatnot show. Generate:\n\n1. **Public recap post** (TikTok/Instagram/Whatnot) — 3 versions, 1 paragraph each\n2. **DM follow-up** for top 5 buyers — personalized template (winner of X item)\n3. **DM follow-up** for non-winners who actively bid — \"saw you bidding on X, here's a similar piece\"\n4. **Email recap** for email list (newsletter format) — 4 short sections\n\nShow data:\n- Items sold: [count]\n- Top bidders: [list with handles + items won]\n- Active non-winners: [list with handles + items they bid on]\n- Star moment: [what was memorable]\n- Next show date: [date]\n\nTone: warm, gracious, specific (not generic)."
+        },
+        {
+          "task": "Customer DM response (size/condition/shipping)",
+          "prompt": "Generate professional, friendly customer service responses for these reselling DMs. Match the platform's tone.\n\nCommon questions:\n1. \"What are the measurements?\" → reply with measurements + when you'll relist with them visible\n2. \"Will this fit me?\" (with their measurements) → reply factually without overpromising\n3. \"Is this authentic?\" → reply with authentication evidence (tags, stitching, hardware)\n4. \"Can you do a lower price?\" → reply that maintains margin without alienating\n5. \"When will this ship?\" → reply with realistic timeline + confirmation\n6. \"Can you bundle these?\" → reply with bundle discount math\n\nBrand/voice notes: [your reseller brand voice — friendly, professional, occasionally playful]\nItem: [item details]"
+        },
+        {
+          "task": "Bundle offer pitch (browser → bundle buyer)",
+          "prompt": "I have a buyer who liked these items: [list 3-6 items with prices]. Generate 3 bundle offer messages with progressively bigger discounts (10%, 15%, 20%) AND combined-shipping savings.\n\nFor each, write:\n- Subject/opening line\n- Bundle math (transparent — show the savings)\n- Soft urgency (not pushy)\n- Easy yes/no CTA\n\nTone: warm, helpful, not desperate."
+        },
+        {
+          "task": "Weekly sourcing demand report",
+          "prompt": "Act as a reselling sourcing analyst. Given my recent sales data + current inventory + general niche trends, output a weekly briefing:\n\nMy data:\n- Sales this week: [items + prices + days-to-sell]\n- Inventory aging 60+ days: [items]\n- Niche: [vintage Y2K / Pokemon graded / sneakers / etc]\n\nOutput:\n\nSOURCE AGGRESSIVELY (5-7 items):\n- Specific items that sold fast + had good margin\n- Where to source them (specific stores/online channels)\n- Target buy price for 70%+ ROI\n\nAVOID (3-5 items):\n- Categories that aged > 60 days or sold below margin\n- Why they failed\n\nEMERGING TRENDS (2-3 items):\n- Niche-relevant trends from TikTok hashtags or recent eBay sold velocity\n- Risk level (early bet vs late bet)\n\nBe specific, not generic. Cite reasoning."
+        },
+        {
+          "task": "TikTok thrift haul script (60s)",
+          "prompt": "Turn this thrift haul into a 60-second TikTok script.\n\nHaul:\n- Items + cost: [list]\n- Expected resale: [list with target prices]\n- Profit math: [total cost vs total resale]\n- Standout item: [the hero of the haul]\n\nScript structure:\n- Hook (0-3s): a transformation/curiosity/profit-tease line\n- Reveal (3-30s): show items rapid-fire with price + resale comp\n- Star moment (30-45s): focus on hero item\n- Profit reveal + CTA (45-60s): total profit math + follow for next haul\n\nInclude on-screen text cues, voiceover script, and 5 hashtags."
+        },
+        {
+          "prompt": "I'm a US sole-prop reseller. Categorize this expense for Schedule C and tell me if it's deductible:\n\nExpense: [description, amount, date]\nReceipt notes: [paste receipt OCR or notes]\n\nOutput:\n- Schedule C line (e.g., \"Line 22 — Supplies\")\n- Deduction type (full / partial / not deductible)\n- Documentation to keep (receipt, photo, mileage log)\n- Common audit risk for this category\n- 1-line bookkeeping note to copy into spreadsheet"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Listing without comping first",
+          "why": "Without sold-listing data, pricing is a guess. Listing too high kills velocity (Poshmark + Mercari algorithms favor active sellers); listing too low torches margin.",
+          "prevention": "Spend 90 seconds running 3-5 sold comps before every listing. AI prompt above does this in seconds."
+        },
+        {
+          "mistake": "Same listing copy-pasted across all platforms (no per-platform optimization)",
+          "why": "Cross-listers (Vendoo, List Perfectly) mirror listings — but Poshmark, eBay, and Mercari each weight different signals. Mirrored listings rank poorly on all of them.",
+          "prevention": "Use the photo→multi-platform AI prompt to generate 3 platform-specific versions in one shot."
+        },
+        {
+          "mistake": "Going Whatnot before learning the format",
+          "why": "Whatnot live shows are performance + commerce. First-timers without context flop hard, build social proof against them, and rarely come back.",
+          "prevention": "Attend 10+ shows in your niche. Chat in 5+. Pattern-match what hosts do during slow segments. THEN host."
+        },
+        {
+          "mistake": "No bookkeeping until tax season",
+          "why": "Reselling has dozens of small expenses (mileage, supplies, fees, source costs). Reconstructing them in April from memory means missed deductions + audit risk.",
+          "prevention": "Set up Reseller Genie / MyReseller / Sheets template in week 1. Snap every receipt to a single Drive folder."
+        },
+        {
+          "mistake": "Sourcing too broadly (no niche)",
+          "why": "Brand-and-category-promiscuous sourcing means every listing is a one-off — no compounding ranking benefit, no follower base, no expertise leverage.",
+          "prevention": "Pick ONE primary niche for the first 90 days."
+        },
+        {
+          "mistake": "Pricing for greed not velocity in the first 60 days",
+          "why": "Poshmark/Mercari rank active, fast-selling sellers higher. Early greed pricing → slow turnover → algorithmic penalty.",
+          "prevention": "After velocity is established, raise prices on new listings."
+        },
+        {
+          "mistake": "Ignoring offer-to-likers + Posh share routine",
+          "why": "Skipping these is leaving half the platform on the table.",
+          "prevention": "Share your closet 2x/day (morning + evening). Share back to anyone who shares yours."
+        },
+        {
+          "mistake": "No off-platform email/social capture",
+          "why": "Every sale on Whatnot/Poshmark is a one-off until you bring the buyer off-platform. Without it, you rebuild your audience every week.",
+          "prevention": "Pin a Linktree → free niche guide → email list. Every shipment includes an insert with social handles + email signup."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Cross-listing tool",
+          "recommendation": "Vendoo for fashion-heavy resellers (best Poshmark integration). List Perfectly if you sell across 6+ platforms. Crosslist if budget is tight. NONE of them rewrite per platform — pair with the AI prompt above to actually optimize.",
+          "options": [
+            {
+              "name": "Vendoo",
+              "bestFor": "Fashion + accessories, Poshmark-first",
+              "weakness": "Mirrors listings — no per-platform copy",
+              "url": "https://vendoo.co"
+            },
+            {
+              "name": "List Perfectly",
+              "bestFor": "Multi-platform breadth (Etsy + Mercari + eBay + Poshmark)",
+              "weakness": "Heavier UI; learning curve",
+              "url": "https://listperfectly.com"
+            },
+            {
+              "name": "Crosslist",
+              "bestFor": "Cheap entry point, basic cross-listing",
+              "weakness": "Fewer integrations than Vendoo/LP",
+              "url": "https://crosslist.com"
+            }
+          ]
+        },
+        {
+          "category": "Bookkeeping",
+          "recommendation": "Reseller Genie for sub-500 listings/mo. MyReseller for higher volume. Custom Google Sheet works fine for under 100 sales/mo if you actually maintain it.",
+          "options": [
+            {
+              "name": "Reseller Genie",
+              "bestFor": "Small-to-mid resellers, integrates with major platforms",
+              "url": "https://myresellergenie.com"
+            },
+            {
+              "name": "MyReseller",
+              "bestFor": "Higher volume + multi-platform"
+            },
+            {
+              "name": "Google Sheets template",
+              "bestFor": "Ultra-low volume, full control",
+              "weakness": "Manual entry — easy to skip during busy weeks"
+            }
+          ]
+        },
+        {
+          "category": "Shipping label",
+          "recommendation": "Pirate Ship for everything except Whatnot (which has its own labels).",
+          "options": [
+            {
+              "name": "Pirate Ship",
+              "bestFor": "Bulk shipping, cheapest labels",
+              "url": "https://pirateship.com"
+            },
+            {
+              "name": "Shippo",
+              "bestFor": "Multi-carrier comparison",
+              "url": "https://goshippo.com"
+            },
+            {
+              "name": "Platform native (Poshmark / eBay)",
+              "bestFor": "Convenience for low-volume",
+              "weakness": "Slightly more expensive labels"
+            }
+          ]
+        },
+        {
+          "category": "Photo / background cleanup",
+          "recommendation": "Photoroom for fast bulk; Remove.bg for one-offs.",
+          "options": [
+            {
+              "name": "Photoroom",
+              "bestFor": "Bulk listing photo cleanup, batch backgrounds",
+              "url": "https://photoroom.com"
+            },
+            {
+              "name": "Remove.bg",
+              "bestFor": "Occasional one-offs",
+              "url": "https://remove.bg"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Should I add Whatnot to my platform mix?",
+          "options": [
+            {
+              "choice": "Yes — go all in",
+              "pickIf": "Your niche is Whatnot-native (cards, sneakers, vintage, toys, comics) AND you are comfortable on camera AND can commit to weekly shows.",
+              "nextStep": "Attend 10+ shows in your niche before hosting. Plan first show inventory by week 4 of running other platforms."
+            },
+            {
+              "choice": "Not yet — keep watching",
+              "pickIf": "Your niche is fashion-leaning OR you have under 50 listings live OR camera presence intimidates you.",
+              "nextStep": "Start on Poshmark + Mercari + eBay."
+            },
+            {
+              "choice": "Skip entirely",
+              "pickIf": "",
+              "nextStep": "Double down on cross-listing + content marketing instead."
+            }
+          ]
+        },
+        {
+          "question": "Cross-list to all 4 platforms or focus on 1-2?",
+          "options": [
+            {
+              "choice": "All 4 from day 1",
+              "pickIf": "You have 50+ listings, a cross-lister tool, AND are using AI to rewrite per platform.",
+              "nextStep": "Cross-listing increases sell-through 30-60%. Use the AI prompt to avoid mirror-list penalty."
+            },
+            {
+              "choice": "Focus on 1-2 first",
+              "pickIf": "You are new, have under 50 listings, OR cannot afford a cross-lister yet.",
+              "nextStep": "Pick Poshmark + eBay (or Mercari + eBay). Add platforms 3-4 once first two are humming."
+            }
+          ]
+        },
+        {
+          "question": "When do I niche down further (vintage clothing → vintage Y2K)?",
+          "options": [
+            {
+              "choice": "Now",
+              "pickIf": "You have a sub-niche with consistent sell-through AND can build a follower base around it.",
+              "nextStep": "Rebrand around the niche. Curate inventory tighter. Content engine ties to niche identity."
+            },
+            {
+              "choice": "Later",
+              "pickIf": "You are still figuring out what sells in your category.",
+              "nextStep": "Track sales by sub-category for 60 days. The data will tell you the niche."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "1-2 weeks"
+  },
+  {
+    "id": "amazon-fba-operator",
+    "title": "Amazon FBA Operator",
+    "description": "Source profitable products via online arbitrage, wholesale, or private label and let Amazon FBA handle storage, packing, and shipping. AI does the heavy lifting: product research, profit calculation, listing optimization, PPC management, and review monitoring.",
+    "difficulty": "intermediate",
+    "startupCost": "$1,000-$5,000",
+    "timeCommitment": "15-30 hours/week",
+    "skills": [
+      "Product Research",
+      "Supplier Relations",
+      "Listing Optimization",
+      "Amazon PPC",
+      "Inventory Management"
+    ],
+    "tools": [
+      "Amazon Seller Central",
+      "Keepa",
+      "SmartScout",
+      "Helium 10",
+      "Jungle Scout"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 1000,
+    "budgetMax": 5000,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Pick your model — Online Arbitrage (lowest capital), Wholesale (mid), or Private Label (highest leverage)",
+      "Research profitable products with Keepa + SmartScout + Helium 10 — focus on velocity × margin × low competition",
+      "Source first 10-20 products and prep for FBA shipment",
+      "Optimize listings with AI-generated titles, bullets, A+ content, and images",
+      "Run PPC campaigns to drive velocity, then defend organic ranking"
+    ],
+    "audience": {
+      "role": "Aspiring FBA seller",
+      "industry": "Amazon ecommerce",
+      "painPoints": [
+        "Drowning in product research — every Helium 10 search returns thousands of options",
+        "Fear of buying inventory that does not sell (sunk cost in FBA warehouses)",
+        "Listings rank poorly — copywriting is not their strength",
+        "Suspension risk if they get a category restriction or IP complaint",
+        "Cash flow lag — FBA pays every 14 days, suppliers want NET-30"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "SEO",
+        "Paid Ads",
+        "Communities",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Amazon IS the channel — your job is to win the buy box and rank organically. Launch each product with aggressive PPC for 2-4 weeks to drive velocity + reviews, then defend rank with optimized listings and inventory health.",
+      "firstCustomerTactics": [
+        "Run Amazon PPC sponsored product ads from day 1 — bid aggressively on long-tail keywords first",
+        "Get to 15+ reviews fast via Vine program (private label) or just exceptional fulfillment",
+        "Optimize main image (mobile-tested) — biggest single conversion lever on Amazon",
+        "Use price drops + coupons in first 30 days to stack velocity for ranking",
+        "Build A+ content (EBC) — required for premium conversion rates"
+      ],
+      "contentIdeas": [
+        "Behind-the-scenes of FBA prep and shipment",
+        "Product research walkthroughs (sanitized, no exact products)",
+        "PPC results breakdowns (TACoS over time)",
+        "Margin transparency — what FBA actually pays after fees",
+        "Failed product post-mortems (these go viral)"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Online Arbitrage",
+        "price": "$15-50 per item",
+        "features": [
+          "Source from retail clearance, online deals, B&M",
+          "Quick to test profitability"
+        ]
+      },
+      {
+        "name": "Wholesale",
+        "price": "$30-150 per item",
+        "features": [
+          "Repeatable buying from approved distributors",
+          "Replenishable inventory = predictable revenue"
+        ]
+      },
+      {
+        "name": "Private Label",
+        "price": "$20-80 per item, branded",
+        "features": [
+          "Build a brand asset you can sell",
+          "Highest margin (40-60%)",
+          "Requires patient runway (6-12 months to scale)"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "2 weeks",
+        "description": "Set up Amazon Seller account, learn the platform, pick your model",
+        "tasks": [
+          {
+            "title": "Open Amazon Seller Professional account + tax setup",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 4,
+            "tools": [
+              "Amazon Seller Central",
+              "IRS.gov",
+              "GS1.org"
+            ]
+          },
+          {
+            "title": "Pick your FBA model and validate with AI",
+            "description": "Decide: Online Arbitrage (lowest barrier), Wholesale (best for replenishable cash flow), or Private Label (asset-builder). Use AI to score each against your capital, time, and risk tolerance. Pick ONE for the next 90 days.",
+            "estimatedHours": 3,
+            "tools": [
+              "ChatGPT",
+              "Claude",
+              "Google Sheets"
+            ],
+            "deliverable": "Model decision documented with rationale",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up product research stack",
+            "description": "Subscribe to Helium 10 (or Jungle Scout), Keepa, and SmartScout (for wholesale). Configure filters: BSR rank, monthly revenue, price, review count, FBA fee impact. Save 5-10 starter searches in your niche of interest.",
+            "estimatedHours": 4,
+            "tools": [
+              "Helium 10",
+              "Keepa",
+              "SmartScout"
+            ],
+            "deliverable": "Product research stack live with saved filters"
+          },
+          {
+            "title": "Pick first 10-20 products to source",
+            "description": "Run AI-assisted product research: target 30%+ ROI, BSR < 50K in main category, < 200 reviews on top results, no big brand monopoly. For Wholesale, identify brands open to new resellers. For Private Label, find products with clear differentiation opportunities.",
+            "estimatedHours": 8,
+            "tools": [
+              "Helium 10",
+              "Keepa",
+              "ChatGPT",
+              "Google Sheets"
+            ],
+            "deliverable": "10-20 product candidates with profit math",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "4 weeks",
+        "description": "Source, list, ship to FBA, and start selling",
+        "tasks": [
+          {
+            "title": "Source your first FBA shipment",
+            "description": "For OA: place orders from retail/online sources. For Wholesale: open accounts with 3-5 distributors, place first order. For Private Label: contact suppliers on Alibaba, order 100-300 units. Plan for 2-6 week supplier lead time.",
+            "estimatedHours": 10,
+            "tools": [
+              "Alibaba",
+              "Wholesale supplier portals",
+              "Online retailers"
+            ],
+            "deliverable": "First inventory ordered or in hand"
+          },
+          {
+            "title": "Create AI-optimized listings",
+            "description": "For each product: AI-generate title (5 keyword target), 5 bullet points, description, search terms, A+ content blocks. Photograph or contract photography (white background main image is non-negotiable). Use Helium 10 Frankenstein/Scribbles for keyword density.",
+            "estimatedHours": 12,
+            "tools": [
+              "ChatGPT",
+              "Claude",
+              "Helium 10",
+              "Canva"
+            ],
+            "deliverable": "All listings live with optimized copy + images",
+            "aiAssisted": true
+          },
+          {
+            "title": "Ship to FBA + go live",
+            "description": "Create FBA shipment in Seller Central, print labels, prep per Amazon requirements (poly bag, suffocation warning, etc.), ship to designated warehouses. Wait 1-2 weeks for receive. Listings go live the moment inventory is checked in.",
+            "estimatedHours": 8,
+            "tools": [
+              "Amazon Seller Central",
+              "Pirate Ship",
+              "Label printer"
+            ],
+            "deliverable": "Inventory checked in to FBA, listings live"
+          },
+          {
+            "title": "Launch PPC campaigns",
+            "description": "AI suggests negative keywords from search-term reports.",
+            "estimatedHours": 6,
+            "tools": [
+              "Amazon Advertising",
+              "Helium 10 Adtomic",
+              "ChatGPT"
+            ],
+            "deliverable": "PPC campaigns running, daily reviewed",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "Defend ranking, expand catalog, automate operations",
+        "tasks": [
+          {
+            "title": "Build review velocity",
+            "description": "Vine program (10 free units → reviews) for Brand Registry sellers. Automated review request via Helium 10 Follow-Up. Insert cards thanking customers (compliant — never ask for positive reviews). Goal: 30+ reviews per product within 60 days of launch.",
+            "estimatedHours": 4,
+            "tools": [
+              "Amazon Vine",
+              "Helium 10 Follow-Up"
+            ],
+            "deliverable": "30+ reviews per launched product"
+          },
+          {
+            "title": "Optimize PPC weekly with AI",
+            "description": "Each week: pull search-term reports, identify high-spend low-conversion keywords (negate), promote high-performers to dedicated exact campaigns, adjust bids based on ACoS targets. AI flags anomalies. Goal: TACoS under 12%.",
+            "estimatedHours": 6,
+            "tools": [
+              "Amazon Advertising",
+              "Helium 10 Adtomic",
+              "ChatGPT"
+            ],
+            "aiAssisted": true
+          },
+          {
+            "title": "Expand catalog to 30-50 SKUs",
+            "description": "Use winners from launch to identify expansion: same supplier different products (Wholesale), variations of best-seller (Private Label), or related categories (OA). AI re-runs research filters with refined criteria.",
+            "estimatedHours": 16,
+            "tools": [
+              "Helium 10",
+              "Keepa",
+              "ChatGPT"
+            ],
+            "deliverable": "Catalog at 30-50 SKUs with margin tracking",
+            "aiAssisted": true
+          },
+          {
+            "title": "Automate operations + hire VA",
+            "description": "Document SOPs (AI-generated from your existing workflow). Set up auto-repricer (BQool/Aura) for OA + Wholesale.",
+            "estimatedHours": 8,
+            "tools": [
+              "OnlineJobs.ph",
+              "BQool",
+              "Notion",
+              "ChatGPT"
+            ],
+            "deliverable": "VA hired with SOPs + repricer live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your Amazon FBA business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your Amazon FBA business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your Amazon FBA business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Product research tool (Helium 10, Jungle Scout, or similar)",
+            "why": "Validating demand and competition before committing to inventory is the single highest-leverage step in FBA — skipping it is how people lose their startup capital"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ecommerce-specialist",
+          "why": "Ethan helps validate product-market fit and optimize your listing for Amazon search/conversion",
+          "firstTask": "Score these 5 candidate products by realistic margin, demand, and competition"
+        },
+        {
+          "personaId": "data-scientist",
+          "why": "Dash helps model your break-even unit economics before you commit real capital to inventory",
+          "firstTask": "Build a break-even model given this unit cost, Amazon fees, and target sell price"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "physical-product",
+        "physicalProduct": {
+          "sourcingChecklist": [
+            "Shortlist 5-10 candidate products from research (see AI prompts below) that meet your margin and demand thresholds",
+            "Search Alibaba/1688 for 5+ manufacturers per candidate — never commit to the first supplier you find",
+            "Compare samples against Amazon best-sellers in the category for build quality, not just photos",
+            "Negotiate MOQ (minimum order quantity) down for your first order — most suppliers will do 100-300 units for a new relationship even if their listed MOQ is higher",
+            "Confirm your product needs no additional certifications (FDA, CPSC, UL) for its category before ordering — check per-category, this is a real compliance gap, not a formality"
+          ],
+          "listingTemplate": {
+            "titleFormula": "[Brand] [Primary Keyword] [Key Feature/Material] [Size/Quantity/Color] — [Use Case], [Secondary Keyword]",
+            "bulletPointFormulas": [
+              "Bullet 1 — lead with the #1 customer pain point this solves, in the first 5 words (mobile truncates fast)",
+              "Bullet 2 — the single feature that most differentiates you from the top 3 competitors",
+              "Bullet 3 — a use-case or \"who this is for\" bullet — helps buyers self-select",
+              "Bullet 4 — quality/durability/materials specifics with a concrete detail (not \"high quality\" — a spec)",
+              "Bullet 5 — guarantee/warranty + a soft CTA (\"Add to cart risk-free\")"
+            ],
+            "requiredPhotos": [
+              "Lifestyle shot: product in real use context",
+              "Infographic: 3-4 key specs/benefits overlaid on product shot",
+              "Scale/size reference shot",
+              "Comparison shot vs. a generic alternative (if applicable)",
+              "Packaging shot — what arrives at the customer's door"
+            ]
+          },
+          "fulfillmentSteps": [
+            "Create your Amazon Seller Central listing in Draft before inventory ships (catch listing issues before they cost you storage fees)",
+            "Set up FBA shipping plan in Seller Central — get your Amazon warehouse destination and box labels",
+            "Book freight forwarder for ocean/air shipping from supplier to Amazon warehouse (or have supplier arrange DDP shipping for your first order — simpler, costs more)",
+            "Track shipment; confirm receipt at FBA warehouse via Seller Central inventory dashboard",
+            "Publish listing live once inventory shows as \"Available\" in FBA inventory",
+            "Set up automatic + manual PPC campaigns same day as launch — organic ranking on a brand-new listing is near zero without paid traffic in week one"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Product research filter (Helium 10 / Keepa data → go/no-go)",
+          "prompt": "You are an Amazon FBA product analyst. I will paste Helium 10 / Keepa data for a candidate product. Score it on a 1-10 scale and recommend GO / WAIT / SKIP.\n\nData:\n[paste BSR, monthly revenue estimate, review count, top sellers, FBA fees, dimensions, current price]\n\nMy model: [Online Arbitrage / Wholesale / Private Label]\nMy capital: [$X available for first order]\nMy ROI target: [usually 30-50%]\n\nOutput:\n1. **Verdict** (GO / WAIT / SKIP) with confidence\n2. **Score breakdown**: BSR (velocity), competition, margin after FBA fees, gating risk, brand registry blocking\n3. **Red flags** (gating, IP, hazmat, oversized fees, sales tank in last 90 days)\n4. **First-order math**: units to buy, expected sell-through, breakeven sale price, target margin\n5. **Hidden costs** typical for this category (returns rate, oversize fees, brand registry attempts)"
+        },
+        {
+          "task": "Listing optimization (title + bullets + A+)",
+          "prompt": "Act as an Amazon listing copywriter. Generate a fully optimized listing.\n\nProduct: [name + key features]\nTop 10 keywords (from Helium 10 Cerebro): [paste]\nBrand: [your brand]\nTarget customer: [persona]\nDifferentiation: [what makes this better than top 3 competitors]\n\nOutput:\n\nTITLE (200 chars max, but lead with the strongest 80 chars for mobile):\n[brand] | [primary keyword] | [size/style] | [3 secondary keywords] | [benefit]\n\n5 BULLETS (each 200-250 chars):\n- Lead with benefit, end with feature\n- Include keyword naturally\n- One social-proof bullet (if testable)\n- One use-case bullet\n- One guarantee/CTA bullet\n\nDESCRIPTION (2000 chars, A+ content compatible):\n4 short paragraphs with H2 headers\n\nSEARCH TERMS (250 char limit):\n- Comma-separated keywords NOT in title/bullets\n- Include misspellings + Spanish if relevant\n\nA+ CONTENT BLOCKS (5):\n1. Hero banner concept\n2. Feature comparison module\n3. Use-case lifestyle imagery brief\n4. Brand story / about us\n5. Cross-sell module pointing to related ASINs"
+        },
+        {
+          "task": "PPC weekly optimization brief",
+          "prompt": "Act as my Amazon PPC manager. Here is this week's data:\n\n[paste Search Term Report — keyword, impressions, clicks, CTR, spend, sales, ACoS]\n[paste current campaign structure — auto / manual exact / manual broad / product-targeting]\nTarget TACoS: [usually 8-15%]\n\nOutput:\n\nKEYWORDS TO NEGATE (kill spend):\n[exact list from search-term report — high spend, zero/low conversion]\n\nKEYWORDS TO PROMOTE (move to dedicated exact campaign):\n[high-converting search terms hidden inside auto/broad campaigns]\n\nBIDS TO RAISE:\n[high-converting keywords currently capped]\n\nBIDS TO LOWER:\n[keywords above target ACoS by 50%+]\n\nNEW CAMPAIGNS TO BUILD:\n[suggest based on patterns in search terms]\n\nWEEKLY HEALTH CHECK:\n- TACoS trajectory vs target\n- Wasted spend % (low/medium/high)\n- Inventory health flags (out-of-stock = kill PPC immediately)\n- 1 thing to test next week"
+        },
+        {
+          "task": "Supplier outreach (Wholesale)",
+          "prompt": "Generate 3 cold outreach emails to a wholesale distributor for an Amazon FBA reseller. Tone: professional, brief, signals you are NOT a tire-kicker.\n\nDistributor: [name + product category]\nMy business: [LLC name, year started, monthly sales volume if you have it]\nSpecific products of interest: [3-5 SKUs]\nWhat I need from them: [pricing, MOQ, drop-ship vs warehouse, MAP policy]\n\nEmail 1: Initial intro (under 150 words)\nEmail 2: Follow-up if no reply in 7 days (under 100 words)\nEmail 3: Final ask if no reply in 14 days (under 80 words, soft)\n\nInclude subject lines that pass spam filters."
+        },
+        {
+          "task": "Customer message responder (returns, complaints, questions)",
+          "prompt": "Act as a Seller Central customer service rep. Generate professional, empathetic responses that protect my account health.\n\nMessage type: [Return request / Negative review / Pre-purchase question / A-to-Z claim risk]\nBuyer message: [paste]\nOrder details: [item, ship date, return reason]\n\nOutput:\n- Response (under 200 words, warm + professional)\n- Resolution offer (refund, replacement, partial)\n- Compliance check: anything I should NOT say (asking for review removal is against ToS)\n- Escalation flag if A-to-Z risk\n\nAccount-health-first: never argue, always offer resolution, document everything."
+        },
+        {
+          "task": "Profit margin sanity check before reorder",
+          "prompt": "Before reordering inventory, run a real-cost analysis. I will paste actual sales data + costs from the last 90 days.\n\nSales data (per SKU): [units sold, revenue, returns, refunds]\nCosts: [COGS per unit, FBA fees, PPC spend, storage, returns processing, removal fees]\n\nOutput:\n1. **True net margin per SKU** (after EVERYTHING — most operators only count visible fees)\n2. **Cash conversion cycle** — how long does $1 take to come back as $1.50?\n3. **Reorder recommendation** — yes/no + units + lead time buffer\n4. **Hidden margin leaks** — what's eating your profit\n5. **Repricer floor** — minimum sale price that protects margin under heavy competition"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Buying inventory before understanding gating + brand restrictions",
+          "why": "Many categories (beauty, supplements, electronics, top brands) require approval BEFORE you can list. New seller accounts get restricted on most of these. Buying first means stuck inventory.",
+          "prevention": "Before any first order: check gating in Seller Central > Inventory > Add a Product. Try to list a sample ASIN and see if it requires approval. If gated, either get ungated first or pick a different product."
+        },
+        {
+          "mistake": "Underestimating fees on first products",
+          "why": "Newbies focus on referral fee (15%) and miss FBA pick-and-pack, storage, returns, long-term storage, oversize, hazmat surcharges, removal fees, PPC, and refund admin.",
+          "prevention": "Use the Helium 10 / Keepa Profitability Calculator with REAL fees pulled."
+        },
+        {
+          "mistake": "Spending too long on perfect listing before launch",
+          "why": "Launch velocity (early sales + reviews) is the single biggest ranking factor. Operators who delay 4 weeks to perfect listings get smoked by ones who launch in 1 week and iterate.",
+          "prevention": "Plan to refresh title/bullets/A+ at week 4 and week 12 based on conversion data."
+        },
+        {
+          "mistake": "PPC bid-and-pray (set and forget for weeks)",
+          "why": "Amazon PPC compounds losses.",
+          "prevention": "Review search-term reports DAILY for first 30 days, then weekly. Negate non-converting search terms aggressively. AI prompt above does the heavy lifting."
+        },
+        {
+          "mistake": "Ignoring inventory health (stockouts kill rankings)",
+          "why": "Going out-of-stock for 7+ days resets your ranking. Months of PPC investment evaporate. Coming back = rebuilding from scratch.",
+          "prevention": "Set a reorder trigger at 30 days of cover. Always have replenishment in flight. Pause PPC the moment you see <14 days of inventory."
+        },
+        {
+          "mistake": "Using one supplier with no backup",
+          "why": "Single-supplier dependency is existential. They raise prices, change terms, run out, or go to a competitor — your business stops.",
+          "prevention": "For every SKU, have at least 2 qualified suppliers. Even if you only buy from one, audit the backup quarterly."
+        },
+        {
+          "mistake": "No brand registry on Private Label",
+          "why": "Without Brand Registry, hijackers can list against your ASIN, copycats can clone your listing, and you cannot use A+ content or Sponsored Brand ads.",
+          "prevention": "Apply for Brand Registry the day trademark is approved."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Product research stack",
+          "recommendation": "Helium 10 for breadth + listing optimization. Keepa for price history. SmartScout if doing wholesale. Skip Jungle Scout if budget-conscious — Helium 10 covers same use cases better.",
+          "options": [
+            {
+              "name": "Helium 10",
+              "bestFor": "All-in-one (research + listings + PPC + reviews)",
+              "url": "https://helium10.com"
+            },
+            {
+              "name": "Keepa",
+              "bestFor": "Price history charts + product database",
+              "url": "https://keepa.com"
+            },
+            {
+              "name": "SmartScout",
+              "bestFor": "Wholesale brand research, finding distributor opportunities",
+              "url": "https://smartscout.com"
+            },
+            {
+              "name": "Jungle Scout",
+              "bestFor": "Beginners, simpler UI",
+              "weakness": "Less depth than Helium 10 at same price"
+            }
+          ]
+        },
+        {
+          "category": "PPC management",
+          "recommendation": "Manual at first if under 10 SKUs.",
+          "options": [
+            {
+              "name": "Helium 10 Adtomic",
+              "bestFor": "Already on Helium 10, integrated workflow"
+            },
+            {
+              "name": "Perpetua"
+            },
+            {
+              "name": "Manual via Seller Central",
+              "bestFor": "Under 10 SKUs, learning the basics",
+              "weakness": "Time-consuming at scale"
+            }
+          ]
+        },
+        {
+          "category": "Repricing (OA + Wholesale)",
+          "recommendation": "Aura is the gold standard. BQool for budget. Skip if Private Label only.",
+          "options": [
+            {
+              "name": "Aura",
+              "bestFor": "OA + Wholesale, advanced rules + buy box optimization"
+            },
+            {
+              "name": "BQool",
+              "bestFor": "Smaller catalogs, cost-conscious"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Which FBA model should I start with?",
+          "options": [
+            {
+              "choice": "Online Arbitrage",
+              "pickIf": "",
+              "nextStep": "Use Tactical Arbitrage / OAXRAY to scan online retail. Target 30%+ ROI minimum. Plan to upgrade to Wholesale by month 6."
+            },
+            {
+              "choice": "Wholesale",
+              "pickIf": "",
+              "nextStep": "Open accounts with 10+ distributors."
+            },
+            {
+              "choice": "Private Label",
+              "pickIf": "",
+              "nextStep": "Trademark + GS1 UPC + supplier in week 1. Plan first-order in month 2. Live by month 3-4."
+            }
+          ]
+        },
+        {
+          "question": "When do I hire help?",
+          "options": [
+            {
+              "choice": "VA at $5K/mo revenue",
+              "pickIf": "Customer messages + listing maintenance + inbound prep are eating 10+ hrs/week.",
+              "nextStep": "Document SOPs first."
+            },
+            {
+              "choice": "PPC manager / agency at $30K/mo",
+              "pickIf": "PPC complexity is beyond your time — 20+ SKUs, multiple match types, brand campaigns.",
+              "nextStep": ""
+            },
+            {
+              "choice": "Stay solo until $50K/mo",
+              "pickIf": "You enjoy the work + have time. Solo operators with AI tools are surprisingly scalable.",
+              "nextStep": "AI does what VAs used to. Reinvest into more SKUs instead of headcount."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "3-4 weeks"
+  },
+  {
+    "id": "etsy-digital-downloads",
+    "title": "Etsy Printables Empire",
+    "description": "Sell digital downloads on Etsy — printables, templates, planners, wall art, SVGs — created with AI in minutes. Zero inventory, zero shipping, instant delivery. Stack hundreds of listings and let SEO + Etsy ads bring traffic 24/7. Pure passive income at scale.",
+    "difficulty": "beginner",
+    "startupCost": "$50-$200",
+    "timeCommitment": "8-15 hours/week",
+    "skills": [
+      "Niche Research",
+      "AI Design",
+      "Etsy SEO",
+      "Listing Optimization",
+      "Trend Spotting"
+    ],
+    "tools": [
+      "Etsy",
+      "Canva",
+      "Midjourney",
+      "eRank",
+      "Photoshop"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 50,
+    "budgetMax": 200,
+    "weeklyMin": 8.0,
+    "steps": [
+      "Pick a profitable digital niche (wedding, planners, kids, wall art, business templates)",
+      "Use eRank to find low-competition high-search keywords",
+      "Create 10-20 designs with Midjourney + Canva",
+      "List with AI-optimized SEO titles, tags, and descriptions",
+      "Stack listings (target 100+) and let Etsy ads + SEO compound"
+    ],
+    "audience": {
+      "role": "Aspiring digital seller",
+      "industry": "Etsy / digital products",
+      "painPoints": [
+        "Cannot draw or design from scratch — thought design was gatekept",
+        "Overwhelmed by Etsy SEO — what tags, what title, why this matters",
+        "Fear of saturation — is it too late for printables?",
+        "No clear path from 0 listings to a real shop",
+        "Designs take forever in Canva — wants to scale"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "SEO",
+        "Paid Ads",
+        "Communities",
+        "Content Marketing"
+      ],
+      "launchStrategy": "Etsy is the channel. Win SEO (titles, tags, descriptions) + Etsy ads. Pinterest is the secondary channel — every pinnable listing image drives free traffic. Avoid the trap of perfecting one shop — go wide with 100+ listings.",
+      "firstCustomerTactics": [
+        "Use eRank to find keywords with high search volume + low competition (sweet spot under 10K listings)",
+        "Stack 13 tags per listing covering exact-match + long-tail variants",
+        "Pin every listing to Pinterest with rich pin SEO",
+        "Engage in seller communities (Reddit r/Etsy, Etsy forums) for visibility + feedback"
+      ],
+      "contentIdeas": [
+        "Etsy shop walk-throughs / behind-the-scenes",
+        "AI design process videos for TikTok",
+        "Best-selling listings reveal",
+        "Niche research walkthroughs (sanitized)",
+        "Income reports and milestone celebrations"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Single Printables",
+        "price": "$3-8",
+        "features": [
+          "Wall art, quotes, simple planners",
+          "High volume, impulse purchase",
+          "Quick to design (15-30 min each)",
+          "Foundation of your catalog"
+        ]
+      },
+      {
+        "name": "Bundles & Templates",
+        "price": "$10-25",
+        "features": [
+          "Planner sets, bundles, multi-page templates",
+          "Best margin per design hour",
+          "Wedding, business, and education niches strong",
+          "Where most Etsy printable shops live"
+        ]
+      },
+      {
+        "name": "Premium Systems",
+        "price": "$25-75",
+        "features": [
+          "Full business kits, brand templates, wedding suites",
+          "Lower volume, higher value",
+          "Often sold to other small businesses",
+          "Star products that anchor shop credibility"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Pick niche, set up shop, prep design + SEO systems",
+        "tasks": [
+          {
+            "title": "Pick your niche with eRank + AI",
+            "description": "Use eRank to scan 5-10 candidate niches: wedding suites, business templates, kids planners, wall art, fitness trackers. Score each on average price × monthly searches × competition (avoid >50K listings). AI helps interpret data and pick a wedge.",
+            "estimatedHours": 3,
+            "tools": [
+              "eRank",
+              "Etsy",
+              "ChatGPT"
+            ],
+            "deliverable": "Niche picked + 10 keyword targets",
+            "aiAssisted": true
+          },
+          {
+            "title": "Open Etsy shop and configure basics",
+            "description": "Pick shop name, banner, logo, clear policies based on current marketplace rules and applicable consumer requirements. Configure payment + tax settings. Add About section that establishes credibility and aesthetic.",
+            "estimatedHours": 3,
+            "tools": [
+              "Etsy",
+              "Canva"
+            ],
+            "deliverable": "Shop live and ready for first listings"
+          },
+          {
+            "title": "Build your AI design pipeline",
+            "description": "Set up Midjourney + Canva Pro accounts. Save 5-10 reusable prompts for your niche. Create Canva templates for common formats (8x10 wall art, US Letter planner, A4 templates). Define your brand aesthetic (colors, typography, style).",
+            "estimatedHours": 4,
+            "tools": [
+              "Midjourney",
+              "Canva Pro",
+              "ChatGPT"
+            ],
+            "deliverable": "Design pipeline that produces a listing-ready file in 20 min",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create your first 10 listings",
+            "description": "Design 10 products in your niche. For each: 5 listing images (main + 4 lifestyle/usage), AI-optimized title (140 chars max), 13 tags from eRank research, AI-generated description with keywords + use cases.",
+            "estimatedHours": 10,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "ChatGPT",
+              "eRank"
+            ],
+            "deliverable": "10 listings live and discoverable",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "3 weeks",
+        "description": "Hit 50 listings, start Etsy ads, first sales",
+        "tasks": [
+          {
+            "title": "Scale to 50 listings",
+            "description": "Use AI design pipeline to add 10-15 listings per week. Test variations (color, size, theme) of your top performers. Track which keywords/aesthetics convert. AI generates listing copy and tags in batch.",
+            "estimatedHours": 18,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "ChatGPT",
+              "eRank"
+            ],
+            "deliverable": "50+ listings live in shop",
+            "aiAssisted": true
+          },
+          {
+            "title": "Launch Etsy ads",
+            "description": "Etsy promotes your listings in search + on competitor pages. Review impressions/clicks/conversions weekly — pause low-CTR listings, double-down on winners.",
+            "estimatedHours": 3,
+            "tools": [
+              "Etsy Ads",
+              "Google Sheets"
+            ],
+            "deliverable": "Etsy ads running with positive ROAS"
+          },
+          {
+            "title": "Pinterest pin every listing",
+            "description": "Create 3-5 Pinterest pins per listing (different angles/copy). Pin with rich SEO (keywords in pin title + description).",
+            "estimatedHours": 6,
+            "tools": [
+              "Pinterest",
+              "Canva",
+              "ChatGPT"
+            ],
+            "deliverable": "150+ pins live, growing weekly impressions",
+            "aiAssisted": true
+          },
+          {
+            "title": "Stack social proof + reviews",
+            "description": "Follow up with buyers (Etsy auto-message) — kindly request review with usage tips. First 10 reviews are critical for ranking. Photograph customer use cases (with permission) and feature them.",
+            "estimatedHours": 3,
+            "tools": [
+              "Etsy",
+              "ChatGPT"
+            ],
+            "deliverable": "15+ reviews across catalog"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "Push to 200+ listings, expand to multiple niches, automate",
+        "tasks": [
+          {
+            "title": "Reach 200+ listings",
+            "description": "AI design pipeline at scale. Batch design days — produce 20-30 listings in a single session. Test seasonal niches (Halloween, Christmas, back-to-school) as evergreen earners.",
+            "estimatedHours": 30,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "ChatGPT"
+            ],
+            "deliverable": "200+ listings live and earning",
+            "aiAssisted": true
+          },
+          {
+            "title": "Open second shop in adjacent niche",
+            "description": "Avoid Etsy concentration risk by splitting across multiple shops. Reuse design pipeline + SEO knowledge.",
+            "estimatedHours": 8,
+            "tools": [
+              "Etsy",
+              "Canva"
+            ],
+            "deliverable": "Second shop live with first 30 listings"
+          },
+          {
+            "title": "Cross-list to Creative Market + Gumroad",
+            "description": "Repackage top sellers for Creative Market (designers) and Gumroad (broader audience). Different platforms reach different buyers. Same designs, expanded distribution.",
+            "estimatedHours": 6,
+            "tools": [
+              "Creative Market",
+              "Gumroad"
+            ],
+            "deliverable": "Top 30 designs cross-listed on 2 additional platforms"
+          },
+          {
+            "title": "Automate SEO refresh + new-listing pipeline",
+            "description": "Build a system: weekly eRank trend scan → AI suggests 10 new design ideas → batch design → batch list. Document SOPs for VA hire. Goal: 10 new listings per week without your time scaling proportionally.",
+            "estimatedHours": 6,
+            "tools": [
+              "eRank",
+              "ChatGPT",
+              "Notion",
+              "Zapier"
+            ],
+            "deliverable": "Self-running listing pipeline + VA-ready SOPs",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your Etsy printables business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your Etsy printables business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your Etsy printables business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Canva Pro or Adobe Illustrator/Figma",
+            "why": "Print-resolution (300 DPI) design work needs real design software — free Canva caps out on some template/font options"
+          },
+          {
+            "item": "Corjl or Templett (for editable templates)",
+            "why": "Any product where buyers customize text sells better as an editable template — non-editable printables consistently underperform in the planner/invite niches"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ui-designer",
+          "why": "Diana helps with the actual visual design work — layout, typography, and print-ready composition",
+          "firstTask": "Suggest a layout for this printable that stays clean at both US Letter and A4 sizing"
+        },
+        {
+          "personaId": "ecommerce-specialist",
+          "why": "Ethan optimizes your Etsy listing SEO and pricing against competing shops in your niche",
+          "firstTask": "Write an Etsy-optimized title and tags for this listing"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "digital-download",
+        "digitalDownload": {
+          "fileDeliverables": [
+            {
+              "fileName": "Main printable/template file",
+              "format": "PDF (print-ready, 300 DPI)",
+              "description": "The core deliverable — sized for both US Letter and A4 so international buyers aren't excluded"
+            },
+            {
+              "fileName": "Editable version (if applicable)",
+              "format": "Canva template link or Corjl/Templett editable PDF",
+              "description": "For any product where buyers customize text (invitations, planners, labels) — non-editable printables sell worse across every planner/invite niche"
+            },
+            {
+              "fileName": "Instructions/how-to-use one-pager",
+              "format": "PDF",
+              "description": "Cuts \"how do I open this\" support messages dramatically — include exact steps for the editor you used"
+            }
+          ],
+          "productionSteps": [
+            "Pick one narrow niche and one buyer (e.g. \"budget planner for ADHD freelancers,\" not \"planners\") — narrow niches have less competition and higher perceived relevance",
+            "Design the core file in Canva, Figma, or Illustrator at print resolution (300 DPI minimum)",
+            "Build the editable version in Canva (shareable template link) or Corjl/Templett if buyers need to personalize text themselves",
+            "Test-print the PDF yourself on a home printer before listing — check margins, bleed, and that nothing gets cut off",
+            "Export final files: print-ready PDF + editable template link + instructions PDF",
+            "Bundle 3-5 related designs into a starter collection — bundles consistently outsell singles on Etsy"
+          ],
+          "platformListingChecklist": [
+            {
+              "platform": "Etsy",
+              "requirements": [
+                "Title: front-load the exact search term buyers use, not a clever name (e.g. \"Budget Planner Printable PDF Instant Download\")",
+                "13 tags, each a distinct real search phrase (use eRank or Etsy search-bar autocomplete to find them, not guesses)",
+                "First image: the product on a clean mockup, not a plain screenshot",
+                "Include \"instant download\" and file format directly in the title or first line of description — buyers filter for this",
+                "Set up as a digital listing (not physical) so it auto-delivers — no manual fulfillment per sale"
+              ]
+            }
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Niche-specific listing copy (title + tags + description)",
+          "prompt": "You are an Etsy SEO copywriter. Generate a fully optimized digital download listing.\n\nProduct: [name + what it is]\nNiche: [wedding / business / kids / wall art / etc]\nTarget customer: [persona — bride, teacher, mom, etc]\nTop eRank keywords (paste 5-8): [list]\nFile format: [PDF / PNG / SVG / Canva editable]\n\nOutput:\n\nTITLE (140 chars max — Etsy weights first 60 chars heavily):\n- Lead with most-searched 2-3 keywords\n- Include format + use case\n- End with descriptor\n\n13 TAGS (20 chars each max):\n- 5 exact-match keyword phrases\n- 5 long-tail variants\n- 3 niche/style descriptors\n(Etsy uses ALL 13 — never leave any blank)\n\nDESCRIPTION:\n- First 160 chars are critical (Google snippet) — lead with product + use case\n- Bullet list of what's included (file types, sizes, colors)\n- \"What you'll get\" specifics\n- \"How to use\" 3-step quick guide\n- Customer support note\n- 2-3 niche keywords woven naturally throughout\n\nCATEGORY + ATTRIBUTES:\n[suggest specific Etsy taxonomy]\n\nPINTEREST PIN COPY (since Pinterest brings 20-40% of traffic):\n- 3 pin titles (each different angle)\n- 1 description with niche keywords"
+        },
+        {
+          "task": "Midjourney prompt builder (printable artwork)",
+          "prompt": "Generate 5 Midjourney prompts for printable wall art / planners / templates in this niche:\n\nNiche: [aesthetic / theme]\nStyle references: [boho, minimalist, vintage, watercolor, etc]\nColor palette: [optional]\nOutput dimensions: [vertical 8x10, square, US Letter, etc]\n\nFor each:\n- Full Midjourney prompt with style modifiers + parameters\n- Aspect ratio + version flags\n- 1 variation prompt to A/B test\n- Why this should sell (psychology + visual hook)\n\nBias toward simple, high-CTR aesthetics. Avoid generic stock-photo vibes."
+        },
+        {
+          "task": "Pinterest pin generator (3 variants per listing)",
+          "prompt": "Generate 3 Pinterest pin variations for this Etsy digital download.\n\nListing: [title + niche + price]\nHero image: [describe]\n\nFor each pin:\n- Pin title (overlay text — 6-8 words, hook-driven)\n- Pin description (300 chars, SEO-keyworded for Pinterest search)\n- Hashtags (5-7 niche)\n- Suggested CTA button text\n- Color/font direction for the design\n\nPin types to test:\n1. Bold \"transformation\" pin\n2. List-style \"5 ways to use this\" pin\n3. Aesthetic lifestyle/styled pin"
+        },
+        {
+          "task": "eRank trend interpreter (which niches to enter)",
+          "prompt": "Act as an Etsy market analyst. I will paste eRank keyword data for 5-10 candidate niches. Score each on a 1-10 scale and pick the BEST 2 for me to enter.\n\nData:\n[paste keyword, monthly searches, competition (results), avg price, click-through rate]\n\nMy constraints:\n- Time available: [hrs/week]\n- Design comfort: [beginner / intermediate / advanced]\n- Capital: [$X for tools + ads]\n- Existing niche knowledge: [list anything]\n\nOutput:\n\nWINNERS (2 niches):\n- Why this is the right entry point\n- Estimated revenue ramp at 50/100/200 listings\n- 10 specific listing ideas\n- Top 5 SEO keywords to target first\n- Differentiation angle vs incumbents\n\nPASS:\n- Why these are saturated or low-margin\n\nDARKHORSE (1 niche):\n- A non-obvious play with thinner data but real signal"
+        },
+        {
+          "task": "Buyer DM responder (file issues, customization requests)",
+          "prompt": "Generate Etsy buyer message responses. Tone: warm, fast, professional.\n\nCommon Etsy buyer messages:\n1. \"I can't open the file\" → response that walks through download + file format\n2. \"Can you customize colors?\" → response that says yes/no based on file type, with upcharge logic\n3. \"Can I get a refund?\" → digital downloads are non-refundable per Etsy policy, but offer goodwill replacement if file genuinely broken\n4. \"Wrong file type for my printer\" → guide to format conversion, offer alternative\n5. \"Can you make this for [specific use]?\" → upsell to custom listing\n\nFor each:\n- Response under 150 words\n- Friendly + professional\n- Protects margin without alienating buyer\n- Includes link to FAQ or shop policies if relevant"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Posting 5-10 listings then giving up",
+          "why": "Etsy printables compound at 100+ listings. Under 50, you do not have enough surface area for the algorithm to learn or rank you. Most quitters quit at 10-30 listings — right before momentum.",
+          "prevention": "Commit to 100 listings before evaluating success. Use AI design pipeline to hit it in 8-12 weeks."
+        },
+        {
+          "mistake": "Wasting all 13 tags or using single-word tags",
+          "why": "Etsy uses ALL 13 tags equally. Using 1-2-word tags wastes the long-tail SEO opportunity. Single-word tags (e.g., \"wedding\") have impossible competition.",
+          "prevention": "Always 13 tags, all 20-char max, mix exact-match phrases + long-tail variants. Use eRank to find low-competition phrases."
+        },
+        {
+          "mistake": "Not running Etsy ads after 20 listings",
+          "why": "Etsy ads accelerate ranking — they get your listings in front of buyers, which generates the early sales that train the algorithm to surface you organically."
+        },
+        {
+          "why": "Underpricing signals low quality + leaves margin on the table after Etsy fees.",
+          "prevention": "Use comp prices from top sellers."
+        },
+        {
+          "mistake": "Ignoring Pinterest (free traffic source)",
+          "why": "Skipping it cuts your discovery in half.",
+          "prevention": "Create 3-5 pins per listing. Use Pinterest SEO (keywords in title + description). Pin daily for first 60 days."
+        },
+        {
+          "mistake": "No business email + customer follow-up flow",
+          "why": "Without email capture, every sale is a one-off.",
+          "prevention": "Pin a free niche resource → email signup. Send a thank-you email after each purchase with a discount on the next item."
+        },
+        {
+          "mistake": "Designing to your taste instead of buyer taste",
+          "why": "Your favorite design is not necessarily what sells. eRank + competitor data tell you what buyers actually want.",
+          "prevention": "Pick designs based on data first, taste second. Test 3 aesthetic variations of every winner."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Design tool",
+          "recommendation": "Photoshop only if you already know it.",
+          "options": [
+            {
+              "name": "Canva Pro",
+              "bestFor": "Templates, batch resize, brand kit",
+              "url": "https://canva.com"
+            },
+            {
+              "name": "Midjourney",
+              "bestFor": "Hero artwork, watercolor, illustration",
+              "url": "https://midjourney.com"
+            },
+            {
+              "name": "Photoshop",
+              "bestFor": "Heavy editing, you already own Adobe stack",
+              "weakness": "Steeper learning curve"
+            },
+            {
+              "name": "Affinity Designer",
+              "bestFor": "Vector / SVG work without Adobe sub"
+            }
+          ]
+        },
+        {
+          "category": "Etsy SEO research",
+          "recommendation": "eRank for keyword + competition data. Marmalead is alternative but pricier. Free Etsy search analytics + Google Trends as backup.",
+          "options": [
+            {
+              "name": "eRank",
+              "bestFor": "Keyword research, competition, listing audits",
+              "url": "https://erank.com"
+            },
+            {
+              "name": "Marmalead",
+              "bestFor": "Similar to eRank, slightly different UX"
+            }
+          ]
+        },
+        {
+          "category": "File delivery",
+          "recommendation": "Use Etsy native file delivery for under 5 files. Send Owl or LinkLok if you need licensed-download tracking.",
+          "options": [
+            {
+              "name": "Etsy Native",
+              "bestFor": "Under 5 files per listing, simple downloads"
+            },
+            {
+              "name": "Send Owl",
+              "bestFor": "Off-Etsy delivery, licensing controls"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Which niche should I enter first?",
+          "options": [
+            {
+              "choice": "Wedding / event planning",
+              "pickIf": "You have aesthetic taste + can produce premium-looking templates. Higher prices, motivated buyers.",
+              "nextStep": "Focus on full wedding suites (invitations + signage + planning)."
+            },
+            {
+              "choice": "Business / productivity templates",
+              "pickIf": "You understand business workflows. B2C buyer. Less seasonal.",
+              "nextStep": "Notion templates, Excel/Google Sheets dashboards, planners. Cross-list to Gumroad for higher margins."
+            },
+            {
+              "choice": "Wall art / printables",
+              "pickIf": "You enjoy design + can produce volume.",
+              "nextStep": "Highest volume play but most saturated. Niche-down (boho, vintage, family quotes, etc)."
+            },
+            {
+              "choice": "Education / kids / homeschool",
+              "pickIf": "Have niche credibility OR willing to research.",
+              "nextStep": "Worksheets, flashcards, activity books. Less saturated than wall art, motivated parents."
+            }
+          ]
+        },
+        {
+          "question": "Should I open multiple shops?",
+          "options": [
+            {
+              "choice": "Yes — diversify into adjacent niche",
+              "pickIf": "",
+              "nextStep": "Open second shop with different brand. Reuse SEO + design pipeline. Concentration risk reduced."
+            },
+            {
+              "choice": "No — go deeper in one shop",
+              "pickIf": "",
+              "nextStep": "Add 50 more listings, refine top performers, raise prices on hits."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "EverBee",
+          "url": "https://everbee.io/"
+        },
+        {
+          "name": "eRank",
+          "url": "https://erank.com/"
+        },
+        {
+          "name": "Alura",
+          "url": "https://www.alura.io/"
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "amazon-kdp-low-content",
+    "title": "Amazon KDP Low-Content Books",
+    "description": "Publish low-content and no-content books on Amazon KDP — journals, notebooks, planners, coloring books, activity books, puzzle books. AI generates covers, interiors, and SEO-optimized titles. Zero inventory (Amazon prints on demand). Stack hundreds of titles for compounding royalties.",
+    "difficulty": "beginner",
+    "startupCost": "$50-$200",
+    "timeCommitment": "8-15 hours/week",
+    "skills": [
+      "Niche Research",
+      "AI Cover Design",
+      "Interior Design",
+      "KDP Listing SEO",
+      "Trend Spotting"
+    ],
+    "tools": [
+      "Amazon KDP",
+      "BookBolt",
+      "Canva",
+      "Midjourney",
+      "Publisher Rocket"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 50,
+    "budgetMax": 200,
+    "weeklyMin": 8.0,
+    "steps": [
+      "Pick a low-content niche (journals, sketchbooks, planners, activity books for kids)",
+      "Use BookBolt + Publisher Rocket to find profitable keywords with low competition",
+      "Generate covers with Midjourney + Canva, interiors with BookBolt or Canva templates",
+      "Upload to KDP with AI-optimized title, subtitle, description, 7 keywords, 2 categories",
+      "Stack 50-100 titles and let Amazon SEO + ads compound royalties"
+    ],
+    "audience": {
+      "role": "Aspiring KDP publisher",
+      "industry": "KDP / self-publishing",
+      "painPoints": [
+        "Cannot draw or design covers — thinks publishing is for designers",
+        "Overwhelmed by KDP — does not know what categories or keywords matter",
+        "No idea what niches sell vs which are saturated",
+        "Worried about AI-content rules (currently allowed with disclosure)",
+        "Cannot afford expensive design tools"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "SEO",
+        "Paid Ads",
+        "Communities"
+      ],
+      "launchStrategy": "Amazon is the channel. Win KDP search via title + subtitle + 7 keywords + 2 categories. The volume play is what wins — go wide.",
+      "firstCustomerTactics": [
+        "Use Publisher Rocket to find keywords with high search volume and low competitive titles",
+        "Stack title + subtitle with exact-match keywords (e.g., Wedding Planner Book: Bride Gift Journal with Checklists and Budget Tracker)",
+        "Build a series — Amazon promotes More from this author",
+        "Pin to Pinterest for additional discovery"
+      ],
+      "contentIdeas": [
+        "TikTok shop tours / catalog reveals",
+        "KDP income reports",
+        "Niche research walkthroughs",
+        "Cover design before/after with AI"
+      ]
+    },
+    "offers": [
+      {
+        "name": "No-Content",
+        "price": "$5-9 retail (~$2-4 royalty)",
+        "features": [
+          "Blank journals, notebooks, sketchbooks",
+          "Fastest to produce (cover only)",
+          "High volume play",
+          "Low margin per book — needs scale"
+        ]
+      },
+      {
+        "name": "Low-Content",
+        "price": "$8-15 retail (~$3-6 royalty)",
+        "features": [
+          "Planners, trackers, prompt journals, gratitude books",
+          "Mid effort (cover + structured interior)",
+          "Best margin sweet spot",
+          "Where most KDP authors focus"
+        ]
+      },
+      {
+        "name": "Activity / Puzzle / Coloring",
+        "price": "$8-20 retail (~$3-8 royalty)",
+        "features": [
+          "Coloring books, puzzles, kids activities",
+          "Highest interior effort but high price",
+          "Strong gift market",
+          "Niche to specific personas (kids, seniors, hobbies)"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Set up KDP account, pick niche, prep design pipeline",
+        "tasks": [
+          {
+            "title": "Open KDP account + tax interview",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 2,
+            "tools": [
+              "Amazon KDP"
+            ],
+            "deliverable": "Active KDP account ready to publish"
+          },
+          {
+            "title": "Pick niche with BookBolt + Publisher Rocket",
+            "description": "AI helps interpret data. Pick ONE primary niche + 1-2 adjacent for variation.",
+            "estimatedHours": 3,
+            "tools": [
+              "BookBolt",
+              "Publisher Rocket",
+              "ChatGPT"
+            ],
+            "deliverable": "Niche picked + 10 keyword targets",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build AI cover + interior pipeline",
+            "description": "Set up Midjourney for covers + Canva for layout + BookBolt for interiors. Save 5-10 reusable prompts. Create 3 cover templates and 2 interior templates per niche style.",
+            "estimatedHours": 4,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "BookBolt"
+            ],
+            "deliverable": "Pipeline that produces a publish-ready book in 2 hours",
+            "aiAssisted": true
+          },
+          {
+            "title": "Publish your first 5 books",
+            "description": "Produce 5 books in your niche. For each: AI cover, interior (blank/lined for no-content; structured for low-content), title + subtitle (keyword-stuffed), 7 keywords, 2 categories, description. Publish to KDP.",
+            "estimatedHours": 10,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "BookBolt",
+              "KDP",
+              "ChatGPT"
+            ],
+            "deliverable": "5 books published and live on Amazon",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "4 weeks",
+        "description": "Scale to 30 books, run KDP ads, get first reviews",
+        "tasks": [
+          {
+            "title": "Scale to 30 books",
+            "description": "Produce 5-7 books per week using your AI pipeline. Test cover variations, niche sub-categories, and seasonal angles. Track which earn fastest.",
+            "estimatedHours": 25,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "BookBolt",
+              "KDP"
+            ],
+            "deliverable": "30 books live, weekly royalties tracking",
+            "aiAssisted": true
+          },
+          {
+            "title": "Launch Amazon Ads for top 10",
+            "description": "Target keyword + ASIN campaigns. Pause losers after 2 weeks.",
+            "estimatedHours": 4,
+            "tools": [
+              "KDP Amazon Ads",
+              "Publisher Rocket"
+            ],
+            "deliverable": "Ads running with positive ACoS on at least 5 books"
+          },
+          {
+            "title": "Build reviews via friends/family + insert pages",
+            "description": "KDP allows soliciting reviews from people who actually use the book. Send physical copies to friends/family in the niche. Add a polite review request page at the back of every book.",
+            "estimatedHours": 3,
+            "tools": [
+              "KDP",
+              "Amazon"
+            ],
+            "deliverable": "5+ reviews per top-performing book"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "Reach 100+ books, expand niches, automate",
+        "tasks": [
+          {
+            "title": "Reach 100+ books published",
+            "description": "AI pipeline at full scale. Batch production days. Test 2-3 new sub-niches. Track top earners and replicate their structure.",
+            "estimatedHours": 40,
+            "tools": [
+              "Midjourney",
+              "Canva",
+              "BookBolt",
+              "KDP"
+            ],
+            "deliverable": "100+ books live with monthly royalty growth",
+            "aiAssisted": true
+          },
+          {
+            "title": "Refresh top performers monthly",
+            "description": "Review top 20 books monthly. A/B test covers, refresh descriptions, update keywords. Small CTR/CR improvements compound.",
+            "estimatedHours": 4,
+            "tools": [
+              "KDP",
+              "BookBolt",
+              "ChatGPT"
+            ],
+            "deliverable": "Monthly optimization cycle running",
+            "aiAssisted": true
+          },
+          {
+            "title": "Cross-publish to Etsy + Gumroad",
+            "description": "Repackage top books as digital downloads on Etsy + Gumroad. Different audience, additional revenue stream from same content.",
+            "estimatedHours": 6,
+            "tools": [
+              "Etsy",
+              "Gumroad",
+              "Canva"
+            ],
+            "deliverable": "Top 30 books live on 2 additional platforms"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your KDP publishing business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your KDP publishing business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your KDP publishing business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Canva Pro or Book Bolt",
+            "why": "A repeatable page template is what makes a 120-page book a copy-paste job instead of 120 individual designs — Book Bolt is purpose-built for this"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "ui-designer",
+          "why": "Diana helps build a clean, repeatable interior page template that holds up across a whole series",
+          "firstTask": "Design a repeatable page template for this trim size and content type"
+        },
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie helps with Amazon keyword research so your book actually surfaces in KDP search results",
+          "firstTask": "Find 10 low-competition keywords for this book category"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "digital-download",
+        "digitalDownload": {
+          "fileDeliverables": [
+            {
+              "fileName": "Interior file",
+              "format": "PDF, print-ready trim size (6x9\" is the standard low-content default)",
+              "description": "The actual page content — journal/planner/notebook pages, sized exactly to KDP's trim requirements with correct margins/bleed"
+            },
+            {
+              "fileName": "Cover file",
+              "format": "PDF or PNG built to KDP's cover template",
+              "description": "Generated from KDP's own cover calculator (spine width depends on page count) — never guess spine width, it causes rejected uploads"
+            }
+          ],
+          "productionSteps": [
+            "Pick a trim size (6x9\" for journals/notebooks, 8.5x11\" for planners/activity books) and stick to it across a series — this becomes your brand consistency",
+            "Build interior pages in Canva, Book Bolt, or Adobe InDesign using a repeatable page template so a 120-page book is a copy-paste job, not 120 individual designs",
+            "Design cover using KDP's free cover calculator/template (input trim size + page count + paper color to get exact spine width)",
+            "Upload interior + cover to KDP via Kindle Direct Publishing dashboard",
+            "Use KDP's built-in previewer to check every page renders correctly before publishing — a single blank or misaligned page tanks reviews fast",
+            "Set list price using KDP's royalty calculator — printing cost scales with page count, so check margin before finalizing your page count"
+          ],
+          "platformListingChecklist": [
+            {
+              "platform": "Amazon KDP",
+              "requirements": [
+                "Title: include the core search term + book type (e.g. \"Weekly Budget Planner - 52 Week Undated Financial Tracker\")",
+                "7 backend keywords — use real search terms from KDP keyword tools, not repeats of the title",
+                "2 categories chosen to land you on a bestseller list in a low-competition sub-category, not just the obvious top-level one",
+                "Cover must be genuinely distinct at thumbnail size — most KDP low-content sales happen from a scroll, not a search click",
+                "A+ Content / book description written to answer \"who is this for\" in the first line"
+              ]
+            }
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Niche scoring (BSR + price + competition)",
+          "prompt": "Act as a KDP market analyst. Score this niche.\n\nNiche: [e.g., \"wedding planner book\", \"kids gratitude journal\"]\nData from Publisher Rocket / BookBolt:\n- Top 10 BSR range\n- Avg retail price\n- Number of competing titles\n- Estimated monthly sales of #1\n- Reviews on top books\n\nOutput:\n1. **Verdict** (GO / WAIT / SKIP) with confidence\n2. **Score (1-10)** on: demand × competition × price × evergreen × my fit\n3. **Sub-niches to consider** (5 narrower wedges with less competition)\n4. **First 5 book ideas** with title + subtitle drafts\n5. **Realistic 90-day royalty estimate** at 5 books published\n\nBe honest about saturation — many obvious niches are crowded."
+        },
+        {
+          "task": "Midjourney cover prompt (KDP-ready)",
+          "prompt": "Generate 5 Midjourney prompts for KDP book covers in this niche.\n\nNiche: [niche]\nStyle direction: [boho, minimalist, vintage, watercolor, modern, etc]\nTrim size: [6x9 standard, 8.5x11 planner, 8x10 journal]\nMood: [aspirational, cozy, professional, etc]\n\nFor each prompt:\n- Full Midjourney v6 syntax with --ar matching trim size\n- Avoids the \"AI cover\" tells (warped text, weird hands, generic stock-photo vibes)\n- Includes negative prompts (avoid generic Adobe Stock vibes)\n- Variation 2 for A/B testing\n\nBias toward print-ready (high contrast, clear hierarchy, readable from thumbnail)."
+        },
+        {
+          "task": "Title + subtitle SEO (7-keyword formula)",
+          "prompt": "Generate KDP title + subtitle following the 7-keyword formula.\n\nBook: [content + niche]\nTarget reader: [persona]\nTop KDP keywords (from Publisher Rocket): [paste 10]\nCompetition: [top titles in niche]\n\nOutput:\n\nTITLE (max 200 chars but front-load the strongest 50):\n[Clear product name with primary keyword]\n\nSUBTITLE (max 200 chars):\nA keyword-rich descriptor that stuffs 5-7 secondary keywords naturally.\n\n7 KDP KEYWORDS (max 50 chars each):\n- 5 exact-match phrases buyers actually search\n- 2 long-tail variants\n- All distinct from title/subtitle words (KDP weights all three independently)\n\n2 CATEGORIES:\n- Primary (broad enough to rank, niche enough to win)\n- Secondary (less competition, similar audience)\n\nDESCRIPTION FIRST 100 CHARS (the Amazon search snippet):\nA single sentence with primary keyword + benefit."
+        },
+        {
+          "task": "KDP ad campaign structure",
+          "prompt": "Build a KDP Amazon Ads campaign structure for a new book launch.\n\nBook: [title + niche]\nDaily budget: [$1-5/day per book typical]\nGoal: [organic ranking via velocity / direct ROAS / brand awareness]\n\nOutput:\n\nCAMPAIGN 1: Auto (Discovery, $1.50 budget)\n- Default bid + targeting strategy\n- 30-day data-collection mode\n\nCAMPAIGN 2: Manual Keyword (Exact Match, $2 budget)\n- Top 10 keywords from research\n- Exact match only — high bids for ranking\n\nCAMPAIGN 3: Manual Product (ASIN Targeting, $1.50 budget)\n- 20 competitor ASINs to target\n- Lower bids, defensive positioning\n\nWEEKLY OPTIMIZATION CHECKLIST:\n- Negative keywords from search-term reports\n- Bid adjustments based on ACoS targets\n- Campaign budget reallocation\n\nKILL CRITERIA:\n- After 30 days at >40% ACoS, pause + re-evaluate\n- After 60 days with no organic ranking lift, kill ads"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Niche too broad (\"planner\" instead of \"wedding planner\")",
+          "why": "KDP search is keyword-driven. Broad niches = impossible competition. Narrow niches = winnable rankings + warmer buyers.",
+          "prevention": "Niche down to a specific persona × specific use-case (e.g., \"Bride Wedding Planner Book\", \"Senior Brain Activity Workbook\")."
+        },
+        {
+          "mistake": "Stopping at 10-15 books",
+          "why": "KDP compounds at 50+ books. The scale game is volume × velocity.",
+          "prevention": "Commit to 50 books minimum before evaluating success. AI pipeline can produce 5-7/week."
+        },
+        {
+          "mistake": "Not disclosing AI-generated content in KDP form",
+          "why": "KDP added a required AI-content disclosure form in 2023. Lying = account suspension + lost royalties.",
+          "prevention": "Disclose honestly — \"AI-generated\" or \"AI-assisted\" per KDP guidance. Disclosure does NOT prevent publishing."
+        },
+        {
+          "mistake": "Wrong trim size for the use case",
+          "why": "Planners need 8.5x11. Journals need 6x9 or 8x10. Activity books need 8.5x11. Wrong size = impossible to use = bad reviews.",
+          "prevention": "Match trim size to product type. Test on physical printed proof before scaling."
+        },
+        {
+          "mistake": "No series strategy",
+          "why": "Amazon promotes \"More from this author\" prominently.",
+          "prevention": "Plan books in series of 5-10. Same niche, same author name, consistent cover style."
+        },
+        {
+          "mistake": "KDP ads with no niche targeting",
+          "why": "Auto campaigns spray your budget across broad keywords with no buyer intent. ACoS spikes to 80%+.",
+          "prevention": "Use Publisher Rocket to find low-competition keywords. Run manual exact-match campaigns from day 1."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "KDP keyword + niche research",
+          "options": [
+            {
+              "name": "BookBolt",
+              "bestFor": "Daily KDP work, interior generation, niche research",
+              "url": "https://bookbolt.io"
+            },
+            {
+              "name": "Publisher Rocket",
+              "bestFor": "Keyword + category research",
+              "url": "https://publisherrocket.com"
+            },
+            {
+              "name": "Helium 10 (Cerebro)",
+              "bestFor": "If already on H10 for FBA"
+            }
+          ]
+        },
+        {
+          "category": "Cover design",
+          "recommendation": "Midjourney for hero artwork. Canva for layout + text overlay. Skip Photoshop unless you already own.",
+          "options": [
+            {
+              "name": "Midjourney",
+              "bestFor": "Hero cover artwork, illustration",
+              "url": "https://midjourney.com"
+            },
+            {
+              "name": "Canva",
+              "bestFor": "Layout, text overlay, batch resize",
+              "url": "https://canva.com"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "No-content vs Low-content vs Activity books?",
+          "options": [
+            {
+              "choice": "No-content (blank journals/notebooks)",
+              "pickIf": "You want fastest production. Cover is the only design work.",
+              "nextStep": "Stack 30-50 cover variations across niches. Volume play."
+            },
+            {
+              "choice": "Low-content (planners, trackers, prompt journals)",
+              "pickIf": "Best margin sweet spot. Mid effort. Highest demand.",
+              "nextStep": "Where most KDP authors focus. Build series of 5-10 in same niche."
+            },
+            {
+              "choice": "Activity / puzzle / coloring",
+              "pickIf": "You enjoy interior design + niche has gift market.",
+              "nextStep": "Strong for kids/seniors/hobbies."
+            }
+          ]
+        },
+        {
+          "question": "KDP-only vs IngramSpark expansion?",
+          "options": [
+            {
+              "choice": "KDP-only",
+              "pickIf": "",
+              "nextStep": "Stay focused on Amazon. Distribution complexity not worth it yet."
+            },
+            {
+              "choice": "KDP + IngramSpark",
+              "pickIf": "",
+              "nextStep": "Set up IngramSpark for non-Amazon distribution."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "tiktok-shop-seller",
+    "title": "TikTok Shop Seller",
+    "description": "Sell on TikTok Shop via 3 paths: Creator Affiliate (commission on other brands, no inventory), Direct Seller (your own products), or Live Shopping (TikTok Live with shoppable cart). The fastest-growing ecommerce platform for 2026 — AI generates hooks, scripts, captions, and per-product video templates in minutes.",
+    "difficulty": "intermediate",
+    "startupCost": "$200-$1,500",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Short-Form Video",
+      "Viral Hook Writing",
+      "Product Sourcing",
+      "Live Selling",
+      "TikTok SEO"
+    ],
+    "tools": [
+      "TikTok Shop",
+      "CapCut",
+      "OpusClip",
+      "ChatGPT",
+      "TikTok Affiliate Center"
+    ],
+    "category": "Products & ecommerce",
+    "categoryId": "ecommerce",
+    "budgetMin": 200,
+    "budgetMax": 1500,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Pick your path: Creator Affiliate (no inventory), Direct Seller (your products), or Live Shopping host",
+      "Build a niche TikTok account with 1K+ followers (required for Shop affiliate access)",
+      "Apply to TikTok Shop and connect Affiliate Center or seller dashboard",
+      "Post 1-3 videos/day with shoppable products — AI generates hooks, scripts, captions",
+      "Layer in TikTok Live shopping (highest conversion) once comfortable on camera"
+    ],
+    "audience": {
+      "role": "Aspiring TikTok Shop seller",
+      "industry": "Social commerce / TikTok",
+      "painPoints": [
+        "Sees others making thousands on TikTok Shop but does not know where to start",
+        "Cannot decide between Affiliate vs Direct vs Live",
+        "Content production is overwhelming — daily posting feels impossible",
+        "Picks low-quality products that tank credibility",
+        "Cannot break into Live shopping — feels intimidated by camera"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Content Marketing",
+        "SEO",
+        "Communities"
+      ],
+      "launchStrategy": "TikTok IS the channel. Win the algorithm via post velocity (1-3/day), strong hooks (first 1.5s), and niche consistency. For affiliates, pick high-commission products with social proof. For direct sellers, batch-create 30+ videos per product variant.",
+      "firstCustomerTactics": [
+        "Post 1-3 videos per day for 30 days straight — algorithm seeding",
+        "Hook in first 1.5 seconds (problem/curiosity/transformation)",
+        "Use TikTok Affiliate Center filters: high commission × proven products × low competition",
+        "Engage in comments aggressively — TikTok rewards creator interaction",
+        "Stitch / duet trending content in your niche to siphon viewers"
+      ],
+      "contentIdeas": [
+        "Before/after with the product as the bridge",
+        "Honest product review (most converting affiliate format)",
+        "POV / day-in-the-life with product placement",
+        "Niche-specific hacks featuring product",
+        "Live show announcements with countdown"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Creator Affiliate",
+        "price": "5-25% commission per sale",
+        "features": [
+          "Zero inventory — promote other brands",
+          "1K followers required for affiliate access",
+          "Lowest barrier, fastest to launch",
+          "Best for content creators with niche audience"
+        ]
+      },
+      {
+        "name": "Direct Seller",
+        "price": "$15-100 per item",
+        "features": [
+          "Your own products (sourced wholesale, private label, or POD)",
+          "More capital + ops complexity",
+          "Pairs well with Amazon FBA or Shopify"
+        ]
+      },
+      {
+        "name": "Live Shopping Host",
+        "price": "$1-10K per live show",
+        "features": [
+          "Highest conversion format on TikTok",
+          "Requires comfort on camera + niche presence",
+          "Live commerce is exploding — most operators are still figuring it out",
+          "Stack with Affiliate or Direct for inventory variety"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Pick path, set up account, study what works",
+        "tasks": [
+          {
+            "title": "Pick your TikTok Shop path",
+            "description": "Decide: Creator Affiliate (no capital, fastest), Direct Seller (your products), or Live Shopping host. AI helps score each against your time, capital, and on-camera comfort. Pick ONE primary for first 90 days.",
+            "estimatedHours": 2,
+            "tools": [
+              "ChatGPT",
+              "TikTok Shop"
+            ],
+            "deliverable": "Path decision documented with rationale",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up TikTok account + niche positioning",
+            "description": "Profile photo, bio (niche + value prop + CTA), pinned 3 videos. Pick a tight niche (kitchen gadgets for small spaces, not just cooking). Follow 50+ creators in your niche to study what works.",
+            "estimatedHours": 3,
+            "tools": [
+              "TikTok",
+              "Canva"
+            ],
+            "deliverable": "TikTok account live with niche positioning"
+          },
+          {
+            "title": "Study top-performing TikTok Shop content",
+            "description": "Watch 30+ shoppable videos in your niche. Note: hook structure, video length, captioning style, product placement timing, CTAs. Save 10 reference videos to model. AI helps identify patterns.",
+            "estimatedHours": 4,
+            "tools": [
+              "TikTok",
+              "ChatGPT",
+              "Notion"
+            ],
+            "deliverable": "10 reference videos + pattern notes",
+            "aiAssisted": true
+          },
+          {
+            "title": "Hit 1K followers (affiliate gate)",
+            "description": "TikTok Affiliate Center requires 1K followers. Post 5-7 videos using AI hooks. Engage daily in your niche. Stitch trending content. Goal: 1K in 14 days.",
+            "estimatedHours": 6,
+            "tools": [
+              "TikTok",
+              "CapCut",
+              "ChatGPT"
+            ],
+            "deliverable": "1K+ followers, affiliate access unlocked",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "4 weeks",
+        "description": "Daily posting, first sales, build a niche audience",
+        "tasks": [
+          {
+            "title": "Apply to TikTok Shop + Affiliate Center",
+            "description": "Apply for TikTok Shop seller (Direct path) or Affiliate Center (Creator path). Connect bank account. Browse Affiliate marketplace; pick 5-10 high-commission, well-reviewed products to feature.",
+            "estimatedHours": 3,
+            "tools": [
+              "TikTok Shop",
+              "TikTok Affiliate Center"
+            ],
+            "deliverable": "Approved seller/affiliate + 5-10 products selected"
+          },
+          {
+            "title": "Post 1-3 videos per day for 30 days",
+            "description": "Pure velocity play. AI generates 5+ hook variants per product, batch-record in 1-2 sessions per week, edit in CapCut, publish daily. Vary formats: review, before/after, POV, hack.",
+            "estimatedHours": 30,
+            "tools": [
+              "TikTok",
+              "CapCut",
+              "ChatGPT",
+              "OpusClip"
+            ],
+            "deliverable": "30+ videos posted, growing follower base",
+            "aiAssisted": true
+          },
+          {
+            "title": "Optimize based on early data",
+            "description": "After 14 days, identify top-performing video formats + products. Double-down on winners. Cut what is not working. AI analyzes your TikTok analytics for patterns.",
+            "estimatedHours": 4,
+            "tools": [
+              "TikTok Analytics",
+              "ChatGPT"
+            ],
+            "deliverable": "Format + product list optimized for next 30 days",
+            "aiAssisted": true
+          },
+          {
+            "title": "Drive first 50 sales",
+            "description": "For Affiliate: stack 5-10 products in active rotation, focus on volume of impressions. For Direct: optimize listing + first 10 reviews. Goal: 50 sales by end of week 8.",
+            "estimatedHours": 6,
+            "tools": [
+              "TikTok Shop",
+              "TikTok Affiliate Center"
+            ],
+            "deliverable": "50+ sales recorded"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Launch weekly TikTok Live shopping shows",
+            "description": "Once you have 1-2K followers and product confidence, schedule weekly Live shows. Plan a 60-90 min format: theme, product order, giveaways.",
+            "estimatedHours": 16,
+            "tools": [
+              "TikTok Live",
+              "OBS",
+              "ChatGPT"
+            ],
+            "deliverable": "8 weekly shows with measurable conversion",
+            "aiAssisted": true
+          },
+          {
+            "title": "Run TikTok Promote / Ads on best-performing videos",
+            "description": "Keep ad spend tight to maintain ROAS. AI identifies which videos to boost.",
+            "estimatedHours": 6,
+            "tools": [
+              "TikTok Promote",
+              "TikTok Ads Manager",
+              "ChatGPT"
+            ],
+            "deliverable": "Promoted videos running profitably",
+            "aiAssisted": true
+          },
+          {
+            "title": "Cross-post to YouTube Shorts + Instagram Reels",
+            "description": "Same vertical content, distributed. YouTube Shorts now monetizes via Shopping. IG Reels drives traffic to bio (Linktree → Shopify). Same effort, multiplied reach.",
+            "estimatedHours": 5,
+            "tools": [
+              "YouTube Shorts",
+              "Instagram Reels",
+              "CapCut"
+            ],
+            "deliverable": "Top videos cross-posted to 2 additional platforms"
+          },
+          {
+            "title": "Build off-platform funnel",
+            "description": "Capture TikTok audience to email list (Beehiiv / ConvertKit). Pin a free niche guide in bio. Email list compounds beyond algorithm volatility — single biggest scale lever.",
+            "estimatedHours": 4,
+            "tools": [
+              "Beehiiv",
+              "ConvertKit",
+              "Linktree"
+            ],
+            "deliverable": "Email list capturing 10-50 signups/week"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your TikTok Shop business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your TikTok Shop business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your TikTok Shop business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Basic video editing app (CapCut is free and TikTok-native)",
+            "why": "TikTok Shop sells almost entirely on short-form video — you need to actually film and edit product demos, not just list photos"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "video-virtuoso",
+          "why": "Vince helps script and structure the short-form demo videos that actually drive TikTok Shop sales",
+          "firstTask": "Write a hook-first 30-second script for this product's demo video"
+        },
+        {
+          "personaId": "influencer-expert",
+          "why": "Isla helps you find and pitch the right micro-affiliates once you have initial sales traction",
+          "firstTask": "Draft an outreach message for micro-affiliates in this product category"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "physical-product",
+        "physicalProduct": {
+          "sourcingChecklist": [
+            "Pick products with strong visual/demo appeal — TikTok Shop sells on short-form video, so \"does this look interesting in an 8-second clip\" matters more than raw utility",
+            "Source via TikTok Shop's own supplier marketplace or existing suppliers (Alibaba/domestic) — confirm they can handle TikTok's fast fulfillment-speed requirements",
+            "Order samples and film a real test video yourself before listing — you need to know if the product actually demos well before betting inventory on it",
+            "Check TikTok Shop's specific category restrictions and compliance requirements before sourcing — the platform has its own rules distinct from Amazon/Shopify"
+          ],
+          "listingTemplate": {
+            "titleFormula": "[Primary Keyword] [Key Benefit] — [Notable Feature], [Use Case]",
+            "bulletPointFormulas": [
+              "Hook-first description matching the angle of your best-performing video, not a generic spec list",
+              "Social-proof element (reviews, UGC mentions) surfaced prominently — TikTok Shop buyers convert on social proof more than traditional ecommerce copy"
+            ],
+            "requiredPhotos": [
+              "Product shot matching your video thumbnail style",
+              "In-use/demo shots pulled as stills from your best video",
+              "Packaging shot"
+            ]
+          },
+          "fulfillmentSteps": [
+            "Create and post organic content demoing the product BEFORE running paid ads — organic traction is what TikTok Shop's algorithm rewards with more reach",
+            "Partner with 3-5 micro-affiliates/creators via TikTok's Affiliate Center once you have initial sales data — this compounds faster than solo content for most sellers",
+            "Fulfill orders within TikTok Shop's required shipping window — missing it hurts your shop's standing and future visibility",
+            "Monitor which specific video drove each sales spike and double down on that creative angle rather than spreading effort evenly"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Hook generator (first 1.5 seconds is everything)",
+          "prompt": "Generate 10 TikTok hooks for a shoppable product video. Each hook is the FIRST 1.5 SECONDS — the make-or-break moment.\n\nProduct: [name + benefit]\nTarget audience: [persona]\nNiche: [your TikTok niche]\n\nHook patterns to use (test multiple):\n1. Curiosity gap: \"I bet you didn't know this about...\"\n2. Transformation tease: \"Watch what happens when...\"\n3. Pattern interrupt: visual or sound that stops scroll\n4. Direct value: \"$X savings on...\"\n5. Provocative claim: \"I tried X for 30 days...\"\n6. Story open: \"POV: you just discovered...\"\n7. Authority flex: \"After 5 years in [niche]...\"\n8. Problem statement: \"If you've ever struggled with...\"\n\nFor each:\n- Hook line (under 8 words)\n- Visual / B-roll suggestion\n- On-screen text cue\n- Why this works for this specific product\n\nBias toward unconventional + specific over generic."
+        },
+        {
+          "task": "Product review script (highest converting affiliate format)",
+          "prompt": "Write a 60-second TikTok product review script. Honest, casual, converts.\n\nProduct: [name + price + your honest take]\nAffiliate commission: [%]\nYour niche: [audience demographic]\n\nScript structure:\n- Hook (0-3s): pattern interrupt + curiosity\n- Setup (3-15s): why you tried this / who it's for\n- Demo (15-40s): show the product, real use case\n- Honest verdict (40-50s): pros + cons (yes, mention cons — builds trust)\n- CTA (50-60s): \"link in bio\" or \"TikTok Shop\" + reason to act now\n\nOutput:\n- Full script (timestamps + voiceover)\n- B-roll list per timestamp\n- On-screen text cues\n- 5 hashtags (mix niche + broad)\n- 3 caption variants\n\nTone: like talking to a friend, not selling."
+        },
+        {
+          "task": "Live shopping run-of-show (TikTok Live)",
+          "prompt": "Build a 60-90 minute TikTok Live shopping run-of-show.\n\nNiche: [your niche]\nProducts: [5-15 items + prices + commissions]\nGoal: [followers / sales / brand-build]\nAudience size estimate: [50-500]\n\nOutput:\n\nPRE-SHOW (15 min before):\n- 3 announcement posts on social\n- DM to top 20 followers\n- Studio + lighting + product setup checklist\n\nOPENING (0-5 min):\n- Hook script (60-second open is critical)\n- Giveaway hook for follow + share\n- Energy-setting routine\n\nCORE (5-75 min):\n- 5-15 min per product\n- Per product: opening line, demo, social proof, scarcity, price reveal\n- Pacing nudges every 15 min (\"if drop below 30 viewers, pivot to giveaway\")\n\nPEAK (75-85 min):\n- Star product placement\n- Bundle offer\n- Highest-energy moment\n\nCLOSE (85-90 min):\n- Recap winners\n- Mystery box / final deal\n- Next show date + follow CTA\n\n5 CONTINGENCY PLAYS:\n\"If X happens → do Y\" for common emergencies (low viewers, tech issues, no sales)."
+        },
+        {
+          "task": "TikTok Affiliate product picker (filter signal from noise)",
+          "prompt": "Score these TikTok Affiliate Center products for me to feature.\n\nProducts (paste 10-20):\n[name, price, commission %, sales count, rating, days on platform]\n\nMy niche: [audience]\nMy monthly viewer count: [estimate]\n\nOutput:\n\nTIER 1 (Promote aggressively):\n- Why this is a winner\n- Specific video angle\n- Expected commission per video at my reach\n\nTIER 2 (Test cautiously):\n- Worth a single video test\n- Risk factors (low reviews, new product)\n\nTIER 3 (Skip):\n- Why these will burn time\n- What pattern to avoid\n\nTip: prioritize products with 4.5+ star, 100+ recent sales, 30%+ commission. Avoid drop-shipping junk regardless of commission."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Posting without strong hooks (the first 1.5 seconds)",
+          "why": "TikTok algorithm watches first 3-second retention. Weak hooks = no distribution. Strong hooks = pushed to non-followers.",
+          "prevention": "Test 3-5 hook variants per product. AI hook generator above. First 1.5s must stop scroll."
+        },
+        {
+          "mistake": "Going broad instead of niche",
+          "why": "TikTok algorithm categorizes you by content patterns. Mixed niches = \"what is this account?\" = no distribution.",
+          "prevention": "Pick ONE niche for first 90 days. 30+ videos in same niche before testing adjacent."
+        },
+        {
+          "why": "Most affiliate sellers ignore it.",
+          "prevention": "Once you have 1K+ followers, schedule weekly Live shows. Even 30 viewers + 10 buys = significant."
+        },
+        {
+          "mistake": "External links in TikTok bio",
+          "why": "TikTok punishes off-platform redirects. Every link to Linktree or Shopify reduces algorithmic distribution.",
+          "prevention": "Drive traffic IN-PLATFORM (TikTok Shop products). Save off-platform funnels for email + DM."
+        },
+        {
+          "mistake": "Ignoring the comments after publishing",
+          "why": "TikTok rewards creator engagement in comments. First-hour responses boost distribution.",
+          "prevention": "Reply to first 50 comments within 1 hour. Pin best comment. AI helps with response volume."
+        },
+        {
+          "mistake": "Picking products with low social proof",
+          "why": "TikTok Shop buyers check reviews. 1-2 star products tank your credibility AND your sales.",
+          "prevention": "Filter Affiliate Center for 4.5+ stars, 100+ recent sales. Walk away from anything sub-4.0."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Video editing",
+          "recommendation": "CapCut for everything (free, dominant on TikTok). Adobe Premiere only if you already know it.",
+          "options": [
+            {
+              "name": "CapCut",
+              "bestFor": "Default TikTok editor, AI captions, templates",
+              "url": "https://capcut.com"
+            },
+            {
+              "name": "InShot",
+              "bestFor": "Mobile-only quick edits"
+            },
+            {
+              "name": "Adobe Premiere",
+              "bestFor": "Pro-level, you already know Adobe"
+            }
+          ]
+        },
+        {
+          "category": "Repurposing (TikTok → Reels → Shorts)",
+          "recommendation": "OpusClip for AI clip generation. Captions for batch editing.",
+          "options": [
+            {
+              "name": "OpusClip",
+              "bestFor": "AI auto-clip from long-form",
+              "url": "https://opus.pro"
+            },
+            {
+              "name": "Captions",
+              "bestFor": "Batch editing + transcription",
+              "url": "https://captions.ai"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Affiliate vs Direct Seller vs Live Shopping?",
+          "options": [
+            {
+              "choice": "Creator Affiliate (start here)",
+              "pickIf": "No capital, want to validate niche + content fast.",
+              "nextStep": "Hit 1K followers → apply to Affiliate Center → 30 days of content velocity."
+            },
+            {
+              "choice": "Direct Seller",
+              "pickIf": "You already have product (Amazon FBA, Shopify, POD).",
+              "nextStep": "Connect existing inventory. Build affiliate creators in your niche to amplify."
+            },
+            {
+              "choice": "Live Shopping (graduate to here)",
+              "pickIf": "You have 1-2K followers + product confidence + on-camera comfort.",
+              "nextStep": "Schedule weekly recurring Live show."
+            }
+          ]
+        },
+        {
+          "question": "When do I niche down further?",
+          "options": [
+            {
+              "choice": "After 30 videos in current niche",
+              "pickIf": "You are seeing pattern in what content gets distribution.",
+              "nextStep": "Niche down to top-performing sub-category. Stop posting outside it."
+            },
+            {
+              "choice": "Wait until 90 days",
+              "pickIf": "You are still figuring out what your audience wants.",
+              "nextStep": "Track view count per video by sub-topic. Data will reveal niche."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "social"
+    ],
+    "timeToStart": "2 weeks"
+  }
+]

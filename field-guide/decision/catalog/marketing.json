@@ -1,0 +1,3454 @@
+[
+  {
+    "id": "affiliate-marketing",
+    "title": "Affiliate Marketing",
+    "description": "Promote other companies products for commission",
+    "difficulty": "beginner",
+    "startupCost": "$0-$500",
+    "timeCommitment": "10-20 hours/week",
+    "skills": [
+      "Content Creation",
+      "SEO",
+      "Social Media"
+    ],
+    "tools": [
+      "WordPress",
+      "Google Analytics",
+      "Social Media"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 0,
+    "budgetMax": 500,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Choose profitable niche",
+      "Build content site",
+      "Join affiliate programs",
+      "Create content",
+      "Scale traffic"
+    ],
+    "audience": {
+      "role": "Consumer researching purchase",
+      "painPoints": [
+        "Overwhelmed by options",
+        "Dont know what to buy",
+        "Want unbiased advice",
+        "Need comparison help"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "SEO",
+        "Content Marketing",
+        "YouTube",
+        "Twitter/X"
+      ],
+      "launchStrategy": "Build niche content site with SEO, add affiliate links",
+      "firstCustomerTactics": [
+        "Choose profitable niche with buyer intent",
+        "Write 50+ SEO articles",
+        "Join affiliate programs",
+        "Build email list"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Content Site",
+        "price": "3-10% commission",
+        "features": [
+          "Product reviews",
+          "Comparison articles",
+          "SEO traffic"
+        ]
+      },
+      {
+        "name": "Email Marketing",
+        "price": "5-50% commission",
+        "features": [
+          "Email sequences",
+          "Product launches",
+          "Higher conversions"
+        ]
+      },
+      {
+        "name": "Course/Coaching",
+        "price": "20-50% commission",
+        "features": [
+          "High ticket items",
+          "Fewer sales needed",
+          "Relationship based"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Setup",
+        "duration": "7 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Choose niche",
+            "description": "Research profitable affiliate niches",
+            "estimatedHours": 8,
+            "tools": [
+              "Ahrefs",
+              "Google Trends"
+            ]
+          },
+          {
+            "title": "Set up website",
+            "description": "Create WordPress or Webflow site",
+            "estimatedHours": 6,
+            "tools": [
+              "WordPress",
+              "Webflow"
+            ]
+          },
+          {
+            "title": "Join affiliate programs",
+            "description": "Apply to relevant affiliate networks",
+            "estimatedHours": 4,
+            "tools": [
+              "Amazon Associates",
+              "ShareASale"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Content Creation",
+        "duration": "30 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Keyword research",
+            "description": "Find 100+ target keywords",
+            "estimatedHours": 10,
+            "tools": [
+              "Ahrefs",
+              "Ubersuggest"
+            ]
+          },
+          {
+            "title": "Write first 20 articles",
+            "description": "Create review and comparison content",
+            "estimatedHours": 50,
+            "tools": [
+              "WordPress",
+              "ChatGPT"
+            ],
+            "aiAssisted": true
+          },
+          {
+            "title": "Optimize for SEO",
+            "description": "Add internal links, meta descriptions",
+            "estimatedHours": 10,
+            "tools": [
+              "Yoast SEO",
+              "Ahrefs"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your affiliate marketing business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your affiliate marketing business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your affiliate marketing business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "Affiliate marketing is real work dressed up as passive income. You're building an audience — through a blog, YouTube channel, newsletter, or social account — and earning commissions when that audience buys through your links. The honest version: most of your early months are spent creating content that almost nobody sees yet. You need patience with delayed feedback loops, genuine curiosity about the products you promote, and enough consistency to keep publishing before the numbers justify it. SEO takes time. Trust takes longer. If you can write clearly, learn what your audience actually needs, and resist the urge to slap affiliate links on everything, you have a real shot.",
+      "whereTheyFail": "Most people fail at the content volume problem — they write four posts, see no traffic, and conclude it doesn't work. It's not that it didn't work; they stopped before the compounding started. The second failure mode is promoting too many unrelated products too early, which destroys audience trust before it's built. The third is chasing high-commission programs in saturated niches (VPNs, web hosting) instead of finding a narrower audience they actually understand and can serve honestly.",
+      "theDip": "Months two through five are brutal. You're publishing regularly, your analytics show mostly bots and your own visits, and you haven't made a dollar. This is the dip. It's not a sign you chose wrong — it's the standard experience. Affiliate income is backloaded: the content you write in month three often earns its first commission in month seven. The people who get through this period treat it like building infrastructure, not waiting for a lottery ticket. Set a 90-day commitment before you evaluate whether to continue.",
+      "routine": [
+        {
+          "what": "Chief of Staff check-in — review what you published, what you'll publish next, and one thing that's feeling stuck",
+          "when": "Daily · 10 min"
+        },
+        {
+          "what": "Write or record one piece of content (post, video script, or newsletter)",
+          "when": "Mon, Wed, Fri · 2–3 hrs"
+        },
+        {
+          "what": "Keyword and competitor research — find three content gaps or questions your audience is asking",
+          "when": "Tue · 1 hr"
+        },
+        {
+          "what": "Analytics review — check traffic sources, click-through rates on affiliate links, and top-performing pages",
+          "when": "Sun · 30 min"
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "WordPress hosting + a content site",
+            "why": "Named directly in the template's own tools list — the content site is the core asset this business is built on"
+          },
+          {
+            "item": "Email service provider (for the newsletter distribution channel)",
+            "why": "The scaffold flags newsletter as the highest-converting distribution channel of the three named options"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts the comparison posts and tutorials that the scaffold identifies as the highest-converting affiliate content formats",
+          "firstTask": "Draft a comparison post outline for these two competing products in this niche"
+        },
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie handles the keyword research and SEO work that compounds this content site's traffic over time",
+          "firstTask": "Find 10 low-competition, high-intent keywords for this affiliate niche"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "community",
+        "community": {
+          "structureOutline": [
+            {
+              "section": "Comparison content (Tool A vs. Tool B)",
+              "purpose": "The scaffold's own research identifies this as the highest-converting affiliate content format — buyers in a decision moment convert best on honest comparisons"
+            },
+            {
+              "section": "Tutorial/how-to with affiliate mention",
+              "purpose": "Builds trust and demonstrates real use before the affiliate link appears"
+            },
+            {
+              "section": "Listicles (\"best X for Y\")",
+              "purpose": "Captures broad top-of-funnel search intent across the niche"
+            }
+          ],
+          "contentCadence": [
+            {
+              "frequency": "Weekly",
+              "contentType": "1-2 new comparison, tutorial, or listicle posts"
+            },
+            {
+              "frequency": "Ongoing",
+              "contentType": "Newsletter distribution to captured email list"
+            }
+          ],
+          "memberOnboarding": [
+            "Capture email before sending readers to an affiliate offer wherever possible — you lose the relationship (and repeat commissions) if the click just bounces straight to the vendor",
+            "Disclose every affiliate relationship clearly on each post (FTC requirement)"
+          ],
+          "moderationGuidelines": [
+            "Only promote programs/products you can honestly vet — a comparison post that reads as biased converts worse and damages the credibility the whole content engine depends on",
+            "Keep affiliate links updated — dead or outdated program links are a common, avoidable income leak in this business model"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Niche scoring (broad affiliate — Amazon + SaaS + digital)",
+          "prompt": "Score this niche for general affiliate marketing.\n\nNiche: [your candidate]\nYour background / interest: [why this niche]\nTarget audience: [demographic + buying behavior]\n\nOutput:\n\nNICHE FIT (1-10):\n- Audience size + buying intent\n- Affiliate program density (how many programs you can stack)\n- Commission ceiling (Amazon 1-10%, SaaS 25-50%, digital 30-50%)\n- Trust threshold (some niches require deep credibility)\n- Saturation (top sites already dominating SERP)\n\nTOP 10 PROGRAMS to apply to in this niche (mix of types):\n- Amazon Associates (default 1-10%)\n- 3-5 SaaS programs with recurring commissions\n- 2-3 digital product / course programs\n- 1-2 high-ticket / coaching programs\n\nCONTENT ENGINE (3 formats that win in this niche):\n- Comparison content (Tool A vs B)\n- Tutorial / how-to with affiliate mention\n- Listicles (best X for Y)\n\nDISTRIBUTION (1-2 channels to focus on):\n- SEO blog (compounds long-term)\n- YouTube (visual demos)\n- Newsletter (highest conversion)\n\n90-DAY EARNINGS PROJECTION:\n- Month 1: 0-100\n- Month 2-3: 100-500\n- Month 4-6: 500-2K\n- Month 12+: 2K-15K\n\nBe honest if niche is overcrowded."
+        },
+        {
+          "task": "Comparison post (Tool A vs Tool B — highest-converting affiliate format)",
+          "prompt": "Write an honest comparison post: [Tool A] vs [Tool B] for [target use case].\n\nMy affiliate: [which one I'm an affiliate for — be transparent]\nMy honest verdict: [where each one wins]\n\nStructure:\n\nINTRO (180 words):\n- Who this comparison is for\n- TL;DR verdict (one-line — pick X if Y, pick Z if W)\n- FTC disclosure (visible, not buried)\n\nCOMPARISON TABLE:\n8-10 dimensions side-by-side (pricing, features, integrations, learning curve, support, mobile, etc).\n\nDETAILED SECTIONS (5-7):\nFor each, who wins + why with specific examples.\n\nUSE CASE WALKTHROUGHS:\n- Use case 1 (Tool A wins)\n- Use case 2 (Tool B wins)\n- Use case 3 (it depends)\n\nVERDICT:\n- Pick A if [criteria]\n- Pick B if [criteria]\n- Pick neither if [edge case]\n\nCTA + AFFILIATE LINKS (clearly disclosed).\n\nTone: honest reviewer, not marketer. Mention real downsides of your affiliate. Trust > one-time conversion."
+        },
+        {
+          "task": "Email sequence (warm list → first affiliate sale)",
+          "prompt": "Generate a 7-email sequence for new email subscribers in a [niche] affiliate-marketing list.\n\nNiche: [niche]\nLead magnet: [what they downloaded]\nTarget affiliate: [product/service to softly introduce]\n\nDay 1: Welcome + lead magnet delivery + your story\nDay 3: 1 piece of pure value (no pitch)\nDay 5: Niche pain point you've personally solved\nDay 7: Tool you use to solve it (your affiliate, soft mention)\nDay 10: Tutorial / case study using the affiliate\nDay 12: Common alternative + why your affiliate wins (comparison)\nDay 14: Soft direct affiliate offer with bonus (exclusive bundle)\n\nFor each:\n- Subject line + 2 alt subjects\n- Preheader\n- 200-300 word body\n- Single clear CTA\n\nFTC disclosure visible in every email body containing affiliate link.\n\nTone: friend recommending, not salesman."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "No FTC disclosure (or buried in footer)",
+          "why": "FTC enforces disclosure rules. Hidden disclosures = fines + program termination. Plus it is the right thing to do.",
+          "prevention": "Visible disclosure on every affiliate piece. \"I may earn a commission if you buy through links here. I only recommend tools I personally use.\""
+        },
+        {
+          "mistake": "Promoting low-trust products for short-term gains",
+          "why": "A bad recommendation tanks audience trust. One sketchy course or scammy SaaS = unsubscribes + reputation loss.",
+          "prevention": "Use every product 30+ days before recommending. Your reputation is the asset."
+        },
+        {
+          "mistake": "Single-program dependency",
+          "why": "Programs change commission rates, pause programs, or kick affiliates with no notice. Single-source = single point of failure.",
+          "prevention": "Diversify across 5-10 programs."
+        },
+        {
+          "mistake": "No email list — relying on social only",
+          "why": "Email is the only owned channel.",
+          "prevention": "Email list from day 1. Lead magnet → 7-day welcome → ongoing newsletter."
+        },
+        {
+          "mistake": "Going broad (\"personal finance tips\") vs niche",
+          "why": "Broad audiences have low buying intent. Niche audiences trust your specific expertise.",
+          "prevention": "Pick a specific persona × specific outcome. \"Side-income personal finance for educators\" beats \"personal finance tips.\""
+        },
+        {
+          "mistake": "No SEO foundation — relying on social",
+          "why": "Social posts decay fast. SEO content compounds for years. Affiliates with 100+ ranking blog posts earn passively for years.",
+          "prevention": "1-2 SEO posts per week minimum. Long-tail keywords. 12-month compounding view."
+        },
+        {
+          "mistake": "Paid ads before knowing LTV",
+          "why": "Ads at break-even CAC require knowing customer lifetime value. Without 3-6 months of data, ad spend is gambling.",
+          "prevention": "No paid ads before 6 months of organic data. Once LTV is known, paid scales."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Affiliate networks",
+          "recommendation": "Amazon Associates as default + 1-2 niche-specific networks. PartnerStack for B2B SaaS recurring. Impact for ecommerce.",
+          "options": [
+            {
+              "name": "Amazon Associates",
+              "bestFor": "Default starter; broad product range",
+              "url": "https://affiliate-program.amazon.com"
+            },
+            {
+              "name": "PartnerStack",
+              "bestFor": "B2B SaaS recurring commissions",
+              "url": "https://partnerstack.com"
+            },
+            {
+              "name": "Impact",
+              "bestFor": "Ecommerce + SaaS, broad",
+              "url": "https://impact.com"
+            },
+            {
+              "name": "ShareASale",
+              "bestFor": "Established programs across niches"
+            }
+          ]
+        },
+        {
+          "category": "Link management",
+          "recommendation": "Pretty Links for WordPress. Bitly for non-WP. AAWP for Amazon-heavy sites.",
+          "options": [
+            {
+              "name": "Pretty Links",
+              "bestFor": "WordPress users, link cloaking"
+            },
+            {
+              "name": "Bitly",
+              "bestFor": "Non-WP, analytics"
+            },
+            {
+              "name": "AAWP",
+              "bestFor": "Amazon affiliate sites — pulls live prices"
+            }
+          ]
+        },
+        {
+          "category": "Newsletter platform",
+          "recommendation": "Beehiiv for built-in growth tools + sponsorship. ConvertKit for automation depth.",
+          "options": [
+            {
+              "name": "Beehiiv",
+              "bestFor": "Newsletter affiliate + sponsorship marketplace"
+            },
+            {
+              "name": "ConvertKit",
+              "bestFor": "Deep automation"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "SEO blog or YouTube or Newsletter as primary?",
+          "options": [
+            {
+              "choice": "SEO blog (compounds long-term)",
+              "pickIf": "You write better than you film. Want passive long-tail traffic.",
+              "nextStep": "1-2 posts/week. 12-month compounding view. Highest passive ceiling."
+            },
+            {
+              "choice": "YouTube (broad reach + visual)",
+              "pickIf": "You can produce 1-2 videos/week + are OK on camera.",
+              "nextStep": "Niche channel + email capture in description. Subscriber growth compounds."
+            },
+            {
+              "choice": "Newsletter (highest per-subscriber value)",
+              "pickIf": "You have an existing audience to seed first 100 subs.",
+              "nextStep": "Beehiiv + lead magnet."
+            }
+          ]
+        },
+        {
+          "question": "Amazon-only or diversified programs?",
+          "options": [
+            {
+              "choice": "Diversified (recommended)",
+              "pickIf": "You are building a niche site / newsletter for the long haul.",
+              "nextStep": "5-10 programs. Amazon as one of many. Recurring B2B SaaS for compounding income."
+            },
+            {
+              "choice": "Amazon-only",
+              "pickIf": "You want simplicity and your niche has heavy Amazon overlap.",
+              "nextStep": "Use AAWP for live prices. Watch Amazon's commission cuts (frequent and unannounced)."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "social-media-manager",
+    "title": "AI Social Media Manager",
+    "description": "Manage social media for businesses using AI for content creation, scheduling, and analytics",
+    "difficulty": "beginner",
+    "startupCost": "$50-$200",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Social Media Strategy",
+      "Copywriting",
+      "Analytics",
+      "Client Management"
+    ],
+    "tools": [
+      "ChatGPT",
+      "Canva",
+      "Buffer",
+      "Later"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 50,
+    "budgetMax": 200,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Master AI content creation",
+      "Build portfolio with demo accounts",
+      "Create service packages",
+      "Land first 3 clients",
+      "Scale to agency model"
+    ],
+    "audience": {
+      "role": "Business Owner",
+      "companySize": "1-20 employees",
+      "industry": "Local Business / E-commerce",
+      "painPoints": [
+        "No time to post consistently",
+        "Don't know what to post",
+        "Social media feels overwhelming",
+        "Can't afford a full-time marketer",
+        "Competitors are more active online"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Local Networking",
+        "Cold Email",
+        "Referrals"
+      ],
+      "launchStrategy": "Manage your own accounts as proof of concept, then offer free 1-week trial to 5 businesses",
+      "firstCustomerTactics": [
+        "Audit 20 local businesses' social media, send suggestions",
+        "Offer free 1-week trial management",
+        "Post daily social media tips on your own accounts",
+        "Partner with web designers and marketers",
+        "Join local business groups and chambers of commerce"
+      ],
+      "contentIdeas": [
+        "Before/after social media transformations",
+        "How AI creates 30 days of content in 2 hours",
+        "Social media mistakes killing your business",
+        "ROI of consistent social media posting"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$500/mo",
+        "features": [
+          "2 platforms",
+          "12 posts/month",
+          "Basic analytics report",
+          "AI-generated content"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$1,500/mo",
+        "features": [
+          "4 platforms",
+          "30 posts/month",
+          "Stories + Reels",
+          "Analytics + strategy call",
+          "Community management"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$3,000/mo",
+        "features": [
+          "All platforms",
+          "Daily posting",
+          "Paid ad management",
+          "Influencer outreach",
+          "Dedicated strategist"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Build your own social proof and systems",
+        "tasks": [
+          {
+            "title": "Master AI content tools",
+            "description": "Learn ChatGPT for copy, Canva for visuals, Buffer for scheduling",
+            "estimatedHours": 8,
+            "tools": [
+              "ChatGPT",
+              "Canva",
+              "Buffer"
+            ],
+            "deliverable": "Tool proficiency"
+          },
+          {
+            "title": "Build demo portfolio",
+            "description": "Create 30 days of content for a fictional brand, clearly labeled as a sample rather than client work",
+            "estimatedHours": 6,
+            "tools": [
+              "ChatGPT",
+              "Canva"
+            ],
+            "deliverable": "Demo portfolio",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create packages + contracts",
+            "description": "Define 3 service tiers, create client contract template",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Docs"
+            ],
+            "deliverable": "Service packages"
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Land first 2-3 retainer clients",
+        "tasks": [
+          {
+            "title": "Free audit campaign",
+            "description": "Audit 20 local businesses, send personalized video reviews",
+            "estimatedHours": 10,
+            "tools": [
+              "Loom",
+              "Email"
+            ],
+            "deliverable": "20 audits sent"
+          },
+          {
+            "title": "Free trial offers",
+            "description": "Offer 1-week free management to top 5 prospects",
+            "estimatedHours": 15,
+            "tools": [
+              "Buffer",
+              "ChatGPT",
+              "Canva"
+            ],
+            "deliverable": "5 trial clients",
+            "aiAssisted": true
+          },
+          {
+            "title": "Convert to paid",
+            "description": "Present results, pitch retainer packages",
+            "estimatedHours": 5,
+            "tools": [
+              "Zoom",
+              "Google Slides"
+            ],
+            "deliverable": "2-3 paying clients"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Grow to 5-6 clients and systemize",
+        "tasks": [
+          {
+            "title": "Create content templates",
+            "description": "Build reusable templates for each industry",
+            "estimatedHours": 10,
+            "tools": [
+              "Canva",
+              "Notion"
+            ],
+            "deliverable": "Template library",
+            "aiAssisted": true
+          },
+          {
+            "title": "Automate reporting",
+            "description": "Set up automated monthly analytics reports",
+            "estimatedHours": 6,
+            "tools": [
+              "Buffer",
+              "Google Sheets"
+            ],
+            "deliverable": "Reporting automation"
+          },
+          {
+            "title": "Referral program",
+            "estimatedHours": 3,
+            "tools": [
+              "Email"
+            ],
+            "deliverable": "Referral system active",
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI social media management business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI social media management business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI social media management business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You're running social media accounts for small businesses — restaurants, gyms, boutiques, local service providers — and using AI tools to do the content creation and scheduling work faster than a traditional social media manager could. The actual job is understanding what a business owner wants their brand to feel like, translating that into a consistent posting rhythm, and reporting results in plain English. AI handles the drafting and image prompting; you handle the judgment, the client relationship, and the strategy. You need to be comfortable talking to business owners, learning new tools quickly, and staying calm when a client says 'this doesn't sound like us.' This is a service business, not a software product. Your income depends on keeping clients happy long enough to retain them month after month.",
+      "whereTheyFail": "Most people who quit do so in the first 60 days — before they have a single paying client — because the outreach feels embarrassing and the rejection is demoralizing. They send five or six messages, hear nothing back, and decide the market is too competitive. The second failure point is underpricing to get the first yes, then resenting the client and doing mediocre work. The third failure is over-relying on AI output without editing it. Clients notice when captions sound generic. One bad comment about 'robot content' can end a retainer.",
+      "theDip": "Month two and three are the hardest. You probably have one or two clients, the work is still taking longer than it should because you're building your systems, and you're not making enough to feel like this is real. The clients you have are asking for small changes constantly, and every revision feels like it's eating your margin. This is where most people either quietly stop responding to new leads or start taking on any client at any price just to feel momentum. The dip is real and it's specifically about patience before your process is fast enough to make the math work. Push through by timing yourself, building reusable templates, and not adding a third client until the first two are running smoothly.",
+      "routine": [
+        {
+          "what": "Content batch and schedule for all clients using AI drafts + personal editing pass",
+          "when": "Mon · 3–4h"
+        },
+        {
+          "what": "Analytics review and monthly report prep for each retainer client",
+          "when": "Wed · 1–2h"
+        },
+        {
+          "what": "Outreach to 5–10 new potential clients via DM or email",
+          "when": "Thu · 1h"
+        },
+        {
+          "what": "Chief of Staff check-in — review what's working, what a client complained about, and one process you can tighten",
+          "when": "Daily · 15min"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Generate a month of social media content for a client",
+          "prompt": "You are a social media strategist helping me manage content for a client. Here are the details:\n\nBusiness name: [CLIENT NAME]\nIndustry: [INDUSTRY]\nTarget audience: [WHO THEY SELL TO — age, job, pain points]\nBrand voice: [e.g., friendly and approachable / professional and authoritative / witty and bold]\nPlatforms: [Instagram / LinkedIn / Facebook / TikTok — pick what applies]\nMonthly content goal: [e.g., 3 posts per week per platform]\nCurrent offers or promotions: [LIST ANY]\nTopics to avoid: [e.g., politics, competitors by name]\n\nPlease create a 4-week content calendar with:\n- Post date and platform\n- Post type (educational, promotional, engagement, behind-the-scenes, testimonial)\n- Full caption copy including emojis and hashtags\n- A one-line image/visual direction note for each post\n\nKeep captions under 150 words for Instagram, under 200 words for LinkedIn. Make every post feel human, not AI-generated."
+        },
+        {
+          "task": "Write a client onboarding questionnaire and welcome email",
+          "prompt": "I run an AI-assisted social media management service. I just signed a new client and need two things:\n\n1. A client onboarding questionnaire (Google Form-style, 12-15 questions) that covers:\n- Business basics (name, website, location)\n- Target customer description\n- Brand voice and personality (ask them to pick adjectives)\n- Competitors they admire\n- Content topics they want to own\n- Topics or imagery to avoid\n- Login access instructions\n- Their definition of success for social media\n- Preferred communication method and response time expectations\n\n2. A warm, professional welcome email to send immediately after signing. The email should:\n- Confirm what they've purchased and what happens next\n- Set realistic expectations (results take 60-90 days to compound)\n- Explain the onboarding process step by step\n- Give them a direct point of contact and response time SLA\n- End with genuine excitement without being over-the-top\n\nTone: warm, confident, and organized. This client is paying $[MONTHLY RETAINER] per month."
+        },
+        {
+          "task": "Analyze a client's social media performance and write a monthly report",
+          "prompt": "I manage social media for a business client and need to write their monthly performance report. Here is the raw data from the past 30 days:\n\nPlatform: [PLATFORM]\nFollower count start: [NUMBER]\nFollower count end: [NUMBER]\nTotal posts published: [NUMBER]\nTop 3 posts by engagement: [PASTE POST DESCRIPTIONS AND STATS]\nAverage engagement rate: [%]\nProfile visits: [NUMBER]\nLink clicks or website referrals: [NUMBER]\nDMs or inquiries received: [NUMBER]\nPaid ad spend (if any): $[AMOUNT]\n\nPlease write a monthly report that:\n- Opens with a plain-English summary of what happened this month (2-3 sentences)\n- Highlights 2-3 wins with specific numbers\n- Identifies 1-2 things that underperformed and explains likely why\n- Recommends 3 concrete actions for next month based on the data\n- Ends with a brief note on what we're testing next month and why\n\nTone: honest, clear, and consultative — like a trusted advisor, not a salesperson. Keep the whole report under one page."
+        },
+        {
+          "task": "Create a cold outreach message to land new clients",
+          "prompt": "I offer AI-assisted social media management for small businesses. I want to reach out to potential clients who are clearly underusing social media. Help me write outreach messages for the following scenario:\n\nTarget business type: [e.g., local restaurant / boutique fitness studio / real estate agent / e-commerce brand]\nWhere I'm reaching out: [LinkedIn DM / cold email / Instagram DM]\nWhat I noticed about their account: [e.g., they post once a month, their last post was 6 weeks ago, their captions are just product descriptions with no engagement]\nWhat I offer: Done-for-you social media management starting at $[YOUR PRICE]/month. I use AI tools to keep costs low and turnaround fast.\n\nWrite 3 versions of the outreach message:\n1. Short and direct (under 60 words)\n2. Value-first with a specific observation (under 120 words)\n3. Question-opener that invites a reply (under 80 words)\n\nDo NOT use phrases like 'I hope this finds you well,' 'synergy,' 'game-changer,' or 'crush your goals.' Sound like a real person who noticed something specific about their business."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Underpricing to get the first client and never recovering",
+          "why": "That client refers others at the same price, you fill your hours at unprofitable rates, and raising prices on existing clients is awkward and often causes churn. You end up working 20+ hours/week for less than minimum wage once you account for unpaid admin time.",
+          "prevention": "Price based on the value to their business, not your hours."
+        },
+        {
+          "mistake": "Publishing AI-generated content without editing it for the client's real voice",
+          "why": "AI content is recognizably generic. Audiences disengage, the client notices their posts don't sound like them, and you get fired. Worse, some AI outputs repeat phrases like 'in today's fast-paced world' or 'dive in' that immediately signal automation to savvy readers.",
+          "prevention": "Treat AI output as a first draft, not a final product. Spend 10-15 minutes per content batch adding specific details (real customer names, actual product names, local references). Keep a 'voice notes' doc per client with their real phrases, jokes, and no-go words from the onboarding questionnaire."
+        },
+        {
+          "mistake": "Managing client access through your own personal accounts",
+          "why": "Logging into client Instagram or Facebook through your personal device ties their account to your login history. If Meta flags unusual activity, BOTH your account and theirs can get locked. If the relationship ends badly, there's no clean handoff.",
+          "prevention": "Use a social media management tool (Buffer, Metricool, Later) that connects via official API. Never ask for client passwords directly — use platform-native team access features (Meta Business Suite, LinkedIn Page Admin, etc.) so clients can revoke access cleanly."
+        },
+        {
+          "mistake": "Taking on too many clients before building repeatable systems",
+          "why": "Month one with 3 clients feels manageable. Month two with 6 clients and no templates, no scheduling tool, and no reporting system means you're rebuilding everything from scratch for each client every week. Quality drops, deadlines slip, clients notice.",
+          "prevention": "Before client 3, build: a content calendar template, a monthly report template, a client folder structure, and a scheduling workflow in one tool. Cap yourself at 5 clients until your systems can run a client in under 3 hours/week."
+        },
+        {
+          "mistake": "Promising follower growth or viral results in writing",
+          "why": "Social media results depend on platform algorithms, ad budgets, industry, and timing — none of which you fully control. If you write 'I'll grow your account by 500 followers in 30 days' in a contract or DM and don't deliver, you've created a legal and reputation problem.",
+          "prevention": "Promise deliverables you control: posts published, reports delivered, response time, content quality. Frame outcomes as possibilities with honest timelines ('most clients see meaningful engagement growth within 60-90 days'). Put this language explicitly in your contract."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Social Media Scheduling & Management",
+          "recommendation": "Buffer for beginners (simple, affordable, clean UI); Metricool once you have 3+ clients (better analytics and white-label reporting in one tool). Avoid Hootsuite for solo operators — it's expensive and built for enterprise teams.",
+          "options": [
+            {
+              "name": "Buffer",
+              "bestFor": "Beginners managing 1-3 clients who need simple scheduling without a steep learning curve"
+            },
+            {
+              "name": "Metricool",
+              "bestFor": "Operators with 3+ clients who need analytics, competitor tracking, and white-label PDF reports in one place"
+            },
+            {
+              "name": "Later",
+              "bestFor": "Instagram-heavy client rosters where visual grid planning and link-in-bio tools matter most"
+            }
+          ]
+        },
+        {
+          "category": "AI Content Generation",
+          "recommendation": "The raw models give you more control and better output when you write good prompts.",
+          "options": [
+            {
+              "name": "ChatGPT Plus (GPT-4o)",
+              "bestFor": "High-volume content generation, bulk caption batches, and clients who need variety across many post types"
+            },
+            {
+              "name": "Claude Pro",
+              "bestFor": "Long-form content, nuanced brand voice matching, and monthly reports that need to sound genuinely human"
+            },
+            {
+              "name": "Canva Pro",
+              "bestFor": "Creating on-brand graphics and short video content without a designer — essential if clients don't provide their own visuals"
+            }
+          ]
+        },
+        {
+          "category": "Client Management & Invoicing",
+          "recommendation": "Bonsai is the best all-in-one for solo operators — contracts, invoices, and project tracking in one place. If budget is tight, use Wave (free invoicing) plus a Google Drive folder structure for client files.",
+          "options": [
+            {
+              "name": "Bonsai",
+              "bestFor": "Operators who want contracts, proposals, invoicing, and time tracking in one tool without stitching together multiple apps"
+            },
+            {
+              "name": "Wave",
+              "bestFor": "Bootstrapped beginners who just need invoicing and basic income/expense tracking with zero monthly cost"
+            },
+            {
+              "name": "HoneyBook",
+              "bestFor": "Operators who want a polished client-facing experience with branded proposals, contracts, and automated payment reminders"
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "A scheduling tool (Buffer, Later, or Metricool)",
+            "why": "Manually posting for multiple clients does not scale past client #1 — automate this from day one"
+          },
+          {
+            "item": "Canva Pro",
+            "why": "Client-ready graphics on a real deadline need templates and brand kits, not a from-scratch design tool"
+          },
+          {
+            "item": "A content calendar template",
+            "why": "Clients want to approve a month at a time, not react to daily posts — this is the deliverable that earns trust"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "social-media-manager",
+          "why": "Sonny does the actual platform-level work alongside you — trend monitoring and engagement tracking across the accounts you manage",
+          "firstTask": "What's trending in [client's niche] this week that we could post about?"
+        },
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts caption copy so you spend your time on strategy and client relationships, not typing captions one by one",
+          "firstTask": "Write 5 caption options for this post based on the brand voice guide"
+        },
+        {
+          "personaId": "growth-hacker",
+          "why": "Gigi helps you find what is actually driving growth for a client's account, not just posting on schedule and hoping",
+          "firstTask": "Analyze this account's last 10 posts and tell me which format performed best"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Starter",
+              "deliverables": [
+                "12 posts/month across 1-2 platforms"
+              ],
+              "timeline": "3 posts/week",
+              "whatsIncluded": [
+                "Content calendar",
+                "Basic graphics (via Canva)",
+                "Scheduling"
+              ],
+              "whatsNotIncluded": [
+                "Paid ad management",
+                "Community management/DM responses",
+                "Video editing"
+              ]
+            },
+            {
+              "name": "Growth",
+              "deliverables": [
+                "20 posts/month across 3 platforms",
+                "Basic community management"
+              ],
+              "timeline": "Near-daily posting",
+              "whatsIncluded": [
+                "Content calendar",
+                "Custom graphics",
+                "Comment/DM monitoring during business hours",
+                "Monthly analytics report"
+              ]
+            },
+            {
+              "name": "Full Service",
+              "deliverables": [
+                "Daily posting across all major platforms + light ad management"
+              ],
+              "timeline": "Daily",
+              "whatsIncluded": [
+                "Everything in Growth",
+                "Basic paid boost/ad management",
+                "Influencer/UGC coordination",
+                "Weekly strategy check-in"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Client provides brand guidelines, past top-performing posts, and platform login access",
+              "owner": "client"
+            },
+            {
+              "step": "Audit existing accounts for what's working before proposing a new content strategy",
+              "owner": "you"
+            },
+            {
+              "step": "Build first month's content calendar and get sign-off before scheduling anything live",
+              "owner": "you"
+            },
+            {
+              "step": "Set up a shared approval workflow (e.g. Notion, Slack) for content review before it posts",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm target audience and 2-3 competitor accounts they admire",
+            "Align on content pillars/themes (typically 3-5 recurring content types)",
+            "Set the approval process — does every post need sign-off, or only certain types?",
+            "Clarify who responds to comments/DMs and the tone/boundaries for doing so"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I specialize in a specific industry or stay a generalist?",
+          "options": [
+            {
+              "choice": "Pick one industry niche (e.g., restaurants, real estate agents, fitness studios)",
+              "pickIf": "You have prior experience in that industry OR you've already landed your first client in that space and want to clone that success. Niching makes referrals faster and content creation easier because you reuse research.",
+              "nextStep": "Build a niche-specific case study from your first client, update your outreach to speak directly to that industry's pain points, and list yourself in niche directories or Facebook groups for that industry."
+            },
+            {
+              "choice": "Stay a generalist for now",
+              "pickIf": "You're in the first 90 days with fewer than 3 clients and don't yet know which industry is most profitable or enjoyable for you. Generalism lets you test before committing.",
+              "nextStep": "Track which client types take the least time, pay the most, and refer the most. After 3-4 clients, you'll have a clear answer about where to specialize."
+            }
+          ]
+        },
+        {
+          "question": "A client wants to add a platform (e.g., TikTok) that wasn't in the original scope. What do I do?",
+          "options": [
+            {
+              "choice": "Add it as a paid scope expansion",
+              "pickIf": "The new platform requires meaningfully different content (especially video) or more than 2 additional hours per week. TikTok and YouTube Shorts are fundamentally different workflows from static post platforms.",
+              "nextStep": "Get written approval before starting. Update the contract."
+            },
+            {
+              "choice": "Include it at no charge if it's truly minimal work",
+              "pickIf": "The platform uses the same content format (e.g., adding Facebook when you already do Instagram, and you're just cross-posting). Only do this if it takes under 30 minutes/week and you want to build goodwill with a long-term client.",
+              "nextStep": "Set a clear expectation in writing: 'I'll cross-post to Facebook at no charge — note this is repurposed content, not platform-native content.' This prevents the client from later expecting full platform management for free."
+            },
+            {
+              "choice": "Decline and explain why",
+              "pickIf": "You don't have the skills for that platform yet (e.g., video editing for TikTok) or you're already at capacity. Saying no is better than delivering bad work.",
+              "nextStep": "Be honest: 'I'm not set up to deliver quality TikTok content right now — I'd rather refer you to someone who specializes in it than do it poorly.' Clients respect this more than a bad deliverable."
+            }
+          ]
+        },
+        {
+          "question": "I have 5 clients and I'm at my time limit. Should I raise prices, hire help, or cap growth?",
+          "options": [
+            {
+              "choice": "Raise prices on new clients only",
+              "pickIf": "Your current clients are happy and you don't want to risk churn. Raise your rate for any new client by 20-30%. Over time, attrition naturally replaces lower-paying clients with higher-paying ones.",
+              "nextStep": "Update your pricing page or pitch deck immediately. Don't announce the increase to current clients — just apply it going forward."
+            },
+            {
+              "choice": "Hire a part-time VA or junior social media assistant",
+              "pickIf": "A VA can handle scheduling, basic graphic resizing, and reporting — freeing you for strategy and client relationships.",
+              "nextStep": "Start with 10 hours/week on a trial basis through Upwork or a referral. Document your workflows first — you can't delegate a process that only exists in your head."
+            },
+            {
+              "choice": "Cap at current clients and optimize for profit",
+              "pickIf": "You're earning enough and don't want the complexity of managing employees or the risk of quality drops.",
+              "nextStep": "Focus on retention: deliver exceptional monthly reports, proactively suggest new ideas, and make each client feel like your only client. A 2-year client is worth more than two 1-year clients."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Upwork",
+          "url": "https://www.upwork.com/nx/find-work/fixed-price?subcategory=531770282580668418"
+        },
+        {
+          "name": "Google Trends",
+          "url": "https://trends.google.com/trends/explore?q=social+media+manager"
+        },
+        {
+          "name": "SparkToro",
+          "url": "https://sparktoro.com"
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "social"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "ai-seo-agency",
+    "title": "AI SEO Agency",
+    "description": "Build an SEO agency using AI for programmatic content, topical authority clusters, technical audits, and keyword research at scale",
+    "difficulty": "intermediate",
+    "startupCost": "$100-$400",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "SEO Fundamentals",
+      "Content Strategy",
+      "AI Writing Tools",
+      "Data Analysis",
+      "Technical SEO"
+    ],
+    "tools": [
+      "Ahrefs",
+      "Surfer SEO",
+      "ChatGPT",
+      "Screaming Frog",
+      "Google Search Console"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 100,
+    "budgetMax": 400,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Learn programmatic SEO and AI content workflows",
+      "Build case study with your own or free client site",
+      "Create service packages (audits, content, technical)",
+      "Outreach to businesses with poor organic traffic",
+      "Scale with content clusters and reporting automation"
+    ],
+    "audience": {
+      "role": "Founder / CEO / Marketing Manager",
+      "companySize": "10-200 employees",
+      "industry": "B2B SaaS / E-commerce / Professional Services",
+      "painPoints": [
+        "Website gets minimal organic traffic despite investing in it",
+        "Competitors dominate search results for key terms",
+        "Previous SEO agency delivered no measurable results",
+        "Content production is slow and expensive"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Cold Email",
+        "LinkedIn",
+        "SEO",
+        "Content Marketing",
+        "Referrals"
+      ],
+      "launchStrategy": "Rank your own website for \"AI SEO agency\" and related terms as proof of concept, then use free SEO audits as lead magnets",
+      "firstCustomerTactics": [
+        "Send free 5-minute video SEO audits to 20 businesses with poor rankings",
+        "Write case studies showing traffic growth from AI-powered SEO",
+        "Post weekly LinkedIn content about SEO wins and AI strategies",
+        "Partner with web design agencies who dont offer SEO",
+        "Offer free 30-day trial for first 3 clients"
+      ],
+      "contentIdeas": [
+        "Programmatic SEO: how to rank for 1,000 keywords at once",
+        "Why most SEO agencies are overcharging you"
+      ]
+    },
+    "offers": [
+      {
+        "name": "SEO Audit",
+        "price": "$500-$1,000",
+        "features": [
+          "Full technical SEO audit",
+          "Keyword gap analysis",
+          "Competitor research",
+          "Priority action plan",
+          "One-time deliverable"
+        ]
+      },
+      {
+        "name": "Growth Retainer",
+        "price": "$2,000/mo",
+        "features": [
+          "8 AI-optimized articles/month",
+          "Content cluster strategy",
+          "On-page optimization",
+          "Monthly ranking reports",
+          "Link building outreach"
+        ]
+      },
+      {
+        "name": "Scale Retainer",
+        "price": "$5,000/mo",
+        "features": [
+          "20+ articles/month",
+          "Programmatic SEO pages",
+          "Technical SEO fixes",
+          "Dedicated strategist",
+          "Weekly calls + Slack access",
+          "Conversion rate optimization"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Build your SEO toolkit and create proof of concept",
+        "tasks": [
+          {
+            "title": "Master AI SEO stack",
+            "description": "Learn Ahrefs for keyword research, Surfer SEO for content optimization, ChatGPT for content generation, Screaming Frog for technical audits",
+            "estimatedHours": 10,
+            "tools": [
+              "Ahrefs",
+              "Surfer SEO",
+              "Screaming Frog",
+              "ChatGPT"
+            ],
+            "deliverable": "Tool proficiency + workflow documentation"
+          },
+          {
+            "title": "Build case study site",
+            "description": "Create or optimize a niche site using AI content strategy to demonstrate results",
+            "estimatedHours": 12,
+            "tools": [
+              "WordPress",
+              "ChatGPT",
+              "Surfer SEO"
+            ],
+            "deliverable": "Live case study site with 20+ optimized pages",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create audit template",
+            "description": "Build a comprehensive SEO audit template covering technical, on-page, and content gaps",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Docs",
+              "Screaming Frog",
+              "Ahrefs"
+            ],
+            "deliverable": "Reusable SEO audit template"
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Land first clients through free audits and outreach",
+        "tasks": [
+          {
+            "title": "Free audit campaign",
+            "description": "Record personalized 5-minute video SEO audits for 20 target businesses showing specific ranking opportunities",
+            "estimatedHours": 12,
+            "tools": [
+              "Loom",
+              "Ahrefs",
+              "Screaming Frog"
+            ],
+            "deliverable": "20 video audits sent"
+          },
+          {
+            "title": "Content marketing launch",
+            "description": "Publish 4 SEO case studies and how-to articles on your site and LinkedIn",
+            "estimatedHours": 8,
+            "tools": [
+              "ChatGPT",
+              "LinkedIn",
+              "WordPress"
+            ],
+            "deliverable": "4 published articles + LinkedIn posts",
+            "aiAssisted": true
+          },
+          {
+            "title": "Close first retainers",
+            "description": "Follow up on audits, conduct strategy calls, present proposals with projected ROI",
+            "estimatedHours": 8,
+            "tools": [
+              "Zoom",
+              "Google Slides",
+              "Calendly"
+            ],
+            "deliverable": "2-3 retainer clients signed"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "3 months",
+        "description": "Systematize delivery and grow to 6+ clients",
+        "tasks": [
+          {
+            "title": "Programmatic SEO offering",
+            "description": "Build a programmatic SEO service that generates hundreds of targeted pages using AI + templates",
+            "estimatedHours": 15,
+            "tools": [
+              "ChatGPT",
+              "Ahrefs",
+              "Google Sheets"
+            ],
+            "deliverable": "Programmatic SEO service live",
+            "aiAssisted": true
+          },
+          {
+            "title": "Automated reporting",
+            "description": "Set up automated monthly SEO reports with ranking changes, traffic growth, and content performance",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Data Studio",
+              "Search Console",
+              "Ahrefs"
+            ],
+            "deliverable": "Automated report template"
+          },
+          {
+            "title": "Partnership network",
+            "estimatedHours": 8,
+            "tools": [
+              "LinkedIn",
+              "Email",
+              "Zoom"
+            ],
+            "deliverable": "3+ agency partnerships active",
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI SEO agency for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI SEO agency — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI SEO agency and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You need a working understanding of how search engines actually rank content — not just surface-level keyword stuffing, but topical authority, internal linking logic, and technical health. AI tools like Claude, ChatGPT, or Surfer SEO can dramatically speed up content production and audits, but they won't replace your judgment on what a client's site actually needs. Expect to spend the first month learning a client's niche deeply enough to build a content cluster that makes sense, not just one that looks busy. You'll be managing client expectations, interpreting ranking data, and making editorial calls daily. If you're not comfortable telling a client their site has fundamental structural problems before you can do anything useful, this will be a rough ride.",
+      "whereTheyFail": "Most people build the agency before they understand SEO well enough to deliver results. The other failure mode is over-relying on AI output without editing for accuracy, brand voice, or topical depth. Google's helpful content systems are increasingly good at identifying thin, templated content. Clients who don't see movement in 90 days leave, and they tell people. A bad early reputation in a niche is hard to shake.",
+      "theDip": "Months two and three are the grind. You have one or two clients, you're doing a lot of work, and the rankings haven't moved yet — because SEO takes time. Clients start asking questions. You start second-guessing your strategy. This is exactly where most people either drop their prices to keep clients happy or quietly let the agency fade out. The ones who push through have a clear 90-day deliverable plan they set with the client at the start, so nobody is surprised by the lag. If you didn't set those expectations upfront, go back and reset them now rather than hoping results appear.",
+      "routine": [
+        {
+          "what": "Chief of Staff check-in — review weekly client deliverables, flag blockers, adjust priorities",
+          "when": "Mon · 30 min"
+        },
+        {
+          "what": "Client reporting & ranking review — pull rank tracking data, update dashboards, draft loom updates for each client",
+          "when": "Wed · 2h"
+        },
+        {
+          "what": "Content cluster production — brief, generate with AI, edit for accuracy and depth, schedule publishing",
+          "when": "Tue & Thu · 3h each"
+        },
+        {
+          "what": "Business development — LinkedIn post, follow up on referrals or cold outreach, one discovery call",
+          "when": "Fri · 1.5h"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Build a topical authority cluster map for a client niche",
+          "prompt": "You are an expert SEO strategist. I need a complete topical authority cluster for a client in the [NICHE] industry targeting [PRIMARY AUDIENCE] in [GEOGRAPHIC MARKET].\n\nDeliver:\n1. One pillar page topic (broad, high-volume)\n2. 8-12 cluster page topics that support the pillar (specific, long-tail)\n3. For each cluster page: target keyword, estimated search intent (informational/commercial/transactional), and one internal linking note back to the pillar\n4. 3 content gaps competitors are likely missing based on this niche\n5. Suggested publishing order (which to publish first to build authority fastest)\n\nFormat as a structured table. Be specific — no generic filler topics. Every topic must be something a real person in [NICHE] actually searches for."
+        },
+        {
+          "task": "Write an SEO-optimized article from a keyword brief",
+          "prompt": "You are a senior SEO content writer. Write a fully optimized, human-quality article using the following brief:\n\nTarget keyword: [PRIMARY KEYWORD]\nSecondary keywords: [KEYWORD 2], [KEYWORD 3], [KEYWORD 4]\nSearch intent: [informational / commercial / transactional]\nTarget word count: [1200-2000]\nAudience: [WHO THEY ARE AND WHAT THEY ALREADY KNOW]\nClient brand voice: [e.g., professional but approachable, no jargon, uses contractions]\nCompetitors to outperform: [URL 1], [URL 2]\n\nRequirements:\n- Open with a hook that addresses the reader's core pain point in 2 sentences\n- Use H2s and H3s that include secondary keywords naturally\n- Include one FAQ section (4-5 questions) using PAA-style questions real searchers ask\n- Add a clear CTA at the end relevant to the client's service\n- Do NOT use: 'delve', 'unleash', 'game-changer', 'in today's fast-paced world', or any AI-sounding filler phrases\n- Write like a knowledgeable human who has actually worked in this industry\n\nAfter the article, list the exact meta title (under 60 chars) and meta description (under 155 chars)."
+        },
+        {
+          "task": "Generate a technical SEO audit report from a crawl export",
+          "prompt": "I'm going to paste a CSV export from a site crawl tool (Screaming Frog or Sitebulb). Analyze it and produce a prioritized technical SEO audit report.\n\n[PASTE CSV DATA OR KEY COLUMNS HERE]\n\nOrganize findings into three tiers:\n\nTIER 1 — Fix immediately (hurting rankings now):\n- Issue name\n- Number of affected URLs\n- Why it matters\n- Exact fix instructions\n\nTIER 2 — Fix this month (limiting growth):\n- Same format\n\nTIER 3 — Fix when bandwidth allows (nice-to-have):\n- Same format\n\nAlso provide:\n- A one-paragraph executive summary I can paste into a client email\n- A rough time estimate to fix each Tier 1 issue\n- Any quick wins (fixes under 30 minutes that have outsized impact)\n\nBe direct. Don't pad the report. If a site has 3 real issues, say 3. Don't invent problems."
+        },
+        {
+          "task": "Create a cold outreach email sequence for AI SEO agency prospecting",
+          "prompt": "Write a 3-email cold outreach sequence for my AI SEO agency targeting [TARGET CLIENT TYPE, e.g., SaaS companies with 10-50 employees, local service businesses, e-commerce stores under $5M revenue].\n\nContext about my agency:\n- I use AI-assisted content production to deliver SEO results faster than traditional agencies\n- Average client sees [X]% traffic increase in [Y] months\n- My starting retainer is $[PRICE]/month\n- I specialize in [NICHE or INDUSTRY]\n\nFor each email:\n- Subject line (A/B test variant included)\n- Email body (under 150 words — short is better for cold outreach)\n- Specific personalization placeholder I should fill in before sending\n- Send timing (e.g., Day 1, Day 4, Day 9)\n\nTone: Direct, no flattery, no 'I hope this email finds you well', no fake urgency. Sound like a competent peer reaching out, not a salesperson. The goal of email 1 is one reply, not a sale.\n\nAlso write a LinkedIn connection request message (under 300 characters) for the same prospect."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Taking on clients in niches you don't understand",
+          "why": "AI content tools produce plausible-sounding text in any niche, but plausible isn't accurate. Medical, legal, financial, and highly technical niches require factual accuracy that AI alone can't guarantee. Clients in these spaces will catch errors, lose trust, and churn fast — sometimes after threatening legal action for published misinformation.",
+          "prevention": "Pick 1-2 niches you already have knowledge in or can research deeply. Build your first 3 case studies in those niches only. Expand to new verticals only after you have a human subject-matter expert (SME) review process in place."
+        },
+        {
+          "mistake": "Promising ranking results on a fixed timeline",
+          "why": "SEO timelines depend on domain authority, competition level, Google's crawl schedule, and algorithm updates — none of which you control. Operators who promise 'page 1 in 90 days' either get lucky or face angry clients and chargebacks when it doesn't happen.",
+          "prevention": "Promise inputs, not outputs. Contracts should specify deliverables (articles published, audits completed, backlinks built) not ranking positions. Set expectations in the sales call: 'Most clients see measurable traffic movement in 3-6 months. Rankings take longer. Here's what we'll deliver each month regardless.'"
+        },
+        {
+          "mistake": "Publishing AI content without editing and fact-checking",
+          "why": "Raw AI output contains hallucinated statistics, outdated information, and detectable AI patterns. Google's Helpful Content system and manual reviewers penalize thin, AI-generated content. Clients publishing this content can see rankings drop, not rise. One viral Twitter thread calling out your client's AI content can end the relationship.",
+          "prevention": "Build a non-negotiable editorial process: AI drafts → human edit (especially intro, stats, examples) → fact-check all cited data → AI detection scan → publish. Budget 45-90 minutes of human editing per 1,500-word article. This is your real cost of goods."
+        },
+        {
+          "mistake": "Underpricing retainers to win clients",
+          "why": "Operators who underprice either burn out, cut corners, or both. Underpriced clients also tend to be the most demanding.",
+          "prevention": "Calculate your true cost per client before pricing. Walk away from clients who won't pay it."
+        },
+        {
+          "mistake": "Ignoring client reporting until they ask for it",
+          "why": "SEO results are invisible to clients who don't know what to look for. A client who doesn't see monthly proof of progress assumes nothing is happening and cancels. Silence between deliverables breeds doubt, even when the work is excellent.",
+          "prevention": "Send a short monthly report on a fixed date — even if results are early-stage. Include: keywords moving up, pages indexed, traffic trend (even if small), and what's planned next month. Use a template. 30 minutes per client per month is enough. Proactive communication is your retention strategy."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "SEO Research & Auditing",
+          "recommendation": "Ahrefs is the strongest all-in-one for keyword research, competitor analysis, and backlink auditing. Semrush is a close second with stronger technical audit features.",
+          "options": [
+            {
+              "name": "Ahrefs",
+              "bestFor": "Keyword research, competitor gap analysis, and backlink monitoring for client sites"
+            },
+            {
+              "name": "Semrush",
+              "bestFor": "Technical site audits, position tracking, and PPC competitive data alongside SEO"
+            },
+            {
+              "name": "Screaming Frog SEO Spider",
+              "bestFor": "Deep technical crawls of client sites — essential for audit deliverables, pairs with either above"
+            }
+          ]
+        },
+        {
+          "category": "AI Writing & Content Production",
+          "recommendation": "Use Claude or ChatGPT directly via subscription for content drafts — they outperform purpose-built 'SEO AI writers' at a fraction of the cost. Avoid tools that promise 'one-click SEO articles' — the output quality rarely clears the bar for client work without heavy editing anyway.",
+          "options": [
+            {
+              "name": "Claude (Anthropic)",
+              "bestFor": "Long-form content drafts, technical writing, and audit report summaries with less AI-sounding output"
+            },
+            {
+              "name": "ChatGPT (OpenAI)",
+              "bestFor": "Keyword clustering, content briefs, meta descriptions, and structured data generation via plugins"
+            },
+            {
+              "name": "Surfer SEO",
+              "bestFor": "On-page optimization scoring and NLP keyword recommendations when editing AI drafts for SEO alignment"
+            }
+          ]
+        },
+        {
+          "category": "Client Reporting & Project Management",
+          "recommendation": "Google Looker Studio (free) connected to Google Search Console and GA4 handles client reporting for most operators. Add a project management tool to track deliverables per client — Notion or ClickUp both work. Don't pay for expensive white-label reporting tools until you have 5+ clients.",
+          "options": [
+            {
+              "name": "Google Looker Studio",
+              "bestFor": "Automated monthly SEO dashboards pulling directly from Search Console and Analytics — clients can view live"
+            },
+            {
+              "name": "Notion",
+              "bestFor": "Client wikis, content calendars, SOPs, and deliverable tracking in one workspace"
+            },
+            {
+              "name": "AgencyAnalytics",
+              "bestFor": "White-label reporting dashboards when clients expect polished branded reports and you have 4+ clients"
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Ahrefs or Semrush",
+            "why": "Real competitor/keyword-gap analysis needs a paid tool — free tools cap out too early for client-grade audits"
+          },
+          {
+            "item": "Screaming Frog",
+            "why": "Technical crawl audits are a core part of the audit package"
+          },
+          {
+            "item": "Google Search Console + Analytics access per client",
+            "why": "You cannot report real ranking/traffic movement without this"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie does the actual keyword research and technical audit work alongside you",
+          "firstTask": "Run a keyword gap analysis for this client against their top 3 competitors"
+        },
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts the AI-assisted articles your retainer package promises — 4-8/month adds up fast without help",
+          "firstTask": "Draft a blog post outline targeting this keyword cluster"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "SEO Audit",
+              "deliverables": [
+                "Technical audit (crawl errors, site speed, indexation)",
+                "Keyword gap analysis vs. top 3 competitors",
+                "Prioritized fix list"
+              ],
+              "timeline": "1 week",
+              "whatsIncluded": [
+                "Screaming Frog crawl",
+                "Ahrefs competitor gap report",
+                "30-min walkthrough call"
+              ]
+            },
+            {
+              "name": "Monthly SEO Retainer",
+              "deliverables": [
+                "4-8 AI-assisted, human-edited articles/month",
+                "Ongoing technical fixes",
+                "Monthly rankings + traffic report"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Topical cluster content plan",
+                "On-page optimization",
+                "Internal linking pass each month"
+              ],
+              "whatsNotIncluded": [
+                "Link building (offered as an add-on)"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Grant Google Search Console + Analytics access",
+              "owner": "client"
+            },
+            {
+              "step": "Run baseline technical audit",
+              "owner": "you"
+            },
+            {
+              "step": "Approve topical cluster / content plan",
+              "owner": "client"
+            },
+            {
+              "step": "Publish first 2 pieces and confirm indexing",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Review baseline traffic/rankings and set realistic 90-day expectations",
+            "Confirm target keyword clusters and priority pages",
+            "Set reporting cadence and what counts as a win",
+            "Confirm access to CMS, GSC, and Analytics"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I charge per project or a monthly retainer?",
+          "options": [
+            {
+              "choice": "Monthly retainer",
+              "pickIf": "The client needs ongoing content production, rank tracking, and technical maintenance — which is most SEO clients. SEO is not a one-time fix.",
+              "nextStep": "Use a 3-month minimum contract to protect your time investment in onboarding."
+            },
+            {
+              "choice": "One-time project",
+              "pickIf": "Client needs a specific deliverable: a technical audit, a keyword strategy document, or a content cluster map. Good for getting a foot in the door with skeptical clients.",
+              "nextStep": "Deliver the report, then pitch the retainer to implement the fixes. Project work is a sales tool, not a business model."
+            },
+            {
+              "choice": "Productized package",
+              "pickIf": "You want to scale without custom scoping every client.",
+              "nextStep": "Build the package around what you can deliver consistently with your current tools and time. Productized offers are easier to sell, easier to fulfill, and easier to hand off to contractors."
+            }
+          ]
+        },
+        {
+          "question": "A potential client asks me to guarantee first-page rankings. How do I respond?",
+          "options": [
+            {
+              "choice": "Decline the guarantee and explain why",
+              "pickIf": "The client seems reasonable and is asking out of inexperience rather than bad faith. Most clients just want reassurance they won't waste money.",
+              "nextStep": "Say: 'No ethical SEO agency can guarantee rankings — Google controls that. What I can guarantee is the work: X articles per month, monthly audits, and transparent reporting. Most clients in your niche see meaningful traffic growth in 4-6 months. If that timeline doesn't work for you, I'm not the right fit.' Then let them decide."
+            },
+            {
+              "choice": "Walk away from the client",
+              "pickIf": "The client insists on a written ranking guarantee after you've explained why it's not possible. This signals they'll dispute invoices the moment results don't match an unrealistic expectation.",
+              "nextStep": "Politely decline. Say you're not able to take on clients where guarantees are required because it wouldn't be honest. Refer them elsewhere. Protect your time."
+            }
+          ]
+        },
+        {
+          "question": "Should I niche down to one industry or stay generalist?",
+          "options": [
+            {
+              "choice": "Niche down to one industry",
+              "pickIf": "You have existing knowledge in a specific vertical (e.g., you worked in healthcare, SaaS, real estate, home services). Niche agencies command higher rates and close faster because clients believe you understand their business.",
+              "nextStep": "Build 2-3 case studies in that niche first. Create content marketing and outreach specifically for that vertical."
+            },
+            {
+              "choice": "Stay generalist temporarily",
+              "pickIf": "You're in the first 60 days and need any paying client to validate your process. Take what comes while you identify which niche produces the best results and clients for you.",
+              "nextStep": "Track which client types are easiest to get results for and most enjoyable to work with. After 3-4 clients, deliberately move toward that niche in your outreach and positioning."
+            },
+            {
+              "choice": "Niche by business type rather than industry",
+              "pickIf": "You don't have industry expertise but do understand a specific business model — e.g., local service businesses, e-commerce stores, or B2B SaaS. Business model niching is almost as effective as industry niching.",
+              "nextStep": "Position around the business model: 'I help local service businesses rank for high-intent keywords in their city.' Build case studies within that model across different industries."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Ahrefs Keyword Explorer",
+          "url": "https://ahrefs.com/keyword-explorer"
+        },
+        {
+          "name": "Google Keyword Planner",
+          "url": "https://ads.google.com/home/tools/keyword-planner"
+        },
+        {
+          "name": "SparkToro",
+          "url": "https://sparktoro.com"
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "independent"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "ai-sales-outreach",
+    "title": "AI Lead Generation Specialist",
+    "description": "Get businesses more qualified leads — prospect lists, ICP definition, personalized outreach, and appointment-setting — using Clay, AI enrichment, and smart sequencing. A concrete, results-based pitch rather than \"sales agency.\"",
+    "difficulty": "intermediate",
+    "startupCost": "$200-$600",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Cold Email Strategy",
+      "B2B Sales",
+      "AI Personalization",
+      "Data Enrichment",
+      "Copywriting"
+    ],
+    "tools": [
+      "Clay",
+      "Instantly",
+      "Apollo.io",
+      "ChatGPT",
+      "Smartlead"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 200,
+    "budgetMax": 600,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Master Clay data enrichment and AI personalization",
+      "Set up email infrastructure (domains, warmup, deliverability)",
+      "Build outreach playbooks for 2-3 industries",
+      "Land first clients through your own outbound campaigns",
+      "Scale with performance-based pricing and case studies"
+    ],
+    "audience": {
+      "role": "CEO / VP Sales / Head of Growth",
+      "companySize": "10-100 employees",
+      "industry": "B2B SaaS / Professional Services / Agencies",
+      "painPoints": [
+        "Cold email campaigns get low response rates",
+        "Not enough pipeline to hit revenue targets",
+        "Outreach feels generic and gets ignored",
+        "Spending too much on paid ads with poor unit economics"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Cold Email",
+        "LinkedIn",
+        "Twitter/X",
+        "Communities",
+        "Referrals"
+      ],
+      "launchStrategy": "Use your own AI outreach system to prospect for clients — your results become your case study. \"We booked this meeting with you using the same system we'll run for you.\"",
+      "firstCustomerTactics": [
+        "Run your own cold email campaign targeting B2B SaaS founders (eat your own cooking)",
+        "Post Clay workflow breakdowns on Twitter/X and LinkedIn daily",
+        "Join B2B sales communities (RevGenius, Sales Hacker) and share insights",
+        "Partner with CRM consultants and sales coaches for referrals"
+      ],
+      "contentIdeas": [
+        "How we book 40 meetings/month with AI-personalized cold email",
+        "Clay workflow: from LinkedIn URL to hyper-personalized email in 30 seconds",
+        "Why generic cold email is dead (and what to do instead)",
+        "The email infrastructure stack that gets 60%+ open rates"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Starter",
+        "price": "$2,000/mo",
+        "features": [
+          "1,000 personalized emails/month",
+          "AI-enriched prospect lists",
+          "3-step email sequence",
+          "Basic reporting",
+          "Email infrastructure setup"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$5,000/mo",
+        "features": [
+          "3,000 personalized emails/month",
+          "Multi-channel (email + LinkedIn)",
+          "A/B tested sequences",
+          "Weekly reporting + strategy calls",
+          "CRM integration",
+          "Meeting booking support"
+        ]
+      },
+      {
+        "name": "Performance",
+        "price": "$3,000/mo + $200/meeting",
+        "features": [
+          "5,000+ emails/month",
+          "Full Clay enrichment pipeline",
+          "Dedicated campaign manager",
+          "Real-time Slack reporting",
+          "Pay-per-meeting component",
+          "Quarterly strategy reviews"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Build email infrastructure and master Clay workflows",
+        "tasks": [
+          {
+            "title": "Email infrastructure setup",
+            "description": "Purchase 3+ domains, set up SPF/DKIM/DMARC, create mailboxes, start warmup with Instantly",
+            "estimatedHours": 6,
+            "tools": [
+              "Instantly",
+              "Google Workspace",
+              "Cloudflare"
+            ],
+            "deliverable": "3+ warmed domains ready for sending"
+          },
+          {
+            "title": "Master Clay enrichment",
+            "description": "Build multi-step Clay tables: find prospects, enrich with company data, generate personalized first lines using AI",
+            "estimatedHours": 8,
+            "tools": [
+              "Clay",
+              "ChatGPT",
+              "LinkedIn"
+            ],
+            "deliverable": "Reusable Clay enrichment workflow",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create email sequences",
+            "description": "Write 3 proven cold email sequences (SaaS, agency, professional services) with personalization variables",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Instantly",
+              "Google Docs"
+            ],
+            "deliverable": "3 email sequence templates",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Run your own outbound campaign and sign first clients",
+        "tasks": [
+          {
+            "title": "Self-prospecting campaign",
+            "description": "Use your own system to outreach to 500 B2B SaaS founders — your results become your proof",
+            "estimatedHours": 10,
+            "tools": [
+              "Clay",
+              "Instantly",
+              "Apollo.io"
+            ],
+            "deliverable": "500 personalized emails sent, 10+ meetings booked",
+            "aiAssisted": true
+          },
+          {
+            "title": "Case study creation",
+            "description": "Document your own campaign results: open rates, reply rates, meetings booked, cost per meeting",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Docs",
+              "Canva",
+              "Loom"
+            ],
+            "deliverable": "Published case study with real metrics"
+          },
+          {
+            "title": "Close first clients",
+            "description": "Convert booked meetings into retainer clients with performance projections",
+            "estimatedHours": 8,
+            "tools": [
+              "Zoom",
+              "Google Slides",
+              "Calendly"
+            ],
+            "deliverable": "2 retainer clients signed"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Expand to multi-channel and grow client roster",
+        "tasks": [
+          {
+            "title": "Add LinkedIn automation",
+            "description": "Layer LinkedIn connection requests and messages into email sequences for multi-channel outreach",
+            "estimatedHours": 8,
+            "tools": [
+              "LinkedIn",
+              "Expandi",
+              "Clay"
+            ],
+            "deliverable": "Multi-channel playbook active for all clients"
+          },
+          {
+            "title": "Build reporting dashboard",
+            "description": "Create real-time campaign dashboards showing sends, opens, replies, meetings, and pipeline value",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "Instantly",
+              "Notion"
+            ],
+            "deliverable": "Automated reporting dashboard"
+          },
+          {
+            "title": "Referral and expansion",
+            "estimatedHours": 5,
+            "tools": [
+              "Email",
+              "Zoom",
+              "Notion"
+            ],
+            "deliverable": "Referral program + 2 case studies published",
+            "description": "Define a small, measurable version of this task. Use your own customer evidence and actual costs to decide what to do next."
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI sales outreach agency for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI sales outreach agency — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI sales outreach agency and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You're building a small agency that books sales meetings for B2B companies using cold email infrastructure, AI-powered personalization, and data enrichment tools like Clay. The actual work is less glamorous than the Twitter threads make it sound: you're pulling lead lists, writing and testing email copy, debugging deliverability issues, and reporting results to clients who are paying you to fill their calendar. The AI handles enrichment and personalization at scale — but you still have to think clearly about who the right prospect is, what they actually care about, and why your client's offer is worth a reply. If you can't answer those questions, no tool will save you. You'll need a working grasp of email infrastructure (domains, warming, SPF/DKIM), a nose for copy that doesn't sound like a robot wrote it, and enough B2B sales intuition to know a qualified lead from a time-waster. Clients will expect weekly reporting, fast responses when a campaign underperforms, and honest conversations when the numbers aren't there. This is a service business — your reputation is built one client result at a time.",
+      "whereTheyFail": "Most people fail at the client acquisition step before they ever get to prove their skills. They spend weeks perfecting their Clay workflows and never send a single cold email to a potential client. The second failure point is taking any client who'll pay — a mismatch between your client's offer and the market makes your campaigns look bad even when your execution is solid. Third: deliverability. Skipping proper domain warming and DNS setup tanks open rates, and new operators often don't catch it until a client is already frustrated. Finally, people underestimate how much client communication this work requires. Silent operators who only show up with a monthly report lose clients fast, even when the numbers are decent.",
+      "theDip": "Weeks three through eight are where this gets hard. You've got your infrastructure set up, you're running campaigns, and the results are… underwhelming. Reply rates are low, your client is asking questions you don't have great answers to, and you're second-guessing every line of copy. This is normal, and most people quit here or start chasing a different tool instead of doing the unglamorous work of testing one variable at a time. The operators who get through this dip are the ones who treat it like a diagnostic puzzle — they look at open rates vs. reply rates, they rewrite the first line, they check if the list quality is the actual problem. Results usually start clicking somewhere between weeks six and twelve, but only if you stay methodical instead of reactive.",
+      "routine": [
+        {
+          "what": "Campaign performance review — check open, reply, and bounce rates across all active client sequences; flag anything that needs a copy or list adjustment",
+          "when": "Mon · 1.5h"
+        },
+        {
+          "what": "Lead list building and Clay enrichment — pull new prospects, run enrichment workflows, QA personalization output before it goes into sequences",
+          "when": "Wed · 2h"
+        },
+        {
+          "what": "Client reporting and async update — send each client a plain-English summary of what ran, what the numbers say, and what you're changing next week",
+          "when": "Fri · 1h"
+        },
+        {
+          "what": "Chief of Staff check-in — review what's working across client accounts, pressure-test one assumption about your positioning or pricing, and flag anything that's quietly drifting",
+          "when": "Daily · 15min"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Write a hyper-personalized cold email sequence for a B2B prospect",
+          "prompt": "I run a cold email outreach agency. I need you to write a 3-step cold email sequence for the following prospect.\n\nProspect details:\n- Company: [COMPANY NAME]\n- Industry: [INDUSTRY]\n- Role of contact: [JOB TITLE]\n- Recent trigger/news: [E.G. 'just raised Series A' / 'posted a job for 3 SDRs' / 'launched a new product']\n- My client's offer: [WHAT MY CLIENT SELLS — be specific, e.g. 'fractional CFO services for SaaS companies with $1M-$5M ARR']\n- Desired outcome: Book a 20-minute discovery call\n\nRules:\n- Email 1: Ultra-specific opener referencing the trigger above. No fluff. 3-4 sentences max. One soft CTA.\n- Email 2 (3 days later): Add a relevant case study or social proof. 2-3 sentences. Different angle from Email 1.\n- Email 3 (5 days later): Break-up email. Honest, not passive-aggressive. One last value hook.\n- No buzzwords: no 'synergy', 'leverage', 'game-changer', 'revolutionize'\n- Subject lines: lowercase, conversational, under 8 words each\n- Write from the perspective of [MY CLIENT'S NAME/COMPANY]\n\nOutput format: Email 1 subject / body, Email 2 subject / body, Email 3 subject / body."
+        },
+        {
+          "task": "Build a Clay enrichment waterfall prompt for lead scoring",
+          "prompt": "I use Clay.com to enrich B2B lead lists for cold email campaigns. Help me design a lead scoring rubric I can implement as a formula column in Clay.\n\nTarget persona for my current client:\n- Industry: [E.G. B2B SaaS]\n- Company size: [E.G. 20-200 employees]\n- Ideal job titles: [E.G. VP of Sales, Head of Revenue, CRO]\n- Buying signals to look for: [E.G. hiring SDRs, posted content about pipeline problems, recently funded]\n- Disqualifiers: [E.G. agency, non-profit, outside North America]\n\nCreate a scoring system (0-100) that weights:\n1. Title match (0-30 points)\n2. Company size fit (0-20 points)\n3. Buying signal present (0-30 points)\n4. Disqualifier check (-50 if present)\n5. LinkedIn activity in last 30 days (0-20 points)\n\nFor each criterion, give me:\n- The exact logic/condition\n- The Clay formula syntax or plain-English description I can hand to a VA to implement\n- What API/enrichment source in Clay to pull the data from (e.g. Apollo, LinkedIn scraper, Clearbit)\n\nAlso suggest a threshold: what score = 'send now', what score = 'review manually', what score = 'skip'."
+        },
+        {
+          "task": "Write a cold email agency client proposal",
+          "prompt": "Write a concise, honest client proposal for my AI cold email outreach agency. This is NOT a sales deck — it's a working document the client will actually read.\n\nClient details:\n- Company: [CLIENT COMPANY]\n- Their offer/product: [WHAT THEY SELL]\n- Their ideal customer profile (ICP): [DESCRIBE ICP]\n- Their current outreach situation: [E.G. 'no outreach at all' / 'doing it manually, 10 emails/day' / 'tried an agency, got poor results']\n- Their goal: [E.G. '5 qualified calls/month']\n\nProposal must include:\n1. What I'll do (plain English, no jargon): list the exact deliverables — list building, enrichment, copywriting, sequencing, reporting\n2. What I won't do (honest scope boundaries)\n3. Timeline: weeks 1-2 setup, week 3 first sends, week 4 first report\n4. Pricing: [INSERT YOUR PRICING — e.g. $3,500/month retainer + $500 setup fee]\n5. What I need from them (ICP brief, domain, case studies, calendar link)\n6. How we measure success (reply rate, positive reply rate, meetings booked)\n7. A single honest disclaimer: cold email results vary; I optimize for quality signals, not vanity metrics\n\nTone: direct, confident, no fluff. Write like a trusted operator, not a salesperson."
+        },
+        {
+          "task": "Diagnose a cold email campaign that isn't getting replies",
+          "prompt": "I run a cold email outreach agency and one of my campaigns is underperforming. Help me diagnose the problem systematically.\n\nCampaign stats:\n- Emails sent: [NUMBER]\n- Open rate: [%]\n- Reply rate: [%]\n- Positive reply rate: [%]\n- Bounce rate: [%]\n- Sequence tool used: [E.G. Instantly, Smartlead]\n- Sending volume per inbox per day: [NUMBER]\n- Number of sending domains/inboxes: [NUMBER]\n- Days since campaign launched: [NUMBER]\n- Target ICP: [DESCRIBE]\n- Email 1 subject line: [PASTE IT]\n- Email 1 body: [PASTE IT]\n\nDiagnose the most likely problem by walking through this checklist:\n1. Deliverability (bounce rate, spam placement, domain age, SPF/DKIM/DMARC)\n2. List quality (are we hitting real people in the right role?)\n3. Subject line (is it getting opens?)\n4. Email body (is the opener relevant? Is the CTA too heavy?)\n5. Offer clarity (would the reader immediately understand what's being offered and why it matters to them?)\n6. Timing/volume (are we burning domains?)\n\nFor each issue you identify, give me: the likely cause, one specific fix I can implement this week, and what metric to watch to confirm it worked.\n\nBe direct. Tell me the most likely culprit first."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Burning new sending domains too fast",
+          "why": "Sending high volume from a fresh domain (less than 3-4 weeks old with no warm-up) triggers spam filters at Gmail and Outlook. Once a domain lands in spam, recovery is slow and often incomplete. Clients see zero opens, blame you, and churn.",
+          "prevention": "Buy domains at least 4 weeks before any campaign. Use a tool like Instantly or Smartlead's built-in warm-up for 2-3 weeks. Start at 20-30 emails/day per inbox and ramp over 2 weeks. Use aged domains from marketplaces if you need to move faster. Never share a domain across two clients."
+        },
+        {
+          "mistake": "Taking clients without a clear, validated ICP",
+          "why": "When a client says 'we sell to everyone' or can't name three specific companies they've closed, your list-building and personalization have no anchor. You'll build a generic list, write generic emails, and get generic (zero) results. You own the blame even though the offer is the problem.",
+          "prevention": "Before signing any client, run a 30-minute ICP interview. Require them to name: the job title who signs the check, 3 companies they've already closed, and the specific pain those companies had. If they can't answer, don't take the engagement or charge a discovery fee to define the ICP first."
+        },
+        {
+          "mistake": "Confusing activity metrics with results and reporting them to clients",
+          "why": "Reporting 'we sent 3,000 emails this month' as a win when zero meetings were booked destroys trust fast. Clients hired you for pipeline, not volume. Vanity metrics buy you one month; then they cancel.",
+          "prevention": "Set up a simple reporting dashboard (even a Google Sheet) that tracks: emails sent, open rate, reply rate, positive reply rate, and meetings booked. Report weekly. Frame every number against the goal (meetings booked). If results are below target, report it honestly with your diagnosis and next action — don't hide it."
+        },
+        {
+          "mistake": "Skipping email authentication (SPF, DKIM, DMARC) on client domains",
+          "why": "Google and Microsoft now require proper authentication for bulk senders. Without it, emails go straight to spam or are rejected outright. This is a technical step most first-time operators skip because it's invisible until it's catastrophically wrong.",
+          "prevention": "Make domain authentication setup a mandatory step in your client onboarding checklist — before any warm-up begins. Use MXToolbox to verify SPF, DKIM, and DMARC are correctly configured. Add a DMARC policy of at least p=none with a monitoring email. Check deliverability with GlockApps or Mail-Tester before going live."
+        },
+        {
+          "mistake": "Over-promising meeting volume in the sales process",
+          "why": "Operators desperate for clients promise '20 meetings a month' without knowing the client's offer quality, ICP clarity, or market saturation. Cold email reply rates in most B2B niches run 1-5%. The math rarely supports big meeting guarantees, and when you miss, you're liable.",
+          "prevention": "Quote a range based on realistic benchmarks: 'For a list of 1,000 qualified prospects, expect 10-50 replies and 3-15 positive replies in the first month, depending on offer strength and ICP fit.' Use 'meetings booked' as a lagging indicator you optimize toward, not a guarantee. Put this language in your contract."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Cold Email Sequencing & Inbox Management",
+          "recommendation": "Smartlead for operators managing 3+ clients with multiple inboxes — better inbox rotation and client sub-account management. Instantly is fine for 1-2 clients starting out. Both are real tools used by active agencies in this niche.",
+          "options": [
+            {
+              "name": "Instantly",
+              "bestFor": "Solo operators starting out; clean UI, solid warm-up, unlimited email accounts on paid plans"
+            },
+            {
+              "name": "Smartlead",
+              "bestFor": "Agencies managing multiple clients; better sub-account structure and inbox rotation logic"
+            },
+            {
+              "name": "Lemlist",
+              "bestFor": "Campaigns that include LinkedIn steps or video personalization alongside email"
+            }
+          ]
+        },
+        {
+          "category": "Data Enrichment & List Building",
+          "recommendation": "Clay is the core tool for this hustle — it's what separates AI outreach agencies from basic cold email shops. Pair with Apollo for bulk contact data at a lower cost per record.",
+          "options": [
+            {
+              "name": "Clay",
+              "bestFor": "AI-powered enrichment waterfalls, personalization at scale, and connecting 50+ data sources in one workflow"
+            },
+            {
+              "name": "Apollo.io",
+              "bestFor": "Bulk contact and company data at low cost per record; use as a data source inside Clay or standalone for simpler campaigns"
+            },
+            {
+              "name": "PhantomBuster",
+              "bestFor": "Scraping LinkedIn data (Sales Navigator exports, post engagers) to feed into Clay workflows"
+            }
+          ]
+        },
+        {
+          "category": "Deliverability Monitoring & Domain Health",
+          "recommendation": "GlockApps for pre-send spam testing — run every campaign before launch. Use MXToolbox (free) for authentication checks. Don't skip this category; deliverability is the invisible variable that kills campaigns operators think are well-written.",
+          "options": [
+            {
+              "name": "GlockApps",
+              "bestFor": "Pre-send inbox placement testing across Gmail, Outlook, and Yahoo; shows exactly where your email lands"
+            },
+            {
+              "name": "MXToolbox",
+              "bestFor": "Verifying SPF, DKIM, DMARC setup and checking if your sending domains are on blacklists"
+            },
+            {
+              "name": "Mail-Tester",
+              "bestFor": "Quick spam score check before launching a new campaign or testing a new domain"
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Clay (or similar enrichment tool)",
+            "why": "This is the actual product — hyper-personalized outreach depends on real enrichment data"
+          },
+          {
+            "item": "Dedicated sending domains + warmup tool (Instantly or Smartlead)",
+            "why": "Cold email deliverability requires separate, warmed domains from day one"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps you refine ICP definition and sequence strategy for each client's specific market",
+          "firstTask": "Help me define the ICP for this client based on their best current customers"
+        },
+        {
+          "personaId": "content-writer",
+          "why": "Chloe drafts personalized email copy variations for A/B testing sequences",
+          "firstTask": "Write 3 opening-line variations for this cold email sequence"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Campaign Launch",
+              "deliverables": [
+                "1 ICP + list build (500-1000 enriched contacts)",
+                "3-step email sequence",
+                "Domain warmup + deliverability setup"
+              ],
+              "timeline": "2-3 weeks",
+              "whatsIncluded": [
+                "Clay enrichment workflow",
+                "Personalization variables per contact",
+                "Inbox rotation setup"
+              ],
+              "whatsNotIncluded": [
+                "Meeting-taking/closing (client handles booked calls)"
+              ]
+            },
+            {
+              "name": "Monthly Outreach Retainer",
+              "deliverables": [
+                "Ongoing list building",
+                "A/B tested sequences",
+                "Weekly reply/booking report"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Sequence optimization",
+                "Deliverability monitoring",
+                "Booked-meeting tracking dashboard"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Define ICP (industry, title, company size, signals)",
+              "owner": "client"
+            },
+            {
+              "step": "Collect case studies / proof points to reference in copy",
+              "owner": "client"
+            },
+            {
+              "step": "Set up dedicated sending domains + warmup",
+              "owner": "you"
+            },
+            {
+              "step": "Build and QA first list + sequence",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm ICP and any excluded companies/competitors",
+            "Review proof points and objection-handling for the sequence",
+            "Set the definition of a qualified meeting and reporting cadence",
+            "Confirm CRM/calendar integration for booked meetings"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I charge a flat monthly retainer or performance-based pricing (pay-per-meeting)?",
+          "options": [
+            {
+              "choice": "Flat monthly retainer",
+              "pickIf": "You're starting out, your client's offer or ICP isn't fully validated yet, or you want predictable income.",
+              "nextStep": "Put a 30-day cancellation clause in the contract."
+            },
+            {
+              "choice": "Pay-per-meeting booked",
+              "pickIf": "This model has higher upside but higher risk.",
+              "nextStep": "Define 'qualified meeting' precisely in the contract (attended call, right job title, right company size). Set a monthly minimum to cover your costs. This model works best as an upsell for existing retainer clients once you've proven results."
+            },
+            {
+              "choice": "Hybrid (retainer + bonus per meeting)",
+              "pickIf": "Client is skeptical of retainer-only and wants skin in the game from you, but you also need cost coverage.",
+              "nextStep": "Cap the bonus at a reasonable ceiling so a great month doesn't create billing surprises for the client. Track meetings in a shared doc the client can see in real time."
+            }
+          ]
+        },
+        {
+          "question": "A potential client wants results in 2 weeks. How do you handle it?",
+          "options": [
+            {
+              "choice": "Set honest expectations and take the client",
+              "pickIf": "They understand that week 1-2 is setup and warm-up, and they're measuring success at the 30-60 day mark. Get this in writing.",
+              "nextStep": "Use aged domains (buy from a domain marketplace) to skip the 2-3 week cold warm-up period. Start warm-up immediately on day 1. Begin list building and copy in parallel so you're ready to send the moment domains are warm."
+            },
+            {
+              "choice": "Push back and reset the timeline",
+              "pickIf": "They're expecting meetings booked in 14 days and won't budge. This is a red flag client — they don't understand the channel and will blame you for the infrastructure reality.",
+              "nextStep": "Explain the warm-up requirement plainly. If they still push, decline the engagement or charge a premium rush fee that covers the risk of using shortcuts (higher volume, faster ramp) that may hurt deliverability."
+            },
+            {
+              "choice": "Decline the engagement",
+              "pickIf": "They've already had a bad experience with another agency, expect guarantees, and are hostile about the timeline. The energy cost of managing an unrealistic client will tank your other accounts.",
+              "nextStep": "Refer them to someone else or suggest they try LinkedIn outreach (faster to start) while you set up email infrastructure properly. Protect your bandwidth for clients who will become case studies."
+            }
+          ]
+        },
+        {
+          "question": "You've maxed out at 4-5 clients solo. Should you hire or cap growth?",
+          "options": [
+            {
+              "choice": "Hire a part-time VA for list building and reporting",
+              "pickIf": "You're spending more than 8 hours/week on Clay workflows, list cleaning, and weekly report formatting — tasks that don't require your strategic judgment.",
+              "nextStep": "Build SOPs in Loom videos before handing off. This frees you to take 2-3 more clients."
+            },
+            {
+              "choice": "Raise prices and stay lean",
+              "pickIf": "You don't want management overhead and your current clients are sticky.",
+              "nextStep": "Focus on one niche (e.g., only SaaS, only logistics) so your playbooks compound and your results get better with each client."
+            },
+            {
+              "choice": "Build a productized service and add an account manager",
+              "pickIf": "This shifts you from operator to agency owner.",
+              "nextStep": "Hire a part-time account manager to own client communication and reporting. You own strategy and new client sales. Standardize everything into SOPs. Budget 3-6 months for the transition to feel smooth."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Reddit (r/coldemail, r/Emailmarketing, r/b2bmarketing)",
+          "url": "https://www.reddit.com/r/coldemail/"
+        },
+        {
+          "name": "Apollo.io",
+          "url": "https://www.apollo.io"
+        },
+        {
+          "name": "Clay Community (Slack)",
+          "url": "https://clay.com/community"
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "social"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "ai-crm-followup-specialist",
+    "title": "AI CRM & Follow-Up Specialist",
+    "description": "Stop businesses from losing leads they already paid for — CRM cleanup, automated follow-up sequences, missed-call recovery, and lead reactivation. A concrete revenue-recovery pitch, not another \"more leads\" agency.",
+    "difficulty": "intermediate",
+    "startupCost": "$0-$200",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "CRM Platforms",
+      "Automation Building",
+      "Sales Process",
+      "Client Communication"
+    ],
+    "tools": [
+      "HubSpot",
+      "GoHighLevel",
+      "Zapier"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 0,
+    "budgetMax": 200,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Pick one CRM/automation platform to specialize in",
+      "Build a lead-leakage audit process",
+      "Offer 2-3 free lead-leakage audits",
+      "Build your first automated follow-up system"
+    ],
+    "audience": {
+      "role": "Small business owner or sales lead with an active CRM but weak follow-up",
+      "industry": "Real estate, home services, local B2B sales",
+      "painPoints": [
+        "Pays for leads (ads, referrals) but loses many to slow or missing follow-up",
+        "CRM exists but is disorganized — leads sit in the wrong stage or get forgotten",
+        "No systematic reactivation of old, cold leads that could still convert"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "LinkedIn",
+        "Local Networking",
+        "Referrals",
+        "Cold Email"
+      ],
+      "launchStrategy": "Target small businesses with an active but under-optimized CRM (real estate, home services, local sales teams) — offer a free lead-leakage audit as the door-opener, since most businesses have never quantified how many leads go cold.",
+      "firstCustomerTactics": [
+        "Offer a free \"lead leakage audit\" — pull their CRM data and show them exactly how many leads went cold with no follow-up",
+        "Partner with a CRM consultant, real estate coach, or sales trainer who sees this gap in their clients",
+        "Cold-email local businesses with a specific, quantified pitch: \"how many leads did you lose to follow-up gaps last month?\""
+      ],
+      "contentIdeas": [
+        "A real (anonymized) lead-leakage audit finding — \"$X in lost pipeline from missed follow-up\"",
+        "\"5 follow-up sequences every business needs and rarely has\"",
+        "Before/after: a messy pipeline turned into an organized, automated one"
+      ]
+    },
+    "offers": [
+      {
+        "name": "CRM Audit & Cleanup",
+        "price": "$500-$1,500",
+        "features": [
+          "Audit existing CRM/lead data for gaps and lost leads",
+          "Clean up and organize lead stages",
+          "Written findings report"
+        ]
+      },
+      {
+        "name": "Follow-Up System Build",
+        "price": "$1,500-$4,000",
+        "features": [
+          "Automated email/SMS follow-up sequences",
+          "Missed-call and reactivation workflows",
+          "Reporting dashboard"
+        ]
+      },
+      {
+        "name": "Ongoing Optimization Retainer",
+        "price": "$500-$2,000/mo",
+        "features": [
+          "Monitor and improve follow-up performance",
+          "Add new sequences as needed"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "1 week",
+        "description": "Learn one CRM/automation platform deeply and build your audit process",
+        "tasks": [
+          {
+            "title": "Pick one CRM/automation platform to specialize in",
+            "description": "Choose one platform (HubSpot, GoHighLevel, or similar) and get genuinely fluent in its automation and follow-up features — depth beats breadth for your first clients.",
+            "estimatedHours": 8,
+            "tools": [
+              "HubSpot",
+              "GoHighLevel"
+            ],
+            "deliverable": "Working knowledge of one CRM platform's automation capabilities"
+          },
+          {
+            "title": "Build a lead-leakage audit process",
+            "description": "Design a repeatable process for pulling CRM data and identifying leads that went cold with no follow-up, quantifying the lost opportunity.",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Sheets"
+            ],
+            "deliverable": "A documented audit process and report template"
+          }
+        ]
+      },
+      {
+        "name": "First Clients",
+        "duration": "2-3 weeks",
+        "description": "Land the first clients using the free audit as the door-opener",
+        "tasks": [
+          {
+            "title": "Offer 2-3 free lead-leakage audits",
+            "description": "Find local businesses with an active CRM and offer a free audit — most owners have never quantified their follow-up gap, making this a strong door-opener.",
+            "estimatedHours": 8,
+            "tools": [
+              "LinkedIn",
+              "Local Networking"
+            ],
+            "deliverable": "2-3 completed audits with quantified findings"
+          },
+          {
+            "title": "Build your first automated follow-up system",
+            "description": "Convert one audit client into a paid follow-up system build, implementing real automated sequences based on the gaps found.",
+            "estimatedHours": 10,
+            "tools": [
+              "HubSpot",
+              "GoHighLevel"
+            ],
+            "deliverable": "One live, working automated follow-up system for a paying client"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI CRM follow-up business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI CRM follow-up business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI CRM follow-up business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "CRM Audit & Cleanup",
+              "deliverables": [
+                "Written audit of lead-leakage points",
+                "Cleaned-up, organized lead stages"
+              ],
+              "timeline": "1 week",
+              "whatsIncluded": [
+                "Quantified findings (e.g. \"$X in leads with no follow-up in 30+ days\")",
+                "A prioritized fix list"
+              ]
+            },
+            {
+              "name": "Follow-Up System Build",
+              "deliverables": [
+                "Automated email/SMS follow-up sequences",
+                "Missed-call and reactivation workflows"
+              ],
+              "timeline": "2-3 weeks",
+              "whatsIncluded": [
+                "A working, tested automation live in the client's CRM",
+                "A simple reporting view"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Get read access to the client's CRM/lead data",
+              "owner": "client"
+            },
+            {
+              "step": "Run the lead-leakage audit and quantify the gap before proposing fixes",
+              "owner": "you"
+            },
+            {
+              "step": "Build and test the first automation in a sandbox before deploying live",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Review current lead volume and follow-up process (or lack of one)",
+            "Confirm CRM/platform access and any integration needs",
+            "Set the audit timeline and what \"done\" looks like for the fix"
+          ]
+        }
+      },
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "A CRM/automation platform account (HubSpot or GoHighLevel)",
+            "why": "You need hands-on fluency with the actual tool clients use — read about it isn't enough"
+          },
+          {
+            "item": "A sandbox/test environment",
+            "why": "Never test a new automation against a client's live customer data — verify it works safely first"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "sales-optimizer",
+          "why": "Sal helps you find and pitch prospects using the concrete \"you're losing leads you already paid for\" angle — one of the strongest B2B pitches in the catalog",
+          "firstTask": "Help me write a cold outreach message offering a free lead-leakage audit"
+        },
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia helps you design the actual follow-up workflows and sequencing logic",
+          "firstTask": "Help me design a missed-call follow-up sequence for a home services business"
+        }
+      ]
+    },
+    "personalityTags": [
+      "analytical",
+      "social"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "local-biz-marketing-agency",
+    "title": "Local Business Marketing Agency",
+    "description": "Help local businesses (dentists, plumbers, restaurants) get more customers through Google, social media, and ads — using AI to deliver premium results at scale",
+    "difficulty": "intermediate",
+    "startupCost": "$0-$200",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Local SEO",
+      "Google Ads",
+      "Social Media",
+      "Sales",
+      "Client Management"
+    ],
+    "tools": [
+      "Google Business Profile",
+      "Google Ads",
+      "Waymaker Social",
+      "Waymaker Email",
+      "Loom",
+      "Canva"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 0,
+    "budgetMax": 200,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Pick your vertical and city, build your audit toolkit",
+      "Audit 15-20 businesses with personalized Loom videos",
+      "Close first 3 clients and deliver quick wins",
+      "Build case studies and scale through referrals",
+      "Hire contractors and expand to adjacent verticals"
+    ],
+    "audience": {
+      "role": "Owner of a local service business",
+      "companySize": "2-20 employees",
+      "industry": "Local services (dental, HVAC, plumbing, restaurants, auto repair, etc.)",
+      "painPoints": [
+        "Knows they need to \"do marketing\" but has no idea where to start or what works",
+        "Paying for a website that was built 5 years ago and generates zero leads",
+        "Getting destroyed by competitors who show up first on Google",
+        "Too busy running the business to learn digital marketing themselves"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Cold Email",
+        "Local Networking",
+        "Referrals",
+        "SEO",
+        "Paid Ads"
+      ],
+      "launchStrategy": "Pick ONE vertical (dentists, plumbers, restaurants, etc.). Become the go-to marketing person for that vertical in your city. Start with 3 free audits to build case studies, then pitch paid services.",
+      "firstCustomerTactics": [
+        "Walk into 10 local businesses and offer a free Google Business Profile audit — show them what they are missing in 5 minutes",
+        "Send personalized Loom videos to 20 businesses showing their website issues vs their top competitor (this converts at 15-25%)",
+        "Join the local Chamber of Commerce and BNI networking group — every member is a potential client or referral source",
+        "Offer a \"first month free\" trial with a 6-month contract — reduces risk perception and locks in revenue",
+        "Partner with a local web designer or accountant who serves the same businesses but does not offer marketing"
+      ],
+      "contentIdeas": [
+        "Monthly \"Local Business Marketing Tips\" email to your prospect list",
+        "Before/after case studies showing real client results (reviews, traffic, leads)",
+        "Google Business Profile optimization checklist (free lead magnet)",
+        "Local SEO mistakes most businesses make (position yourself as the expert)"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Essentials",
+        "price": "$497/mo",
+        "features": [
+          "Google Business Profile optimization",
+          "Monthly blog post (SEO)",
+          "10 social media posts/mo",
+          "Monthly performance report",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$1,497/mo",
+        "features": [
+          "Everything in Essentials",
+          "20 social posts/mo",
+          "Review generation campaign",
+          "Bi-weekly strategy calls",
+          "Landing page for each service"
+        ]
+      },
+      {
+        "name": "Dominate",
+        "price": "$2,997/mo",
+        "features": [
+          "Everything in Growth",
+          "Full local SEO (citations, link building)",
+          "Email/SMS marketing campaigns",
+          "Reputation management",
+          "Video content creation",
+          "Weekly strategy calls",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "5 days",
+        "description": "Pick your vertical, build your audit toolkit, and set up operations",
+        "tasks": [
+          {
+            "title": "Choose your vertical and city",
+            "description": "Pick ONE type of local business to start: dentists, HVAC, plumbers, restaurants, chiropractors, auto repair, or real estate agents. Specializing in one vertical lets you: (1) reuse templates and strategies, (2) build case studies faster, (3) get referrals within the industry, (4) charge more as a specialist. Research: how many of this business type exist within 30 miles of you?",
+            "estimatedHours": 3,
+            "tools": [
+              "Google Maps",
+              "Google",
+              "ChatGPT"
+            ],
+            "deliverable": "Vertical selection with market size (# of businesses in your area)",
+            "aiAssisted": true
+          },
+          {
+            "title": "Build your free audit toolkit",
+            "description": "Create a repeatable audit process you can run for any local business in 15 minutes: (1) Google Business Profile completeness score, (2) Website speed/mobile test, (3) Top 3 competitors ranking comparison, (4) Review count/rating vs competitors, (5) Social media presence check. Build this as a Notion template or Google Sheet. The audit IS your sales tool.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google PageSpeed",
+              "Semrush Free",
+              "Google Business",
+              "Notion"
+            ],
+            "deliverable": "Reusable audit template with scoring system",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create agency branding and website",
+            "description": "Build a simple 3-page website: Home (what you do + results), Services (3 packages with pricing), About (your story + why local businesses). Use Waymaker or Carrd. Include a \"Free Marketing Audit\" CTA on every page. Get a professional email (yourname@youragency.com). You do NOT need a perfect website — you need a credible one.",
+            "estimatedHours": 4,
+            "tools": [
+              "Waymaker Landing Pages",
+              "Carrd",
+              "Google Workspace"
+            ],
+            "deliverable": "Agency website live with free audit CTA",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up service delivery systems",
+            "description": "Set up: (1) project management (Notion or Trello per client), (2) social media scheduler (Waymaker Social or Buffer), (3) reporting dashboard (Google Data Studio or AgencyAnalytics), (4) client communication (Slack channel or email). Having systems from day 1 means you can scale without chaos.",
+            "estimatedHours": 3,
+            "tools": [
+              "Notion",
+              "Waymaker Social",
+              "Google Data Studio"
+            ],
+            "deliverable": "Operations system set up and documented"
+          }
+        ]
+      },
+      {
+        "name": "First 3 Clients",
+        "duration": "14 days",
+        "description": "Land your first 3 paying clients through audits and outreach",
+        "tasks": [
+          {
+            "title": "Audit 15-20 businesses in your vertical",
+            "description": "Run your audit process on 15-20 local businesses. For each one, record a 2-3 minute personalized Loom video walking through what you found.",
+            "estimatedHours": 8,
+            "tools": [
+              "Loom",
+              "Google Business",
+              "Audit Template"
+            ],
+            "deliverable": "15-20 personalized audit videos sent",
+            "aiAssisted": true
+          },
+          {
+            "title": "Door-to-door outreach (optional but powerful)",
+            "description": "Visit 10 businesses in person. Introduce yourself, hand them a printed audit summary, and offer to explain it over coffee. This sounds old-school but local business owners respect it. Dress professionally. Bring a one-pager with your 3 packages. \"I help [vertical] in [city] get more customers through Google — here is what I found about your business.\"",
+            "estimatedHours": 6,
+            "tools": [
+              "Printed audit summaries",
+              "Business cards"
+            ],
+            "deliverable": "10 in-person conversations, 3-5 follow-up meetings booked"
+          },
+          {
+            "title": "Close first 3 clients",
+            "description": "In your follow-up meetings, present the full audit, show what competitors are doing better, and present your 3 packages. Get a 3-month minimum commitment. Use AI to generate a proposal customized to their audit findings.",
+            "estimatedHours": 6,
+            "tools": [
+              "Zoom",
+              "Google Docs",
+              "Stripe",
+              "ChatGPT"
+            ],
+            "deliverable": "3 signed clients, payment collected",
+            "aiAssisted": true
+          },
+          {
+            "title": "Deliver quick wins in week 1",
+            "description": "For each new client, deliver immediate visible results: (1) optimize their Google Business Profile (add photos, update hours, write description, add services), (2) set up review request automation (text message after service), (3) fix the top 3 website issues from your audit. Quick wins build trust and prevent early churn.",
+            "estimatedHours": 8,
+            "tools": [
+              "Google Business Profile",
+              "Waymaker Automation",
+              "Website CMS"
+            ],
+            "deliverable": "Week 1 quick wins delivered for all 3 clients",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Growth",
+        "duration": "30 days",
+        "description": "Scale to 8-10 clients and build case studies",
+        "tasks": [
+          {
+            "title": "Document results and build case studies",
+            "description": "After 30 days with your first 3 clients, document results: # of new Google reviews, ranking improvements, website traffic increase, number of leads/calls. Create a one-page case study for each. These are your most powerful sales tools — real results from real local businesses that prospects can verify.",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Analytics",
+              "Google Search Console",
+              "Canva"
+            ],
+            "deliverable": "3 case studies with before/after metrics",
+            "aiAssisted": true
+          },
+          {
+            "title": "Ask for referrals systematically",
+            "description": "After delivering 30 days of results, ask each client: \"Do you know any other business owners who are struggling with marketing? Plumbers know electricians. Dentists know orthodontists. Referrals close at 50%+ because trust is pre-built.",
+            "estimatedHours": 2,
+            "tools": [
+              "Email",
+              "Phone"
+            ],
+            "deliverable": "3-5 warm referral introductions"
+          },
+          {
+            "title": "Scale outreach to 50 businesses",
+            "description": "Expand your Loom audit outreach to 50 businesses. Use AI to personalize at scale — generate unique observations for each business. Add a cold email sequence: audit → follow-up (3 days) → case study share (7 days) → break-up email (14 days). Track everything in a CRM.",
+            "estimatedHours": 10,
+            "tools": [
+              "Waymaker Leads",
+              "Loom",
+              "Waymaker Email",
+              "ChatGPT"
+            ],
+            "deliverable": "50 audits sent, 5+ meetings booked",
+            "aiAssisted": true
+          },
+          {
+            "title": "Systematize monthly deliverables",
+            "description": "Create SOPs for every recurring task: (1) Monthly blog post creation workflow, (2) Social media content batch process, (3) Google Ads optimization checklist, (4) Review request automation, (5) Monthly reporting template.",
+            "estimatedHours": 8,
+            "tools": [
+              "Notion",
+              "Waymaker Automation",
+              "ChatGPT"
+            ],
+            "deliverable": "Complete SOP handbook for all recurring deliverables",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "60 days",
+        "description": "Hit 15+ clients and build a real agency",
+        "tasks": [
+          {
+            "title": "Hire first contractor",
+            "description": "At 8-10 clients, you need help. You focus on: client communication, strategy, sales, and ads. A good contractor handles 5-8 clients' content with AI assistance.",
+            "estimatedHours": 6,
+            "tools": [
+              "Upwork",
+              "OnlineJobs.ph"
+            ],
+            "deliverable": "Contractor hired and trained on your SOPs"
+          },
+          {
+            "title": "Expand to adjacent vertical",
+            "description": "Once you have 10+ clients and proven case studies in your first vertical, expand to a related one. Dentists → chiropractors. Plumbers → HVAC. Restaurants → bars/cafes. Your systems, templates, and processes transfer directly. New vertical = new pipeline without competing with yourself.",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Maps",
+              "ChatGPT"
+            ],
+            "deliverable": "Second vertical selected with 20 prospects identified",
+            "aiAssisted": true
+          },
+          {
+            "title": "Launch Google Ads management",
+            "description": "Google Ads for local businesses is a goldmine — most businesses waste money because they set and forget. Focus on Google Search ads (not Display) targeting \"[service] near me\" keywords. This alone can justify your entire retainer.",
+            "estimatedHours": 8,
+            "tools": [
+              "Google Ads",
+              "Google Analytics"
+            ],
+            "deliverable": "Google Ads running for 3+ clients with positive ROAS"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your local marketing agency for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your local marketing agency — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your local marketing agency and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Local SEO/rank tracking tool (BrightLocal or similar)",
+            "why": "Local keyword research and monthly performance reporting are named deliverables on the Local Growth Starter package"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "seo-strategist",
+          "why": "Sophie handles the local keyword research and Google Business Profile optimization named in the starter package",
+          "firstTask": "Run local keyword research for this client's service area"
+        },
+        {
+          "personaId": "advertising-specialist",
+          "why": "Adam manages the Google Ads campaign setup and ongoing ad-spend optimization in the full-service retainer",
+          "firstTask": "Draft a Google Ads campaign structure for this client's service area"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Local Growth Starter",
+              "deliverables": [
+                "Google Business Profile optimization",
+                "1 Google Ads campaign setup",
+                "4 social posts/month"
+              ],
+              "timeline": "2 weeks setup, then ongoing",
+              "whatsIncluded": [
+                "Local keyword research",
+                "Review-generation setup",
+                "Monthly performance report"
+              ]
+            },
+            {
+              "name": "Full-Service Retainer",
+              "deliverables": [
+                "Google Ads management",
+                "Social media management",
+                "Review response + reputation management",
+                "Monthly strategy call"
+              ],
+              "timeline": "Ongoing, monthly",
+              "whatsIncluded": [
+                "Ad spend optimization (ad spend billed separately to client's own account)"
+              ],
+              "whatsNotIncluded": [
+                "Website design/build (offered as a separate one-time project)"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Get access to Google Business Profile, Ads account, and social accounts",
+              "owner": "client"
+            },
+            {
+              "step": "Run local competitor and keyword audit",
+              "owner": "you"
+            },
+            {
+              "step": "Set baseline metrics (calls, reviews, ranking) before starting",
+              "owner": "you"
+            },
+            {
+              "step": "Launch first campaign and confirm tracking is working",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm service area, target customer, and current biggest bottleneck (leads, reviews, awareness)",
+            "Review current Google Business Profile and social presence",
+            "Set the 90-day goals and reporting cadence"
+          ]
+        }
+      }
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "2 weeks"
+  },
+  {
+    "id": "high-ticket-affiliate",
+    "title": "High-Ticket Affiliate Marketer",
+    "description": "Help buyers compare higher-priced courses, services or software. Test whether the program credits enough qualifying sales to justify your acquisition costs and time.",
+    "difficulty": "intermediate",
+    "startupCost": "$200-$1,000",
+    "timeCommitment": "15-25 hours/week",
+    "skills": [
+      "Niche Authority Building",
+      "Content Marketing",
+      "Email Marketing",
+      "Sales Funnel Design",
+      "Paid Ads (advanced)"
+    ],
+    "tools": [
+      "Beehiiv / ConvertKit",
+      "WordPress / Webflow",
+      "ChatGPT",
+      "Notion",
+      "Stripe"
+    ],
+    "category": "Marketing",
+    "categoryId": "marketing",
+    "budgetMin": 200,
+    "budgetMax": 1000,
+    "weeklyMin": 15.0,
+    "steps": [
+      "Pick a niche where high-ticket products exist (B2B SaaS, courses, coaching, masterminds, financial)",
+      "Build authority via newsletter, YouTube, or LinkedIn content (3-6 month investment)",
+      "Apply to high-ticket affiliate programs in your niche",
+      "Create lead magnets + email sequences that warm leads to high-ticket offers",
+      "Layer in webinars, case studies, and partner co-promotions for scale"
+    ],
+    "audience": {
+      "role": "Niche content creator → affiliate marketer",
+      "industry": "Marketing / content",
+      "painPoints": [
+        "Has niche knowledge but does not know how to monetize at scale",
+        "Authority building feels slow — wants faster path to revenue",
+        "Email list is small or non-existent"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Content Marketing",
+        "SEO",
+        "Communities",
+        "Partnerships"
+      ],
+      "launchStrategy": "Authority is the channel. Pick 1-2 content modes (newsletter + LinkedIn, or YouTube + newsletter). Publish consistently for 6 months minimum. Promote affiliate offers only AFTER trust is built — too early kills audience.",
+      "firstCustomerTactics": [
+        "Newsletter: weekly deep-dive in your niche, build to 1K subs in 90 days",
+        "LinkedIn: daily posts in your niche; build authority + leads",
+        "YouTube: 1-2 videos/week, monetize via affiliate links in description",
+        "Free workshop / webinar that solves a niche problem; pitch high-ticket at end",
+        "Partnership: co-promote with another niche creator (cross-newsletter swaps)"
+      ],
+      "contentIdeas": [
+        "Case studies: I used X to do Y (X = affiliate product)",
+        "Comparison content: Tool A vs Tool B for [specific niche]",
+        "Tutorial: deep-dive on how to use a high-ticket tool",
+        "Industry analysis with AI-affiliate tools as solution",
+        "Lead magnet: free guide / template that warms to paid product"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Course / Coaching",
+        "price": "$200-1,000 per sale",
+        "features": [
+          "Most accessible high-ticket tier",
+          "Recurring if program has subscription element",
+          "Builds on existing content authority"
+        ]
+      },
+      {
+        "name": "B2B SaaS Affiliate",
+        "price": "$500-2,000 per sale (recurring)",
+        "features": [
+          "Recurring commissions for life of customer",
+          "Compounds dramatically over 24+ months",
+          "Higher buyer intent + lower churn than B2C"
+        ]
+      },
+      {
+        "name": "Masterminds / High-Ticket Coaching",
+        "price": "$1,000-5,000 per sale",
+        "features": [
+          "Highest per-sale commission",
+          "Requires stronger authority + warmer audience",
+          "Often requires direct intro / discovery call referral"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "3 weeks",
+        "description": "Pick niche, build authority infrastructure, apply to programs",
+        "tasks": [
+          {
+            "title": "Pick your high-ticket niche",
+            "description": "Examples: AI tools for solopreneurs, no-code SaaS, real estate investing, sales coaching, B2B SaaS for SMBs. Pick ONE niche.",
+            "estimatedHours": 4,
+            "tools": [
+              "ChatGPT",
+              "Google",
+              "Affiliate program directories"
+            ],
+            "deliverable": "Niche picked + 10 affiliate programs identified",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up content infrastructure",
+            "description": "Pick 1-2 content channels: newsletter (Beehiiv/ConvertKit) + LinkedIn, OR YouTube + newsletter. Set up branded email, custom domain, lead magnet landing page. Configure email automation tool.",
+            "estimatedHours": 6,
+            "tools": [
+              "Beehiiv",
+              "ConvertKit",
+              "Carrd",
+              "LinkedIn"
+            ],
+            "deliverable": "Content infrastructure live + ready to publish"
+          },
+          {
+            "title": "Apply to 5-10 high-ticket affiliate programs",
+            "description": "Apply via PartnerStack, Impact, direct programs (Beehiiv, ConvertKit, Webflow, Notion, Teachable). Most require basic audience proof (any social or website). Track approvals + commission rates.",
+            "estimatedHours": 4,
+            "tools": [
+              "PartnerStack",
+              "Impact",
+              "Direct programs"
+            ],
+            "deliverable": "Approved on at least 5 programs"
+          },
+          {
+            "title": "Build first lead magnet + welcome sequence",
+            "description": "Lead magnet: niche-specific free guide (10-30 pages, AI-drafted). Welcome sequence: 5 emails over 7 days that establish authority and softly introduce affiliate products. AI drafts both.",
+            "estimatedHours": 8,
+            "tools": [
+              "ChatGPT",
+              "Canva",
+              "ConvertKit / Beehiiv"
+            ],
+            "deliverable": "Lead magnet + welcome sequence live",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "12 weeks",
+        "description": "Build audience, drive first sales, optimize",
+        "tasks": [
+          {
+            "title": "Drive first 5 high-ticket sales",
+            "description": "Naturally weave 1-2 affiliate products into welcome sequence and weekly content. Use case studies, reviews, comparisons (highest converting formats). AI personalizes pitch by audience segment.",
+            "estimatedHours": 10,
+            "tools": [
+              "ConvertKit / Beehiiv",
+              "Affiliate dashboards",
+              "ChatGPT"
+            ],
+            "aiAssisted": true
+          },
+          {
+            "title": "Run a free workshop / webinar",
+            "description": "Once at 500+ subs, host a live workshop solving a niche problem. End with soft pitch for high-ticket affiliate offer (e.g., a course you trust).",
+            "estimatedHours": 12,
+            "tools": [
+              "Zoom",
+              "StreamYard",
+              "ConvertKit"
+            ],
+            "deliverable": "Workshop hosted + recording live as evergreen funnel"
+          },
+          {
+            "title": "Set up partner co-promotions",
+            "description": "Reach out to 5-10 niche creators with similar audiences. Propose cross-newsletter swaps, podcast guesting, joint webinars. Compounds audience faster than solo growth.",
+            "estimatedHours": 6,
+            "tools": [
+              "Twitter/X",
+              "LinkedIn",
+              "Email"
+            ],
+            "deliverable": "3+ partner promos executed"
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "4 months",
+        "description": "Layer recurring revenue, paid ads, automation",
+        "tasks": [
+          {
+            "title": "Prioritize recurring B2B SaaS affiliate programs",
+            "description": "Identify 3-5 B2B SaaS affiliates that pay recurring commissions (Beehiiv, ConvertKit, Webflow, Notion, Linear). Build dedicated content + funnels for each.",
+            "estimatedHours": 16,
+            "tools": [
+              "B2B SaaS affiliate programs",
+              "ChatGPT"
+            ],
+            "deliverable": "Recurring revenue layer building",
+            "aiAssisted": true
+          },
+          {
+            "title": "Run paid ads on top-converting evergreen content",
+            "description": "Track LTV per affiliate program. AI writes ad creative variants.",
+            "estimatedHours": 8,
+            "tools": [
+              "Meta Ads",
+              "LinkedIn Ads",
+              "AdCreative.ai",
+              "ChatGPT"
+            ],
+            "deliverable": "Paid ad funnel running profitably",
+            "aiAssisted": true
+          },
+          {
+            "title": "Launch a sponsored newsletter / podcast",
+            "description": "Stack on top of affiliate. Most newsletters earn 50/50 affiliate + sponsorship at scale.",
+            "estimatedHours": 6,
+            "tools": [
+              "Beehiiv Boost",
+              "Direct sponsor outreach"
+            ]
+          },
+          {
+            "title": "Document SOPs for VA + content scaling",
+            "description": "Document your full content process. Hire a VA for: research, draft generation, posting, comment engagement. AI accelerates SOP creation. Goal: 10+ pieces/week without your time scaling proportionally.",
+            "estimatedHours": 8,
+            "tools": [
+              "Notion",
+              "OnlineJobs.ph",
+              "ChatGPT"
+            ],
+            "deliverable": "Self-running content system + VA hired",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your high-ticket affiliate business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your high-ticket affiliate business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your high-ticket affiliate business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Landing page builder (if not using the launch-flow site)",
+            "why": "A dedicated opt-in page converts better than sending cold traffic straight to an affiliate link"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "firstTask": "Draft a comparison article outline for this product vs. its top 2 alternatives"
+        },
+        {
+          "personaId": "marketing-strategist",
+          "why": "Melanie helps build the 90-day authority-building content calendar and email nurture sequence",
+          "firstTask": "Build a 90-day content calendar for this niche"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "community",
+        "community": {
+          "structureOutline": [
+            {
+              "section": "Trust-building content (case studies, honest reviews)"
+            },
+            {
+              "section": "Comparison/decision content",
+              "purpose": "Addresses the buyer's actual hesitation (this vs. alternatives) rather than pure hype"
+            },
+            {
+              "section": "Email sequence tied to the offer",
+              "purpose": "Most high-ticket affiliate sales close on follow-up, not the first touch"
+            }
+          ],
+          "contentCadence": [
+            {
+              "frequency": "Weekly",
+              "contentType": "Long-form content (review, comparison, or case study)"
+            },
+            {
+              "frequency": "Ongoing",
+              "contentType": "Email nurture sequence for captured leads"
+            }
+          ],
+          "memberOnboarding": [
+            "Capture email before sending to the affiliate offer wherever possible — you lose the relationship (and repeat commissions) if the click just bounces straight to the vendor"
+          ],
+          "moderationGuidelines": [
+            "Only promote products you have real experience with or can rigorously vet — high-ticket buyers do more due diligence and reputational damage from a bad recommendation is proportionally larger",
+            "Disclose the affiliate relationship clearly (FTC requirement)"
+          ]
+        }
+      },
+      "aiPrompts": [
+        {
+          "task": "Authority-building content calendar (90 days)",
+          "prompt": "Build a 90-day content calendar that establishes authority in [niche].\n\nNiche: [niche]\nChannels: [newsletter / LinkedIn / YouTube / Twitter — pick 1-2]\nPosting cadence: [X/week per channel]\n\nOutput:\n\nWEEKS 1-4 (Foundation):\n- 4 cornerstone pieces establishing core POV\n- 8 supporting posts amplifying cornerstones\n- 1 lead magnet aligned with biggest cornerstone\n\nWEEKS 5-8 (Amplify):\n- Comparison content (Tool A vs B)\n- Case studies (with permission)\n- \"How I built X\" tutorials\n- Cross-promotion with 1-2 niche creators\n\nWEEKS 9-12 (Monetize):\n- First soft promotion of high-ticket affiliate (subtle, integrated)\n- Free workshop / webinar\n- Email sequence pitching paid offer\n- Direct outreach campaign\n\nFor each week, output:\n- Topic + working title\n- Channel\n- Lead magnet/CTA tie-in\n- Estimated time\n\nTone: authoritative, specific, not pitchy."
+        },
+        {
+          "task": "Lead magnet structure (10-30 page PDF)",
+          "prompt": "Generate a complete lead magnet (PDF guide) for [niche].\n\nNiche: [your niche]\nTarget persona: [persona]\nAffiliate product to soft-pitch: [name]\nPage count: 10-30\n\nOutput:\n\nCOVER PAGE:\n- Title (benefit-led, niche-specific)\n- Tagline\n- Author byline + credibility statement\n\nCHAPTER STRUCTURE (5-8 chapters):\n- Chapter 1: Big-picture orientation\n- Chapters 2-6: Core methodology with 3-5 tactics each\n- Final chapter: Tools + next steps (where you naturally introduce affiliate product)\n\nEACH CHAPTER:\n- Hook story or stat\n- 3-5 actionable tactics\n- 1 case study or example\n- 1 worksheet/exercise\n\nSOFT-PITCH SECTION:\n- 1-page \"tools I use\" with affiliate product highlighted naturally\n- 5 honest reasons it works (with caveats)\n- Discount link if available\n\nCTA:\n- Email list signup for ongoing content\n- Soft CTA to book discovery call (for high-ticket)"
+        },
+        {
+          "task": "Email sequence (welcome 5-day + nurture 14-day)",
+          "prompt": "Build a 19-email sequence: 5 welcome + 14 nurture, designed to warm leads to high-ticket affiliate offer.\n\nNiche: [niche]\nLead magnet: [what they downloaded]\nAffiliate product: [name + commission]\nSubscriber persona: [who they are]\n\nWELCOME 5-DAY:\n- Email 1 (instant): deliver lead magnet + introduce yourself\n- Email 2 (day 2): your story / why you teach this\n- Email 3 (day 4): biggest mistake people make in [niche]\n- Email 4 (day 6): case study (yours or borrowed with permission)\n- Email 5 (day 7): soft introduction to affiliate product (no hard pitch)\n\nNURTURE 14-DAY (every 1-2 days):\n- Mix of: tutorials, case studies, comparisons, your POV, soft pitches\n- Email 12 = first explicit affiliate pitch with bonuses\n- Email 16 = social proof (reviews, results)\n- Email 19 = scarcity-based final offer (or transition to weekly newsletter)\n\nFor each email:\n- Subject line + 2 alt subjects\n- Preheader\n- 200-400 word body\n- Single clear CTA\n\nTone: friend > guru. Avoid pushy \"marketing voice.\""
+        },
+        {
+          "task": "Comparison content (Tool A vs B for [niche])",
+          "prompt": "Write an honest comparison post: [Tool A] vs [Tool B] for [niche persona].\n\nMy affiliate: [Tool A or B — be transparent about which]\nMy honest take: [where each one wins]\n\nStructure:\n\nINTRO (200 words):\n- Who this comparison is for\n- TL;DR verdict (one-line)\n- Honest disclosure (\"I'm an affiliate for X but I'll tell you when Y is better\")\n\nCOMPARISON SECTIONS (5-7):\n- Pricing\n- Core features\n- Niche-specific use case\n- Onboarding ease\n- Customer support\n- Ecosystem / integrations\n- Long-term scalability\n\nIn each section: bullet who wins + why.\n\nVERDICT:\n- \"Pick A if [criteria]\"\n- \"Pick B if [criteria]\"\n- \"Use both if [advanced case]\"\n\nDISCLOSURE FOOTER:\n- FTC-compliant affiliate disclosure\n- Note: comparison content converts 2-3x better than reviews because buyers searching \"X vs Y\" are deep in research mode."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Promoting too early (before audience trust)",
+          "why": "Audiences detect affiliate pitches. Pitching before establishing authority = unsubscribes + reputation damage.",
+          "prevention": "Build for 3-6 months before first pitch. Welcome sequence soft-introduces. Hard pitch only at email 12+."
+        },
+        {
+          "mistake": "Promoting products you have not used",
+          "why": "Buyers ask specific questions. Generic answers reveal you have not used the product. Trust collapses.",
+          "prevention": "Use every product you promote. Document your real workflow. Make case studies from your usage."
+        },
+        {
+          "mistake": "No email list",
+          "why": "Algorithms own social. Email is the only owned channel. Without it, every sale is a one-off.",
+          "prevention": "Email list from day 1. Lead magnet → ConvertKit/Beehiiv. Email outperforms social for high-ticket."
+        },
+        {
+          "mistake": "Going broad (\"marketing tips\") vs niche-specific",
+          "why": "Niche audiences do.",
+          "prevention": "Pick a specific persona × specific outcome. \"AI tools for solo lawyers\" beats \"AI tips.\""
+        },
+        {
+          "mistake": "Missing recurring B2B SaaS commissions",
+          "why": "Most affiliates only count one-time payouts. Recurring SaaS commissions compound dramatically."
+        },
+        {
+          "mistake": "No partner relationships",
+          "why": "Solo growth is slow. Cross-newsletter swaps + co-promotions compound.",
+          "prevention": "Reach out to 5-10 niche creators monthly. Propose value-first swaps."
+        },
+        {
+          "mistake": "Affiliate disclosure violations",
+          "why": "FTC enforces affiliate disclosures. Hidden affiliate links = fines + program termination.",
+          "prevention": "Visible disclosure on every affiliate piece. \"I may earn a commission...\" in posts + emails + videos."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Newsletter platform",
+          "recommendation": "Beehiiv for growth tools + sponsorship integration. ConvertKit for automation depth. Substack only if you want zero ops.",
+          "options": [
+            {
+              "name": "Beehiiv",
+              "bestFor": "Built-in growth tools (Boost), sponsorship marketplace",
+              "url": "https://beehiiv.com"
+            },
+            {
+              "name": "ConvertKit",
+              "bestFor": "Deep automation + segmentation"
+            },
+            {
+              "name": "Substack",
+              "bestFor": "Zero ops, smallest curve"
+            }
+          ]
+        },
+        {
+          "category": "Affiliate networks",
+          "recommendation": "PartnerStack for B2B SaaS. Impact for broader. Direct programs always best (no intermediary fee).",
+          "options": [
+            {
+              "name": "PartnerStack",
+              "bestFor": "B2B SaaS recurring commissions",
+              "url": "https://partnerstack.com"
+            },
+            {
+              "name": "Impact",
+              "bestFor": "Wider product range, ecommerce + SaaS",
+              "url": "https://impact.com"
+            },
+            {
+              "name": "Direct programs",
+              "bestFor": "Highest commissions when available"
+            }
+          ]
+        }
+      ],
+      "decisionTrees": [
+        {
+          "question": "Newsletter-first vs YouTube-first?",
+          "options": [
+            {
+              "choice": "Newsletter-first",
+              "pickIf": "You write better than you film. Audience converts higher per subscriber.",
+              "nextStep": "Beehiiv + lead magnet + 90-day content calendar. Build to 1K subs then layer YouTube as supplement."
+            },
+            {
+              "choice": "YouTube-first",
+              "pickIf": "You enjoy filming + can produce 1-2 videos/week. Reach is bigger long-term.",
+              "nextStep": "Niche YouTube + email capture in description. Slower per-subscriber conversion but bigger top-of-funnel."
+            },
+            {
+              "choice": "LinkedIn-first",
+              "pickIf": "B2B niche (SaaS, sales, consulting). Authority compounds via LinkedIn algorithm.",
+              "nextStep": "Daily LinkedIn posts + lead magnet. Newsletter as secondary capture."
+            }
+          ]
+        },
+        {
+          "question": "One-time commissions vs recurring B2B SaaS?",
+          "options": [
+            {
+              "choice": "Recurring B2B SaaS",
+              "pickIf": "You want passive compounding income.",
+              "nextStep": "Prioritize PartnerStack + direct B2B SaaS programs (Beehiiv, ConvertKit, Webflow, Notion)."
+            },
+            {
+              "choice": "High-ticket one-time",
+              "pickIf": "You can drive high-intent traffic to specific offers.",
+              "nextStep": "Course/coaching launches. Episodic but high."
+            },
+            {
+              "choice": "Both",
+              "pickIf": "You have audience size to diversify.",
+              "nextStep": "Recurring as base, one-time as boosts during launches."
+            }
+          ]
+        }
+      ]
+    },
+    "personalityTags": [
+      "social",
+      "analytical"
+    ],
+    "timeToStart": "2-3 weeks"
+  }
+]

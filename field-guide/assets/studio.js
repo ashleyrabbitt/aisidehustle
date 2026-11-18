@@ -20,7 +20,7 @@ if (location.hostname === 'aisidehustle.cc' && !privacySignal) {
 all('[data-action]').forEach(link=>link.addEventListener('click',()=>measure(link.dataset.action,new URL(link.href).pathname.split('/').pop())));
 all('[data-copy]').forEach(button=>{
   button.addEventListener('click',async()=>{
-    const box = button.closest('.prompt');
+    const box = button.closest('.prompt, .book-fold');
     const text = $('[data-prompt]',box);
     const status = $('.copy-status',box);
     try {

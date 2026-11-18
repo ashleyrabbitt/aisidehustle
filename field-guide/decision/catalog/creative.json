@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "photography",
+    "title": "Stock Photography",
+    "description": "Sell photos on stock photography platforms",
+    "difficulty": "beginner",
+    "startupCost": "$200-$1,000",
+    "timeCommitment": "5-15 hours/week",
+    "skills": [
+      "Photography",
+      "Photo Editing",
+      "Market Research"
+    ],
+    "tools": [
+      "Adobe Lightroom",
+      "Shutterstock",
+      "Adobe Stock"
+    ],
+    "category": "Creative services",
+    "categoryId": "creative",
+    "budgetMin": 200,
+    "budgetMax": 1000,
+    "weeklyMin": 5.0,
+    "steps": [
+      "Set up stock accounts",
+      "Research trending categories",
+      "Shoot and edit photos",
+      "Upload and keyword",
+      "Scale production"
+    ],
+    "audience": {
+      "role": "Graphic Designer or Marketer",
+      "painPoints": [
+        "Need specific images quickly",
+        "Budget for custom shoots",
+        "Same images everywhere"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "SEO",
+        "Content Marketing",
+        "Communities"
+      ],
+      "launchStrategy": "Upload 500+ images to stock sites, focus on trending niches",
+      "firstCustomerTactics": [
+        "Research most-searched stock categories",
+        "Upload 10-20 photos daily",
+        "Use good keywording",
+        "Focus on underserved niches"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Microstock",
+        "price": "$0.25-$5/download",
+        "features": [
+          "High volume",
+          "Lower per-sale",
+          "Passive income"
+        ]
+      },
+      {
+        "name": "Premium Stock",
+        "price": "$20-$100/download",
+        "features": [
+          "Higher quality",
+          "Less competition",
+          "Better margins"
+        ]
+      },
+      {
+        "name": "Direct Sales",
+        "price": "Varies",
+        "features": [
+          "Full control",
+          "Higher margins",
+          "Building audience required"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Setup",
+        "duration": "3 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Set up stock accounts",
+            "description": "Create accounts on Shutterstock, Adobe Stock, iStock",
+            "estimatedHours": 3,
+            "tools": [
+              "Shutterstock",
+              "Adobe Stock"
+            ]
+          },
+          {
+            "title": "Research trending categories",
+            "description": "Find high-demand, low-supply photo niches",
+            "estimatedHours": 4,
+            "tools": [
+              "Google Trends",
+              "Stock site analytics"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Production",
+        "duration": "14 days",
+        "description": "",
+        "tasks": [
+          {
+            "title": "Shoot first batch",
+            "description": "Create 100+ images in target categories",
+            "estimatedHours": 20,
+            "tools": [
+              "Camera",
+              "Lightroom"
+            ]
+          },
+          {
+            "title": "Edit and keyword",
+            "description": "Process images and add SEO-friendly keywords",
+            "estimatedHours": 15,
+            "tools": [
+              "Lightroom",
+              "Stock site tools"
+            ]
+          },
+          {
+            "title": "Upload to platforms",
+            "description": "Submit to multiple stock sites",
+            "estimatedHours": 5,
+            "tools": [
+              "Shutterstock",
+              "Adobe Stock"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your stock photography business for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your stock photography business — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your stock photography business and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You need a decent camera (even a modern smartphone works to start), an eye for what buyers actually search for, and the patience to build a portfolio before the money shows up. This is a volume game — most contributors earn pennies per download, so your income grows as your library grows. You also need to learn keywording, which is unglamorous but directly determines whether your photos get found. Editing discipline matters too: stock agencies reject blurry, noisy, or poorly exposed images without mercy.",
+      "whereTheyFail": "The failure pattern is almost always the same: shooting what they personally love (dramatic sunsets, artistic blur) instead of what buyers need (clean business concepts, diverse people, everyday objects with copy space). The second trap is platform exclusivity — going exclusive with one agency too early and capping your earning potential. Third is keyword laziness: uploading great images with three vague keywords and wondering why nothing sells.",
+      "theDip": "Months two through five are brutal. It feels pointless. The math hasn't kicked in yet — stock income is nonlinear. It tends to feel flat for a long time and then start compounding once you cross a portfolio threshold (usually around 300–500 strong images). The photographers who push through the dip are the ones who treat it like planting seeds, not flipping burgers.",
+      "routine": [
+        {
+          "what": "Shoot session — focus on one specific concept or niche",
+          "when": "Sat · 2h"
+        },
+        {
+          "what": "Edit, keyword, and upload 10–20 images to platforms",
+          "when": "Sun · 2h"
+        },
+        {
+          "what": "Review sales data and search trends to plan next shoot",
+          "when": "Wed · 30min"
+        },
+        {
+          "what": "Chief of Staff check-in — share upload count and top earner this week",
+          "when": "Daily · 10min"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Generate a list of high-demand stock photo concepts to shoot this week",
+          "prompt": "I sell stock photos on platforms like Shutterstock, Adobe Stock, and Getty Images. I shoot with a [camera type] and my current subjects include [list 2-3 things you already shoot, e.g. food, people working, nature].\n\nPlease give me 20 specific, commercially viable photo concepts I can shoot this week. For each concept, tell me:\n1. The exact scene or subject (be specific — not 'business meeting' but 'two diverse professionals reviewing a tablet at a standing desk, natural window light')\n2. Why buyers purchase this type of image (what industry or use case)\n3. 3-5 keyword tags I should include when uploading\n4. Whether this is evergreen or tied to a trend\n\nPrioritize concepts with low competition on stock sites but real commercial demand. Avoid generic ideas that are already oversaturated (sunsets, generic handshakes, etc.)."
+        },
+        {
+          "task": "Write keyword-optimized titles and descriptions for a batch of stock photos",
+          "prompt": "I need to write titles, descriptions, and keyword tags for stock photos I'm uploading to Shutterstock and Adobe Stock. Here are the photos I need to keyword:\n\n[Describe each photo in plain language, e.g.:\n- Photo 1: A woman in her 40s working on a laptop at a kitchen table, morning light, coffee mug visible, relaxed home office feel\n- Photo 2: Close-up of hands kneading bread dough on a floured wooden surface\n- Photo 3: Empty city park bench in autumn, fallen leaves, soft bokeh background]\n\nFor each photo, write:\n1. A title (under 200 characters, keyword-rich but readable)\n2. A 1-2 sentence description that a buyer would actually search for\n3. 30-50 keyword tags ordered from most to least relevant, separated by commas\n\nFollow Shutterstock's best practices: use specific nouns, include concepts (not just objects), add relevant emotions or moods, and include both singular and plural forms where useful."
+        },
+        {
+          "task": "Identify which of your uploaded photos are underperforming and why",
+          "prompt": "I'm a stock photographer trying to improve my portfolio performance. I'll give you data from my stock platform dashboard and I want you to help me diagnose what's working and what isn't.\n\nHere is my portfolio data (copy/paste from your dashboard or describe it):\n[Paste or describe: total images, views per image, downloads per image, your top 5 earners, your bottom 5 performers, average RPD (revenue per download)]\n\nPlease analyze this and tell me:\n1. What patterns do you see in my top earners vs. my bottom performers?\n2. What does this suggest about what I should shoot more of?\n3. What should I stop wasting time on?\n4. What specific changes to my keywording or titles might improve visibility for underperforming images?\n5. What's a realistic 90-day action plan to grow my monthly earnings based on this data?\n\nBe honest and specific. Don't just tell me to 'upload more' — tell me what to upload and why."
+        },
+        {
+          "task": "Create a shot list for a themed stock photo shoot session",
+          "prompt": "I'm planning a dedicated stock photography shoot session focused on the theme: [INSERT THEME, e.g. 'remote work and productivity', 'healthy eating and meal prep', 'small business owner daily life', 'mental health and self-care'].\n\nI have access to: [describe your setup — e.g. natural light in my apartment, one strobe light, a local park, a friend willing to model]\n\nPlease create a detailed shot list for a 3-hour shoot session that will produce at least 30 sellable, unique images. For each shot include:\n1. Exact scene description (composition, lighting, props needed)\n2. Horizontal AND vertical crop notes (stock buyers need both orientations)\n3. Any model poses or expressions\n4. Props I need to gather in advance\n5. Which platform this image is most likely to sell on (Shutterstock, Adobe Stock, Getty, etc.) and why\n\nAlso give me a 15-minute pre-shoot prep checklist so I don't waste time on the day."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Uploading a small portfolio and expecting passive income",
+          "why": "Stock photography is a volume and compounding game. Most operators quit at 50 images when nothing happens, not realizing the math requires scale.",
+          "prevention": "Set a 6-month goal of 300+ images before evaluating whether this hustle is working. Track uploads per week, not earnings per week, in your first 90 days. Treat early months as building inventory, not earning income."
+        },
+        {
+          "mistake": "Shooting what you like instead of what buyers need",
+          "why": "Artistic sunset photos and macro flower shots are beautiful but massively oversaturated on every platform. Buyers — ad agencies, bloggers, marketing teams — need specific commercial images: diverse people working, food prep, healthcare scenarios, technology in use. Shooting for yourself produces a portfolio nobody downloads.",
+          "prevention": "Before every shoot, check the 'top sellers' or 'trending' sections on Shutterstock and Adobe Stock. Use their search bar to look up your planned subject and check how many results exist. Aim for concepts with real search volume but under 500K competing images."
+        },
+        {
+          "mistake": "Uploading to only one platform",
+          "why": "Each platform has a different buyer base and different algorithms. Shutterstock might love your food photography while Adobe Stock's buyers are downloading your business images.",
+          "prevention": "Upload to at least 3 platforms simultaneously: Shutterstock, Adobe Stock, and Getty/iStock (or Alamy). Use a tool like Lightroom or a spreadsheet to track which images are live where. Most platforms allow non-exclusive submissions."
+        },
+        {
+          "mistake": "Poor or lazy keywording",
+          "why": "Stock platforms are search engines. If your keywords don't match what buyers type, your image never surfaces — no matter how good it is. Common errors: too few tags (under 15), too generic (just 'woman' instead of 'businesswoman, remote work, home office, laptop, productivity'), or inaccurate tags added to game the system (which can get you banned).",
+          "prevention": "Use 30-50 accurate, specific keywords per image. Include concepts, emotions, settings, demographics, colors, and use cases — not just objects. Study the keyword lists of top-selling similar images on each platform before you upload."
+        },
+        {
+          "mistake": "Ignoring model and property releases",
+          "why": "Uploading images of recognizable people or private property without signed releases means those images can only be sold as 'editorial' (news/documentary use) — not 'commercial' use. Commercial licenses pay more and have far higher demand. Platforms will reject or restrict uncleared images, and you can face legal liability if a buyer uses an uncleared image commercially.",
+          "prevention": "Get a signed model release for every recognizable person in your photos before you upload. Use a free template (Adobe Stock provides one). For property, get a property release for distinctive private locations. Keep release files organized by photo shoot date."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "Photo Editing & Culling",
+          "recommendation": "Adobe Lightroom Classic is the industry standard for stock photographers — batch editing, metadata embedding, and keyword presets save hours per week. Worth the cost if you're uploading 20+ images per week.",
+          "options": [
+            {
+              "name": "Adobe Lightroom Classic",
+              "bestFor": "Operators uploading large batches who need metadata, keywording, and editing in one workflow"
+            },
+            {
+              "name": "Capture One",
+              "bestFor": "Photographers who prioritize raw image quality and color grading over workflow integration"
+            },
+            {
+              "name": "Darktable",
+              "bestFor": "Budget-conscious beginners who want a capable Lightroom alternative without a subscription"
+            }
+          ]
+        },
+        {
+          "category": "Keyword Research & Portfolio Tracking",
+          "recommendation": "Xpiks is purpose-built for stock contributors and handles keywording, metadata, and multi-platform uploads in one tool. It pays for itself quickly if you're uploading to 3+ platforms.",
+          "options": [
+            {
+              "name": "Xpiks",
+              "bestFor": "Stock photographers uploading to multiple platforms who want keyword suggestions and batch upload"
+            },
+            {
+              "name": "Microstock Plus (microstockplus.com)",
+              "bestFor": "Tracking earnings and portfolio performance across Shutterstock, Adobe Stock, and others in one dashboard"
+            },
+            {
+              "name": "StockSubmitter",
+              "bestFor": "Automating simultaneous uploads to 30+ stock agencies with one submission"
+            }
+          ]
+        },
+        {
+          "category": "Cloud Storage & Backup",
+          "recommendation": "Backblaze B2 is the most cost-effective backup for large RAW file libraries. Pair it with a local external drive — never rely on a single backup for your master files.",
+          "options": [
+            {
+              "name": "Backblaze B2",
+              "bestFor": "Affordable, reliable offsite backup for large RAW photo libraries"
+            },
+            {
+              "name": "Google One",
+              "bestFor": "Operators already in the Google ecosystem who want simple cloud storage with mobile access"
+            },
+            {
+              "name": "Amazon Photos",
+              "bestFor": "Amazon Prime members who want free unlimited JPEG/RAW backup as a secondary backup layer"
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "Adobe Lightroom (or similar editing tool)",
+            "why": "Named directly in the template's own tools — consistent, high-quality editing is what separates approved submissions from rejected ones"
+          },
+          {
+            "item": "Camera + editing hardware",
+            "why": "Stock platforms have real technical-quality bars (resolution, noise, sharpness) — a smartphone photo rarely clears them consistently"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "data-scientist",
+          "why": "Dash helps identify which categories and keywords are actually trending/underserved on stock platforms before you shoot",
+          "firstTask": "Research 5 underserved but high-demand stock photo categories this month"
+        },
+        {
+          "personaId": "operations-manager",
+          "why": "Olivia helps build a repeatable shoot-edit-upload-keyword pipeline so production doesn't bottleneck as your portfolio scales",
+          "firstTask": "Design a weekly production pipeline for shooting, editing, and uploading a batch of stock photos"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "digital-download",
+        "digitalDownload": {
+          "fileDeliverables": [
+            {
+              "fileName": "RAW/master file",
+              "format": "RAW or 100MB+ TIFF",
+              "description": "Kept privately for re-editing or higher-res licensing later"
+            },
+            {
+              "fileName": "Stock-ready JPEG",
+              "format": "JPEG, sRGB, min 4MP",
+              "description": "Color-corrected, noise-reduced, meets each platform's technical minimums"
+            }
+          ],
+          "productionSteps": [
+            "Shoot in batches around a single searchable theme (e.g. \"remote work,\" \"healthy breakfast\") rather than one-offs — batching is what makes volume sustainable",
+            "Edit for the \"commercial clean\" look: bright, correctly exposed, minimal artistic color grading that limits buyer use cases",
+            "Get model/property releases signed on the spot for any shoot involving people or private property — missing releases get submissions rejected"
+          ],
+          "platformListingChecklist": [
+            {
+              "platform": "Adobe Stock",
+              "requirements": [
+                "sRGB JPEG",
+                "Model/property release attached if applicable",
+                "Keyword list (25-49 terms)",
+                "Category selection"
+              ]
+            },
+            {
+              "platform": "Shutterstock",
+              "requirements": [
+                "Technical QC pass (focus, noise, exposure)",
+                "Description + keywords",
+                "Editorial vs. commercial flag set correctly"
+              ]
+            }
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "Should I go exclusive with one platform or submit to multiple platforms?",
+          "options": [
+            {
+              "choice": "Go exclusive with Shutterstock or Getty",
+              "pickIf": "You have a very large portfolio (1,000+ images) and your analytics show one platform drives 80%+ of your revenue, OR you qualify for Getty's exclusive program which offers significantly higher RPD",
+              "nextStep": "Review the exclusivity terms carefully — you typically earn higher per-download rates but give up the ability to sell elsewhere. Run the math: higher RPD × your current download volume vs. your current multi-platform total."
+            },
+            {
+              "choice": "Submit to multiple platforms (non-exclusive)",
+              "pickIf": "You're in your first 2 years, have under 500 images, or haven't yet identified which platform your work sells best on",
+              "nextStep": "Upload to Shutterstock, Adobe Stock, and Alamy as your core three. Use Xpiks or StockSubmitter to batch upload and reduce the time cost of multi-platform submission."
+            },
+            {
+              "choice": "Hybrid: exclusive on one platform for select images",
+              "pickIf": "You have a specific series or subject that performs exceptionally well and you want to test exclusive rates on that subset",
+              "nextStep": "Tag those images as exclusive in your tracking spreadsheet. Monitor RPD for 90 days and compare to non-exclusive earnings on similar images."
+            }
+          ]
+        },
+        {
+          "question": "What should I focus on shooting next — more volume or better quality in a niche?",
+          "options": [
+            {
+              "choice": "More volume across varied subjects",
+              "pickIf": "You have fewer than 200 images live and haven't yet identified which subjects earn for you",
+              "nextStep": "Prioritize uploading 10-15 new images per week across commercial categories (business, food, lifestyle, healthcare). Let the data tell you what sells."
+            },
+            {
+              "choice": "Go deep in a specific niche",
+              "pickIf": "You have 200+ images live and your analytics show one subject (e.g., food prep, home office, outdoor fitness) consistently drives 60%+ of your downloads",
+              "nextStep": "Build a 'collection' strategy in that niche — shoot 5-10 variations of your best-performing concepts. Buyers who find one image often browse your portfolio for related shots."
+            },
+            {
+              "choice": "Improve technical quality of existing uploads",
+              "pickIf": "You're getting views but low downloads (high view-to-download ratio), suggesting buyers are clicking but not buying due to quality or relevance issues",
+              "nextStep": "Pull your 20 most-viewed but least-downloaded images. Re-examine sharpness, noise, composition, and whether the subject matches commercial intent. Consider re-editing or re-shooting those specific concepts."
+            }
+          ]
+        },
+        {
+          "question": "Is this stock photography hustle actually working, or should I pivot?",
+          "options": [
+            {
+              "choice": "Keep going — it's working",
+              "pickIf": "",
+              "nextStep": "The compounding effect is real but slow."
+            },
+            {
+              "choice": "Adjust strategy before pivoting",
+              "pickIf": "",
+              "nextStep": "Audit your top 20 images: are they in commercial niches or artistic/personal subjects? Are keywords specific and accurate? Are you on 3+ platforms? Fix these before concluding the model doesn't work."
+            },
+            {
+              "choice": "Pivot or add a complementary income stream",
+              "pickIf": "",
+              "nextStep": "Stock photography may not be the right fit for your subject matter or market. Consider licensing photos directly to local businesses, selling prints via Etsy or Printful, or pivoting to video footage (which pays significantly higher per download on stock platforms)."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Shutterstock Contributor Portal",
+          "url": "https://submit.shutterstock.com"
+        },
+        {
+          "name": "Adobe Stock Contributor Portal",
+          "url": "https://contributor.stock.adobe.com"
+        },
+        {
+          "name": "Microstock Plus",
+          "url": "https://www.microstockplus.com"
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  },
+  {
+    "id": "ai-voice-service",
+    "title": "AI Voice & Audiobook Service",
+    "description": "Produce professional voiceovers, audiobooks, podcast intros, ad reads, and IVR audio using AI voice tools like ElevenLabs and PlayHT",
+    "difficulty": "beginner",
+    "startupCost": "$30-$200",
+    "timeCommitment": "10-15 hours/week",
+    "skills": [
+      "Audio Production",
+      "AI Voice Tools",
+      "Client Management",
+      "Basic Audio Editing"
+    ],
+    "tools": [
+      "ElevenLabs",
+      "PlayHT",
+      "Audacity",
+      "Descript",
+      "ChatGPT"
+    ],
+    "category": "Creative services",
+    "categoryId": "creative",
+    "budgetMin": 30,
+    "budgetMax": 200,
+    "weeklyMin": 10.0,
+    "steps": [
+      "Master ElevenLabs and PlayHT voice cloning and generation",
+      "Build portfolio with 5+ voice samples across formats",
+      "Set up profiles on Fiverr and direct outreach channels",
+      "Land first clients through authors and podcasters",
+      "Scale with batch production and retainer packages"
+    ],
+    "audience": {
+      "role": "Self-published Author / Content Creator",
+      "industry": "Publishing / Content Creation",
+      "painPoints": [
+        "Recording and editing audio is time-consuming and technical",
+        "Cant find affordable voiceover talent with quick turnaround",
+        "Need consistent voice across multiple projects",
+        "IVR and phone systems sound unprofessional"
+      ]
+    },
+    "customerPlan": {
+      "primaryChannels": [
+        "Fiverr",
+        "Upwork",
+        "LinkedIn",
+        "Communities",
+        "Cold Email"
+      ],
+      "launchStrategy": "Create sample reels in 5 different voice styles, list on Fiverr/Upwork for initial traction, then direct outreach to authors and podcast hosts",
+      "firstCustomerTactics": [
+        "List voiceover gigs on Fiverr with competitive intro pricing",
+        "Join indie author communities (r/selfpublish, KBoards) and offer sample chapters",
+        "Create free podcast intros for 10 popular podcasters as samples",
+        "Reach out to e-learning companies needing narration",
+        "Partner with book cover designers for author referrals"
+      ],
+      "contentIdeas": [
+        "AI voice vs human voice: can you tell the difference?",
+        "The hidden cost of bad IVR audio (and how to fix it)",
+        "Why every podcast needs a professional intro"
+      ]
+    },
+    "offers": [
+      {
+        "name": "Quick Audio",
+        "price": "$50-$200",
+        "features": [
+          "Up to 5 minutes of audio",
+          "Podcast intro/outro or ad read",
+          "1 AI voice selection",
+          "48-hour turnaround",
+          "1 revision"
+        ]
+      },
+      {
+        "name": "Full Production",
+        "price": "$500-$2,000",
+        "features": [
+          "Up to 60 minutes of audio",
+          "Audiobook chapter or full VO project",
+          "Custom voice cloning",
+          "Background music + mixing",
+          "3 revisions"
+        ]
+      },
+      {
+        "name": "Retainer",
+        "price": "$2,000-$5,000/mo",
+        "features": [
+          "Unlimited audio minutes",
+          "Priority turnaround (24hr)",
+          "Custom branded voice",
+          "Multiple formats (VO, audiobook, IVR)",
+          "Dedicated account manager"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "name": "Foundation",
+        "duration": "3 days",
+        "description": "Master AI voice tools and build sample portfolio",
+        "tasks": [
+          {
+            "title": "Master AI voice platforms",
+            "description": "Learn ElevenLabs voice cloning, PlayHT for long-form, Descript for editing. Create 5+ voice profiles in different styles",
+            "estimatedHours": 6,
+            "tools": [
+              "ElevenLabs",
+              "PlayHT",
+              "Descript"
+            ],
+            "deliverable": "Proficiency in voice generation + 5 voice profiles",
+            "aiAssisted": true
+          },
+          {
+            "title": "Create sample reel",
+            "description": "Produce demo samples: audiobook excerpt, podcast intro, ad read, IVR greeting, e-learning narration",
+            "estimatedHours": 4,
+            "tools": [
+              "ElevenLabs",
+              "Audacity",
+              "ChatGPT"
+            ],
+            "deliverable": "5-format sample reel",
+            "aiAssisted": true
+          },
+          {
+            "title": "Set up service listings",
+            "description": "Create Fiverr/Upwork profiles with samples, packages, and competitive pricing",
+            "estimatedHours": 3,
+            "tools": [
+              "Fiverr",
+              "Upwork",
+              "Canva"
+            ],
+            "deliverable": "Live freelancer profiles"
+          }
+        ]
+      },
+      {
+        "name": "Launch",
+        "duration": "2 weeks",
+        "description": "Get first clients through marketplaces and direct outreach",
+        "tasks": [
+          {
+            "title": "Marketplace quick wins",
+            "description": "Bid on 20+ voiceover gigs on Fiverr/Upwork with competitive intro pricing to build reviews",
+            "estimatedHours": 8,
+            "tools": [
+              "Fiverr",
+              "Upwork"
+            ],
+            "deliverable": "5-10 completed orders with reviews"
+          },
+          {
+            "title": "Author community outreach",
+            "description": "Join 5 indie author communities, offer free sample chapter narrations to build relationships",
+            "estimatedHours": 6,
+            "tools": [
+              "Reddit",
+              "Facebook Groups",
+              "ElevenLabs"
+            ],
+            "deliverable": "10 free samples sent, 3+ audiobook inquiries",
+            "aiAssisted": true
+          },
+          {
+            "title": "Podcast host campaign",
+            "description": "Create free custom podcast intros for 15 mid-tier podcasters and send via email",
+            "estimatedHours": 8,
+            "tools": [
+              "ElevenLabs",
+              "Email",
+              "ChatGPT"
+            ],
+            "deliverable": "15 free intros sent, 5+ paying conversions",
+            "aiAssisted": true
+          }
+        ]
+      },
+      {
+        "name": "Scale",
+        "duration": "2 months",
+        "description": "Move to higher-value projects and retainer clients",
+        "tasks": [
+          {
+            "title": "Audiobook production pipeline",
+            "description": "Create standardized workflow for full audiobook production: script prep, chapter splitting, voice generation, QC, mastering",
+            "estimatedHours": 8,
+            "tools": [
+              "ElevenLabs",
+              "Descript",
+              "Notion"
+            ],
+            "deliverable": "Audiobook SOP document",
+            "aiAssisted": true
+          },
+          {
+            "title": "E-learning partnerships",
+            "description": "Reach out to 20 online course creators and e-learning companies for narration retainers",
+            "estimatedHours": 10,
+            "tools": [
+              "LinkedIn",
+              "Cold Email",
+              "Zoom"
+            ],
+            "deliverable": "2-3 retainer contracts signed"
+          },
+          {
+            "title": "Premium voice cloning",
+            "description": "Offer custom voice cloning service for brands wanting a unique AI voice for all content",
+            "estimatedHours": 6,
+            "tools": [
+              "ElevenLabs",
+              "PlayHT"
+            ],
+            "deliverable": "Premium service tier active with 2+ brand clients"
+          }
+        ]
+      },
+      {
+        "name": "Exit",
+        "duration": "60 days",
+        "description": "Prepare your AI voice and audiobook service for sale, acquisition, or hands-off operation",
+        "tasks": [
+          {
+            "title": "Document all SOPs for buyer handoff",
+            "description": "Create comprehensive standard operating procedures covering every repeatable process in your AI voice and audiobook service — client onboarding, delivery workflows, billing, and support. A buyer needs to run this without you.",
+            "estimatedHours": 12,
+            "tools": [
+              "Notion",
+              "Loom",
+              "Google Docs"
+            ],
+            "deliverable": "Complete SOP handbook with video walkthroughs",
+            "aiAssisted": true
+          },
+          {
+            "title": "Calculate business valuation",
+            "description": "Record the questions this step raises for your business, location, and circumstances. Confirm requirements and assumptions with current official sources and a qualified professional before acting.",
+            "estimatedHours": 6,
+            "tools": [
+              "Google Sheets",
+              "ChatGPT"
+            ],
+            "deliverable": "Valuation estimate with supporting financials",
+            "aiAssisted": true
+          },
+          {
+            "title": "Prepare data room",
+            "description": "Organize all financial records, contracts, customer data, IP documentation, and legal documents into a virtual data room that a buyer or their advisor can review.",
+            "estimatedHours": 10,
+            "tools": [
+              "Google Drive",
+              "Google Sheets"
+            ],
+            "deliverable": "Organized virtual data room"
+          },
+          {
+            "title": "Reduce owner dependency",
+            "description": "Identify every area where the business depends on you personally. Delegate, automate, or document each one. Test by taking 2 weeks off and measuring impact.",
+            "estimatedHours": 20,
+            "tools": [
+              "Notion",
+              "Zapier",
+              "Slack"
+            ],
+            "deliverable": "Owner dependency scorecard (before/after)"
+          },
+          {
+            "title": "List or approach acquirers",
+            "description": "Create a teaser document (blind profile) for your AI voice and audiobook service and either list on marketplaces (Acquire.com, Flippa, Quiet Light) or reach out directly to 5-10 potential acquirers.",
+            "estimatedHours": 8,
+            "tools": [
+              "Acquire.com",
+              "Google Docs",
+              "Email"
+            ],
+            "deliverable": "Teaser document + 5-10 buyer conversations started",
+            "aiAssisted": true
+          }
+        ]
+      }
+    ],
+    "resources": {
+      "whatItTakes": "You're essentially a production house for audio — but instead of a studio full of voice actors, you're curating, directing, and polishing AI-generated voices to sound like something a real client would actually pay for. The craft here isn't in recording; it's in prompt refinement, audio cleanup, pacing edits, and knowing which AI voice fits which project. Clients don't care how you made it — they care that it sounds professional and arrives on time. That means you need a good ear, patience for revision rounds, and the ability to manage expectations when a client says 'make it sound more human.' You'll also need to get comfortable talking about licensing clearly, because AI voice rights are genuinely murky and clients will ask.",
+      "whereTheyFail": "Most people undercharge out of the gate because they feel guilty charging real money for something 'the AI did.' That guilt is a trap. The AI didn't scope the project, choose the right voice, clean up the audio artifacts, manage three rounds of client feedback, or deliver a properly mastered file. You did. The other failure mode is chasing every niche at once — audiobooks, IVR, ads, podcasts — and building no reputation in any of them. Pick one or two to start. Clients in e-learning don't care that you also do phone trees.",
+      "theDip": "Weeks four through eight are the quietest and most discouraging stretch. You've got a profile up, maybe one or two small jobs done, and the inbox is mostly silent. The tools feel less exciting now that they're work. This is exactly when people decide the market is 'saturated' and quit — right before the repeat business and referrals that come from those first clients would have started showing up. The dip is real. It's also just the lag time between planting and harvest. Keep sending samples, keep refining your niche page, and do not lower your rates to zero to fill the gap.",
+      "routine": [
+        {
+          "what": "Chief of Staff check-in — review active projects, flag blockers, set the day's one priority",
+          "when": "Daily · 15 min"
+        },
+        {
+          "what": "Client delivery & revision queue — produce, edit, and send completed audio files",
+          "when": "Tue & Thu · 3–4 hrs"
+        },
+        {
+          "what": "Outreach batch — send 5–8 personalized pitches to e-learning companies, podcast producers, or ad agencies with a sample clip",
+          "when": "Mon & Wed · 1 hr"
+        },
+        {
+          "what": "Sample reel update & voice testing — experiment with new voices or styles and add one new sample to your portfolio",
+          "when": "Sat · 1 hr"
+        }
+      ],
+      "aiPrompts": [
+        {
+          "task": "Write a client intake questionnaire for a new voiceover project",
+          "prompt": "I run an AI voiceover and audiobook production service. Help me write a professional client intake questionnaire I can send to new clients before starting a project.\n\nInclude questions that cover:\n1. Project type (audiobook, podcast intro, ad read, IVR/phone system, explainer video, etc.)\n2. Estimated word count or script length\n3. Tone and style (e.g., warm, authoritative, energetic, conversational)\n4. Voice preference (gender, accent, age range)\n5. Target audience\n6. Deadline and turnaround expectations\n7. File format needed (MP3, WAV, etc.) and any technical specs\n8. Whether they have a finished script or need script help\n9. Budget range\n10. Any reference audio or competitor examples they like\n\nFormat it as a clean, professional form I can paste into a Google Form or email. Keep the language friendly and approachable — not corporate. Add a brief intro sentence explaining why each section matters."
+        },
+        {
+          "task": "Generate a sales email for cold outreach to podcast producers and authors",
+          "prompt": "I offer professional AI-assisted voiceover and audiobook production services. I want to cold email podcast producers and self-published authors to offer my services.\n\nWrite me 3 short cold email variants (under 120 words each) that:\n- Open with something specific to their world (not generic)\n- Clearly state what I do in one sentence\n- Name a specific pain point I solve (e.g., expensive studio time, slow turnaround, inconsistent narration quality)\n- Include a low-friction call to action (like a free sample or quick call)\n- Sound like a real human, not a marketing bot\n\nVariant 1: Target self-published authors converting their book to audio\nVariant 2: Target podcast producers needing intros, ad reads, or episode narration\nVariant 3: Target small businesses needing IVR/phone system audio or explainer video narration\n\nDo NOT use phrases like 'I hope this email finds you well' or 'game-changer.' Keep it honest and direct."
+        },
+        {
+          "task": "Create a pricing page and service menu for your AI voice business",
+          "prompt": "Help me build a clear, honest pricing menu for my AI voiceover and audiobook production service. I use tools like ElevenLabs and PlayHT to produce professional audio.\n\nCreate a tiered service menu with 3 tiers. For each tier include:\n- A short tier name (not cheesy — no 'Bronze/Silver/Gold')\n- What's included (specific deliverables)\n- Realistic turnaround time\n- Price range (I'll fill in exact numbers, just give me the structure)\n- Who it's best for\n\nAlso include:\n- A per-word or per-minute rate option for audiobook clients\n- A rush fee policy\n- A revision policy (how many rounds are included)\n- A note about file formats delivered\n\nFormat this so I can paste it directly into a Notion page, a simple website, or a PDF. Keep the language plain and specific. No vague promises about 'studio quality' unless I can actually deliver that."
+        },
+        {
+          "task": "Write a quality control checklist for reviewing AI-generated audio before delivery",
+          "prompt": "I produce AI voiceovers and audiobooks using ElevenLabs and PlayHT. Before I deliver any audio file to a client, I need a thorough quality control checklist to catch problems.\n\nWrite me a step-by-step QC checklist that covers:\n1. Listening for unnatural pauses, mispronunciations, or robotic artifacts\n2. Checking audio levels (loudness, peaks, noise floor — include target specs like -23 LUFS for broadcast or -16 LUFS for podcasts)\n3. Verifying the script was read accurately (no skipped or added words)\n4. Checking for background noise or encoding artifacts\n5. Confirming the correct voice, tone, and pacing match the client brief\n6. File format and naming convention check\n7. Metadata tagging if needed (for audiobooks especially)\n8. Final listen on headphones vs. speakers\n\nFormat it as a numbered checklist I can print or keep in Notion. Add a 'common AI voice artifact' tip next to any step where AI-generated audio is especially likely to fail."
+        }
+      ],
+      "commonMistakes": [
+        {
+          "mistake": "Using a voice clone or licensed voice for commercial work without verifying the license tier",
+          "why": "ElevenLabs and PlayHT both have tiered licenses — some voices are restricted to personal use only, and using them for paid client work violates the terms of service. If a client's project gets flagged or a voice actor whose likeness was used pursues a claim, you're exposed legally and could lose your account.",
+          "prevention": "Before starting any paid project, confirm the specific voice you're using is licensed for commercial use on your current plan. Read the platform's commercial use policy page, not just the marketing copy. Keep a screenshot of the license terms for each voice you use regularly."
+        },
+        {
+          "mistake": "Delivering audio without a revision policy in writing",
+          "why": "AI voice output can sound slightly different across generations — clients who didn't specify tone clearly will request endless tweaks.",
+          "prevention": "Put your revision policy in every proposal and invoice: '2 rounds of revisions included; additional rounds billed at $X per 15-minute audio segment.' Use a simple contract or even a clear email confirmation the client replies to."
+        },
+        {
+          "mistake": "Underpricing per-word audiobook rates without accounting for editing time",
+          "why": "But AI voice output requires careful listening, artifact removal, pacing corrections, and sometimes re-generation of entire paragraphs.",
+          "prevention": "Time yourself on a 1,000-word test project from script to final file before quoting any audiobook client. Build your rate from your real hourly cost, not from what you've seen others charge online."
+        },
+        {
+          "mistake": "Not getting the final script in writing before starting production",
+          "why": "Clients frequently send a 'final' script and then make edits after you've already generated the audio. Regenerating audio for script changes is real work — it's not just hitting a button. Without a clear 'script locked' step in your workflow, you'll redo work for free.",
+          "prevention": "Add a 'Script Approval' step to your intake process. Send the script back to the client for written sign-off (email is fine) before you start any audio generation. State clearly in your proposal that script changes after approval are billed as a new revision round."
+        },
+        {
+          "mistake": "Relying on a single AI voice platform with no backup",
+          "why": "ElevenLabs and PlayHT have both experienced outages, pricing changes, and API rate limits. If a client project is due and your primary tool is down, you have no fallback. Operators who built their entire workflow around one platform have missed deadlines and lost clients during platform incidents.",
+          "prevention": "Maintain an active account on at least two platforms (e.g., ElevenLabs + PlayHT or Murf). Test your backup platform quarterly so you know how to use it under pressure. Build a 24-hour buffer into all deadlines."
+        }
+      ],
+      "toolComparisons": [
+        {
+          "category": "AI Voice Generation",
+          "recommendation": "Use PlayHT as your backup and for clients who need specific accents ElevenLabs doesn't cover well.",
+          "options": [
+            {
+              "name": "ElevenLabs",
+              "bestFor": "Highest-quality natural voices; best for audiobooks, ad reads, and any project where the client will scrutinize the audio closely"
+            },
+            {
+              "name": "PlayHT",
+              "bestFor": "Large volume projects and podcast intros; good voice variety and reliable API for batch processing"
+            },
+            {
+              "name": "Murf AI",
+              "bestFor": "Clients who need IVR/phone system audio or corporate explainer videos with a more 'professional presenter' tone"
+            }
+          ]
+        },
+        {
+          "category": "Audio Editing & Post-Production",
+          "recommendation": "If you're doing more than 5 projects a week, Adobe Audition or Descript will save you significant time with noise reduction and transcript-based editing.",
+          "options": [
+            {
+              "name": "Audacity",
+              "bestFor": "Beginners doing light editing, noise removal, and file format conversion — zero learning curve for basic tasks"
+            },
+            {
+              "name": "Adobe Audition",
+              "bestFor": "Operators doing high-volume work who need fast noise reduction, multi-track editing, and professional loudness normalization"
+            },
+            {
+              "name": "Descript",
+              "bestFor": "Audiobook and podcast clients — lets you edit audio by editing the transcript, which is dramatically faster for catching mispronunciations and skipped words"
+            }
+          ]
+        },
+        {
+          "category": "Client & Project Management",
+          "recommendation": "Start with a free Notion workspace and Wave for invoicing. Upgrade to HoneyBook once you have 5+ active clients — it handles proposals, contracts, invoices, and payments in one place, which saves real administrative hours.",
+          "options": [
+            {
+              "name": "Wave",
+              "bestFor": "Solo operators who just need clean invoicing and basic income tracking without a monthly subscription"
+            },
+            {
+              "name": "HoneyBook",
+              "bestFor": "Operators with multiple active clients who want proposals, contracts, invoices, and client communication in one platform"
+            },
+            {
+              "name": "Notion",
+              "bestFor": "Project tracking, QC checklists, client notes, and storing your script approval records — pairs well with any invoicing tool"
+            }
+          ]
+        }
+      ],
+      "launchReadinessChecklist": {
+        "toolsAndSubscriptions": [
+          {
+            "item": "ElevenLabs or PlayHT",
+            "why": "Named directly in what's-included for the Single Project package — this is the core generation tool"
+          },
+          {
+            "item": "Audacity (free) or Descript",
+            "why": "The scaffold calls for basic audio cleanup and, for audiobooks, ACX-compliant mastering — you need real audio editing tools for both"
+          }
+        ]
+      },
+      "recommendedAiTeam": [
+        {
+          "personaId": "content-writer",
+          "why": "Chloe helps with script review and adapting written copy for spoken delivery",
+          "firstTask": "Review this script for anything that reads awkwardly when spoken aloud"
+        },
+        {
+          "personaId": "test-engineer",
+          "why": "Taylor helps verify noise-floor and loudness compliance checks before delivery, especially on audiobook projects",
+          "firstTask": "List the loudness/noise-floor checks to run before delivering this audiobook chapter"
+        }
+      ],
+      "productScaffold": {
+        "deliveryType": "service",
+        "service": {
+          "packages": [
+            {
+              "name": "Single Project",
+              "deliverables": [
+                "Script review + voice selection",
+                "Finished audio file (voiceover, ad read, or IVR prompt)",
+                "1 revision round"
+              ],
+              "timeline": "2-3 business days",
+              "whatsIncluded": [
+                "ElevenLabs/PlayHT generation",
+                "Basic audio cleanup in Audacity/Descript",
+                "Delivery in requested format (WAV/MP3)"
+              ]
+            },
+            {
+              "name": "Audiobook Production",
+              "deliverables": [
+                "Full-length narration",
+                "Chapter-split files",
+                "ACX/platform-compliant mastering"
+              ],
+              "timeline": "1-3 weeks depending on length",
+              "whatsIncluded": [
+                "Voice consistency pass across chapters",
+                "Noise floor + loudness compliance check"
+              ],
+              "whatsNotIncluded": [
+                "Manuscript editing/proofreading"
+              ]
+            }
+          ],
+          "onboardingChecklist": [
+            {
+              "step": "Receive script/manuscript and confirm word/character count",
+              "owner": "client"
+            },
+            {
+              "step": "Select or clone voice and get client sign-off on a sample",
+              "owner": "you"
+            },
+            {
+              "step": "Confirm delivery format and platform requirements (ACX, podcast host, etc.)",
+              "owner": "client"
+            },
+            {
+              "step": "Deliver first sample chapter/section for approval before full production",
+              "owner": "you"
+            }
+          ],
+          "kickoffCallAgenda": [
+            "Confirm script/manuscript is final before recording starts",
+            "Review voice options and get sign-off on the chosen voice",
+            "Set delivery format and any platform-specific technical requirements",
+            "Confirm timeline and revision process"
+          ]
+        }
+      },
+      "decisionTrees": [
+        {
+          "question": "What type of projects should I focus on first?",
+          "options": [
+            {
+              "choice": "Short-form: podcast intros, ad reads, IVR audio",
+              "pickIf": "You want fast turnaround, quick cash flow, and the ability to complete 2-3 projects per day while you're still learning your tools",
+              "nextStep": "Build a portfolio of 5 samples in different tones. Pitch podcast directories and Fiverr/Contra for initial volume."
+            },
+            {
+              "choice": "Long-form: audiobooks",
+              "pickIf": "",
+              "nextStep": "Time yourself on a 2,000-word test chapter first."
+            },
+            {
+              "choice": "Mixed: a blend of both",
+              "pickIf": "You want income stability (short-form keeps cash flowing) while building toward higher-value audiobook contracts",
+              "nextStep": "Cap audiobook projects at 1-2 per month while you build short-form volume. Raise audiobook rates as your portfolio grows."
+            }
+          ]
+        },
+        {
+          "question": "Should I list on Fiverr/Upwork or build my own client pipeline?",
+          "options": [
+            {
+              "choice": "Fiverr or Upwork only",
+              "pickIf": "You have zero existing network and need your first client within 2 weeks.",
+              "nextStep": "Create a Fiverr Pro profile with 3 specific gig offerings. Price slightly above the cheapest options to avoid race-to-the-bottom clients. Collect 5 reviews, then start building direct channels."
+            },
+            {
+              "choice": "Direct outreach only",
+              "pickIf": "You have an existing network in publishing, podcasting, or marketing, or you're willing to spend 3-4 weeks on cold outreach before seeing revenue",
+              "nextStep": "Build a one-page website or Notion portfolio. Send 10 personalized cold emails per week to podcast producers, indie authors, and marketing agencies. Offer a free 60-second sample to lower the barrier."
+            },
+            {
+              "choice": "Both simultaneously",
+              "pickIf": "You want to use platforms for immediate cash flow while building your direct pipeline for better margins long-term",
+              "nextStep": "Treat platform income as your floor, not your ceiling. Transition repeat platform clients to direct billing after 2-3 projects."
+            }
+          ]
+        },
+        {
+          "question": "When should I raise my rates?",
+          "options": [
+            {
+              "choice": "Raise rates now",
+              "pickIf": "You have 5+ completed projects, at least 3 positive client reviews, and you're turning down or delaying projects due to capacity",
+              "nextStep": "Grandfather existing repeat clients at current rates for 60 days, then notify them of a rate adjustment."
+            },
+            {
+              "choice": "Hold rates and build volume first",
+              "pickIf": "You have fewer than 3 completed projects or your portfolio doesn't yet demonstrate the quality that justifies higher pricing",
+              "nextStep": "Complete 5 more projects at current rates, actively seek feedback, and improve your QC process. Revisit pricing in 45 days."
+            },
+            {
+              "choice": "Raise rates for new project types only",
+              "pickIf": "You've added a new capability (e.g., you now offer audiobooks with chapter markers and metadata, or you've added a rush delivery option) that justifies a premium",
+              "nextStep": "Create a new service tier at the higher rate. Keep your base offerings at current pricing so existing clients aren't disrupted."
+            }
+          ]
+        }
+      ],
+      "validationSources": [
+        {
+          "name": "Fiverr Market Explorer",
+          "url": "https://www.fiverr.com/search/gigs?query=ai+voiceover"
+        },
+        {
+          "name": "ACX (Audiobook Creation Exchange)",
+          "url": "https://www.acx.com/auditions"
+        },
+        {
+          "name": "Google Trends",
+          "url": "https://trends.google.com/trends/explore?q=ai+voiceover+service,audiobook+production+service"
+        }
+      ]
+    },
+    "personalityTags": [
+      "creative",
+      "independent"
+    ],
+    "timeToStart": "1 week"
+  }
+]
