@@ -13,6 +13,8 @@ test('all source templates provide readable local guides, editable starters and 
     assert.doesNotMatch(page,/\[object Object\]|href="https:\/\/go\.waymaker\.cx/);
     const start=decisionPage('/start/'+t.id,new URLSearchParams());
     assert.match(start,/aisidehustle-workspace-v1/);
+    assert.match(start,/noindex, follow/);
+    assert.doesNotMatch(start,/src="\/studio-assets\/studio.js"/);
     tasks+=t.phases.reduce((n,p)=>n+p.tasks.length,0);
     scenarios+=(t.resources.decisionTrees||[]).length;
   }
