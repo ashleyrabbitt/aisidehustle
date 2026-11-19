@@ -7,7 +7,7 @@ import { render } from './pages.mjs';
 
 export const guidePaths = [...guideMeta,...magazineMeta].map(([path])=>path);
 const pagePaths = new Set(['/',...guidePaths,...decisionPaths]);
-const files = new Set(['hero.webp','studio.webp','games.webp','testing.webp','editorial.css','earnings.js','brand.svg','florist.webp','pet.webp','market.webp','dm-sans.ttf','font-license.txt','studio.js','studio.css','florist-quote-brief.csv','pet-visit-handoff.csv','market-restock.csv','offer-test-log.csv',
+const files = new Set(['plan-sync.js','vendor/supabase-2.119.1.js','vendor/Supabase-LICENSE.txt','hero.webp','studio.webp','games.webp','testing.webp','editorial.css','earnings.js','brand.svg','florist.webp','pet.webp','market.webp','dm-sans.ttf','font-license.txt','studio.js','studio.css','florist-quote-brief.csv','pet-visit-handoff.csv','market-restock.csv','offer-test-log.csv',
   'skills/finder.css','skills/finder.js','skills/files/client-scope.zip','skills/files/sample-delivery.zip','skills/files/niche-product-brief.zip']);
 const types = {'.zip':'application/zip','.webp':'image/webp','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.ttf':'font/ttf','.txt':'text/plain; charset=utf-8','.csv':'text/csv; charset=utf-8'};
 export function serveStudio(req,res,next){
