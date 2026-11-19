@@ -67,12 +67,21 @@ export const workflows = [
       {role:'Coordinator', tool:'Muse or a spreadsheet bot', title:'Prepare the next market review', input:'The market date and an empty experiment log.', output:'A draft follow-up and a reminder you choose whether to use.', prompt:'Prepare a private post-market review for Sunday. Ask what sold out, what came home, and whether the sheet changed a packing decision. Leave the message as a draft for me to review.'},
     ],
   },
+  {
+    id:'bakery', name:'Plan a bakery pickup',
+    steps:[
+      {role:'Researcher',tool:'ChatGPT',title:'Separate confirmed orders from questions',input:'Fictional notes: 12 country loaves confirmed, 7 more confirmed, and an inquiry about 4.',output:'19 confirmed loaves. Keep the 4-loaf inquiry in a separate follow-up list.',prompt:'Group these anonymized notes by pickup and bread variety. Count confirmed quantities only. Return one line per order with its note ID, then a separate list of unclear orders. Show the sum.'},
+      {role:'Maker',tool:'Claude',title:'Translate the count into whole batches',input:'19 confirmed loaves, 2 ready for this pickup and a yield of 6 per batch.',output:'17 loaves needed. Round up to 3 batches. After pickup, 1 loaf remains.',prompt:'Design one spreadsheet row for confirmed loaves, ready stock and batch yield. Give formulas for whole batches and remaining stock. Treat an empty input as unknown and flag a zero batch size. Check the example by hand.'},
+      {role:'Reviewer',tool:'You',title:'Test the last-minute change',input:'A client cancels 4 of the 19 loaves. Ready stock and yield stay the same.',output:'15 confirmed, 13 needed, 3 batches and 5 extra. The baker verifies the decision.',prompt:'Reconcile the confirmed total against the source notes. Then check no orders, enough ready stock, a missing yield and a cancellation. Note the expected result before opening the sheet.'},
+      {role:'Coordinator',tool:'Muse or a reminder bot',title:'Collect feedback after the pickup',input:'An agreed review time and the test sheet, with customer details removed.',output:'A private reminder to compare planned and actual counts after pickup.',prompt:'Draft a reminder for my agreed review time. Ask how many loaves were collected, what had to be recalculated, and whether the baker would use the file next week. Show me the draft and time before scheduling.'}
+    ]
+  },
 ];
 
 export const guideMeta = [
   [routes.skills,'AI skills for a first client project','Download reusable skills to scope client work, deliver a sample and plan a niche product with a worked example.'],
   [routes.find,'Find a pocket opportunity','Identify one recurring task, find real buyer evidence and write a one-page product brief.'],
   [routes.build,'Make a digital product','Build a useful first edition with a blank template, a worked example and a buyer test.'],
-  [routes.agents,'Put an AI work crew to work','Watch two agent workflows and copy the instructions for ChatGPT, Claude, Muse and a reminder bot.'],
+  [routes.agents,'Put an AI work crew to work','Watch practical agent workflows and copy the instructions for ChatGPT, Claude, Muse and a reminder bot.'],
   [routes.sell,'Test an offer with real buyers','Choose a distribution channel, write a sample offer and measure sales, costs and delivery time.'],
 ];

@@ -1,5 +1,6 @@
 import { articles, reviews } from './stories.mjs';
 export const magazineMeta = [
+  ['/field-guide/pocket-product-workshop','Build a pocket product from one repeated task','Try a bakery preorder calculator and download a working product and offline worksheet.'],
   ['/guides','Side hustle guides','Practical guides to earning with AI.'],
   ['/program-reviews','Side hustle program reviews','Read the evidence behind creator programs.'],
   ...articles.map(s=>['/guides/'+s.slug,s.title,s.description]),
