@@ -85,10 +85,16 @@ export const articles = [
         "YouTube reviews originality across a channel. Mass-produced videos with little variation and compilations with minimal original contribution can be ineligible for monetization. Its disclosure rules also cover realistic synthetic depictions and meaningful AI alterations. Check the upload guidance for your footage."),
       section("Decide what a successful view does",
         "For a tutorial channel, success might be finishing the demonstration, downloading the worksheet or requesting help. Give viewers one relevant next step. Publish three videos answering different questions from the same audience. Compare how often viewers reach the result and how many take that next step. Read requests for follow-ups before scripting the fourth."),
+      section("Quote three product explainers for one shop",
+        "For a ceramics seller, propose three 15-second vertical videos from one approved mug photo. Show the morning pour, the handle and glaze, then the mug as a gift. Include one shared look, captions, one closing line, one consolidated revision and three MP4 exports. Ask the shop to approve the product reference, script and usage before you render.",
+        "Illustrative quote: $300 for the batch. Budget four hands-on hours at $50 an hour and $30 for rendering, including retries. The planned $230 cost leaves $70 before overhead, fees and tax. If corrections add two hours, the same job costs $330 and loses $30. Quote new formats, new concepts or a different presenter separately."),
+      section("Deliver the edit that wins the next batch",
+        "Give the buyer a numbered preview of each angle. Ask for one set of comments, then change only the detail clip’s closing line from “Take a closer look” to “Explore the mug.” Check the face or hands, mug shape, glaze, caption timing and audio against the approved version. Play all three final files on a phone.",
+        "Deliver the MP4s, captions, approved scripts and a one-page change log. Record actual hours and cash costs. If the buyer wants a second batch, ask which product is next and send a new quote. A paid reorder tells you more about demand than views."),
       section("Give ad revenue time",
         "YouTube’s full ad-revenue route includes a review and thresholds for subscribers plus qualified watch hours or Shorts views. Before eligibility, a small channel can test demand for its own paid workshop or relevant service. Keep those sales separate from platform ad income. Use your first month to learn which tutorials people finish and whether a buyer appears.")
     ],
-    sources: [youtubeRules, youtubeEntry, youtubeDisclosure]
+    sources: [youtubeRules, youtubeEntry, youtubeDisclosure, link("Free AI presenter comparison scorecard", "https://aisuperpower.cc/comparisons/ai-presenter-video-scorecard")]
   },
   {
     slug: "sell-a-content-package",
