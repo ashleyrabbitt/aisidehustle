@@ -7,7 +7,7 @@ export function serveSite(req,res){
     res.writeHead(200,{'Content-Type':'text/plain; charset=utf-8'});
     return res.end(req.method==='HEAD'?undefined:'ok');
   }
-  if(req.method!=='GET' && req.method!=='HEAD'){
+  if(req.method!=='GET' && req.method!=='HEAD' && !(req.method==='POST' && path==='/free-material')){
     res.writeHead(405,{Allow:'GET, HEAD'});
     return res.end();
   }
