@@ -23,10 +23,16 @@ test('the guide and every local download work with only Node installed', async t
     for(const [,url] of html.matchAll(/(?:src|href)="(\/studio-assets\/[^"]+)"/g))assets.add(url);
   }
   for(const url of assets){
+    if (/\\.(csv|xlsx|zip)$/.test(url) || url.endsWith('/pocket-product-worksheet.html') || url.endsWith('/lovable-client-library-brief.txt')) {
+      const gate=await fetch(origin+url,{redirect:'manual'});
+      assert.equal(gate.status,303,url);
+      assert.equal(new URL(gate.headers.get('location'),origin).searchParams.get('file'),url);
+      assert.match(await (await fetch(new URL(gate.headers.get('location'),origin))).text(),/name="email"/);
+      continue;
+    }
     const response=await fetch(origin+url);
     assert.equal(response.status,200,url);
     assert.ok((await response.arrayBuffer()).byteLength>0,url);
-    if(url.endsWith('.csv'))assert.match(response.headers.get('Content-Disposition'),/attachment/);
   }
   const moved=await fetch(origin+guidePaths[1]+'/?example=market',{redirect:'manual'});
   assert.equal(moved.status,308);
